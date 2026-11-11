@@ -628,6 +628,30 @@
       display: block;
       border-radius: 50%;
     }
+
+    .bao-face[data-engine="video"] .bao-head { animation: none !important; }
+    .bao-video {
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      overflow: hidden;
+      background: #e8dfd2;
+    }
+    .bao-vid {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0;
+      transition: opacity 200ms linear;
+      pointer-events: none;
+    }
+    .bao-vid.on { opacity: 1; }
+    .bao-video-fallback { display: none; width: 100%; height: 100%; border-radius: 50%; }
+    .bao-face[data-engine="video"].vid-failed .bao-video { display: none; }
+    .bao-face[data-engine="video"].vid-failed .bao-video-fallback { display: block; }
+
     .char-face {
       display: block;
       width: 58px;
@@ -4857,6 +4881,243 @@ if (_pickerHTML) {
     return html;
   };
 }
+
+/* ===== 10-video.js ===== */
+
+/* ===== 10-video.js : muted looping teacher videos for Thầy Bao & Cô Bao ===== */
+const VIDEO_SRC = {
+  "real-m-01": {
+    idle: "video/thay-bao/mobile/idle.mp4",
+    talking: "video/thay-bao/mobile/talking.mp4",
+    meltdown: "video/thay-bao/mobile/meltdown.mp4"
+  },
+  "real-f-01": {
+    idle: "video/co-bao/mobile/idle.mp4",
+    talking: "video/co-bao/mobile/talking.mp4",
+    meltdown: "video/co-bao/mobile/meltdown.mp4"
+  }
+};
+VIDEO_SRC.thay_bao = VIDEO_SRC["real-m-01"];
+VIDEO_SRC.co_bao = VIDEO_SRC["real-f-01"];
+
+function videoPack(teacher) {
+  if (!teacher) return null;
+  return VIDEO_SRC[teacher.id] || VIDEO_SRC[(typeof PHOTO_ID !== "undefined" && PHOTO_ID[teacher.id]) || ""] || null;
+}
+
+function usesVideo(teacher) {
+  return !!(videoPack(teacher) && !(typeof usesStick === "function" && usesStick(teacher)));
+}
+
+function primeVideoEl(v) {
+  if (!v) return;
+  v.muted = true;
+  v.defaultMuted = true;
+  v.volume = 0;
+  v.playsInline = true;
+  v.setAttribute("muted", "");
+  v.setAttribute("playsinline", "");
+  v.setAttribute("webkit-playsinline", "");
+  v.setAttribute("autoplay", "");
+}
+
+function playSafe(v) {
+  if (!v) return;
+  try {
+    const p = v.play();
+    if (p && p.catch) p.catch(function () {});
+  } catch (e) {}
+}
+
+function VideoEngine(el, teacher) {
+  this.el = el;
+  this.teacher = teacher;
+  this.pack = videoPack(teacher);
+  this.idle = el.querySelector(".vid-idle");
+  this.fx = el.querySelector(".vid-fx");
+  this.mode = "idle";
+  this.failed = false;
+  this._streak = 0;
+  this._needMelt = false;
+  this._fadeTimer = 0;
+  this._setup();
+}
+
+VideoEngine.prototype._setup = function () {
+  const self = this;
+  if (!this.pack || !this.idle || !this.fx) { this.fallback(); return; }
+  primeVideoEl(this.idle);
+  primeVideoEl(this.fx);
+  this.idle.loop = true;
+  this.idle.preload = "auto";
+  this.idle.src = this.pack.idle;
+  this.idle.classList.add("on");
+  this.idle.addEventListener("error", function () { self.fallback(); });
+  this.fx.addEventListener("error", function () {
+    if (self.mode !== "idle") self.fallback();
+  });
+  this.idle.addEventListener("loadeddata", function () { playSafe(self.idle); });
+  playSafe(this.idle);
+  // warm talking + meltdown
+  ["talking", "meltdown"].forEach(function (k) {
+    const w = document.createElement("video");
+    primeVideoEl(w);
+    w.preload = "auto";
+    w.src = self.pack[k];
+  });
+};
+
+VideoEngine.prototype.fallback = function () {
+  if (this.failed) return;
+  this.failed = true;
+  this.el.classList.add("vid-failed");
+  const cv = this.el.querySelector("canvas.bao-video-fallback");
+  if (cv && typeof PhotoEngine === "function") {
+    cv.removeAttribute("hidden");
+    cv.classList.add("bao-engine");
+    cv._engine = new PhotoEngine(cv, this.teacher);
+  }
+  try { this.idle && this.idle.pause(); } catch (e) {}
+  try { this.fx && this.fx.pause(); } catch (e) {}
+};
+
+VideoEngine.prototype.talkingNow = function () {
+  if (typeof SHOT !== "undefined" && SHOT === "talking") return true;
+  if (typeof FACE_DRIVE !== "undefined" && FACE_DRIVE.talking) return true;
+  if (typeof TALK !== "undefined" && TALK.on) return true;
+  return false;
+};
+
+VideoEngine.prototype.pollMelt = function () {
+  const streak = (typeof S !== "undefined" && S.missStreak) || 0;
+  const anim = this.el.getAttribute("data-anim") || (typeof S !== "undefined" && S.anim) || "";
+  if (streak !== this._streak) {
+    // A new miss at L3+ should play meltdown once.
+    if (streak >= 3) this._needMelt = true;
+    this._streak = streak;
+  }
+  return this._needMelt && this.mode !== "melt";
+};
+
+VideoEngine.prototype.showFx = function (src, loop, onended) {
+  const fx = this.fx;
+  if (fx.getAttribute("data-src") !== src) {
+    fx.setAttribute("data-src", src);
+    fx.src = src;
+  }
+  fx.loop = !!loop;
+  fx.onended = onended || null;
+  try { fx.currentTime = 0; } catch (e) {}
+  playSafe(fx);
+  fx.classList.add("on");
+};
+
+VideoEngine.prototype.hideFx = function () {
+  const fx = this.fx;
+  fx.classList.remove("on");
+  const self = this;
+  clearTimeout(this._fadeTimer);
+  this._fadeTimer = setTimeout(function () {
+    if (!fx.classList.contains("on")) {
+      try { fx.pause(); } catch (e) {}
+    }
+  }, 220);
+};
+
+VideoEngine.prototype.tick = function (dt) {
+  if (this.failed) {
+    const cv = this.el.querySelector("canvas.bao-video-fallback");
+    if (cv && cv._engine && cv._engine.tick) cv._engine.tick(dt || 0.016);
+    return;
+  }
+  playSafe(this.idle);
+  const talking = this.talkingNow();
+  this.pollMelt();
+
+  if (this.mode === "melt") return;
+
+  if (this._needMelt) {
+    this._needMelt = false;
+    this.mode = "melt";
+    const self = this;
+    this.showFx(this.pack.meltdown, false, function () {
+      self.mode = "idle";
+      self.hideFx();
+      playSafe(self.idle);
+    });
+    return;
+  }
+
+  if (talking && this.mode !== "talking") {
+    this.mode = "talking";
+    this.showFx(this.pack.talking, true);
+    return;
+  }
+
+  if (!talking && this.mode === "talking") {
+    this.mode = "idle";
+    this.hideFx();
+    playSafe(this.idle);
+  }
+};
+
+const _origFaceHTML = (typeof faceHTML === "function") ? faceHTML : function () { return ""; };
+faceHTML = function (teacher, opts) {
+  opts = opts || {};
+  if (!usesVideo(teacher)) return _origFaceHTML(teacher, opts);
+  const pack = videoPack(teacher);
+  const size = opts.size || "sm";
+  const mood = opts.mood || "";
+  const anim = opts.anim || "";
+  const selected = opts.selected !== false;
+  const thumbs = (typeof S !== "undefined" && S.correct && (mood === "calm" || !mood)) ? "1" : "0";
+  return (
+    '<div class="bao-face ' + size + (mood ? " " + mood : "") + (anim ? " " + anim : "") + (selected ? " selected" : " dimmed") + '"' +
+      ' data-teacher="' + (teacher.id || "") + '"' +
+      ' data-gender="' + (teacher.gender || "") + '"' +
+      ' data-mood="' + mood + '"' +
+      ' data-anim="' + anim + '"' +
+      ' data-engine="video"' +
+      ' data-thumbs="' + thumbs + '"' +
+      ' aria-hidden="true">' +
+      '<div class="bao-head">' +
+        '<div class="bao-video">' +
+          '<video class="bao-vid vid-idle" muted playsinline webkit-playsinline preload="auto" loop></video>' +
+          '<video class="bao-vid vid-fx" muted playsinline webkit-playsinline preload="auto"></video>' +
+        "</div>" +
+        '<canvas class="bao-video-fallback" hidden></canvas>' +
+      "</div>" +
+    "</div>"
+  );
+};
+
+const _origBind = (typeof bindFaceEngines === "function") ? bindFaceEngines : function () {};
+bindFaceEngines = function () {
+  _origBind();
+  document.querySelectorAll(".bao-face[data-engine=video]").forEach(function (el) {
+    if (el._videoEngine) return;
+    const id = el.getAttribute("data-teacher") || "";
+    const teacher = (typeof ROSTER_BY_ID !== "undefined" && ROSTER_BY_ID[id]) ||
+      (typeof currentTeacher === "function" && currentTeacher());
+    if (!teacher) return;
+    el._videoEngine = new VideoEngine(el, teacher);
+  });
+};
+
+function videoLoop(ts) {
+  document.querySelectorAll(".bao-face[data-engine=video]").forEach(function (el) {
+    if (el._videoEngine && el._videoEngine.tick) el._videoEngine.tick(0.016);
+  });
+  requestAnimationFrame(videoLoop);
+}
+requestAnimationFrame(videoLoop);
+
+document.addEventListener("pointerdown", function () {
+  document.querySelectorAll(".bao-face[data-engine=video] video").forEach(function (v) {
+    primeVideoEl(v);
+    playSafe(v);
+  });
+}, { passive: true });
 
 /* ===== 03-app.js ===== */
 
