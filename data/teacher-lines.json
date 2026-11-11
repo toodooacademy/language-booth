@@ -1574,279 +1574,279 @@
     "correct": [
       {
         "id": "ok-01",
-        "text": "Eh. Okay. Good. Next one.",
+        "text": "Eh... okay. Good. Alright, what about this next one?",
         "kind": "fixed"
       },
       {
         "id": "ok-02",
-        "text": "Fine. Correct. Moving on.",
+        "text": "Fine. That's correct... so, we move on.",
         "kind": "fixed"
       },
       {
         "id": "ok-03",
-        "text": "Hm. Acceptable. Next.",
+        "text": "Hm. Acceptable. Okay... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-04",
-        "text": "Yes. That's it. Next.",
+        "text": "Yep, that's it. Alright... next one.",
         "kind": "fixed"
       },
       {
         "id": "ok-05",
-        "text": "Correct. All right. Next one.",
+        "text": "Correct. Alright, alright... next one, then.",
         "kind": "fixed"
       },
       {
         "id": "ok-06",
-        "text": "Okay. Good. We continue.",
+        "text": "Okay. Good. So... we keep going.",
         "kind": "fixed"
       },
       {
         "id": "ok-07",
-        "text": "Right. Unimpressed, but correct. Next.",
+        "text": "Right. I'm not impressed... but it's correct. Next.",
         "kind": "fixed"
       },
       {
         "id": "ok-08",
-        "text": "Mm. Fine. Next.",
+        "text": "Mm. Fine. Okay... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-09",
-        "text": "That will do. Next.",
+        "text": "Yeah, that'll do. Next one.",
         "kind": "fixed"
       },
       {
         "id": "ok-10",
-        "text": "Yes. Next card.",
+        "text": "Yes. Okay... next card, please.",
         "kind": "fixed"
       },
       {
         "id": "ok-11",
-        "text": "Correct. We can go on.",
+        "text": "Correct. So... we can go on.",
         "kind": "fixed"
       },
       {
         "id": "ok-12",
-        "text": "All right. That's the one. Next.",
+        "text": "Alright, that's the one. Okay... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-13",
-        "text": "Good. No parade. Next.",
+        "text": "Good. There's no parade, sorry. Next.",
         "kind": "fixed"
       },
       {
         "id": "ok-14",
-        "text": "Okay. Noted. Next one.",
+        "text": "Okay... noted. Alright, next one.",
         "kind": "fixed"
       },
       {
         "id": "ok-15",
-        "text": "Yes. Keep going.",
+        "text": "Yes. Just... keep going.",
         "kind": "fixed"
       },
       {
         "id": "ok-16",
-        "text": "Fine. That's right. Next.",
+        "text": "Fine, that's right. Okay, next.",
         "kind": "fixed"
       },
       {
         "id": "ok-17",
-        "text": "Hm. Yes. Moving on.",
+        "text": "Hm. Yes. Alright... moving on.",
         "kind": "fixed"
       },
       {
         "id": "ok-18",
-        "text": "Correct. Let's not make a thing of it.",
+        "text": "Correct. Let's just... not make a thing of it.",
         "kind": "fixed"
       },
       {
         "id": "ok-19",
-        "text": "Acceptable. Next, please.",
+        "text": "Acceptable. Okay... next, please.",
         "kind": "fixed"
       },
       {
         "id": "ok-20",
-        "text": "Right then. Next.",
+        "text": "Right then... next one.",
         "kind": "fixed"
       },
       {
         "id": "ok-21",
-        "text": "Okay. That checks out. Next.",
+        "text": "Okay, that checks out. So... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-22",
-        "text": "Yes. Onward.",
+        "text": "Yes. Onward, I guess... onward.",
         "kind": "fixed"
       },
       {
         "id": "ok-23",
-        "text": "Fine by me. Next one.",
+        "text": "Fine by me. Okay... how about this next one?",
         "kind": "fixed"
       },
       {
         "id": "ok-24",
-        "text": "Correct. Close the topic. Open the next.",
+        "text": "Correct. Close that topic... and, open the next.",
         "kind": "fixed"
       },
       {
         "id": "ok-25",
-        "text": "Mm-hm. Next.",
+        "text": "Mm-hm. Okay... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-26",
-        "text": "That was the one. We continue.",
+        "text": "That's the one. So... we keep going.",
         "kind": "fixed"
       },
       {
         "id": "ok-27",
-        "text": "Good enough for the record. Next.",
+        "text": "Good enough for the record. Alright, next.",
         "kind": "fixed"
       },
       {
         "id": "ok-28",
-        "text": "Yes. I will allow it. Next.",
+        "text": "Yes. I'll allow it... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-29",
-        "text": "Okay. No notes. Next.",
+        "text": "Okay. No notes, honestly. Next.",
         "kind": "fixed"
       },
       {
         "id": "ok-30",
-        "text": "Right. Next word.",
+        "text": "Right. Okay... next word.",
         "kind": "fixed"
       },
       {
         "id": "ok-31",
-        "text": "Correct. Thank you. Next.",
+        "text": "Correct. Thank you... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-32",
-        "text": "Eh. Yes. Next card.",
+        "text": "Eh. Yeah. Next card.",
         "kind": "fixed"
       },
       {
         "id": "ok-33",
-        "text": "Fine. We got it. Next.",
+        "text": "Fine, we got it. Alright... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-34",
-        "text": "That's right. Keep moving.",
+        "text": "That's right. Keep moving... keep moving.",
         "kind": "fixed"
       },
       {
         "id": "ok-35",
-        "text": "Okay. Locked in. Next.",
+        "text": "Okay, locked in. Next one.",
         "kind": "fixed"
       },
       {
         "id": "ok-36",
-        "text": "Yes. Unspectacular, which I like. Next.",
+        "text": "Yes. Very unspectacular... which I like. Next.",
         "kind": "fixed"
       },
       {
         "id": "ok-37",
-        "text": "Correct. We'll take it. Next.",
+        "text": "Correct. We'll take it. So... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-38",
-        "text": "Hm. That's the answer. Next one.",
+        "text": "Hm. That's the answer. Okay, next one.",
         "kind": "fixed"
       },
       {
         "id": "ok-39",
-        "text": "All right. Next, without a speech.",
+        "text": "Alright. Next... and no speech this time.",
         "kind": "fixed"
       },
       {
         "id": "ok-40",
-        "text": "Yes. Done. Next.",
+        "text": "Yes. Done. Okay... next.",
         "kind": "fixed"
       },
       {
         "id": "ok-41",
-        "text": "Fine. Accurate. Next.",
+        "text": "Fine. Accurate. Alright, next.",
         "kind": "fixed"
       },
       {
         "id": "ok-42",
-        "text": "Okay. That's settled. Next.",
+        "text": "Okay. That's settled, then. Next.",
         "kind": "fixed"
       }
     ],
     "reset": [
       {
         "id": "rs-01",
-        "text": "See? Was that so hard?",
+        "text": "See? Was that... so hard?",
         "kind": "fixed"
       },
       {
         "id": "rs-02",
-        "text": "There it is. We got there.",
+        "text": "There it is. Okay... we got there.",
         "kind": "fixed"
       },
       {
         "id": "rs-03",
-        "text": "Good. The storm has passed. Next.",
+        "text": "Good. The storm has passed... okay. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-04",
-        "text": "Correct. I will pretend that was always the plan.",
+        "text": "Correct. And I'll pretend that was always the plan.",
         "kind": "fixed"
       },
       {
         "id": "rs-05",
-        "text": "Yes. Thank you. We can all sit down now. Next.",
+        "text": "Yes. Thank you. We can all sit down now... okay, next.",
         "kind": "fixed"
       },
       {
         "id": "rs-06",
-        "text": "There. The streak of misses has left the building.",
+        "text": "There. The streak of misses... has left the building.",
         "kind": "fixed"
       },
       {
         "id": "rs-07",
-        "text": "Good. I will put the imaginary suitcase away.",
+        "text": "Good. I'll put the imaginary suitcase away now.",
         "kind": "fixed"
       },
       {
         "id": "rs-08",
-        "text": "Yes. That's more like it. Next.",
+        "text": "Yes... that's more like it. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-09",
-        "text": "Correct. The weather has improved. Next one.",
+        "text": "Correct. Oh, the weather's improved. Next one.",
         "kind": "fixed"
       },
       {
         "id": "rs-10",
-        "text": "See? The word was waiting for you the whole time.",
+        "text": "See? The word was waiting for you... the whole time.",
         "kind": "fixed"
       },
       {
         "id": "rs-11",
-        "text": "All right. Meltdown canceled. Next.",
+        "text": "Alright. Meltdown... canceled. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-12",
-        "text": "Good. I have climbed off the imaginary floor.",
+        "text": "Good. I've climbed off the imaginary floor. Hi.",
         "kind": "fixed"
       },
       {
         "id": "rs-13",
-        "text": "Yes. We found the exit. Next card.",
+        "text": "Yes. We found the exit... next card.",
         "kind": "fixed"
       },
       {
@@ -1856,74 +1856,156 @@
       },
       {
         "id": "rs-15",
-        "text": "Correct. Let's not visit that streak again. Next.",
+        "text": "Correct. Let's not visit that streak again, okay? Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-16",
-        "text": "Okay. The pigeon can go home. Next.",
+        "text": "Okay... the pigeon can go home now. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-17",
-        "text": "Yes. That's the one I was so loudly not panicking about.",
+        "text": "Yes. That's the one I was so... loudly... not panicking about.",
         "kind": "fixed"
       },
       {
         "id": "rs-18",
-        "text": "Good. I have stopped monologuing. Next.",
+        "text": "Good. I've stopped monologuing. Mostly. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-19",
-        "text": "See? Simple, eventually. Next one.",
+        "text": "See? Simple... eventually. Next one.",
         "kind": "fixed"
       },
       {
         "id": "rs-20",
-        "text": "Correct. The houseplant has stopped judging us. Next.",
+        "text": "Correct. The houseplant's stopped judging us. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-21",
-        "text": "There. Drama over. Lesson intact. Next.",
+        "text": "There. Drama's over... the lesson's intact. Next.",
         "kind": "fixed"
       },
       {
         "id": "rs-22",
-        "text": "Yes. Welcome back to the easy part. Next.",
+        "text": "Yes. Welcome back to the easy part... next.",
         "kind": "fixed"
       }
     ],
     "start": [
       {
         "id": "st-01",
-        "text": "All right. Let's begin.",
+        "text": "Alright... so. Let's begin. I've stretched. Emotionally.",
         "kind": "fixed"
       },
       {
         "id": "st-02",
-        "text": "Okay. We can start.",
+        "text": "Okay. We can start now... I've had my tea, so, you know. We're safe.",
         "kind": "fixed"
       },
       {
         "id": "st-03",
-        "text": "Here we are. Let's go.",
+        "text": "Here we are... alright. Let's go. Try to keep up with me, hm?",
         "kind": "fixed"
       },
       {
         "id": "st-04",
-        "text": "Whenever you're ready. First one.",
+        "text": "Whenever you're ready... no rush. Okay, first one.",
         "kind": "fixed"
       },
       {
         "id": "st-05",
-        "text": "All right. First card.",
+        "text": "Alright, so... first card. Don't look at me like that, it's just a card.",
         "kind": "fixed"
       },
       {
         "id": "st-06",
-        "text": "Okay. We begin.",
+        "text": "Okay... we begin. Deep breath. Mostly for me.",
+        "kind": "fixed"
+      }
+    ],
+    "next": [
+      {
+        "id": "nx-01",
+        "text": "Okay... what about this next one? How do you say it?",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-02",
+        "text": "Alright, so... this one. Go on, say it.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-03",
+        "text": "Next one... don't overthink it. I'm overthinking it for both of us.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-04",
+        "text": "Okay. New card. Fresh start... how do you say it?",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-05",
+        "text": "Hm, this one. You know this one... probably.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-06",
+        "text": "Alright... and this one? Take your time. Not too much time.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-07",
+        "text": "So... what do we call this? Go ahead.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-08",
+        "text": "Okay, next. I'm sipping my tea, you're answering. Teamwork.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-09",
+        "text": "This one's friendly... mostly. How do you say it?",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-10",
+        "text": "Alright... next card. Look at it. Really look at it.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-11",
+        "text": "Okay, so... how would you say this one?",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-12",
+        "text": "Another one... I love this for us. Go.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-13",
+        "text": "Hm... this next one. Calmly. We're calm people.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-14",
+        "text": "Okay... your turn again. Surprise.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-15",
+        "text": "Next one, then. Say it like you mean it.",
+        "kind": "fixed"
+      },
+      {
+        "id": "nx-16",
+        "text": "Alright... what about this? No pressure. Some pressure.",
         "kind": "fixed"
       }
     ]
@@ -2274,42 +2356,42 @@
     "correct": [
       {
         "id": "tc-01",
-        "text": "Fine. {word}. Next.",
+        "text": "Fine... {word}. Next.",
         "kind": "template"
       },
       {
         "id": "tc-02",
-        "text": "Yes. {word}. Next one.",
+        "text": "Yep, {word}. Okay, next one.",
         "kind": "template"
       },
       {
         "id": "tc-03",
-        "text": "That's {word}. Good. Next.",
+        "text": "That's {word}. Good... next.",
         "kind": "template"
       },
       {
         "id": "tc-04",
-        "text": "Okay. {word}. We continue.",
+        "text": "Okay... {word}. We keep going.",
         "kind": "template"
       },
       {
         "id": "tc-05",
-        "text": "Correct. {word}. Moving on.",
+        "text": "Correct, {word}. Alright, moving on.",
         "kind": "template"
       },
       {
         "id": "tc-06",
-        "text": "Hm. {word}. Next.",
+        "text": "Hm. {word}. Okay... next.",
         "kind": "template"
       },
       {
         "id": "tc-07",
-        "text": "Right. {word} — {meaning}. Next.",
+        "text": "Right... {word}, {meaning}. Next.",
         "kind": "template"
       },
       {
         "id": "tc-08",
-        "text": "Yes. In {langName}, {word}. Next.",
+        "text": "Yes. In {langName}... {word}. Next.",
         "kind": "template"
       }
     ]
@@ -2526,5 +2608,11 @@
       }
     ]
   },
-  "byCharacter": {}
+  "byCharacter": {},
+  "system": {
+    "intro-he": "Okay, so... Thầy Bao's in. I'll stay calm, very calm... until you miss one. Then, we'll talk.",
+    "intro-she": "Okay, so... Cô Bao's in. I'll stay calm, very calm... until you miss one. Then, we'll talk.",
+    "voice-on": "Alright, voice is on. I'll say the words... and if you miss, oh, I'll have comments.",
+    "char-in": "Okay... {name}'s in. I'll stay calm... until you miss one."
+  }
 }

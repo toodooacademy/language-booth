@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T12:20:57-08:00",
+  "updated_at": "2026-11-11T12:45:37-08:00",
   "timezone": "America/Los_Angeles",
   "goal": "3 clips (idle, talking, meltdown) for each of 40 roster characters, Bao-style",
   "encode": {
@@ -139,28 +139,158 @@
     },
     "anime-m-03": {
       "name": "Rio Flash",
-      "status": "pending",
-      "clips": {}
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match (curly hair, gold stud, coral sweater). Idle, talking (open mouth mid-clip), and comedic fist-meltdown all good. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-03/idle.mp4",
+          "mobile": "video/anime-m-03/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-03/talking.mp4",
+          "mobile": "video/anime-m-03/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-03/meltdown.mp4",
+          "mobile": "video/anime-m-03/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-m-04": {
       "name": "Hao Bubble",
-      "status": "pending",
-      "clips": {}
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match (bowl cut, gold glasses, light blue cardigan). Talking has clear mouth movement; mid frame is a slightly tighter crop that returns at the end. Meltdown is a very puffed-cheek comedic tantrum, still the same person. Accepted, no regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-04/idle.mp4",
+          "mobile": "video/anime-m-04/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-04/talking.mp4",
+          "mobile": "video/anime-m-04/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-04/meltdown.mp4",
+          "mobile": "video/anime-m-04/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-m-05": {
       "name": "Theo Noodle",
-      "status": "pending",
-      "clips": {}
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match (blond hair, green eyes, red-cream striped tee). Idle, clear talking mouth, and fist-meltdown all good. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-05/idle.mp4",
+          "mobile": "video/anime-m-05/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-05/talking.mp4",
+          "mobile": "video/anime-m-05/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-05/meltdown.mp4",
+          "mobile": "video/anime-m-05/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-m-06": {
       "name": "Jae Volt",
-      "status": "pending",
-      "clips": {}
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match (silver-blue hair, black leather jacket). Talking has a clear open/close rhythm. Meltdown attempt 1 warped the jaw into a rubbery stretch; attempt 2 keeps normal face proportions with fists and a shout. Kept v2.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-06/idle.mp4",
+          "mobile": "video/anime-m-06/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-06/talking.mp4",
+          "mobile": "video/anime-m-06/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-06/meltdown.mp4",
+          "mobile": "video/anime-m-06/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 2,
+          "verified": true
+        }
+      }
     },
     "anime-m-07": {
       "name": "Luca Puff",
-      "status": "pending",
-      "clips": {}
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match (curly brown hair, cream scarf, rust sweater). Idle, talking, and fist-meltdown all good. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-07/idle.mp4",
+          "mobile": "video/anime-m-07/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-07/talking.mp4",
+          "mobile": "video/anime-m-07/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-07/meltdown.mp4",
+          "mobile": "video/anime-m-07/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-m-08": {
       "name": "Hiro Pixel",
@@ -212,9 +342,9 @@
       "name": "Yuki Frost",
       "gender": "female",
       "style": "anime",
-      "status": "in_progress",
-      "verified": false,
-      "notes": "Idle and meltdown verified: identity and female gender match (silver-lavender bob, sailor collar, white cardigan). Talking attempt 1 had only very subtle mouth movement (mostly smiling/blinking); regenerating talking once with a stronger lip-movement prompt.",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match (silver-lavender bob, sailor collar). Idle and meltdown good on first try. Talking attempt 1 was too subtle; attempt 2 has clear syllable mouth movement. Kept v2.",
       "clips": {
         "idle": {
           "raw": "video/anime-f-02/idle.mp4",
@@ -227,9 +357,8 @@
           "raw": "video/anime-f-02/talking.mp4",
           "mobile": "video/anime-f-02/mobile/talking.mp4",
           "duration_s": 5.041667,
-          "attempts": 1,
-          "verified": false,
-          "issue": "mouth movement too subtle"
+          "attempts": 2,
+          "verified": true
         },
         "meltdown": {
           "raw": "video/anime-f-02/meltdown.mp4",
@@ -242,28 +371,158 @@
     },
     "anime-f-03": {
       "name": "Mei Bun",
-      "status": "pending",
-      "clips": {}
+      "gender": "female",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match (twin buns with pink scrunchies, pink hoodie). Talking sequence shows clear open/close rhythm. Meltdown is comedic frustration. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-03/idle.mp4",
+          "mobile": "video/anime-f-03/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-03/talking.mp4",
+          "mobile": "video/anime-f-03/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-f-03/meltdown.mp4",
+          "mobile": "video/anime-f-03/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-f-04": {
       "name": "Sofia Fizz",
-      "status": "pending",
-      "clips": {}
+      "gender": "female",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match (wavy chestnut hair, gold hoops, denim jacket). Talking mouth movement visible. Meltdown is a funny puffed-cheeks frustrated pose. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-04/idle.mp4",
+          "mobile": "video/anime-f-04/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-04/talking.mp4",
+          "mobile": "video/anime-f-04/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-f-04/meltdown.mp4",
+          "mobile": "video/anime-f-04/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-f-05": {
       "name": "Aya Comet",
-      "status": "pending",
-      "clips": {}
+      "gender": "female",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match (long black hair, red ribbon, cream vest). Idle, talking, and comedic meltdown all good. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-05/idle.mp4",
+          "mobile": "video/anime-f-05/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-05/talking.mp4",
+          "mobile": "video/anime-f-05/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-f-05/meltdown.mp4",
+          "mobile": "video/anime-f-05/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-f-06": {
       "name": "Hana Beam",
-      "status": "pending",
-      "clips": {}
+      "gender": "female",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match (high ponytail, wire glasses, sage sweater). Idle blink, talking mouth, and fist-meltdown all good. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-06/idle.mp4",
+          "mobile": "video/anime-f-06/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-06/talking.mp4",
+          "mobile": "video/anime-f-06/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-f-06/meltdown.mp4",
+          "mobile": "video/anime-f-06/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-f-07": {
       "name": "Camila Pop",
-      "status": "pending",
-      "clips": {}
+      "gender": "female",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match (voluminous black curls, teal scarf, coral top, brown skin). Idle, talking, and frustrated meltdown all good. No regen.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-07/idle.mp4",
+          "mobile": "video/anime-f-07/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-07/talking.mp4",
+          "mobile": "video/anime-f-07/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-f-07/meltdown.mp4",
+          "mobile": "video/anime-f-07/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
     },
     "anime-f-08": {
       "name": "Trang Moon",
@@ -419,6 +678,53 @@
     "skipped": [
       "real-m-01 Thầy Bao (approved videos already exist, frames match)",
       "real-f-01 Cô Bao (approved videos already exist, frames match)"
+    ]
+  },
+  "milestone_approx_8": {
+    "at": "2026-11-11T12:31:05-08:00",
+    "done": [
+      "anime-m-01 Kenji Spark",
+      "anime-f-01 Linh Petal",
+      "anime-m-02 Minh Comet",
+      "anime-f-02 Yuki Frost",
+      "anime-m-03 Rio Flash",
+      "anime-f-03 Mei Bun",
+      "anime-m-04 Hao Bubble",
+      "anime-f-04 Sofia Fizz"
+    ],
+    "failures": [],
+    "skipped": [
+      "real-m-01 Thầy Bao",
+      "real-f-01 Cô Bao"
+    ]
+  },
+  "milestone_approx_14": {
+    "at": "2026-11-11T12:45:37-08:00",
+    "done_count": 14,
+    "done": [
+      "anime-m-01 Kenji Spark",
+      "anime-f-01 Linh Petal",
+      "anime-m-02 Minh Comet",
+      "anime-f-02 Yuki Frost",
+      "anime-m-03 Rio Flash",
+      "anime-f-03 Mei Bun",
+      "anime-m-04 Hao Bubble",
+      "anime-f-04 Sofia Fizz",
+      "anime-m-05 Theo Noodle",
+      "anime-f-05 Aya Comet",
+      "anime-m-06 Jae Volt",
+      "anime-f-06 Hana Beam",
+      "anime-m-07 Luca Puff",
+      "anime-f-07 Camila Pop"
+    ],
+    "failures": [],
+    "skipped": [
+      "real-m-01 Thầy Bao",
+      "real-f-01 Cô Bao"
+    ],
+    "regens": [
+      "anime-f-02 talking v2",
+      "anime-m-06 meltdown v2"
     ]
   }
 }

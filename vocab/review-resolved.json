@@ -1,0 +1,1901 @@
+[
+ {
+  "concept": "chair",
+  "en": "chair",
+  "lang": "vi",
+  "text": "cái ghế",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "sofa",
+  "en": "sofa",
+  "lang": "vi",
+  "text": "ghế sofa",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "bathroom",
+  "en": "bathroom",
+  "lang": "ja",
+  "text": "お風呂場 (おふろば)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "toilet",
+  "en": "toilet",
+  "lang": "vi",
+  "text": "nhà vệ sinh",
+  "issue": "meaning-mismatch(Wiktionary): bathroom; lavatory",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "glass_cup",
+  "en": "glass (cup)",
+  "lang": "vi",
+  "text": "cái ly",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "clothes_hanger",
+  "en": "clothes hanger",
+  "lang": "vi",
+  "text": "móc áo",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "shirt",
+  "en": "shirt",
+  "lang": "vi",
+  "text": "áo sơ mi",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "t_shirt",
+  "en": "T-shirt",
+  "lang": "ja",
+  "text": "Tシャツ (ティーシャツ)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "coat",
+  "en": "coat",
+  "lang": "es",
+  "text": "el abrigo",
+  "issue": "meaning-mismatch(Wiktionary): overcoat; warm clothes",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "jacket",
+  "en": "jacket",
+  "lang": "vi",
+  "text": "áo jacket",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "sweater",
+  "en": "sweater",
+  "lang": "vi",
+  "text": "áo len",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "glasses",
+  "en": "glasses",
+  "lang": "zh",
+  "text": "眼镜",
+  "issue": "meaning-mismatch(CC-CEDICT): spectacles/eyeglasses/CL:副[fu4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "watch",
+  "en": "watch",
+  "lang": "zh",
+  "text": "手表",
+  "issue": "meaning-mismatch(CC-CEDICT): wristwatch/CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "watch",
+  "en": "watch",
+  "lang": "es",
+  "text": "el reloj de pulsera",
+  "issue": "meaning-mismatch(Wiktionary): wristwatch",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "watch",
+  "en": "watch",
+  "lang": "vi",
+  "text": "đồng hồ đeo tay",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "scarf",
+  "en": "scarf",
+  "lang": "vi",
+  "text": "khăn quàng cổ",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "pajamas",
+  "en": "pajamas",
+  "lang": "es",
+  "text": "el pijama",
+  "issue": "meaning-mismatch(Wiktionary): pyjamas",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "swimsuit",
+  "en": "swimsuit",
+  "lang": "es",
+  "text": "el bañador",
+  "issue": "meaning-mismatch(Wiktionary): swimming costume, bathing costume; swimming trunks",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "backpack",
+  "en": "backpack",
+  "lang": "zh",
+  "text": "背包",
+  "issue": "meaning-mismatch(CC-CEDICT): knapsack/rucksack/infantry pack/field pack/blanket roll/CL:個|个[ge4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "cow",
+  "en": "cow",
+  "lang": "vi",
+  "text": "con bò",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "rabbit",
+  "en": "rabbit",
+  "lang": "vi",
+  "text": "con thỏ",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "turtle",
+  "en": "turtle",
+  "lang": "zh",
+  "text": "乌龟",
+  "issue": "meaning-mismatch(CC-CEDICT): tortoise/cuckold",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "sun",
+  "en": "sun",
+  "lang": "vi",
+  "text": "mặt trời",
+  "issue": "meaning-mismatch(Wiktionary): alternative letter-case form of Mặt Trời",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "moon",
+  "en": "moon",
+  "lang": "vi",
+  "text": "mặt trăng",
+  "issue": "meaning-mismatch(Wiktionary): alternative letter-case form of Mặt Trăng; synonym of vệ tinh tự nhiên (“natural",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "sky",
+  "en": "sky",
+  "lang": "vi",
+  "text": "bầu trời",
+  "issue": "meaning-mismatch(Wiktionary): the vault of heaven; firmament",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "rock",
+  "en": "rock",
+  "lang": "zh",
+  "text": "石头",
+  "issue": "meaning-mismatch(CC-CEDICT): stone/CL:塊|块[kuai4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "earth",
+  "en": "earth",
+  "lang": "vi",
+  "text": "trái đất",
+  "issue": "meaning-mismatch(Wiktionary): alternative letter-case form of Trái Đất",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "typhoon",
+  "en": "typhoon",
+  "lang": "vi",
+  "text": "bão",
+  "issue": "meaning-mismatch(Wiktionary): storm; colicky pain (in the abdomen)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "sunny",
+  "en": "sunny",
+  "lang": "ja",
+  "text": "晴れ (はれ)",
+  "issue": "meaning-mismatch(JMdict): clear weather ; fine weather ; formal ; ceremonial ; public ; cleared of suspici",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "city",
+  "en": "city",
+  "lang": "ja",
+  "text": "町 (まち)",
+  "issue": "meaning-mismatch(JMdict): town ; block ; neighbourhood ; neighborhood ; downtown ; main street ; street ; ",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "company",
+  "en": "company",
+  "lang": "vi",
+  "text": "công ty",
+  "issue": "meaning-mismatch(Wiktionary): Alternative spelling of công ti.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "church",
+  "en": "church",
+  "lang": "vi",
+  "text": "nhà thờ",
+  "issue": "meaning-mismatch(Wiktionary): a house of worship",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "cafe",
+  "en": "cafe",
+  "lang": "zh",
+  "text": "咖啡馆",
+  "issue": "meaning-mismatch(CC-CEDICT): café; coffee shop/CL:家[jia1]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "cafe",
+  "en": "cafe",
+  "lang": "vi",
+  "text": "quán cà phê",
+  "issue": "meaning-mismatch(Wiktionary): coffee shop, coffee bar, coffee house, café, an establishment selling mostly non",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "train",
+  "en": "train",
+  "lang": "vi",
+  "text": "tàu hỏa",
+  "issue": "meaning-mismatch(Wiktionary): Traditional tone placement spelling of tàu hoả.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "ship",
+  "en": "ship",
+  "lang": "zh",
+  "text": "轮船",
+  "issue": "meaning-mismatch(CC-CEDICT): steamship; steamer; steamboat/CL:艘[sou1]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "ship",
+  "en": "ship",
+  "lang": "ja",
+  "text": "客船 (きゃくせん)",
+  "issue": "meaning-mismatch(JMdict): passenger boat",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "ship",
+  "en": "ship",
+  "lang": "vi",
+  "text": "tàu thủy",
+  "issue": "meaning-mismatch(Wiktionary): Traditional tone placement spelling of tàu thuỷ.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "subway",
+  "en": "subway",
+  "lang": "es",
+  "text": "el metro",
+  "issue": "meaning-mismatch(Wiktionary): meter; tape measure, measuring tape",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "firefighter",
+  "en": "firefighter",
+  "lang": "vi",
+  "text": "lính cứu hỏa",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "farmer",
+  "en": "farmer",
+  "lang": "vi",
+  "text": "nông dân",
+  "issue": "meaning-mismatch(Wiktionary): a peasant (member of the agriculture low class)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "engineer",
+  "en": "engineer",
+  "lang": "vi",
+  "text": "kỹ sư",
+  "issue": "meaning-mismatch(Wiktionary): Alternative spelling of kĩ sư.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "artist",
+  "en": "artist",
+  "lang": "zh",
+  "text": "画家",
+  "issue": "meaning-mismatch(CC-CEDICT): painter/CL:個|个[ge4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "artist",
+  "en": "artist",
+  "lang": "es",
+  "text": "el pintor",
+  "issue": "meaning-mismatch(Wiktionary): painter; housepainter",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "artist",
+  "en": "artist",
+  "lang": "vi",
+  "text": "họa sĩ",
+  "issue": "meaning-mismatch(Wiktionary): alternative spelling of hoạ sĩ",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "writer",
+  "en": "writer",
+  "lang": "zh",
+  "text": "作家",
+  "issue": "meaning-mismatch(CC-CEDICT): author/CL:個|个[ge4],位[wei4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "soldier",
+  "en": "soldier",
+  "lang": "vi",
+  "text": "người lính",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "boss",
+  "en": "boss",
+  "lang": "ja",
+  "text": "社長 (しゃちょう)",
+  "issue": "meaning-mismatch(JMdict): company president ; manager ; director",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "shop_assistant",
+  "en": "shop assistant",
+  "lang": "es",
+  "text": "el dependiente",
+  "issue": "meaning-mismatch(Wiktionary): dependent",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "pen",
+  "en": "pen",
+  "lang": "vi",
+  "text": "bút",
+  "issue": "meaning-mismatch(Wiktionary): any piece of equipment used for writing with one's hand, except chalk; someone w",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "desk",
+  "en": "desk",
+  "lang": "vi",
+  "text": "bàn học",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "class_lesson",
+  "en": "class (lesson)",
+  "lang": "vi",
+  "text": "tiết học",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "test",
+  "en": "test",
+  "lang": "zh",
+  "text": "考试",
+  "issue": "meaning-mismatch(CC-CEDICT): to take an exam/exam/CL:次[ci4]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "test",
+  "en": "test",
+  "lang": "vi",
+  "text": "bài kiểm tra",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "art",
+  "en": "art",
+  "lang": "vi",
+  "text": "mỹ thuật",
+  "issue": "meaning-mismatch(Wiktionary): Alternative spelling of mĩ thuật.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "receipt",
+  "en": "receipt",
+  "lang": "vi",
+  "text": "hóa đơn",
+  "issue": "meaning-mismatch(Wiktionary): alternative spelling of hoá đơn",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "shopping",
+  "en": "shopping",
+  "lang": "es",
+  "text": "las compras",
+  "issue": "meaning-mismatch(Wiktionary): plural of compra",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "sick",
+  "en": "sick",
+  "lang": "zh",
+  "text": "病",
+  "issue": "meaning-mismatch(CC-CEDICT): illness/CL:場|场[chang2]/disease/to fall ill/defect",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "pain",
+  "en": "pain",
+  "lang": "zh",
+  "text": "疼",
+  "issue": "meaning-mismatch(CC-CEDICT): (it) hurts; sore/to love dearly",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "pain",
+  "en": "pain",
+  "lang": "vi",
+  "text": "đau",
+  "issue": "meaning-mismatch(Wiktionary): to be hurt; to be wounded",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "hurt",
+  "en": "hurt",
+  "lang": "ja",
+  "text": "痛い (いたい)",
+  "issue": "meaning-mismatch(JMdict): painful ; sore ; cringy ; embarrassing",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "angry",
+  "en": "angry",
+  "lang": "ja",
+  "text": "怒っている (おこっている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "scared",
+  "en": "scared",
+  "lang": "ja",
+  "text": "怖い (こわい)",
+  "issue": "meaning-mismatch(JMdict): scary ; frightening ; eerie ; dreadful",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "scared",
+  "en": "scared",
+  "lang": "vi",
+  "text": "sợ",
+  "issue": "meaning-mismatch(Wiktionary): to fear; to be afraid",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "surprised",
+  "en": "surprised",
+  "lang": "ja",
+  "text": "びっくりした (びっくりした)",
+  "issue": "meaning-mismatch(JMdict): oh my god! ; oh my gosh! ; you got me! ; wow!",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "worried",
+  "en": "worried",
+  "lang": "ja",
+  "text": "心配 (しんぱい)",
+  "issue": "meaning-mismatch(JMdict): worry ; concern ; anxiety ; uneasiness ; fear ; care ; help ; aid ; assistance",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "excited",
+  "en": "excited",
+  "lang": "vi",
+  "text": "háo hức",
+  "issue": "meaning-mismatch(Wiktionary): enthusiastic, eager, full of desire",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "nervous",
+  "en": "nervous",
+  "lang": "ja",
+  "text": "緊張している (きんちょうしている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "hobby",
+  "en": "hobby",
+  "lang": "es",
+  "text": "el pasatiempo",
+  "issue": "meaning-mismatch(Wiktionary): pastime",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "travel",
+  "en": "travel",
+  "lang": "vi",
+  "text": "du lịch",
+  "issue": "meaning-mismatch(Wiktionary): tourism",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "holiday",
+  "en": "holiday",
+  "lang": "vi",
+  "text": "ngày nghỉ",
+  "issue": "meaning-mismatch(Wiktionary): day off",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "phone",
+  "en": "phone",
+  "lang": "vi",
+  "text": "điện thoại",
+  "issue": "meaning-mismatch(Wiktionary): telephone",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "internet",
+  "en": "internet",
+  "lang": "vi",
+  "text": "mạng internet",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "email",
+  "en": "email",
+  "lang": "es",
+  "text": "el correo electrónico",
+  "issue": "meaning-mismatch(Wiktionary): e-mail",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant, word kept"
+ },
+ {
+  "concept": "app",
+  "en": "app",
+  "lang": "es",
+  "text": "la aplicación",
+  "issue": "meaning-mismatch(Wiktionary): application, use (the act of applying as a means; the employment of means to acc",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "website",
+  "en": "website",
+  "lang": "es",
+  "text": "la página web",
+  "issue": "meaning-mismatch(Wiktionary): web page",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "up",
+  "en": "up",
+  "lang": "zh",
+  "text": "上",
+  "issue": "meaning-mismatch(CC-CEDICT): used in 上聲|上声[shang3 sheng1]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "up",
+  "en": "up",
+  "lang": "ja",
+  "text": "上 (うえ)",
+  "issue": "meaning-mismatch(JMdict): above ; over ; up ; top ; summit ; upper part ; head (e.g. of a staircase) ; sur",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "up",
+  "en": "up",
+  "lang": "es",
+  "text": "arriba",
+  "issue": "meaning-mismatch(Wiktionary): above, over; up; uphill; upstream; upstairs",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "up",
+  "en": "up",
+  "lang": "vi",
+  "text": "lên",
+  "issue": "meaning-mismatch(Wiktionary): to go up, come up, rise; to be or reach a certain age",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "on_top_of",
+  "en": "on (top of)",
+  "lang": "ja",
+  "text": "上に (うえに)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "on_top_of",
+  "en": "on (top of)",
+  "lang": "vi",
+  "text": "trên",
+  "issue": "meaning-mismatch(Wiktionary): upper; higher, superior",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "under",
+  "en": "under",
+  "lang": "ja",
+  "text": "下に (したに)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "next_to",
+  "en": "next to",
+  "lang": "zh",
+  "text": "旁边",
+  "issue": "meaning-mismatch(CC-CEDICT): side; adjacent place",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "america",
+  "en": "America",
+  "lang": "zh",
+  "text": "美国",
+  "issue": "meaning-mismatch(CC-CEDICT): United States; USA; US",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "america",
+  "en": "America",
+  "lang": "vi",
+  "text": "nước Mỹ",
+  "issue": "meaning-mismatch(Wiktionary): alternative spelling of nước Mĩ",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "england",
+  "en": "England",
+  "lang": "zh",
+  "text": "英国",
+  "issue": "meaning-mismatch(CC-CEDICT): United Kingdom (UK); Britain",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "england",
+  "en": "England",
+  "lang": "vi",
+  "text": "nước Anh",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "france",
+  "en": "France",
+  "lang": "vi",
+  "text": "nước Pháp",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "get_up",
+  "en": "get up",
+  "lang": "es",
+  "text": "levantarse",
+  "issue": "meaning-mismatch(Wiktionary): infinitive of levantar combined with se",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "get_up",
+  "en": "get up",
+  "lang": "vi",
+  "text": "dậy",
+  "issue": "meaning-mismatch(Wiktionary): to wake up; to rise",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "get_dressed",
+  "en": "get dressed",
+  "lang": "ja",
+  "text": "服を着る (ふくをきる)",
+  "issue": "meaning-mismatch(JMdict): to put on clothes ; to wear clothes ; to be the personification of",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "get_dressed",
+  "en": "get dressed",
+  "lang": "vi",
+  "text": "mặc quần áo",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "put_on_shoes",
+  "en": "put on (shoes)",
+  "lang": "ja",
+  "text": "靴を履く (くつをはく)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "talk",
+  "en": "talk",
+  "lang": "zh",
+  "text": "聊天",
+  "issue": "meaning-mismatch(CC-CEDICT): to chat; to gossip",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "talk",
+  "en": "talk",
+  "lang": "es",
+  "text": "charlar",
+  "issue": "meaning-mismatch(Wiktionary): to chat, to chatter, to chitchat",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "hope",
+  "en": "hope",
+  "lang": "vi",
+  "text": "hy vọng",
+  "issue": "meaning-mismatch(Wiktionary): Alternative spelling of hi vọng.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "plan",
+  "en": "plan",
+  "lang": "vi",
+  "text": "lên kế hoạch",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "borrow",
+  "en": "borrow",
+  "lang": "es",
+  "text": "pedir prestado",
+  "issue": "meaning-mismatch(Wiktionary): to ask for something; to request someone else to do something",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "lend",
+  "en": "lend",
+  "lang": "vi",
+  "text": "cho mượn",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "show",
+  "en": "show",
+  "lang": "vi",
+  "text": "cho xem",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "bring",
+  "en": "bring",
+  "lang": "vi",
+  "text": "mang",
+  "issue": "meaning-mismatch(Wiktionary): to carry; to wear (footwear)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "carry",
+  "en": "carry",
+  "lang": "zh",
+  "text": "搬",
+  "issue": "meaning-mismatch(CC-CEDICT): to move (i.e. relocate oneself)/to move (sth relatively heavy or bulky)/to shift",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "turn_on",
+  "en": "turn on",
+  "lang": "vi",
+  "text": "bật",
+  "issue": "meaning-mismatch(Wiktionary): to bounce off; to bounce back; to snap; to switch on (lights)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "cook_rice",
+  "en": "cook rice",
+  "lang": "ja",
+  "text": "ご飯を炊く (ごはんをたく)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "cook_rice",
+  "en": "cook rice",
+  "lang": "es",
+  "text": "hacer arroz",
+  "issue": "meaning-mismatch(Wiktionary): to do, perform, execute, carry out; to do, perform, execute, carry out",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "taste",
+  "en": "taste",
+  "lang": "ja",
+  "text": "味見する (あじみする)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "smell",
+  "en": "smell",
+  "lang": "ja",
+  "text": "においをかぐ (においをかぐ)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "fix",
+  "en": "fix",
+  "lang": "zh",
+  "text": "修",
+  "issue": "meaning-mismatch(CC-CEDICT): surname Xiu",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "fix",
+  "en": "fix",
+  "lang": "vi",
+  "text": "sửa",
+  "issue": "meaning-mismatch(Wiktionary): to repair, to correct, to put right",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "feed",
+  "en": "feed",
+  "lang": "ja",
+  "text": "えさをやる (えさをやる)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "feed",
+  "en": "feed",
+  "lang": "vi",
+  "text": "cho ăn",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "good_looking",
+  "en": "good-looking",
+  "lang": "zh",
+  "text": "帅",
+  "issue": "meaning-mismatch(CC-CEDICT): surname Shuai",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "good_looking",
+  "en": "good-looking",
+  "lang": "vi",
+  "text": "đẹp trai",
+  "issue": "meaning-mismatch(Wiktionary): handsome; attractive",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "fat",
+  "en": "fat",
+  "lang": "ja",
+  "text": "太っている (ふとっている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "thin",
+  "en": "thin",
+  "lang": "ja",
+  "text": "痩せている (やせている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "rich",
+  "en": "rich",
+  "lang": "zh",
+  "text": "有钱",
+  "issue": "meaning-mismatch(CC-CEDICT): well-off/wealthy",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "smart",
+  "en": "smart",
+  "lang": "zh",
+  "text": "聪明",
+  "issue": "meaning-mismatch(CC-CEDICT): intelligent; clever; bright/acute (of sight and hearing)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "stupid",
+  "en": "stupid",
+  "lang": "vi",
+  "text": "ngốc",
+  "issue": "meaning-mismatch(Wiktionary): foolish; doltish; dummy; dumb-dumb",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "open_adj",
+  "en": "open (adj)",
+  "lang": "ja",
+  "text": "開いている (あいている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "closed",
+  "en": "closed",
+  "lang": "ja",
+  "text": "閉まっている (しまっている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "closed",
+  "en": "closed",
+  "lang": "vi",
+  "text": "đóng",
+  "issue": "meaning-mismatch(Wiktionary): to shut tight; to drive (a nail, stake)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "wet",
+  "en": "wet",
+  "lang": "ja",
+  "text": "濡れた (ぬれた)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "loud_voice",
+  "en": "loud voice",
+  "lang": "ja",
+  "text": "大きい声 (おおきいこえ)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "popular",
+  "en": "popular",
+  "lang": "vi",
+  "text": "được yêu thích",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "already",
+  "en": "already",
+  "lang": "vi",
+  "text": "đã",
+  "issue": "meaning-mismatch(Wiktionary): having completed this action, perfect aspect; having reached this state",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "a_little",
+  "en": "a little",
+  "lang": "zh",
+  "text": "一点儿",
+  "issue": "meaning-mismatch(CC-CEDICT): erhua variant of 一點|一点[yi1 dian3]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "slowly",
+  "en": "slowly",
+  "lang": "vi",
+  "text": "chậm rãi",
+  "issue": "meaning-mismatch(Wiktionary): leisurely; unhurriedly; loosely; relaxedly; deliberately; carefully (of speech)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "well",
+  "en": "well",
+  "lang": "zh",
+  "text": "好",
+  "issue": "meaning-mismatch(CC-CEDICT): good/appropriate; proper/all right!/(before a verb) easy to/(before a verb) good",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "well",
+  "en": "well",
+  "lang": "ja",
+  "text": "上手に (じょうずに)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "well",
+  "en": "well",
+  "lang": "vi",
+  "text": "giỏi",
+  "issue": "meaning-mismatch(Wiktionary): good; competent; \"very good\", below xuất sắc (“excellent”), above khá (“good”), ",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "then",
+  "en": "then",
+  "lang": "vi",
+  "text": "sau đó",
+  "issue": "meaning-mismatch(Wiktionary): later (on); afterwards; thereafter; after that; since that time; since that mome",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "soon",
+  "en": "soon",
+  "lang": "zh",
+  "text": "快要",
+  "issue": "meaning-mismatch(CC-CEDICT): nearly at the point of (doing sth); about to (do sth)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "soon",
+  "en": "soon",
+  "lang": "vi",
+  "text": "sắp",
+  "issue": "meaning-mismatch(Wiktionary): about to",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "and",
+  "en": "and",
+  "lang": "zh",
+  "text": "和",
+  "issue": "meaning-mismatch(CC-CEDICT): old variant of 和[he2]",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "and",
+  "en": "and",
+  "lang": "ja",
+  "text": "と (と)",
+  "issue": "meaning-mismatch(JMdict): if ; when ; and ; as well as ; with ; together with ; accompanied by ; used for ",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "and",
+  "en": "and",
+  "lang": "es",
+  "text": "y",
+  "issue": "meaning-mismatch(Wiktionary): The twenty-sixth letter of the Spanish alphabet, called ye or i griega and writt",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "and",
+  "en": "and",
+  "lang": "vi",
+  "text": "và",
+  "issue": "meaning-mismatch(Wiktionary): and",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "or",
+  "en": "or",
+  "lang": "zh",
+  "text": "或者",
+  "issue": "meaning-mismatch(CC-CEDICT): or/possibly; maybe; perhaps",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "or",
+  "en": "or",
+  "lang": "ja",
+  "text": "または (または)",
+  "issue": "meaning-mismatch(JMdict): or ; either ... or ...",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "or",
+  "en": "or",
+  "lang": "es",
+  "text": "o",
+  "issue": "meaning-mismatch(Wiktionary): The sixteenth letter of the Spanish alphabet, called o and written in the Latin ",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "or",
+  "en": "or",
+  "lang": "vi",
+  "text": "hoặc",
+  "issue": "meaning-mismatch(Wiktionary): or; either",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "with",
+  "en": "with",
+  "lang": "zh",
+  "text": "跟",
+  "issue": "meaning-mismatch(CC-CEDICT): heel/to follow closely/to go with/(of a woman) to marry sb/with/compared with/to",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "with",
+  "en": "with",
+  "lang": "ja",
+  "text": "と一緒に (といっしょに)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "with",
+  "en": "with",
+  "lang": "es",
+  "text": "con",
+  "issue": "meaning-mismatch(Wiktionary): with; Dependent preposition following certain verbs.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "with",
+  "en": "with",
+  "lang": "vi",
+  "text": "với",
+  "issue": "meaning-mismatch(Wiktionary): to reach (out for something)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "without",
+  "en": "without",
+  "lang": "zh",
+  "text": "没有",
+  "issue": "meaning-mismatch(CC-CEDICT): haven't/hasn't/doesn't exist/to not have/to not be",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "for",
+  "en": "for",
+  "lang": "zh",
+  "text": "为了",
+  "issue": "meaning-mismatch(CC-CEDICT): for; for the purpose of; in order to",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "for",
+  "en": "for",
+  "lang": "ja",
+  "text": "ために (ために)",
+  "issue": "meaning-mismatch(JMdict): for ; for the sake of ; to one's advantage ; in favor of ; in favour of ; on beh",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "for",
+  "en": "for",
+  "lang": "es",
+  "text": "para",
+  "issue": "meaning-mismatch(Wiktionary): for, to (expressing a recipient); to, in order to, so, for (expressing the inten",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "for",
+  "en": "for",
+  "lang": "vi",
+  "text": "cho",
+  "issue": "meaning-mismatch(Wiktionary): to give; to let; to make; to cause",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "to",
+  "en": "to",
+  "lang": "zh",
+  "text": "到",
+  "issue": "meaning-mismatch(CC-CEDICT): to reach; to arrive/to leave for; to go to/to (a place); until (a time); up to (",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "to",
+  "en": "to",
+  "lang": "ja",
+  "text": "まで (まで)",
+  "issue": "meaning-mismatch(JMdict): until (a time) ; till ; to ; up to ; to (a place or person) ; as far as ; to (an",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "to",
+  "en": "to",
+  "lang": "es",
+  "text": "a",
+  "issue": "meaning-mismatch(Wiktionary): The first letter of the Spanish alphabet, written in the Latin script.",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "to",
+  "en": "to",
+  "lang": "vi",
+  "text": "đến",
+  "issue": "meaning-mismatch(Wiktionary): to arrive, to come",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "nothing",
+  "en": "nothing",
+  "lang": "zh",
+  "text": "什么都没有",
+  "issue": "compound-unverified (segments in CC-CEDICT, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "something",
+  "en": "something",
+  "lang": "ja",
+  "text": "何か (なにか)",
+  "issue": "meaning-mismatch(JMdict): something ; some ; any ; somehow ; for some reason ; (so) what (are you trying t",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "something",
+  "en": "something",
+  "lang": "es",
+  "text": "algo",
+  "issue": "meaning-mismatch(Wiktionary): something, anything",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "something",
+  "en": "something",
+  "lang": "vi",
+  "text": "cái gì đó",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "someone",
+  "en": "someone",
+  "lang": "zh",
+  "text": "有人",
+  "issue": "meaning-mismatch(CC-CEDICT): someone/people/anyone/there is someone there/occupied (as in restroom)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "someone",
+  "en": "someone",
+  "lang": "ja",
+  "text": "誰か (だれか)",
+  "issue": "meaning-mismatch(JMdict): someone ; somebody",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "someone",
+  "en": "someone",
+  "lang": "es",
+  "text": "alguien",
+  "issue": "meaning-mismatch(Wiktionary): someone, somebody; anyone, anybody",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "someone",
+  "en": "someone",
+  "lang": "vi",
+  "text": "ai đó",
+  "issue": "meaning-mismatch(Wiktionary): someone",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "everything",
+  "en": "everything",
+  "lang": "vi",
+  "text": "mọi thứ",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: dictionary synonym/variant or function word, kept"
+ },
+ {
+  "concept": "something",
+  "en": "something",
+  "lang": "zh",
+  "text": "某样东西",
+  "issue": "compound-unverified (segments in CC-CEDICT, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "sandwich",
+  "en": "sandwich",
+  "lang": "vi",
+  "text": "bánh sandwich",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "pizza",
+  "en": "pizza",
+  "lang": "vi",
+  "text": "pizza",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "hamburger",
+  "en": "hamburger",
+  "lang": "vi",
+  "text": "bánh hamburger",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "ramen",
+  "en": "ramen",
+  "lang": "vi",
+  "text": "mì ramen",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "paella",
+  "en": "paella",
+  "lang": "zh",
+  "text": "西班牙海鲜饭",
+  "issue": "compound-unverified (segments in CC-CEDICT, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "paella",
+  "en": "paella",
+  "lang": "vi",
+  "text": "cơm thập cẩm Tây Ban Nha",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "steak",
+  "en": "steak",
+  "lang": "vi",
+  "text": "bít tết",
+  "issue": "meaning-mismatch(Wiktionary): beefsteak",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "toast",
+  "en": "toast",
+  "lang": "vi",
+  "text": "bánh mì nướng",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "bill_check",
+  "en": "bill (check)",
+  "lang": "vi",
+  "text": "hóa đơn",
+  "issue": "meaning-mismatch(Wiktionary): alternative spelling of hoá đơn",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "napkin",
+  "en": "napkin",
+  "lang": "vi",
+  "text": "khăn giấy",
+  "issue": "meaning-mismatch(Wiktionary): a tissue (sheet of absorbent paper)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "sunflower",
+  "en": "sunflower",
+  "lang": "vi",
+  "text": "hoa hướng dương",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "cherry_blossom",
+  "en": "cherry blossom",
+  "lang": "vi",
+  "text": "hoa anh đào",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "fly_insect",
+  "en": "fly (insect)",
+  "lang": "zh",
+  "text": "苍蝇",
+  "issue": "meaning-mismatch(CC-CEDICT): housefly/CL:隻|只[zhi1]",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "snail",
+  "en": "snail",
+  "lang": "vi",
+  "text": "con ốc sên",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "lunar_new_year",
+  "en": "Lunar New Year",
+  "lang": "es",
+  "text": "el Año Nuevo Lunar",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "concert",
+  "en": "concert",
+  "lang": "vi",
+  "text": "buổi hòa nhạc",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "circle",
+  "en": "circle",
+  "lang": "zh",
+  "text": "圆形",
+  "issue": "meaning-mismatch(CC-CEDICT): round/circular",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "triangle",
+  "en": "triangle",
+  "lang": "vi",
+  "text": "hình tam giác",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "glass_material",
+  "en": "glass (material)",
+  "lang": "vi",
+  "text": "thủy tinh",
+  "issue": "meaning-mismatch(Wiktionary): Traditional tone placement spelling of thuỷ tinh.",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "gym",
+  "en": "gym",
+  "lang": "vi",
+  "text": "phòng tập thể dục",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "bakery",
+  "en": "bakery",
+  "lang": "vi",
+  "text": "tiệm bánh",
+  "issue": "compound-unverified (syllables exist, none matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "help_emergency",
+  "en": "help! (emergency)",
+  "lang": "zh",
+  "text": "救命！",
+  "issue": "not-in-CC-CEDICT (pinyin by pypinyin)",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "help_emergency",
+  "en": "help! (emergency)",
+  "lang": "ja",
+  "text": "助けて！ (たすけて！)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "help_emergency",
+  "en": "help! (emergency)",
+  "lang": "es",
+  "text": "¡socorro!",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "help_emergency",
+  "en": "help! (emergency)",
+  "lang": "vi",
+  "text": "cứu với!",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "fire_emergency",
+  "en": "fire! (emergency)",
+  "lang": "zh",
+  "text": "着火了！",
+  "issue": "not-in-CC-CEDICT (pinyin by pypinyin)",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "fire_emergency",
+  "en": "fire! (emergency)",
+  "lang": "vi",
+  "text": "cháy!",
+  "issue": "not-in-Wiktionary",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "work_noun",
+  "en": "work (noun)",
+  "lang": "es",
+  "text": "el empleo",
+  "issue": "meaning-mismatch(Wiktionary): job, employment; use, application",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "salary",
+  "en": "salary",
+  "lang": "zh",
+  "text": "工资",
+  "issue": "meaning-mismatch(CC-CEDICT): wages; pay/CL:份[fen4]",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "coworker",
+  "en": "coworker",
+  "lang": "zh",
+  "text": "同事",
+  "issue": "meaning-mismatch(CC-CEDICT): colleague; co-worker",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "be_surprised",
+  "en": "be surprised",
+  "lang": "zh",
+  "text": "吃惊",
+  "issue": "meaning-mismatch(CC-CEDICT): to be startled/to be shocked/to be amazed",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "be_born",
+  "en": "be born",
+  "lang": "vi",
+  "text": "sinh ra",
+  "issue": "meaning-mismatch(Wiktionary): to give birth",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "marry",
+  "en": "marry",
+  "lang": "ja",
+  "text": "結婚する (けっこんする)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "marry",
+  "en": "marry",
+  "lang": "vi",
+  "text": "kết hôn",
+  "issue": "meaning-mismatch(Wiktionary): to get married",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "check",
+  "en": "check",
+  "lang": "zh",
+  "text": "检查",
+  "issue": "meaning-mismatch(CC-CEDICT): inspection/to examine/to inspect/CL:次[ci4]",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "add",
+  "en": "add",
+  "lang": "vi",
+  "text": "thêm",
+  "issue": "meaning-mismatch(Wiktionary): additional; more",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "agree",
+  "en": "agree",
+  "lang": "es",
+  "text": "estar de acuerdo",
+  "issue": "meaning-mismatch(Wiktionary): to be (have a temporary or permanent location in space); to be present",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "save_money",
+  "en": "save (money)",
+  "lang": "vi",
+  "text": "tiết kiệm",
+  "issue": "meaning-mismatch(Wiktionary): to economize",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "alive",
+  "en": "alive",
+  "lang": "ja",
+  "text": "生きている (いきている)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "beautiful_scenery",
+  "en": "beautiful (scenery)",
+  "lang": "es",
+  "text": "precioso",
+  "issue": "meaning-mismatch(Wiktionary): precious; gorgeous",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "boring",
+  "en": "boring",
+  "lang": "vi",
+  "text": "nhàm chán",
+  "issue": "meaning-mismatch(Wiktionary): mediocre, dull, uninspiring",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "comfortable",
+  "en": "comfortable",
+  "lang": "vi",
+  "text": "thoải mái",
+  "issue": "meaning-mismatch(Wiktionary): relaxed; at ease",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "crowded",
+  "en": "crowded",
+  "lang": "ja",
+  "text": "混んでいる (こんでいる)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "crowded",
+  "en": "crowded",
+  "lang": "es",
+  "text": "lleno de gente",
+  "issue": "compound-unverified (parts exist, no part matches meaning)",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "ripe",
+  "en": "ripe",
+  "lang": "ja",
+  "text": "熟した (じゅくした)",
+  "issue": "not-in-JMdict",
+  "severity": "high",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ },
+ {
+  "concept": "gentle",
+  "en": "gentle",
+  "lang": "es",
+  "text": "apacible",
+  "issue": "meaning-mismatch(Wiktionary): peaceful, serene, calm",
+  "severity": "low",
+  "resolution": "checked by hand: synonym/loanword/exclamation, kept"
+ }
+]

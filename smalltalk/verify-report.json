@@ -123,5 +123,115 @@
   "line": "st120#0",
   "lang": "ja",
   "issue": "romaji vs kakasi 0.87: konshū wa otaku ga nigiyaka desu ne. | imashuuhaotakuganigiyakadesune"
+ },
+ {
+  "line": "st130#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.88: sumimasen, kono chikaku ni ētīemu wa arimasu ka. | sumimasenkonochikakuniatmhaarimasuka"
+ },
+ {
+  "line": "st135#5",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.88: un. konshū wa sakkā oyasumi da! | unimashuuwasakkaaoyasumida"
+ },
+ {
+  "line": "st138#0",
+  "lang": "zh",
+  "issue": "latin letters in zh"
+ },
+ {
+  "line": "st138#0",
+  "lang": "zh",
+  "issue": "pinyin syllables 11 != hanzi 10: xīngqīwǔ wǒmen qù chàng kǎlā-OK ba!"
+ },
+ {
+  "line": "st138#2",
+  "lang": "zh",
+  "issue": "latin letters in zh"
+ },
+ {
+  "line": "st138#2",
+  "lang": "zh",
+  "issue": "pinyin syllables 12 != hanzi 11: méi guānxi! chàng kǎlā-OK shéi dōu chàng bu hǎo."
+ },
+ {
+  "line": "st141#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.80: arigatō. kotoshi mo yoroshiku ne. | arigatouimanenmoyoroshikune"
+ },
+ {
+  "line": "st144#1",
+  "lang": "zh",
+  "issue": "latin letters in zh"
+ },
+ {
+  "line": "st144#1",
+  "lang": "zh",
+  "issue": "pinyin syllables 13 != hanzi 9: Language Booth. lǐmiàn de lǎoshī tèbié gǎoxiào."
+ },
+ {
+  "line": "st148#4",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: hachiji ni eki de aō. | hachitokiniekideaou"
+ },
+ {
+  "line": "st162#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.90: ii desu ne. ichiban ninki desu. | iidesuneichibanhitokidesu"
+ },
+ {
+  "line": "st165#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.79: yonin de, yoru shichiji desu. | shihitodeyorushichijidesu"
+ },
+ {
+  "line": "st165#4",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.53: Yui desu. denwa bangō wa zero-kyū-zero no ichi-ni-san-yon no go-roku-nana-hachi desu. | yuidesudenwabangouwadesu"
+ },
+ {
+  "line": "st166#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.84: kono kutsu no nijūnana senchi wa arimasu ka. | konokutsunonijuushichisenchihaarimasuka"
+ },
+ {
+  "line": "st168#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: yatta! rokuji ni iku ne. | yattarokutokiniikune"
+ },
+ {
+  "line": "st172#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.82: yonjūgo pēji desu. | shijuugopeejidesu"
+ },
+ {
+  "line": "st175#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.86: jūji made desu. byuffe o gojiyū ni dōzo. | totokimadedesubyuffewogojiyuunidouzo"
+ },
+ {
+  "line": "st176#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.79: hai, yoru jūji made aite imasu yo. | haiyorutotokimadehiraiteimasuyo"
+ },
+ {
+  "line": "st178#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.88: e. riyū wa wakarimasu ka. | etsuriyuuhawakarimasuka"
+ },
+ {
+  "line": "st186#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.87: raishū wa chūshūsetsu da kara ne. | raishuuwachuushuufushidakarane"
+ },
+ {
+  "line": "st187#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.81: kō? yama wa haitteru? | kouyamawaitsutsuteru"
+ },
+ {
+  "line": "st197#7",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.90: un ga ii desu ne. juppun mae ni todokete kudasatta kata ga ita n desu. | ungaiidesunejuubunmaenitodoketekudasattahougaitandesu"
  }
 ]

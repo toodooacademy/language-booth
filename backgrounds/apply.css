@@ -113,7 +113,9 @@
 .lb-bg-chalkboard .stats,
 .lb-bg-chalkboard .tiny,
 .lb-bg-chalkboard .linkish,
-.lb-bg-chalkboard .learn-status {
+.lb-bg-chalkboard .learn-status,
+.lb-bg-chalkboard .learn-listening,
+.lb-bg-chalkboard .learn-caption {
   color: rgba(255, 248, 240, 0.9);
   text-shadow: 0 1px 2px rgba(16, 24, 22, 0.4);
 }
@@ -279,3 +281,17 @@ html[data-shot] .lb-orb {
   animation: none !important;
 }
 html[data-shot] .lb-bg-photo { transform: none; inset: 0; }
+
+.lb-bg-chalkboard .learn-dock-title,
+.lb-bg-chalkboard .learn-dock .stats,
+.lb-bg-chalkboard .learn-menu-btn,
+.lb-bg-chalkboard .learn-dock .back {
+  color: #FFF8F0;
+  text-shadow: 0 1px 2px rgba(16, 24, 22, 0.45);
+}
+
+.lb-bg-chalkboard .learn-menu .linkish,
+.lb-bg-chalkboard .learn-menu .chip:not(.on) {
+  color: #1a1a1a !important;
+  text-shadow: none !important;
+}
