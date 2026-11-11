@@ -7439,24 +7439,39 @@ teacherBar = function () {
   return html.replace('<div class="bubble">', pic + '<div class="bubble">');
 };
 
+
+function contentAudioUrl(url) {
+  if (!url) return "";
+  const path = String(url);
+  if (/^https?:/i.test(path)) return path;
+  const rel = path.replace(/^\.\//, "").replace(/^\//, "");
+  if (!/^(vocab|phrases|smalltalk)\/audio\//.test(rel)) return rel;
+  const host = (typeof location !== "undefined" && location.hostname) || "";
+  // GitHub Pages publishes a lean tree; per-language content audio stays on main and is fetched on demand.
+  if (host === "toodooacademy.github.io" || /\.github\.io$/.test(host)) {
+    return "https://raw.githubusercontent.com/toodooacademy/language-booth/main/" + rel;
+  }
+  return rel;
+}
+
 const _origLessonAudioUrl = (typeof lessonAudioUrl === "function") ? lessonAudioUrl : function () { return ""; };
 lessonAudioUrl = function (item) {
   if (!item) return "";
-  const indexed = _origLessonAudioUrl(item);
+  const indexed = contentAudioUrl(_origLessonAudioUrl(item));
   if (indexed) return indexed;
   const tch = (typeof currentTeacher === "function") ? currentTeacher() : {};
   const gender = (tch && (tch.lessonGender || tch.gender)) || (persist && persist.gender) || "he";
   const audio = item.audio;
-  if (typeof audio === "string" && audio) return audio;
+  if (typeof audio === "string" && audio) return contentAudioUrl(audio);
   if (audio && typeof audio === "object") {
-    if (audio[gender]) return audio[gender];
-    if (audio.he || audio.she) return audio[gender === "she" ? "she" : "he"] || audio.he || audio.she;
+    if (audio[gender]) return contentAudioUrl(audio[gender]);
+    if (audio.he || audio.she) return contentAudioUrl(audio[gender === "she" ? "she" : "he"] || audio.he || audio.she);
   }
   const legacy = item.legacyAudio;
   if (legacy && typeof legacy === "object") {
-    return legacy[gender] || legacy.he || legacy.she || "";
+    return contentAudioUrl(legacy[gender] || legacy.he || legacy.she || "");
   }
-  if (typeof legacy === "string") return legacy;
+  if (typeof legacy === "string") return contentAudioUrl(legacy);
   return "";
 };
 
