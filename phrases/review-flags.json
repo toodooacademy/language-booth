@@ -1,0 +1,32 @@
+{
+ "ph-can-i-get-an-extra-shot": {
+  "es": "MANUAL: Spain has no fixed phrase; \"carga extra de café\" is a best guess"
+ },
+ "ph-good-night": {
+  "es": "MANUAL: \"Que duermas bien\" (sleep well) used to keep it distinct from \"Buenas noches\" (good evening)"
+ },
+ "ph-and-you": {
+  "ja": "MANUAL: natives usually say \"<name>-san wa?\" instead of \"anata\"; \"anata wa dō desu ka\" is textbook"
+ },
+ "ph-an-iced-coffee-with-milk-please": {
+  "zh": "MANUAL: in China people would usually just order 冰拿铁 (iced latte)"
+ },
+ "ph-good-morning": {
+  "vi": "MANUAL: \"Chào buổi sáng\" is textbook; natives usually just say \"Chào bạn\""
+ },
+ "ph-can-i-get-a-name-for-the-order": {
+  "zh": "MANUAL: Chinese cafés rarely ask names; 请问您贵姓 literally asks your surname"
+ },
+ "ph-go-past-the-traffic-light": {
+  "zh": "MANUAL: phrasing rebuilt as \"after the light, keep going\"; confirm with a native"
+ },
+ "ph-how-was-your-day": {
+  "vi": "MANUAL: \"Ngày hôm nay của bạn thế nào?\" is a common modern calque; older speakers may find it translated-sounding"
+ },
+ "ph-what-a-surprise": {
+  "zh": "MANUAL: 真没想到 = \"I really didn't expect that\"; close but not literal"
+ },
+ "ph-say-hi-to-your-family-for-me": {
+  "vi": "MANUAL: fairly formal; casual speech would be \"Cho mình gửi lời hỏi thăm cả nhà nhé\""
+ }
+}

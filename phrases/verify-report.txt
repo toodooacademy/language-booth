@@ -1,0 +1,226 @@
+ZH one-diff ph-good-morning: 早上好！ mine=zǎoshang hǎo pypinyin=zǎoshànghǎo cedict_ok=True
+ZH one-diff ph-good-evening: 晚上好！ mine=wǎnshang hǎo pypinyin=wǎnshànghǎo cedict_ok=True
+ZH one-diff ph-nice-to-meet-you: 很高兴认识你。 mine=hěn gāoxìng rènshi nǐ pypinyin=hěngāoxìngrènshínǐ cedict_ok=True
+ZH one-diff ph-long-time-no-see: 好久不见！ mine=hǎojiǔ bù jiàn pypinyin=hǎojiǔbújiàn cedict_ok=True
+ZH one-diff ph-whats-your-name: 你叫什么名字？ mine=nǐ jiào shénme míngzi? pypinyin=nǐjiàoshénmemíngzì cedict_ok=True
+ZH one-diff ph-im-a-student: 我是学生。 mine=wǒ shì xuésheng pypinyin=wǒshìxuéshēng cedict_ok=True
+ZH one-diff ph-this-is-my-friend: 这是我的朋友。 mine=zhè shì wǒ de péngyou pypinyin=zhèshìwǒdepéngyǒu cedict_ok=True
+ZH one-diff ph-i-speak-a-little-lang: 我会说一点中文。 mine=wǒ huì shuō yīdiǎn Zhōngwén pypinyin=wǒhuìshuōyìdiǎnzhōngwén cedict_ok=True
+ZH one-diff ph-nice-to-meet-you-too: 我也很高兴认识你。 mine=wǒ yě hěn gāoxìng rènshi nǐ pypinyin=wǒyěhěngāoxìngrènshínǐ cedict_ok=True
+ZH one-diff ph-thank-you: 谢谢！ mine=xièxie pypinyin=xièxiè cedict_ok=True
+ZH one-diff ph-youre-welcome: 不客气。 mine=bù kèqi pypinyin=búkèqì cedict_ok=True
+ZH one-diff ph-excuse-me: 不好意思。 mine=bù hǎoyìsi pypinyin=bùhǎoyìsī cedict_ok=True
+ZH one-diff ph-im-sorry: 对不起。 mine=duìbuqǐ pypinyin=duìbùqǐ cedict_ok=True
+ZH one-diff ph-no: 不是。 mine=bù shì pypinyin=búshì cedict_ok=True
+ZH one-diff ph-just-a-moment-please: 请等一下。 mine=qǐng děng yīxià pypinyin=qǐngděngyíxià cedict_ok=True
+ZH one-diff ph-what-do-you-like-to-do: 你喜欢做什么？ mine=nǐ xǐhuan zuò shénme? pypinyin=nǐxǐhuānzuòshénme cedict_ok=True
+ZH one-diff ph-i-like-music: 我喜欢音乐。 mine=wǒ xǐhuan yīnyuè pypinyin=wǒxǐhuānyīnyuè cedict_ok=True
+ZH one-diff ph-i-like-to-cook: 我喜欢做饭。 mine=wǒ xǐhuan zuò fàn pypinyin=wǒxǐhuānzuòfàn cedict_ok=True
+ZH one-diff ph-when: 什么时候？ mine=shénme shíhou? pypinyin=shénmeshíhòu cedict_ok=True
+ZH one-diff ph-who-is-that-person: 那个人是谁？ mine=nàge rén shì shéi? pypinyin=nàgerénshìshuí cedict_ok=True
+ZH one-diff ph-i-dont-understand: 我听不懂。 mine=wǒ tīng bu dǒng pypinyin=wǒtīngbùdǒng cedict_ok=True
+ZH one-diff ph-i-understand: 我明白了。 mine=wǒ míngbai le pypinyin=wǒmíngbáile cedict_ok=True
+ZH one-diff ph-go-straight-ahead: 一直走。 mine=yīzhí zǒu pypinyin=yìzhízǒu cedict_ok=True
+ZH one-diff ph-can-you-show-me-on-the-map: 你能在地图上指给我看吗？ mine=nǐ néng zài dìtú shang zhǐ gěi wǒ kàn ma? pypinyin=nǐnéngzàidìtúshàngzhǐgěiwǒkànma cedict_ok=True
+ZH one-diff ph-how-much-is-a-ticket: 票多少钱？ mine=piào duōshao qián? pypinyin=piàoduōshǎoqián cedict_ok=True
+ZH one-diff ph-a-table-for-two-please: 我们两个人。 mine=wǒmen liǎng ge rén pypinyin=wǒmenliǎnggèrén cedict_ok=True
+ZH one-diff ph-the-check-please: 买单，谢谢。 mine=mǎidān, xièxie pypinyin=mǎidānxièxiè cedict_ok=True
+ZH one-diff ph-not-spicy-please: 请不要辣。 mine=qǐng bù yào là pypinyin=qǐngbúyàolà cedict_ok=True
+ZH one-diff ph-an-iced-coffee-with-milk-please: 一杯冰咖啡加奶，谢谢。 mine=yī bēi bīng kāfēi jiā nǎi, xièxie pypinyin=yībēibīngkāfēijiānǎixièxiè cedict_ok=True
+ZH one-diff ph-for-here-or-to-go: 在这儿喝还是带走？ mine=zài zhèr hē háishi dài zǒu? pypinyin=zàizhèérhēháishìdàizǒu cedict_ok=True
+ZH one-diff ph-to-go-please: 带走，谢谢。 mine=dài zǒu, xièxie pypinyin=dàizǒuxièxiè cedict_ok=True
+ZH one-diff ph-for-here-please: 在这儿喝。 mine=zài zhèr hē pypinyin=zàizhèérhē cedict_ok=True
+ZH one-diff ph-less-sugar-please: 少糖，谢谢。 mine=shǎo táng, xièxie pypinyin=shǎotángxièxiè cedict_ok=True
+ZH one-diff ph-no-ice-please: 不要冰。 mine=bù yào bīng pypinyin=búyàobīng cedict_ok=True
+ZH one-diff ph-how-much-is-it: 多少钱？ mine=duōshao qián? pypinyin=duōshǎoqián cedict_ok=True
+ZH one-diff ph-can-you-give-me-a-discount: 能便宜一点吗？ mine=néng piányi yīdiǎn ma? pypinyin=néngpiányiyìdiǎnma cedict_ok=True
+ZH one-diff ph-im-just-looking: 我只是看看。 mine=wǒ zhǐshì kànkan pypinyin=wǒzhǐshìkànkàn cedict_ok=True
+ZH one-diff ph-can-i-have-a-bag: 能给我一个袋子吗？ mine=néng gěi wǒ yī ge dàizi ma? pypinyin=nénggěiwǒyígèdàizima cedict_ok=True
+ZH one-diff ph-do-you-have-a-smaller-size: 有小一点的吗？ mine=yǒu xiǎo yīdiǎn de ma? pypinyin=yǒuxiǎoyìdiǎndema cedict_ok=True
+ZH BOTH-DIFF ph-whats-the-wi-fi-password: Wi-Fi密码是多少？ mine=Wi-Fi mìmǎ shì duōshao? pypinyin=mìmǎshìduōshǎo
+ZH one-diff ph-can-i-leave-my-luggage-here: 我可以把行李放在这里吗？ mine=wǒ kěyǐ bǎ xíngli fàng zài zhèlǐ ma? pypinyin=wǒkěyǐbǎxínglǐfàngzàizhèlǐma cedict_ok=True
+ZH one-diff ph-i-dont-feel-well: 我不舒服。 mine=wǒ bù shūfu pypinyin=wǒbùshūfú cedict_ok=True
+ZH one-diff ph-i-have-an-older-sister: 我有一个姐姐。 mine=wǒ yǒu yī ge jiějie pypinyin=wǒyǒuyígèjiějiě cedict_ok=True
+ZH one-diff ph-whats-your-phone-number: 你的电话号码是多少？ mine=nǐ de diànhuà hàomǎ shì duōshao? pypinyin=nǐdediànhuàhàomǎshìduōshǎo cedict_ok=True
+ZH one-diff ph-sorry-im-late: 对不起，我来晚了。 mine=duìbuqǐ, wǒ lái wǎn le pypinyin=duìbùqǐwǒláiwǎnle cedict_ok=True
+ZH one-diff ph-you-speak-very-well: 你说得很好。 mine=nǐ shuō de hěn hǎo pypinyin=nǐshuōdéhěnhǎo cedict_ok=True
+ZH one-diff ph-good-job: 做得好！ mine=zuò de hǎo pypinyin=zuòdéhǎo cedict_ok=True
+ZH one-diff ph-please-speak-slowly: 请说慢一点。 mine=qǐng shuō màn yīdiǎn pypinyin=qǐngshuōmànyìdiǎn cedict_ok=True
+ZH one-diff ph-i-have-a-question: 我有一个问题。 mine=wǒ yǒu yī ge wèntí pypinyin=wǒyǒuyígèwèntí cedict_ok=True
+ZH one-diff ph-see-you-in-a-bit: 一会儿见。 mine=yīhuìr jiàn pypinyin=yīhuìerjiàn cedict_ok=True
+ZH one-diff ph-not-bad: 还不错。 mine=hái bùcuò pypinyin=háibúcuò cedict_ok=True
+ZH one-diff ph-have-a-good-trip: 一路平安！ mine=yīlù píng'ān pypinyin=yílùpíngān cedict_ok=True
+ZH one-diff ph-welcome-back: 欢迎回来！ mine=huānyíng huílai pypinyin=huānyínghuílái cedict_ok=True
+ZH one-diff ph-im-home: 我回来了！ mine=wǒ huílai le pypinyin=wǒhuíláile cedict_ok=True
+ZH one-diff ph-whats-his-name: 他叫什么名字？ mine=tā jiào shénme míngzi? pypinyin=tājiàoshénmemíngzì cedict_ok=True
+ZH one-diff ph-ive-been-here-for-two-weeks: 我来了两个星期了。 mine=wǒ lái le liǎng ge xīngqī le pypinyin=wǒláileliǎnggèxīngqīle cedict_ok=True
+ZH one-diff ph-thank-you-for-your-help: 谢谢你的帮助。 mine=xièxie nǐ de bāngzhù pypinyin=xièxiènǐdebāngzhù cedict_ok=True
+ZH one-diff ph-thanks-for-everything: 谢谢你做的一切。 mine=xièxie nǐ zuò de yīqiè pypinyin=xièxiènǐzuòdeyīqiè cedict_ok=True
+ZH one-diff ph-no-thank-you: 不用了，谢谢。 mine=bù yòng le, xièxie pypinyin=bùyònglexièxiè cedict_ok=True
+ZH one-diff ph-yes-please: 好的，谢谢。 mine=hǎo de, xièxie pypinyin=hǎodexièxiè cedict_ok=True
+ZH one-diff ph-may-i-come-in: 我可以进来吗？ mine=wǒ kěyǐ jìnlai ma? pypinyin=wǒkěyǐjìnláima cedict_ok=True
+ZH one-diff ph-i-like-watching-movies: 我喜欢看电影。 mine=wǒ xǐhuan kàn diànyǐng pypinyin=wǒxǐhuānkàndiànyǐng cedict_ok=True
+ZH one-diff ph-i-like-reading: 我喜欢看书。 mine=wǒ xǐhuan kàn shū pypinyin=wǒxǐhuānkànshū cedict_ok=True
+ZH one-diff ph-i-like-playing-soccer: 我喜欢踢足球。 mine=wǒ xǐhuan tī zúqiú pypinyin=wǒxǐhuāntīzúqiú cedict_ok=True
+ZH one-diff ph-do-you-like-vietnamese-food: 你喜欢越南菜吗？ mine=nǐ xǐhuan Yuènán cài ma? pypinyin=nǐxǐhuānyuènáncàima cedict_ok=True
+ZH one-diff ph-yes-i-love-it: 喜欢，我非常喜欢。 mine=xǐhuan, wǒ fēicháng xǐhuan pypinyin=xǐhuānwǒfēichángxǐhuān cedict_ok=True
+ZH one-diff ph-i-dont-like-it-very-much: 我不太喜欢。 mine=wǒ bù tài xǐhuan pypinyin=wǒbùtàixǐhuān cedict_ok=True
+ZH one-diff ph-what-kind-of-music-do-you-like: 你喜欢什么音乐？ mine=nǐ xǐhuan shénme yīnyuè? pypinyin=nǐxǐhuānshénmeyīnyuè cedict_ok=True
+ZH one-diff ph-have-you-ever-been-to-vietnam: 你去过越南吗？ mine=nǐ qùguo Yuènán ma? pypinyin=nǐqùguòyuènánma cedict_ok=True
+ZH one-diff ph-i-stayed-at-home: 我待在家里。 mine=wǒ dāi zài jiālǐ pypinyin=wǒdàizàijiālǐ cedict_ok=True
+ZH one-diff ph-that-sounds-fun: 听起来很好玩。 mine=tīng qǐlai hěn hǎowán pypinyin=tīngqǐláihěnhǎowán cedict_ok=True
+ZH one-diff ph-how-many: 几个？ mine=jǐ ge? pypinyin=jǐgè cedict_ok=True
+ZH one-diff ph-thats-not-right: 不对。 mine=bù duì pypinyin=búduì cedict_ok=True
+ZH one-diff ph-where-are-you-going: 你去哪儿？ mine=nǐ qù nǎr? pypinyin=nǐqùnǎér cedict_ok=True
+ZH one-diff ph-do-you-know-where-it-is: 你知道在哪儿吗？ mine=nǐ zhīdào zài nǎr ma? pypinyin=nǐzhīdàozàinǎérma cedict_ok=True
+ZH one-diff ph-how-long-does-it-take: 要多长时间？ mine=yào duō cháng shíjiān? pypinyin=yàoduōzhǎngshíjiān cedict_ok=True
+ZH one-diff ph-hurry-up: 快点儿！ mine=kuài diǎnr pypinyin=kuàidiǎnér cedict_ok=True
+ZH one-diff ph-its-on-the-left: 在左边。 mine=zài zuǒbian pypinyin=zàizuǒbiān cedict_ok=True
+ZH one-diff ph-its-on-the-right: 在右边。 mine=zài yòubian pypinyin=zàiyòubiān cedict_ok=True
+ZH one-diff ph-where-are-we-now: 我们现在在哪儿？ mine=wǒmen xiànzài zài nǎr? pypinyin=wǒmenxiànzàizàinǎér cedict_ok=True
+ZH one-diff ph-please-drive-slowly: 请开慢一点。 mine=qǐng kāi màn yīdiǎn pypinyin=qǐngkāimànyìdiǎn cedict_ok=True
+ZH one-diff ph-how-much-to-the-airport: 去机场多少钱？ mine=qù jīchǎng duōshao qián? pypinyin=qùjīchǎngduōshǎoqián cedict_ok=True
+ZH one-diff ph-thank-you-for-the-meal: 谢谢款待。 mine=xièxie kuǎndài pypinyin=xièxièkuǎndài cedict_ok=True
+ZH one-diff ph-one-more-please: 再来一个。 mine=zài lái yī ge pypinyin=zàiláiyígè cedict_ok=True
+ZH one-diff ph-no-meat-please: 请不要放肉。 mine=qǐng bù yào fàng ròu pypinyin=qǐngbúyàofàngròu cedict_ok=True
+ZH one-diff ph-hot-or-iced: 要热的还是冰的？ mine=yào rè de háishi bīng de? pypinyin=yàorèdeháishìbīngde cedict_ok=True
+ZH one-diff ph-hot-please: 热的，谢谢。 mine=rè de, xièxie pypinyin=rèdexièxiè cedict_ok=True
+ZH one-diff ph-with-oat-milk-please: 换燕麦奶，谢谢。 mine=huàn yànmài nǎi, xièxie pypinyin=huànyànmàinǎixièxiè cedict_ok=True
+ZH one-diff ph-a-small-cappuccino-please: 要一个小杯卡布奇诺。 mine=yào yī ge xiǎo bēi kǎbùqínuò pypinyin=yàoyígèxiǎobēikǎbùqínuò cedict_ok=True
+ZH one-diff ph-can-i-get-an-extra-shot: 加一份浓缩，谢谢。 mine=jiā yī fèn nóngsuō, xièxie pypinyin=jiāyīfènnóngsuōxièxiè cedict_ok=True
+ZH BOTH-DIFF ph-do-you-have-wi-fi: 这里有Wi-Fi吗？ mine=zhèlǐ yǒu Wi-Fi ma? pypinyin=zhèlǐyǒuma
+ZH one-diff ph-how-much-is-this: 这个多少钱？ mine=zhège duōshao qián? pypinyin=zhègeduōshǎoqián cedict_ok=True
+ZH one-diff ph-thats-all-thanks: 就这些，谢谢。 mine=jiù zhèxiē, xièxie pypinyin=jiùzhèxiēxièxiè cedict_ok=True
+ZH one-diff ph-for-two-nights: 住两个晚上。 mine=zhù liǎng ge wǎnshang pypinyin=zhùliǎnggèwǎnshàng cedict_ok=True
+ZH one-diff ph-my-stomach-hurts: 我肚子疼。 mine=wǒ dùzi téng pypinyin=wǒdǔziténg cedict_ok=True
+ZH one-diff ph-i-need-to-rest: 我需要休息。 mine=wǒ xūyào xiūxi pypinyin=wǒxūyàoxiūxī cedict_ok=True
+ZH one-diff ph-im-confused: 我糊涂了。 mine=wǒ hútu le pypinyin=wǒhútúle cedict_ok=True
+ZH one-diff ph-i-have-a-younger-brother: 我有一个弟弟。 mine=wǒ yǒu yī ge dìdi pypinyin=wǒyǒuyígèdìdi cedict_ok=True
+ZH one-diff ph-i-have-two-children: 我有两个孩子。 mine=wǒ yǒu liǎng ge háizi pypinyin=wǒyǒuliǎnggèháizi cedict_ok=True
+ZH one-diff ph-this-is-my-mother: 这是我妈妈。 mine=zhè shì wǒ māma pypinyin=zhèshìwǒmāmā cedict_ok=True
+ZH one-diff ph-this-is-my-father: 这是我爸爸。 mine=zhè shì wǒ bàba pypinyin=zhèshìwǒbàbà cedict_ok=True
+ZH one-diff ph-this-is-my-wife: 这是我太太。 mine=zhè shì wǒ tàitai pypinyin=zhèshìwǒtàitài cedict_ok=True
+ZH one-diff ph-lets-take-a-break: 我们休息一下吧。 mine=wǒmen xiūxi yīxià ba pypinyin=wǒmenxiūxīyīxiàba cedict_ok=True
+ZH BOTH-DIFF ph-the-wi-fi-isnt-working: Wi-Fi连不上。 mine=Wi-Fi lián bu shàng pypinyin=liánbùshàng
+ZH one-diff ph-can-i-call-you-later: 我等会儿给你打电话，好吗？ mine=wǒ děng huìr gěi nǐ dǎ diànhuà, hǎo ma? pypinyin=wǒděnghuìergěinǐdǎdiànhuàhǎoma cedict_ok=True
+ZH one-diff ph-send-me-a-message: 给我发消息吧。 mine=gěi wǒ fā xiāoxi ba pypinyin=gěiwǒfāxiāoxība cedict_ok=True
+ZH one-diff ph-i-cant-hear-you: 我听不清楚。 mine=wǒ tīng bu qīngchu pypinyin=wǒtīngbùqīngchǔ cedict_ok=True
+ZH one-diff ph-hello-whos-calling: 喂，您是哪位？ mine=wéi, nín shì nǎ wèi? pypinyin=wèinínshìnǎwèi cedict_ok=True
+ZH one-diff ph-whats-the-temperature-today: 今天多少度？ mine=jīntiān duōshao dù? pypinyin=jīntiānduōshǎodù cedict_ok=True
+ZH one-diff ph-what-are-you-doing-tonight: 你今天晚上做什么？ mine=nǐ jīntiān wǎnshang zuò shénme? pypinyin=nǐjīntiānwǎnshàngzuòshénme cedict_ok=True
+ZH one-diff ph-do-you-want-to-have-dinner-together: 要不要一起吃晚饭？ mine=yào bu yào yīqǐ chī wǎnfàn? pypinyin=yàobùyàoyìqǐchīwǎnfàn cedict_ok=True
+ZH one-diff ph-sorry-i-cant-make-it: 不好意思，我去不了。 mine=bù hǎoyìsi, wǒ qù bu liǎo pypinyin=bùhǎoyìsīwǒqùbùliǎo cedict_ok=True
+ZH one-diff ph-where-shall-we-meet: 我们在哪儿见面？ mine=wǒmen zài nǎr jiànmiàn? pypinyin=wǒmenzàinǎérjiànmiàn cedict_ok=True
+ZH one-diff ph-lets-go-together: 我们一起去吧。 mine=wǒmen yīqǐ qù ba pypinyin=wǒmenyìqǐqùba cedict_ok=True
+ZH one-diff ph-im-on-my-way: 我在路上了。 mine=wǒ zài lùshang le pypinyin=wǒzàilùshàngle cedict_ok=True
+ZH one-diff ph-do-you-want-to-come: 你想一起来吗？ mine=nǐ xiǎng yīqǐ lái ma? pypinyin=nǐxiǎngyìqǐláima cedict_ok=True
+ZH one-diff ph-call-me-when-you-arrive: 到了给我打电话。 mine=dào le gěi wǒ dǎ diànhuà pypinyin=dàolegěiwǒdǎdiànhuà cedict_ok=False
+ZH one-diff ph-i-cant-wait: 我等不及了！ mine=wǒ děng bu jí le pypinyin=wǒděngbùjíle cedict_ok=True
+ZH one-diff ph-i-didnt-mean-to: 我不是故意的。 mine=wǒ bù shì gùyì de pypinyin=wǒbúshìgùyìde cedict_ok=True
+ZH one-diff ph-sorry-to-bother-you: 不好意思，打扰了。 mine=bù hǎoyìsi, dǎrǎo le pypinyin=bùhǎoyìsīdǎrǎole cedict_ok=True
+ZH one-diff ph-its-okay-dont-worry-about-it: 没关系。 mine=méi guānxi pypinyin=méiguānxì cedict_ok=True
+ZH one-diff ph-it-wont-happen-again: 我下次不会了。 mine=wǒ xià cì bù huì le pypinyin=wǒxiàcìbúhuìle cedict_ok=True
+ZH one-diff ph-sorry-i-forgot: 对不起，我忘了。 mine=duìbuqǐ, wǒ wàng le pypinyin=duìbùqǐwǒwàngle cedict_ok=True
+ZH one-diff ph-sorry-my-mistake: 对不起，我弄错了。 mine=duìbuqǐ, wǒ nòng cuò le pypinyin=duìbùqǐwǒnòngcuòle cedict_ok=True
+ZH one-diff ph-you-look-great: 你看起来真不错！ mine=nǐ kàn qǐlai zhēn bùcuò pypinyin=nǐkànqǐláizhēnbùcuò cedict_ok=True
+ZH one-diff ph-i-like-your-shirt: 我喜欢你的衬衫。 mine=wǒ xǐhuan nǐ de chènshān pypinyin=wǒxǐhuānnǐdechènshān cedict_ok=True
+ZH one-diff ph-your-house-is-beautiful: 你家真漂亮。 mine=nǐ jiā zhēn piàoliang pypinyin=nǐjiāzhēnpiàoliàng cedict_ok=True
+ZH one-diff ph-youre-very-smart: 你真聪明。 mine=nǐ zhēn cōngming pypinyin=nǐzhēncōngmíng cedict_ok=True
+ZH one-diff ph-its-so-pretty: 真漂亮！ mine=zhēn piàoliang pypinyin=zhēnpiàoliàng cedict_ok=True
+ZH one-diff ph-thanks-you-too: 谢谢，你也是。 mine=xièxie, nǐ yě shì pypinyin=xièxiènǐyěshì cedict_ok=True
+ZH one-diff ph-please-write-it-down: 请写下来。 mine=qǐng xiě xiàlai pypinyin=qǐngxiěxiàlái cedict_ok=True
+ZH one-diff ph-i-dont-know-this-word: 我不认识这个词。 mine=wǒ bù rènshi zhège cí pypinyin=wǒbùrènshízhègecí cedict_ok=True
+ZH one-diff ph-my-luggage-is-missing: 我的行李不见了。 mine=wǒ de xíngli bù jiàn le pypinyin=wǒdexínglǐbújiànle cedict_ok=True
+ZH one-diff ph-i-left-my-bag-in-the-taxi: 我把包忘在出租车上了。 mine=wǒ bǎ bāo wàng zài chūzūchē shang le pypinyin=wǒbǎbāowàngzàichūzūchēshàngle cedict_ok=True
+ZH one-diff ph-this-bill-is-wrong: 这个账单不对。 mine=zhège zhàngdān bù duì pypinyin=zhègezhàngdānbúduì cedict_ok=True
+ZH one-diff ph-my-card-doesnt-work: 我的卡用不了。 mine=wǒ de kǎ yòng bu liǎo pypinyin=wǒdekǎyòngbùliǎo cedict_ok=True
+ZH one-diff ph-whats-your-favorite-food: 你最喜欢吃什么？ mine=nǐ zuì xǐhuan chī shénme? pypinyin=nǐzuìxǐhuānchīshénme cedict_ok=True
+ZH one-diff ph-my-favorite-food-is-pho: 我最喜欢吃河粉。 mine=wǒ zuì xǐhuan chī héfěn pypinyin=wǒzuìxǐhuānchīhéfěn cedict_ok=True
+ZH one-diff ph-good-idea: 好主意！ mine=hǎo zhǔyi pypinyin=hǎozhǔyì cedict_ok=True
+ZH one-diff ph-how-was-your-day: 你今天过得怎么样？ mine=nǐ jīntiān guò de zěnmeyàng? pypinyin=nǐjīntiānguòdézěnmeyàng cedict_ok=True
+ZH one-diff ph-ill-be-right-back: 我马上回来。 mine=wǒ mǎshàng huílai pypinyin=wǒmǎshànghuílái cedict_ok=True
+JA diff ph-have-a-nice-day: 良い一日を。 mine=yoi ichinichi o kakasi=yoitsuitachio.
+JA diff ph-im-vietnamese: 私はベトナム人です。 mine=watashi wa betonamujin desu kakasi=watashiwabetonamunindesu.
+JA diff ph-have-you-eaten-yet: ご飯を食べましたか。 mine=gohan o tabemashita ka kakasi=gomeshiotabemashitaka.
+JA diff ph-who-is-that-person: あの人は誰ですか。 mine=ano hito wa dare desu ka kakasi=anoninwadaredesuka.
+JA term-not-in-JMdict ph-what-time-is-it: 今何時
+JA diff ph-what-day-is-it-today: 今日は何曜日ですか。 mine=kyō wa nan'yōbi desu ka kakasi=konnichiwananyoubidesuka.
+JA diff ph-today-is-monday: 今日は月曜日です。 mine=kyō wa getsuyōbi desu kakasi=konnichiwagetsuyoubidesu.
+JA diff ph-whats-the-date-today: 今日は何日ですか。 mine=kyō wa nannichi desu ka kakasi=konnichiwanannichidesuka.
+JA diff ph-how-do-i-get-to-the-airport: 空港へはどうやって行きますか。 mine=kūkō e wa dō yatte ikimasu ka kakasi=kuukouhehadouyatteikimasuka.
+JA diff ph-im-hungry: お腹が空きました。 mine=onaka ga sukimashita kakasi=oharagaakimashita.
+JA diff ph-not-spicy-please: 辛くしないでください。 mine=karaku shinaide kudasai kakasi=tsurakushinaidekudasai.
+JA diff ph-a-large-one-please: Lサイズでお願いします。 mine=eru saizu de onegaishimasu kakasi=Lsaizudeonegaishimasu.
+JA diff ph-can-i-have-a-bag: 袋をもらえますか。 mine=fukuro o moraemasu ka kakasi=fukurowomoraemasuka.
+JA diff ph-whats-the-wi-fi-password: Wi-Fiのパスワードは何ですか。 mine=wai fai no pasuwādo wa nan desu ka kakasi=Wi-Finopasuwaadowanandesuka.
+JA diff ph-its-hot-today: 今日は暑いですね。 mine=kyō wa atsui desu ne kakasi=konnichiwaatsuidesune.
+JA term-not-in-JMdict ph-could-you-say-that-again: 一度言
+JA diff ph-i-lost-my-passport: パスポートをなくしました。 mine=pasupōto o nakushimashita kakasi=pasupootowonakushimashita.
+JA diff ph-whats-his-name: 彼の名前は何ですか。 mine=kare no namae wa nan desu ka kakasi=kanonamaewanandesuka.
+JA diff ph-may-i-come-in: 入ってもいいですか。 mine=haitte mo ii desu ka kakasi=itsutsutemoiidesuka.
+JA diff ph-please-come-in: どうぞ、お入りください。 mine=dōzo, ohairi kudasai kakasi=douzo,oirikudasai.
+JA diff ph-where-are-you-going: どこへ行きますか。 mine=doko e ikimasu ka kakasi=dokoheikimasuka.
+JA term-not-in-JMdict ph-its-half-past-two: 二時半
+JA diff ph-what-time-does-it-open: 何時に開きますか。 mine=nanji ni akimasu ka kakasi=nanjinihirakimasuka.
+JA diff ph-it-takes-ten-minutes: 十分かかります。 mine=juppun kakarimasu kakasi=juubunkakarimasu.
+JA diff ph-i-get-up-at-six-every-day: 毎日六時に起きます。 mine=mainichi rokuji ni okimasu kakasi=mainichirokutokiniokimasu.
+JA term-not-in-JMdict ph-i-get-up-at-six-every-day: 毎日六時
+JA diff ph-where-is-the-nearest-atm: 一番近いATMはどこですか。 mine=ichiban chikai ētīemu wa doko desu ka kakasi=ichibanchikaiATMhadokodesuka.
+JA term-not-in-JMdict ph-where-is-the-nearest-atm: 一番近
+JA diff ph-turn-at-the-corner: 角を曲がってください。 mine=kado o magatte kudasai kakasi=kakuomagatsutekudasai.
+JA diff ph-how-do-i-get-there: そこへはどうやって行きますか。 mine=soko e wa dō yatte ikimasu ka kakasi=sokohehadouyatteikimasuka.
+JA diff ph-im-full: お腹いっぱいです。 mine=onaka ippai desu kakasi=oharaippaidesu.
+JA diff ph-is-this-spicy: これは辛いですか。 mine=kore wa karai desu ka kakasi=korewatsuraidesuka.
+JA diff ph-a-little-spicy-is-okay: 少し辛いのは大丈夫です。 mine=sukoshi karai no wa daijōbu desu kakasi=sukoshitsurainowadaijoubudesu.
+JA diff ph-a-small-cappuccino-please: カプチーノのSサイズをください。 mine=kapuchīno no esu saizu o kudasai kakasi=kapuchiinonoSsaizuwokudasai.
+JA diff ph-do-you-have-wi-fi: Wi-Fiはありますか。 mine=wai fai wa arimasu ka kakasi=Wi-Fihaarimasuka.
+JA diff ph-do-you-have-a-bigger-size: もっと大きいサイズはありますか。 mine=motto ōkii saizu wa arimasu ka kakasi=mottoookiisaizuhaarimasuka.
+JA diff ph-can-i-get-a-receipt: レシートをください。 mine=reshīto o kudasai kakasi=reshiitowokudasai.
+JA diff ph-is-it-on-sale: これはセール中ですか。 mine=kore wa sēru chū desu ka kakasi=korewaseerunakadesuka.
+JA diff ph-where-is-the-market: 市場はどこですか。 mine=ichiba wa doko desu ka kakasi=shijouhadokodesuka.
+JA term-not-in-JMdict ph-for-two-nights: 二泊
+JA diff ph-my-stomach-hurts: お腹が痛いです。 mine=onaka ga itai desu kakasi=oharagaitaidesu.
+JA diff ph-i-have-travel-insurance: 旅行保険に入っています。 mine=ryokō hoken ni haitte imasu kakasi=ryokouhokenniitsutsuteimasu.
+JA diff ph-take-this-medicine-three-times-a-day: この薬を一日三回飲んでください。 mine=kono kusuri o ichinichi sankai nonde kudasai kakasi=konokusuriotsuitachisankainondekudasai.
+JA term-not-in-JMdict ph-take-this-medicine-three-times-a-day: 一日三回飲
+JA diff ph-im-angry: 怒っています。 mine=okotte imasu kakasi=ikatsuteimasu.
+JA term-not-in-JMdict ph-how-many-people-are-in-your-family: 何人家族
+JA term-not-in-JMdict ph-there-are-four-people-in-my-family: 四人家族
+JA diff ph-i-work-from-home: 在宅で仕事をしています。 mine=zaitaku de shigoto o shite imasu kakasi=zaitakudeshigotowoshiteimasu.
+JA diff ph-where-can-i-buy-a-sim-card: SIMカードはどこで買えますか。 mine=shimu kādo wa doko de kaemasu ka kakasi=SIMkaadohadokodekaemasuka.
+JA diff ph-the-wi-fi-isnt-working: Wi-Fiがつながりません。 mine=wai fai ga tsunagarimasen kakasi=Wi-Figatsunagarimasen.
+JA diff ph-its-cold-today: 今日は寒いですね。 mine=kyō wa samui desu ne kakasi=konnichiwasamuidesune.
+JA diff ph-its-a-beautiful-day: 今日はいい天気ですね。 mine=kyō wa ii tenki desu ne kakasi=konnichiwaiitenkidesune.
+JA diff ph-will-it-rain-tomorrow: 明日は雨が降りますか。 mine=ashita wa ame ga furimasu ka kakasi=ashitawaamegaorimasuka.
+JA diff ph-whats-the-temperature-today: 今日は何度ですか。 mine=kyō wa nando desu ka kakasi=konnichiwanandodesuka.
+JA term-not-in-JMdict ph-its-thirty-degrees: 三十度
+JA diff ph-do-you-want-to-have-dinner-together: 一緒に晩ご飯を食べませんか。 mine=issho ni bangohan o tabemasen ka kakasi=isshonibangomeshiotabemasenka.
+JA diff ph-im-busy-today: 今日は忙しいです。 mine=kyō wa isogashii desu kakasi=konnichiwaisogashiidesu.
+JA diff ph-ill-be-there-in-ten-minutes: 十分で着きます。 mine=juppun de tsukimasu kakasi=juubundetsukimasu.
+JA term-not-in-JMdict ph-im-on-my-way: 今向
+JA diff ph-your-house-is-beautiful: きれいなお家ですね。 mine=kirei na ouchi desu ne kakasi=kireinaoiedesune.
+JA diff ph-youre-funny: 面白い人ですね。 mine=omoshiroi hito desu ne kakasi=omoshiroinindesune.
+JA diff ph-repeat-after-me: 私の後について言ってください。 mine=watashi no ato ni tsuite itte kudasai kakasi=watashinonochinitsuiteittekudasai.
+JA diff ph-turn-to-page-ten: 十ページを開いてください。 mine=juppēji o hiraite kudasai kakasi=juupeejiohiraitekudasai.
+JA diff ph-what-page-are-we-on: 今、何ページですか。 mine=ima, nan pēji desu ka kakasi=ima,nanipeejidesuka.
+JA diff ph-i-dont-have-any-money: お金がありません。 mine=okane ga arimasen kakasi=okingaarimasen.
+JA diff ph-the-atm-ate-my-card: ATMからカードが出てきません。 mine=ētīemu kara kādo ga dete kimasen kakasi=ATMkarakaadogadetekimasen.
+JA diff ph-is-there-anyone-who-speaks-english: 英語を話せる人はいますか。 mine=eigo o hanaseru hito wa imasu ka kakasi=eigoohanaseruninhaimasuka.
+JA diff ph-can-i-have-more-rice: ご飯のおかわりをください。 mine=gohan no okawari o kudasai kakasi=gomeshinookawariwokudasai.
+JA diff ph-what-would-you-like-to-drink: お飲み物は何にしますか。 mine=onomimono wa nan ni shimasu ka kakasi=onomimonowananinishimasuka.
+JA diff ph-are-you-hungry: お腹が空いていますか。 mine=onaka ga suite imasu ka kakasi=oharagaaiteimasuka.
+JA term-not-in-JMdict ph-whats-your-favorite-food: 一番好
+JA term-not-in-JMdict ph-my-favorite-food-is-pho: 一番好
+JA diff ph-how-was-your-day: 今日はどうでしたか。 mine=kyō wa dō deshita ka kakasi=konnichiwadoudeshitaka.
+JA diff ph-how-many-more-stops: あと何駅ですか。 mine=ato nan'eki desu ka kakasi=atonaniekidesuka.
+JA term-not-in-JMdict ph-how-many-more-stops: 何駅
+VI unknown-syllable ph-where-is-the-nearest-atm: Cây ATM gần nhất ở đâu? -> ['atm']
+VI unknown-syllable ph-a-small-cappuccino-please: Cho tôi một ly cappuccino nhỏ. -> ['cappuccino']
+VI unknown-syllable ph-can-i-get-an-extra-shot: Cho tôi thêm một shot espresso. -> ['shot', 'espresso']
+VI unknown-syllable ph-whats-your-email: Email của bạn là gì? -> ['email']
+VI unknown-syllable ph-the-atm-ate-my-card: Cây ATM nuốt thẻ của tôi rồi. -> ['atm']
+ES unknown-word ph-her-name-is-lan: Ella se llama Lan. -> ['lan']
+ES unknown-word ph-please-wake-me-up-at-seven: Despiértenme a las siete, por favor. -> ['despiértenme']
+ES unknown-word ph-please-write-it-down: Escríbelo, por favor. -> ['escríbelo']
+ES unknown-word ph-my-favorite-food-is-pho: Mi comida favorita es el pho. -> ['pho']
+EN unknown-word ph-its-three-oclock: It's three o'clock. -> ['oclock']

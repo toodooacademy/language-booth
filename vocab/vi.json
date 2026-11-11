@@ -1,0 +1,7313 @@
+{
+ "lang": "vi",
+ "name": "Vietnamese",
+ "speech": "vi-VN",
+ "topics": [
+  {
+   "id": "greetings",
+   "label": "Greetings"
+  },
+  {
+   "id": "numbers",
+   "label": "Numbers"
+  },
+  {
+   "id": "time",
+   "label": "Time & Calendar"
+  },
+  {
+   "id": "family",
+   "label": "Family"
+  },
+  {
+   "id": "people",
+   "label": "People"
+  },
+  {
+   "id": "pronouns",
+   "label": "Pronouns & Pointing"
+  },
+  {
+   "id": "questions",
+   "label": "Question Words"
+  },
+  {
+   "id": "body",
+   "label": "Body"
+  },
+  {
+   "id": "colors",
+   "label": "Colors"
+  },
+  {
+   "id": "food",
+   "label": "Food & Drink"
+  },
+  {
+   "id": "verbs",
+   "label": "Common Verbs"
+  },
+  {
+   "id": "adjectives",
+   "label": "Describing Words"
+  }
+ ],
+ "tiers": [
+  {
+   "id": 1,
+   "label": "Beginner"
+  },
+  {
+   "id": 2,
+   "label": "Elementary"
+  },
+  {
+   "id": 3,
+   "label": "Pre-intermediate"
+  },
+  {
+   "id": 4,
+   "label": "Intermediate"
+  },
+  {
+   "id": 5,
+   "label": "Upper-intermediate"
+  }
+ ],
+ "pageSize": 24,
+ "count": 341,
+ "words": [
+  {
+   "id": "vi-hello",
+   "concept": "hello",
+   "text": "xin chào",
+   "speak": "xin chào",
+   "reading": "",
+   "meaning": "hello",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/hello.mp3",
+    "she": "vocab/audio/vi/she/hello.mp3"
+   },
+   "image": "vocab/img/hello.jpg",
+   "emoji": "👋",
+   "legacy": true,
+   "example_phrase": "xin chào cô",
+   "example_sentence": "Xin chào, tôi tên là Lan.",
+   "example_phrase_meaning": "hello, teacher",
+   "example_meaning": "Hello, my name is Lan.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/hello-ex.mp3",
+    "she": "vocab/audio/vi/she/hello-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-thank_you",
+   "concept": "thank_you",
+   "text": "cảm ơn",
+   "speak": "cảm ơn",
+   "reading": "",
+   "meaning": "thank you",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/vi/he/thank_you.mp3",
+    "she": "vocab/audio/vi/she/thank_you.mp3"
+   },
+   "image": "vocab/img/thank_you.jpg",
+   "emoji": "🙏",
+   "legacy": true,
+   "example_phrase": "cảm ơn nhiều",
+   "example_sentence": "Cảm ơn bạn vì tách trà.",
+   "example_phrase_meaning": "thank you very much",
+   "example_meaning": "Thank you for the tea.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/thank_you-ex.mp3",
+    "she": "vocab/audio/vi/she/thank_you-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-sorry",
+   "concept": "sorry",
+   "text": "xin lỗi",
+   "speak": "xin lỗi",
+   "reading": "",
+   "meaning": "sorry / excuse me",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/vi/he/sorry.mp3",
+    "she": "vocab/audio/vi/she/sorry.mp3"
+   },
+   "image": "vocab/img/sorry.jpg",
+   "emoji": "🙇",
+   "legacy": true,
+   "example_phrase": "thật xin lỗi",
+   "example_sentence": "Xin lỗi, tôi đến muộn.",
+   "example_phrase_meaning": "I'm very sorry",
+   "example_meaning": "Sorry, I am late.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/sorry-ex.mp3",
+    "she": "vocab/audio/vi/she/sorry-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-yes",
+   "concept": "yes",
+   "text": "vâng",
+   "speak": "vâng",
+   "reading": "",
+   "meaning": "yes (polite)",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/yes.mp3",
+    "she": "vocab/audio/vi/she/yes.mp3"
+   },
+   "image": "vocab/img/yes.jpg",
+   "emoji": "👍",
+   "legacy": true,
+   "example_phrase": "vâng, ạ",
+   "example_sentence": "Vâng, tôi là học sinh.",
+   "example_phrase_meaning": "yes, please",
+   "example_meaning": "Yes, I am a student.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/yes-ex.mp3",
+    "she": "vocab/audio/vi/she/yes-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-no",
+   "concept": "no",
+   "text": "không",
+   "speak": "không",
+   "reading": "",
+   "meaning": "no",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/no.mp3",
+    "she": "vocab/audio/vi/she/no.mp3"
+   },
+   "image": "vocab/img/no.jpg",
+   "emoji": "🙅",
+   "legacy": true,
+   "example_phrase": "không, cảm ơn",
+   "example_sentence": "Không, tôi không muốn cà phê.",
+   "example_phrase_meaning": "no, thank you",
+   "example_meaning": "No, I don't want coffee.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/no-ex.mp3",
+    "she": "vocab/audio/vi/she/no-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-goodbye",
+   "concept": "goodbye",
+   "text": "tạm biệt",
+   "speak": "tạm biệt",
+   "reading": "",
+   "meaning": "goodbye",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/goodbye.mp3",
+    "she": "vocab/audio/vi/she/goodbye.mp3"
+   },
+   "image": "vocab/img/goodbye.jpg",
+   "emoji": "👋",
+   "example_phrase": "tạm biệt mọi người",
+   "example_sentence": "Tạm biệt, hẹn gặp lại ngày mai.",
+   "example_phrase_meaning": "goodbye, everyone",
+   "example_meaning": "Goodbye, see you tomorrow.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/goodbye-ex.mp3",
+    "she": "vocab/audio/vi/she/goodbye-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-good_morning",
+   "concept": "good_morning",
+   "text": "chào buổi sáng",
+   "speak": "chào buổi sáng",
+   "reading": "",
+   "meaning": "good morning",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/vi/he/good_morning.mp3",
+    "she": "vocab/audio/vi/she/good_morning.mp3"
+   },
+   "image": "vocab/img/good_morning.jpg",
+   "emoji": "🌅",
+   "example_phrase": "chào buổi sáng mẹ",
+   "example_sentence": "Chào buổi sáng, bạn ngủ ngon không?",
+   "example_phrase_meaning": "good morning, mom",
+   "example_meaning": "Good morning, did you sleep well?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/good_morning-ex.mp3",
+    "she": "vocab/audio/vi/she/good_morning-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-good_night",
+   "concept": "good_night",
+   "text": "chúc ngủ ngon",
+   "speak": "chúc ngủ ngon",
+   "reading": "",
+   "meaning": "good night",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/vi/he/good_night.mp3",
+    "she": "vocab/audio/vi/she/good_night.mp3"
+   },
+   "image": "vocab/img/good_night.jpg",
+   "emoji": "🌙",
+   "example_phrase": "chúc bố ngủ ngon",
+   "example_sentence": "Chúc ngủ ngon, mơ đẹp nhé.",
+   "example_phrase_meaning": "good night, dad",
+   "example_meaning": "Good night, sleep well.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/good_night-ex.mp3",
+    "she": "vocab/audio/vi/she/good_night-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-please",
+   "concept": "please",
+   "text": "làm ơn",
+   "speak": "làm ơn",
+   "reading": "",
+   "meaning": "please",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/please.mp3",
+    "she": "vocab/audio/vi/she/please.mp3"
+   },
+   "image": "vocab/img/please.jpg",
+   "emoji": "🥺",
+   "example_phrase": "làm ơn cho nước",
+   "example_sentence": "Làm ơn ngồi xuống.",
+   "example_phrase_meaning": "water, please",
+   "example_meaning": "Please sit down.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/please-ex.mp3",
+    "she": "vocab/audio/vi/she/please-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-youre_welcome",
+   "concept": "youre_welcome",
+   "text": "không có gì",
+   "speak": "không có gì",
+   "reading": "",
+   "meaning": "you're welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/vi/he/youre_welcome.mp3",
+    "she": "vocab/audio/vi/she/youre_welcome.mp3"
+   },
+   "image": "vocab/img/youre_welcome.jpg",
+   "emoji": "😊",
+   "example_phrase": "không có gì đâu",
+   "example_sentence": "Không có gì, dễ mà.",
+   "example_phrase_meaning": "you're welcome, friend",
+   "example_meaning": "You're welcome, it was easy.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/youre_welcome-ex.mp3",
+    "she": "vocab/audio/vi/she/youre_welcome-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-welcome",
+   "concept": "welcome",
+   "text": "chào mừng",
+   "speak": "chào mừng",
+   "reading": "",
+   "meaning": "welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/welcome.mp3",
+    "she": "vocab/audio/vi/she/welcome.mp3"
+   },
+   "image": "vocab/img/welcome.jpg",
+   "emoji": "🤗",
+   "example_phrase": "chào mừng về nhà",
+   "example_sentence": "Chào mừng đến nhà tôi!",
+   "example_phrase_meaning": "welcome home",
+   "example_meaning": "Welcome to my house!",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/welcome-ex.mp3",
+    "she": "vocab/audio/vi/she/welcome-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-okay",
+   "concept": "okay",
+   "text": "được",
+   "speak": "được",
+   "reading": "",
+   "meaning": "okay",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/okay.mp3",
+    "she": "vocab/audio/vi/she/okay.mp3"
+   },
+   "image": "vocab/img/okay.jpg",
+   "emoji": "👌",
+   "example_phrase": "được, đi thôi",
+   "example_sentence": "Được, tôi hiểu rồi.",
+   "example_phrase_meaning": "okay, let's go",
+   "example_meaning": "Okay, I understand.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/okay-ex.mp3",
+    "she": "vocab/audio/vi/she/okay-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-nice_to_meet_you",
+   "concept": "nice_to_meet_you",
+   "text": "rất vui được gặp bạn",
+   "speak": "rất vui được gặp bạn",
+   "reading": "",
+   "meaning": "nice to meet you",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/vi/he/nice_to_meet_you.mp3",
+    "she": "vocab/audio/vi/she/nice_to_meet_you.mp3"
+   },
+   "image": "vocab/img/nice_to_meet_you.jpg",
+   "emoji": "🤝",
+   "example_phrase": "rất vui được gặp bạn",
+   "example_sentence": "Rất vui được gặp bạn, tôi là Minh.",
+   "example_phrase_meaning": "nice to meet you too",
+   "example_meaning": "Nice to meet you, I'm Minh.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/nice_to_meet_you-ex.mp3",
+    "she": "vocab/audio/vi/she/nice_to_meet_you-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-congratulations",
+   "concept": "congratulations",
+   "text": "chúc mừng",
+   "speak": "chúc mừng",
+   "reading": "",
+   "meaning": "congratulations",
+   "topic": "greetings",
+   "tier": 3,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/vi/he/congratulations.mp3",
+    "she": "vocab/audio/vi/she/congratulations.mp3"
+   },
+   "image": "vocab/img/congratulations.jpg",
+   "emoji": "🎉",
+   "example_phrase": "chúc mừng bạn",
+   "example_sentence": "Chúc mừng bạn có việc làm mới!",
+   "example_phrase_meaning": "congratulations to you",
+   "example_meaning": "Congratulations on your new job!",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/congratulations-ex.mp3",
+    "she": "vocab/audio/vi/she/congratulations-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-name",
+   "concept": "name",
+   "text": "tên",
+   "speak": "tên",
+   "reading": "",
+   "meaning": "name",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/name.mp3",
+    "she": "vocab/audio/vi/she/name.mp3"
+   },
+   "image": "vocab/img/name.jpg",
+   "emoji": "📛",
+   "example_phrase": "tên tôi",
+   "example_sentence": "Bạn tên là gì?",
+   "example_phrase_meaning": "my name",
+   "example_meaning": "What is your name?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/name-ex.mp3",
+    "she": "vocab/audio/vi/she/name-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-one",
+   "concept": "one",
+   "text": "một",
+   "speak": "một",
+   "reading": "",
+   "meaning": "one",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/one.mp3",
+    "she": "vocab/audio/vi/she/one.mp3"
+   },
+   "image": "vocab/img/one.jpg",
+   "emoji": "1️⃣",
+   "legacy": true,
+   "example_phrase": "một quả táo",
+   "example_sentence": "Tôi có một con mèo.",
+   "example_phrase_meaning": "one apple",
+   "example_meaning": "I have one cat.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/one-ex.mp3",
+    "she": "vocab/audio/vi/she/one-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-two",
+   "concept": "two",
+   "text": "hai",
+   "speak": "hai",
+   "reading": "",
+   "meaning": "two",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/two.mp3",
+    "she": "vocab/audio/vi/she/two.mp3"
+   },
+   "image": "vocab/img/two.jpg",
+   "emoji": "2️⃣",
+   "legacy": true,
+   "example_phrase": "hai cái cốc",
+   "example_sentence": "Tôi có hai anh trai.",
+   "example_phrase_meaning": "two cups",
+   "example_meaning": "I have two brothers.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/two-ex.mp3",
+    "she": "vocab/audio/vi/she/two-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-three",
+   "concept": "three",
+   "text": "ba",
+   "speak": "ba",
+   "reading": "",
+   "meaning": "three",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/three.mp3",
+    "she": "vocab/audio/vi/she/three.mp3"
+   },
+   "image": "vocab/img/three.jpg",
+   "emoji": "3️⃣",
+   "legacy": true,
+   "example_phrase": "ba quyển sách",
+   "example_sentence": "Có ba quyển sách trên bàn.",
+   "example_phrase_meaning": "three books",
+   "example_meaning": "There are three books on the table.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/three-ex.mp3",
+    "she": "vocab/audio/vi/she/three-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-four",
+   "concept": "four",
+   "text": "bốn",
+   "speak": "bốn",
+   "reading": "",
+   "meaning": "four",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/four.mp3",
+    "she": "vocab/audio/vi/she/four.mp3"
+   },
+   "image": "vocab/img/four.jpg",
+   "emoji": "4️⃣",
+   "legacy": true,
+   "example_phrase": "bốn mùa",
+   "example_sentence": "Một năm có bốn mùa.",
+   "example_phrase_meaning": "four seasons",
+   "example_meaning": "A year has four seasons.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/four-ex.mp3",
+    "she": "vocab/audio/vi/she/four-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-five",
+   "concept": "five",
+   "text": "năm",
+   "speak": "năm",
+   "reading": "",
+   "meaning": "five",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/five.mp3",
+    "she": "vocab/audio/vi/she/five.mp3"
+   },
+   "image": "vocab/img/five.jpg",
+   "emoji": "5️⃣",
+   "legacy": true,
+   "example_phrase": "năm ngón tay",
+   "example_sentence": "Bàn tay tôi có năm ngón.",
+   "example_phrase_meaning": "five fingers",
+   "example_meaning": "My hand has five fingers.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/five-ex.mp3",
+    "she": "vocab/audio/vi/she/five-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-six",
+   "concept": "six",
+   "text": "sáu",
+   "speak": "sáu",
+   "reading": "",
+   "meaning": "six",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/six.mp3",
+    "she": "vocab/audio/vi/she/six.mp3"
+   },
+   "image": "vocab/img/six.jpg",
+   "emoji": "6️⃣",
+   "legacy": true,
+   "example_phrase": "sáu quả trứng",
+   "example_sentence": "Làm ơn mua sáu quả trứng.",
+   "example_phrase_meaning": "six eggs",
+   "example_meaning": "Please buy six eggs.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/six-ex.mp3",
+    "she": "vocab/audio/vi/she/six-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-seven",
+   "concept": "seven",
+   "text": "bảy",
+   "speak": "bảy",
+   "reading": "",
+   "meaning": "seven",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/seven.mp3",
+    "she": "vocab/audio/vi/she/seven.mp3"
+   },
+   "image": "vocab/img/seven.jpg",
+   "emoji": "7️⃣",
+   "legacy": true,
+   "example_phrase": "bảy ngày",
+   "example_sentence": "Một tuần có bảy ngày.",
+   "example_phrase_meaning": "seven days",
+   "example_meaning": "A week has seven days.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/seven-ex.mp3",
+    "she": "vocab/audio/vi/she/seven-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-eight",
+   "concept": "eight",
+   "text": "tám",
+   "speak": "tám",
+   "reading": "",
+   "meaning": "eight",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/eight.mp3",
+    "she": "vocab/audio/vi/she/eight.mp3"
+   },
+   "image": "vocab/img/eight.jpg",
+   "emoji": "8️⃣",
+   "legacy": true,
+   "example_phrase": "tám giờ",
+   "example_sentence": "Tôi dậy lúc tám giờ.",
+   "example_phrase_meaning": "eight o'clock",
+   "example_meaning": "I get up at eight o'clock.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/eight-ex.mp3",
+    "she": "vocab/audio/vi/she/eight-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-nine",
+   "concept": "nine",
+   "text": "chín",
+   "speak": "chín",
+   "reading": "",
+   "meaning": "nine",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/nine.mp3",
+    "she": "vocab/audio/vi/she/nine.mp3"
+   },
+   "image": "vocab/img/nine.jpg",
+   "emoji": "9️⃣",
+   "legacy": true,
+   "example_phrase": "chín con mèo",
+   "example_sentence": "Bà tôi có chín con mèo.",
+   "example_phrase_meaning": "nine cats",
+   "example_meaning": "My grandmother has nine cats.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/nine-ex.mp3",
+    "she": "vocab/audio/vi/she/nine-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-ten",
+   "concept": "ten",
+   "text": "mười",
+   "speak": "mười",
+   "reading": "",
+   "meaning": "ten",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/ten.mp3",
+    "she": "vocab/audio/vi/she/ten.mp3"
+   },
+   "image": "vocab/img/ten.jpg",
+   "emoji": "🔟",
+   "legacy": true,
+   "example_phrase": "mười quả táo",
+   "example_sentence": "Có mười quả táo trên bàn.",
+   "example_phrase_meaning": "ten apples",
+   "example_meaning": "There are ten apples on the table.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/ten-ex.mp3",
+    "she": "vocab/audio/vi/she/ten-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-zero",
+   "concept": "zero",
+   "text": "số không",
+   "speak": "số không",
+   "reading": "",
+   "meaning": "zero",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/zero.mp3",
+    "she": "vocab/audio/vi/she/zero.mp3"
+   },
+   "image": "vocab/img/zero.jpg",
+   "emoji": "0️⃣",
+   "example_phrase": "không điểm",
+   "example_sentence": "Tôi được không điểm.",
+   "example_phrase_meaning": "zero points",
+   "example_meaning": "I got zero points.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/zero-ex.mp3",
+    "she": "vocab/audio/vi/she/zero-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-eleven",
+   "concept": "eleven",
+   "text": "mười một",
+   "speak": "mười một",
+   "reading": "",
+   "meaning": "eleven",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/eleven.mp3",
+    "she": "vocab/audio/vi/she/eleven.mp3"
+   },
+   "image": "vocab/img/eleven.jpg",
+   "emoji": "🔢",
+   "example_phrase": "mười một cầu thủ",
+   "example_sentence": "Một đội bóng đá có mười một cầu thủ.",
+   "example_phrase_meaning": "eleven players",
+   "example_meaning": "A soccer team has eleven players.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/eleven-ex.mp3",
+    "she": "vocab/audio/vi/she/eleven-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-twelve",
+   "concept": "twelve",
+   "text": "mười hai",
+   "speak": "mười hai",
+   "reading": "",
+   "meaning": "twelve",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/twelve.mp3",
+    "she": "vocab/audio/vi/she/twelve.mp3"
+   },
+   "image": "vocab/img/twelve.jpg",
+   "emoji": "🥚",
+   "example_phrase": "mười hai tháng",
+   "example_sentence": "Một năm có mười hai tháng.",
+   "example_phrase_meaning": "twelve months",
+   "example_meaning": "A year has twelve months.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/twelve-ex.mp3",
+    "she": "vocab/audio/vi/she/twelve-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-twenty",
+   "concept": "twenty",
+   "text": "hai mươi",
+   "speak": "hai mươi",
+   "reading": "",
+   "meaning": "twenty",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/twenty.mp3",
+    "she": "vocab/audio/vi/she/twenty.mp3"
+   },
+   "image": "vocab/img/twenty.jpg",
+   "emoji": "🔢",
+   "example_phrase": "hai mươi tuổi",
+   "example_sentence": "Chị tôi hai mươi tuổi.",
+   "example_phrase_meaning": "twenty years old",
+   "example_meaning": "My sister is twenty years old.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/twenty-ex.mp3",
+    "she": "vocab/audio/vi/she/twenty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-thirty",
+   "concept": "thirty",
+   "text": "ba mươi",
+   "speak": "ba mươi",
+   "reading": "",
+   "meaning": "thirty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/thirty.mp3",
+    "she": "vocab/audio/vi/she/thirty.mp3"
+   },
+   "image": "vocab/img/thirty.jpg",
+   "emoji": "🔢",
+   "example_phrase": "ba mươi phút",
+   "example_sentence": "Ba mươi phút nữa xe buýt đến.",
+   "example_phrase_meaning": "thirty minutes",
+   "example_meaning": "The bus comes in thirty minutes.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/thirty-ex.mp3",
+    "she": "vocab/audio/vi/she/thirty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-fifty",
+   "concept": "fifty",
+   "text": "năm mươi",
+   "speak": "năm mươi",
+   "reading": "",
+   "meaning": "fifty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/fifty.mp3",
+    "she": "vocab/audio/vi/she/fifty.mp3"
+   },
+   "image": "vocab/img/fifty.jpg",
+   "emoji": "🔢",
+   "example_phrase": "năm mươi người",
+   "example_sentence": "Năm mươi người đến bữa tiệc.",
+   "example_phrase_meaning": "fifty people",
+   "example_meaning": "Fifty people came to the party.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/fifty-ex.mp3",
+    "she": "vocab/audio/vi/she/fifty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-hundred",
+   "concept": "hundred",
+   "text": "một trăm",
+   "speak": "một trăm",
+   "reading": "",
+   "meaning": "hundred",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/hundred.mp3",
+    "she": "vocab/audio/vi/she/hundred.mp3"
+   },
+   "image": "vocab/img/hundred.jpg",
+   "emoji": "💯",
+   "example_phrase": "một trăm đô la",
+   "example_sentence": "Cái túi này giá một trăm đô la.",
+   "example_phrase_meaning": "one hundred dollars",
+   "example_meaning": "This bag costs one hundred dollars.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/hundred-ex.mp3",
+    "she": "vocab/audio/vi/she/hundred-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-thousand",
+   "concept": "thousand",
+   "text": "một nghìn",
+   "speak": "một nghìn",
+   "reading": "",
+   "meaning": "thousand",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/thousand.mp3",
+    "she": "vocab/audio/vi/she/thousand.mp3"
+   },
+   "image": "vocab/img/thousand.jpg",
+   "emoji": "🔢",
+   "example_phrase": "một nghìn ngôi sao",
+   "example_sentence": "Tôi thấy một nghìn ngôi sao.",
+   "example_phrase_meaning": "a thousand stars",
+   "example_meaning": "I can see a thousand stars.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/thousand-ex.mp3",
+    "she": "vocab/audio/vi/she/thousand-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-million",
+   "concept": "million",
+   "text": "một triệu",
+   "speak": "một triệu",
+   "reading": "",
+   "meaning": "million",
+   "topic": "numbers",
+   "tier": 4,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/vi/he/million.mp3",
+    "she": "vocab/audio/vi/she/million.mp3"
+   },
+   "image": "vocab/img/million.jpg",
+   "emoji": "💰",
+   "example_phrase": "một triệu người",
+   "example_sentence": "Một triệu người sống ở thành phố này.",
+   "example_phrase_meaning": "a million people",
+   "example_meaning": "A million people live in this city.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/million-ex.mp3",
+    "she": "vocab/audio/vi/she/million-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-first",
+   "concept": "first",
+   "text": "thứ nhất",
+   "speak": "thứ nhất",
+   "reading": "",
+   "meaning": "first",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/first.mp3",
+    "she": "vocab/audio/vi/she/first.mp3"
+   },
+   "image": "vocab/img/first.jpg",
+   "emoji": "🥇",
+   "example_phrase": "ngày đầu tiên",
+   "example_sentence": "Hôm nay là ngày đầu tiên tôi đi học.",
+   "example_phrase_meaning": "the first day",
+   "example_meaning": "Today is my first day at school.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/first-ex.mp3",
+    "she": "vocab/audio/vi/she/first-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-last",
+   "concept": "last",
+   "text": "cuối cùng",
+   "speak": "cuối cùng",
+   "reading": "",
+   "meaning": "last",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/last.mp3",
+    "she": "vocab/audio/vi/she/last.mp3"
+   },
+   "image": "vocab/img/last.jpg",
+   "emoji": "🏁",
+   "example_phrase": "chuyến tàu cuối cùng",
+   "example_sentence": "Đây là chuyến tàu cuối cùng.",
+   "example_phrase_meaning": "the last train",
+   "example_meaning": "This is the last train.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/last-ex.mp3",
+    "she": "vocab/audio/vi/she/last-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-half",
+   "concept": "half",
+   "text": "một nửa",
+   "speak": "một nửa",
+   "reading": "",
+   "meaning": "half",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/half.mp3",
+    "she": "vocab/audio/vi/she/half.mp3"
+   },
+   "image": "vocab/img/half.jpg",
+   "emoji": "🌓",
+   "example_phrase": "một nửa quả táo",
+   "example_sentence": "Tôi ăn một nửa quả táo.",
+   "example_phrase_meaning": "half an apple",
+   "example_meaning": "I ate half an apple.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/half-ex.mp3",
+    "she": "vocab/audio/vi/she/half-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-number",
+   "concept": "number",
+   "text": "số",
+   "speak": "số",
+   "reading": "",
+   "meaning": "number",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/number.mp3",
+    "she": "vocab/audio/vi/she/number.mp3"
+   },
+   "image": "vocab/img/number.jpg",
+   "emoji": "🔢",
+   "example_phrase": "số điện thoại",
+   "example_sentence": "Số điện thoại của bạn là gì?",
+   "example_phrase_meaning": "phone number",
+   "example_meaning": "What is your phone number?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/number-ex.mp3",
+    "she": "vocab/audio/vi/she/number-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-day",
+   "concept": "day",
+   "text": "ngày",
+   "speak": "ngày",
+   "reading": "",
+   "meaning": "day",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/day.mp3",
+    "she": "vocab/audio/vi/she/day.mp3"
+   },
+   "image": "vocab/img/day.jpg",
+   "emoji": "📅",
+   "example_phrase": "mỗi ngày",
+   "example_sentence": "Tôi uống trà mỗi ngày.",
+   "example_phrase_meaning": "every day",
+   "example_meaning": "I drink tea every day.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/day-ex.mp3",
+    "she": "vocab/audio/vi/she/day-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-week",
+   "concept": "week",
+   "text": "tuần",
+   "speak": "tuần",
+   "reading": "",
+   "meaning": "week",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/week.mp3",
+    "she": "vocab/audio/vi/she/week.mp3"
+   },
+   "image": "vocab/img/week.jpg",
+   "emoji": "🗓️",
+   "example_phrase": "tuần sau",
+   "example_sentence": "Tuần sau tôi sẽ đi Hà Nội.",
+   "example_phrase_meaning": "next week",
+   "example_meaning": "I will go to Hanoi next week.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/week-ex.mp3",
+    "she": "vocab/audio/vi/she/week-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-month",
+   "concept": "month",
+   "text": "tháng",
+   "speak": "tháng",
+   "reading": "",
+   "meaning": "month",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/month.mp3",
+    "she": "vocab/audio/vi/she/month.mp3"
+   },
+   "image": "vocab/img/month.jpg",
+   "emoji": "🗓️",
+   "example_phrase": "tháng này",
+   "example_sentence": "Tháng này rất bận.",
+   "example_phrase_meaning": "this month",
+   "example_meaning": "This month is very busy.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/month-ex.mp3",
+    "she": "vocab/audio/vi/she/month-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-year",
+   "concept": "year",
+   "text": "năm",
+   "speak": "năm",
+   "reading": "",
+   "meaning": "year",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/year.mp3",
+    "she": "vocab/audio/vi/she/year.mp3"
+   },
+   "image": "vocab/img/year.jpg",
+   "emoji": "🎆",
+   "example_phrase": "năm ngoái",
+   "example_sentence": "Năm ngoái tôi sống ở Tokyo.",
+   "example_phrase_meaning": "last year",
+   "example_meaning": "Last year I lived in Tokyo.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/year-ex.mp3",
+    "she": "vocab/audio/vi/she/year-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-today",
+   "concept": "today",
+   "text": "hôm nay",
+   "speak": "hôm nay",
+   "reading": "",
+   "meaning": "today",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/today.mp3",
+    "she": "vocab/audio/vi/she/today.mp3"
+   },
+   "image": "vocab/img/today.jpg",
+   "emoji": "📍",
+   "example_phrase": "thời tiết hôm nay",
+   "example_sentence": "Hôm nay là thứ hai.",
+   "example_phrase_meaning": "today's weather",
+   "example_meaning": "Today is Monday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/today-ex.mp3",
+    "she": "vocab/audio/vi/she/today-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-tomorrow",
+   "concept": "tomorrow",
+   "text": "ngày mai",
+   "speak": "ngày mai",
+   "reading": "",
+   "meaning": "tomorrow",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/tomorrow.mp3",
+    "she": "vocab/audio/vi/she/tomorrow.mp3"
+   },
+   "image": "vocab/img/tomorrow.jpg",
+   "emoji": "➡️",
+   "example_phrase": "hẹn gặp ngày mai",
+   "example_sentence": "Ngày mai tôi có bài kiểm tra.",
+   "example_phrase_meaning": "see you tomorrow",
+   "example_meaning": "Tomorrow I have a test.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/tomorrow-ex.mp3",
+    "she": "vocab/audio/vi/she/tomorrow-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-yesterday",
+   "concept": "yesterday",
+   "text": "hôm qua",
+   "speak": "hôm qua",
+   "reading": "",
+   "meaning": "yesterday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/yesterday.mp3",
+    "she": "vocab/audio/vi/she/yesterday.mp3"
+   },
+   "image": "vocab/img/yesterday.jpg",
+   "emoji": "⬅️",
+   "example_phrase": "sáng hôm qua",
+   "example_sentence": "Hôm qua trời mưa.",
+   "example_phrase_meaning": "yesterday morning",
+   "example_meaning": "Yesterday it rained.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/yesterday-ex.mp3",
+    "she": "vocab/audio/vi/she/yesterday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-now",
+   "concept": "now",
+   "text": "bây giờ",
+   "speak": "bây giờ",
+   "reading": "",
+   "meaning": "now",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/now.mp3",
+    "she": "vocab/audio/vi/she/now.mp3"
+   },
+   "image": "vocab/img/now.jpg",
+   "emoji": "⏱️",
+   "example_phrase": "ngay bây giờ",
+   "example_sentence": "Bây giờ tôi bận.",
+   "example_phrase_meaning": "right now",
+   "example_meaning": "I am busy now.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/now-ex.mp3",
+    "she": "vocab/audio/vi/she/now-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-morning",
+   "concept": "morning",
+   "text": "buổi sáng",
+   "speak": "buổi sáng",
+   "reading": "",
+   "meaning": "morning",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/morning.mp3",
+    "she": "vocab/audio/vi/she/morning.mp3"
+   },
+   "image": "vocab/img/morning.jpg",
+   "emoji": "🌅",
+   "example_phrase": "mỗi sáng",
+   "example_sentence": "Mỗi sáng tôi chạy bộ.",
+   "example_phrase_meaning": "every morning",
+   "example_meaning": "I run every morning.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/morning-ex.mp3",
+    "she": "vocab/audio/vi/she/morning-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-afternoon",
+   "concept": "afternoon",
+   "text": "buổi chiều",
+   "speak": "buổi chiều",
+   "reading": "",
+   "meaning": "afternoon",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/afternoon.mp3",
+    "she": "vocab/audio/vi/she/afternoon.mp3"
+   },
+   "image": "vocab/img/afternoon.jpg",
+   "emoji": "🌤️",
+   "example_phrase": "chiều nay",
+   "example_sentence": "Chiều nay tôi sẽ học bài.",
+   "example_phrase_meaning": "this afternoon",
+   "example_meaning": "This afternoon I will study.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/afternoon-ex.mp3",
+    "she": "vocab/audio/vi/she/afternoon-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-night",
+   "concept": "night",
+   "text": "ban đêm",
+   "speak": "ban đêm",
+   "reading": "",
+   "meaning": "night",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/night.mp3",
+    "she": "vocab/audio/vi/she/night.mp3"
+   },
+   "image": "vocab/img/night.jpg",
+   "emoji": "🌃",
+   "example_phrase": "tối qua",
+   "example_sentence": "Tối qua tôi ngủ ngon.",
+   "example_phrase_meaning": "last night",
+   "example_meaning": "Last night I slept well.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/night-ex.mp3",
+    "she": "vocab/audio/vi/she/night-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-hour",
+   "concept": "hour",
+   "text": "giờ",
+   "speak": "giờ",
+   "reading": "",
+   "meaning": "hour",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/hour.mp3",
+    "she": "vocab/audio/vi/she/hour.mp3"
+   },
+   "image": "vocab/img/hour.jpg",
+   "emoji": "⏳",
+   "example_phrase": "một giờ",
+   "example_sentence": "Tôi học một giờ.",
+   "example_phrase_meaning": "one hour",
+   "example_meaning": "I study for one hour.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/hour-ex.mp3",
+    "she": "vocab/audio/vi/she/hour-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-minute",
+   "concept": "minute",
+   "text": "phút",
+   "speak": "phút",
+   "reading": "",
+   "meaning": "minute",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/minute.mp3",
+    "she": "vocab/audio/vi/she/minute.mp3"
+   },
+   "image": "vocab/img/minute.jpg",
+   "emoji": "⏲️",
+   "example_phrase": "năm phút",
+   "example_sentence": "Làm ơn đợi năm phút.",
+   "example_phrase_meaning": "five minutes",
+   "example_meaning": "Please wait five minutes.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/minute-ex.mp3",
+    "she": "vocab/audio/vi/she/minute-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-second_time",
+   "concept": "second_time",
+   "text": "giây",
+   "speak": "giây",
+   "reading": "",
+   "meaning": "second (time)",
+   "topic": "time",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/second_time.mp3",
+    "she": "vocab/audio/vi/she/second_time.mp3"
+   },
+   "image": "vocab/img/second_time.jpg",
+   "emoji": "⏱️",
+   "example_phrase": "mười giây",
+   "example_sentence": "Đợi mười giây.",
+   "example_phrase_meaning": "ten seconds",
+   "example_meaning": "Wait ten seconds.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/second_time-ex.mp3",
+    "she": "vocab/audio/vi/she/second_time-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-time",
+   "concept": "time",
+   "text": "thời gian",
+   "speak": "thời gian",
+   "reading": "",
+   "meaning": "time",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/time.mp3",
+    "she": "vocab/audio/vi/she/time.mp3"
+   },
+   "image": "vocab/img/time.jpg",
+   "emoji": "🕰️",
+   "example_phrase": "thời gian rảnh",
+   "example_sentence": "Hôm nay tôi không có thời gian.",
+   "example_phrase_meaning": "free time",
+   "example_meaning": "I have no time today.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/time-ex.mp3",
+    "she": "vocab/audio/vi/she/time-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-clock",
+   "concept": "clock",
+   "text": "đồng hồ",
+   "speak": "đồng hồ",
+   "reading": "",
+   "meaning": "clock",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/clock.mp3",
+    "she": "vocab/audio/vi/she/clock.mp3"
+   },
+   "image": "vocab/img/clock.jpg",
+   "emoji": "🕰️",
+   "example_phrase": "cái đồng hồ to",
+   "example_sentence": "Đồng hồ ở trên tường.",
+   "example_phrase_meaning": "a big clock",
+   "example_meaning": "The clock is on the wall.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/clock-ex.mp3",
+    "she": "vocab/audio/vi/she/clock-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-monday",
+   "concept": "monday",
+   "text": "thứ hai",
+   "speak": "thứ hai",
+   "reading": "",
+   "meaning": "Monday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/monday.mp3",
+    "she": "vocab/audio/vi/she/monday.mp3"
+   },
+   "image": "vocab/img/monday.jpg",
+   "emoji": "📅",
+   "example_phrase": "thứ hai tuần sau",
+   "example_sentence": "Tôi làm việc vào thứ hai.",
+   "example_phrase_meaning": "next Monday",
+   "example_meaning": "I work on Monday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/monday-ex.mp3",
+    "she": "vocab/audio/vi/she/monday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-tuesday",
+   "concept": "tuesday",
+   "text": "thứ ba",
+   "speak": "thứ ba",
+   "reading": "",
+   "meaning": "Tuesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/tuesday.mp3",
+    "she": "vocab/audio/vi/she/tuesday.mp3"
+   },
+   "image": "vocab/img/tuesday.jpg",
+   "emoji": "📅",
+   "example_phrase": "mỗi thứ ba",
+   "example_sentence": "Tôi bơi vào mỗi thứ ba.",
+   "example_phrase_meaning": "every Tuesday",
+   "example_meaning": "I swim every Tuesday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/tuesday-ex.mp3",
+    "she": "vocab/audio/vi/she/tuesday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-wednesday",
+   "concept": "wednesday",
+   "text": "thứ tư",
+   "speak": "thứ tư",
+   "reading": "",
+   "meaning": "Wednesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/wednesday.mp3",
+    "she": "vocab/audio/vi/she/wednesday.mp3"
+   },
+   "image": "vocab/img/wednesday.jpg",
+   "emoji": "📅",
+   "example_phrase": "vào thứ tư",
+   "example_sentence": "Chúng tôi có lớp vào thứ tư.",
+   "example_phrase_meaning": "on Wednesday",
+   "example_meaning": "We have class on Wednesday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/wednesday-ex.mp3",
+    "she": "vocab/audio/vi/she/wednesday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-thursday",
+   "concept": "thursday",
+   "text": "thứ năm",
+   "speak": "thứ năm",
+   "reading": "",
+   "meaning": "Thursday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/thursday.mp3",
+    "she": "vocab/audio/vi/she/thursday.mp3"
+   },
+   "image": "vocab/img/thursday.jpg",
+   "emoji": "📅",
+   "example_phrase": "tối thứ năm",
+   "example_sentence": "Tôi gặp bạn vào thứ năm.",
+   "example_phrase_meaning": "Thursday evening",
+   "example_meaning": "I see my friend on Thursday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/thursday-ex.mp3",
+    "she": "vocab/audio/vi/she/thursday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-friday",
+   "concept": "friday",
+   "text": "thứ sáu",
+   "speak": "thứ sáu",
+   "reading": "",
+   "meaning": "Friday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/friday.mp3",
+    "she": "vocab/audio/vi/she/friday.mp3"
+   },
+   "image": "vocab/img/friday.jpg",
+   "emoji": "📅",
+   "example_phrase": "tối thứ sáu",
+   "example_sentence": "Thứ sáu là ngày tôi thích nhất.",
+   "example_phrase_meaning": "Friday night",
+   "example_meaning": "Friday is my favorite day.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/friday-ex.mp3",
+    "she": "vocab/audio/vi/she/friday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-saturday",
+   "concept": "saturday",
+   "text": "thứ bảy",
+   "speak": "thứ bảy",
+   "reading": "",
+   "meaning": "Saturday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/saturday.mp3",
+    "she": "vocab/audio/vi/she/saturday.mp3"
+   },
+   "image": "vocab/img/saturday.jpg",
+   "emoji": "📅",
+   "example_phrase": "thứ bảy này",
+   "example_sentence": "Thứ bảy này tôi sẽ đi mua sắm.",
+   "example_phrase_meaning": "this Saturday",
+   "example_meaning": "This Saturday I will go shopping.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/saturday-ex.mp3",
+    "she": "vocab/audio/vi/she/saturday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-sunday",
+   "concept": "sunday",
+   "text": "chủ nhật",
+   "speak": "chủ nhật",
+   "reading": "",
+   "meaning": "Sunday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/sunday.mp3",
+    "she": "vocab/audio/vi/she/sunday.mp3"
+   },
+   "image": "vocab/img/sunday.jpg",
+   "emoji": "📅",
+   "example_phrase": "vào chủ nhật",
+   "example_sentence": "Chủ nhật tôi nghỉ ở nhà.",
+   "example_phrase_meaning": "on Sunday",
+   "example_meaning": "On Sunday I rest at home.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/sunday-ex.mp3",
+    "she": "vocab/audio/vi/she/sunday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-weekend",
+   "concept": "weekend",
+   "text": "cuối tuần",
+   "speak": "cuối tuần",
+   "reading": "",
+   "meaning": "weekend",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/weekend.mp3",
+    "she": "vocab/audio/vi/she/weekend.mp3"
+   },
+   "image": "vocab/img/weekend.jpg",
+   "emoji": "🏖️",
+   "example_phrase": "cuối tuần này",
+   "example_sentence": "Cuối tuần này bạn sẽ làm gì?",
+   "example_phrase_meaning": "this weekend",
+   "example_meaning": "What will you do this weekend?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/weekend-ex.mp3",
+    "she": "vocab/audio/vi/she/weekend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-spring",
+   "concept": "spring",
+   "text": "mùa xuân",
+   "speak": "mùa xuân",
+   "reading": "",
+   "meaning": "spring",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/spring.mp3",
+    "she": "vocab/audio/vi/she/spring.mp3"
+   },
+   "image": "vocab/img/spring.jpg",
+   "emoji": "🌸",
+   "example_phrase": "vào mùa xuân",
+   "example_sentence": "Hoa nở vào mùa xuân.",
+   "example_phrase_meaning": "in spring",
+   "example_meaning": "Flowers bloom in spring.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/spring-ex.mp3",
+    "she": "vocab/audio/vi/she/spring-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-summer",
+   "concept": "summer",
+   "text": "mùa hè",
+   "speak": "mùa hè",
+   "reading": "",
+   "meaning": "summer",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/summer.mp3",
+    "she": "vocab/audio/vi/she/summer.mp3"
+   },
+   "image": "vocab/img/summer.jpg",
+   "emoji": "☀️",
+   "example_phrase": "kỳ nghỉ hè",
+   "example_sentence": "Mùa hè rất nóng.",
+   "example_phrase_meaning": "summer vacation",
+   "example_meaning": "Summer is very hot.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/summer-ex.mp3",
+    "she": "vocab/audio/vi/she/summer-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-autumn",
+   "concept": "autumn",
+   "text": "mùa thu",
+   "speak": "mùa thu",
+   "reading": "",
+   "meaning": "autumn",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/autumn.mp3",
+    "she": "vocab/audio/vi/she/autumn.mp3"
+   },
+   "image": "vocab/img/autumn.jpg",
+   "emoji": "🍂",
+   "example_phrase": "lá mùa thu",
+   "example_sentence": "Mùa thu lá chuyển màu đỏ.",
+   "example_phrase_meaning": "autumn leaves",
+   "example_meaning": "In autumn the leaves turn red.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/autumn-ex.mp3",
+    "she": "vocab/audio/vi/she/autumn-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-winter",
+   "concept": "winter",
+   "text": "mùa đông",
+   "speak": "mùa đông",
+   "reading": "",
+   "meaning": "winter",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/winter.mp3",
+    "she": "vocab/audio/vi/she/winter.mp3"
+   },
+   "image": "vocab/img/winter.jpg",
+   "emoji": "❄️",
+   "example_phrase": "mùa đông lạnh",
+   "example_sentence": "Mùa đông có tuyết.",
+   "example_phrase_meaning": "cold winter",
+   "example_meaning": "It snows in winter.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/winter-ex.mp3",
+    "she": "vocab/audio/vi/she/winter-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-birthday",
+   "concept": "birthday",
+   "text": "sinh nhật",
+   "speak": "sinh nhật",
+   "reading": "",
+   "meaning": "birthday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/birthday.mp3",
+    "she": "vocab/audio/vi/she/birthday.mp3"
+   },
+   "image": "vocab/img/birthday.jpg",
+   "emoji": "🎂",
+   "example_phrase": "chúc mừng sinh nhật",
+   "example_sentence": "Hôm nay là sinh nhật tôi.",
+   "example_phrase_meaning": "happy birthday",
+   "example_meaning": "Today is my birthday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/birthday-ex.mp3",
+    "she": "vocab/audio/vi/she/birthday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-early",
+   "concept": "early",
+   "text": "sớm",
+   "speak": "sớm",
+   "reading": "",
+   "meaning": "early",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/early.mp3",
+    "she": "vocab/audio/vi/she/early.mp3"
+   },
+   "image": "vocab/img/early.jpg",
+   "emoji": "🐓",
+   "example_phrase": "sáng sớm",
+   "example_sentence": "Tôi dậy sớm.",
+   "example_phrase_meaning": "early morning",
+   "example_meaning": "I get up early.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/early-ex.mp3",
+    "she": "vocab/audio/vi/she/early-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-late",
+   "concept": "late",
+   "text": "muộn",
+   "speak": "muộn",
+   "reading": "",
+   "meaning": "late",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/late.mp3",
+    "she": "vocab/audio/vi/she/late.mp3"
+   },
+   "image": "vocab/img/late.jpg",
+   "emoji": "🏃",
+   "example_phrase": "khuya",
+   "example_sentence": "Xe buýt đến muộn.",
+   "example_phrase_meaning": "late at night",
+   "example_meaning": "The bus is late.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/late-ex.mp3",
+    "she": "vocab/audio/vi/she/late-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-always",
+   "concept": "always",
+   "text": "luôn luôn",
+   "speak": "luôn luôn",
+   "reading": "",
+   "meaning": "always",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/always.mp3",
+    "she": "vocab/audio/vi/she/always.mp3"
+   },
+   "image": "vocab/img/always.jpg",
+   "emoji": "♾️",
+   "example_phrase": "luôn luôn vui",
+   "example_sentence": "Cô ấy luôn luôn vui vẻ.",
+   "example_phrase_meaning": "always happy",
+   "example_meaning": "She is always happy.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/always-ex.mp3",
+    "she": "vocab/audio/vi/she/always-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-sometimes",
+   "concept": "sometimes",
+   "text": "đôi khi",
+   "speak": "đôi khi",
+   "reading": "",
+   "meaning": "sometimes",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/sometimes.mp3",
+    "she": "vocab/audio/vi/she/sometimes.mp3"
+   },
+   "image": "vocab/img/sometimes.jpg",
+   "emoji": "🌦️",
+   "example_phrase": "đôi khi muộn",
+   "example_sentence": "Đôi khi tôi nấu ăn ở nhà.",
+   "example_phrase_meaning": "sometimes late",
+   "example_meaning": "Sometimes I cook at home.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/sometimes-ex.mp3",
+    "she": "vocab/audio/vi/she/sometimes-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-often",
+   "concept": "often",
+   "text": "thường",
+   "speak": "thường",
+   "reading": "",
+   "meaning": "often",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/often.mp3",
+    "she": "vocab/audio/vi/she/often.mp3"
+   },
+   "image": "vocab/img/often.jpg",
+   "emoji": "🔁",
+   "example_phrase": "thường đi",
+   "example_sentence": "Tôi thường uống cà phê.",
+   "example_phrase_meaning": "often go",
+   "example_meaning": "I often drink coffee.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/often-ex.mp3",
+    "she": "vocab/audio/vi/she/often-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-later",
+   "concept": "later",
+   "text": "sau",
+   "speak": "sau",
+   "reading": "",
+   "meaning": "later",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/later.mp3",
+    "she": "vocab/audio/vi/she/later.mp3"
+   },
+   "image": "vocab/img/later.jpg",
+   "emoji": "⏳",
+   "example_phrase": "hẹn gặp lại sau",
+   "example_sentence": "Tôi sẽ gọi cho bạn sau.",
+   "example_phrase_meaning": "see you later",
+   "example_meaning": "I will call you later.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/later-ex.mp3",
+    "she": "vocab/audio/vi/she/later-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-calendar",
+   "concept": "calendar",
+   "text": "lịch",
+   "speak": "lịch",
+   "reading": "",
+   "meaning": "calendar",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/calendar.mp3",
+    "she": "vocab/audio/vi/she/calendar.mp3"
+   },
+   "image": "vocab/img/calendar.jpg",
+   "emoji": "📆",
+   "example_phrase": "cuốn lịch mới",
+   "example_sentence": "Cuốn lịch ở trên tường.",
+   "example_phrase_meaning": "a new calendar",
+   "example_meaning": "The calendar is on the wall.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/calendar-ex.mp3",
+    "she": "vocab/audio/vi/she/calendar-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-mother",
+   "concept": "mother",
+   "text": "mẹ",
+   "speak": "mẹ",
+   "reading": "",
+   "meaning": "mother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/mother.mp3",
+    "she": "vocab/audio/vi/she/mother.mp3"
+   },
+   "image": "vocab/img/mother.jpg",
+   "emoji": "👩",
+   "legacy": true,
+   "example_phrase": "mẹ tôi",
+   "example_sentence": "Mẹ tôi là giáo viên.",
+   "example_phrase_meaning": "my mother",
+   "example_meaning": "My mother is a teacher.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/mother-ex.mp3",
+    "she": "vocab/audio/vi/she/mother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-father",
+   "concept": "father",
+   "text": "bố",
+   "speak": "bố",
+   "reading": "",
+   "meaning": "father",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/father.mp3",
+    "she": "vocab/audio/vi/she/father.mp3"
+   },
+   "image": "vocab/img/father.jpg",
+   "emoji": "👨",
+   "legacy": true,
+   "example_phrase": "bố tôi",
+   "example_sentence": "Bố tôi nấu bữa tối.",
+   "example_phrase_meaning": "my father",
+   "example_meaning": "My father cooks dinner.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/father-ex.mp3",
+    "she": "vocab/audio/vi/she/father-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-parents",
+   "concept": "parents",
+   "text": "bố mẹ",
+   "speak": "bố mẹ",
+   "reading": "",
+   "meaning": "parents",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/parents.mp3",
+    "she": "vocab/audio/vi/she/parents.mp3"
+   },
+   "image": "vocab/img/parents.jpg",
+   "emoji": "👪",
+   "example_phrase": "bố mẹ tôi",
+   "example_sentence": "Bố mẹ tôi sống ở Huế.",
+   "example_phrase_meaning": "my parents",
+   "example_meaning": "My parents live in Hue.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/parents-ex.mp3",
+    "she": "vocab/audio/vi/she/parents-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-older_brother",
+   "concept": "older_brother",
+   "text": "anh trai",
+   "speak": "anh trai",
+   "reading": "",
+   "meaning": "older brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/older_brother.mp3",
+    "she": "vocab/audio/vi/she/older_brother.mp3"
+   },
+   "image": "vocab/img/older_brother.jpg",
+   "emoji": "👦",
+   "example_phrase": "anh trai tôi",
+   "example_sentence": "Anh trai tôi rất cao.",
+   "example_phrase_meaning": "my older brother",
+   "example_meaning": "My older brother is tall.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/older_brother-ex.mp3",
+    "she": "vocab/audio/vi/she/older_brother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-older_sister",
+   "concept": "older_sister",
+   "text": "chị gái",
+   "speak": "chị gái",
+   "reading": "",
+   "meaning": "older sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/older_sister.mp3",
+    "she": "vocab/audio/vi/she/older_sister.mp3"
+   },
+   "image": "vocab/img/older_sister.jpg",
+   "emoji": "👧",
+   "example_phrase": "chị gái tôi",
+   "example_sentence": "Chị gái tôi thích âm nhạc.",
+   "example_phrase_meaning": "my older sister",
+   "example_meaning": "My older sister likes music.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/older_sister-ex.mp3",
+    "she": "vocab/audio/vi/she/older_sister-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-younger_brother",
+   "concept": "younger_brother",
+   "text": "em trai",
+   "speak": "em trai",
+   "reading": "",
+   "meaning": "younger brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/younger_brother.mp3",
+    "she": "vocab/audio/vi/she/younger_brother.mp3"
+   },
+   "image": "vocab/img/younger_brother.jpg",
+   "emoji": "👦",
+   "example_phrase": "em trai tôi",
+   "example_sentence": "Em trai tôi năm tuổi.",
+   "example_phrase_meaning": "my little brother",
+   "example_meaning": "My little brother is five years old.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/younger_brother-ex.mp3",
+    "she": "vocab/audio/vi/she/younger_brother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-younger_sister",
+   "concept": "younger_sister",
+   "text": "em gái",
+   "speak": "em gái",
+   "reading": "",
+   "meaning": "younger sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/younger_sister.mp3",
+    "she": "vocab/audio/vi/she/younger_sister.mp3"
+   },
+   "image": "vocab/img/younger_sister.jpg",
+   "emoji": "👧",
+   "example_phrase": "em gái tôi",
+   "example_sentence": "Em gái tôi rất thích mèo.",
+   "example_phrase_meaning": "my little sister",
+   "example_meaning": "My little sister loves cats.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/younger_sister-ex.mp3",
+    "she": "vocab/audio/vi/she/younger_sister-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-son",
+   "concept": "son",
+   "text": "con trai",
+   "speak": "con trai",
+   "reading": "",
+   "meaning": "son",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/son.mp3",
+    "she": "vocab/audio/vi/she/son.mp3"
+   },
+   "image": "vocab/img/son.jpg",
+   "emoji": "👦",
+   "example_phrase": "con trai họ",
+   "example_sentence": "Con trai họ là bác sĩ.",
+   "example_phrase_meaning": "their son",
+   "example_meaning": "Their son is a doctor.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/son-ex.mp3",
+    "she": "vocab/audio/vi/she/son-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-daughter",
+   "concept": "daughter",
+   "text": "con gái",
+   "speak": "con gái",
+   "reading": "",
+   "meaning": "daughter",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/daughter.mp3",
+    "she": "vocab/audio/vi/she/daughter.mp3"
+   },
+   "image": "vocab/img/daughter.jpg",
+   "emoji": "👧",
+   "example_phrase": "con gái cô ấy",
+   "example_sentence": "Con gái cô ấy rất thông minh.",
+   "example_phrase_meaning": "her daughter",
+   "example_meaning": "Her daughter is very smart.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/daughter-ex.mp3",
+    "she": "vocab/audio/vi/she/daughter-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-child",
+   "concept": "child",
+   "text": "đứa trẻ",
+   "speak": "đứa trẻ",
+   "reading": "",
+   "meaning": "child",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/child.mp3",
+    "she": "vocab/audio/vi/she/child.mp3"
+   },
+   "image": "vocab/img/child.jpg",
+   "emoji": "🧒",
+   "example_phrase": "đứa trẻ vui vẻ",
+   "example_sentence": "Đứa trẻ đang chơi trong công viên.",
+   "example_phrase_meaning": "a happy child",
+   "example_meaning": "The child is playing in the park.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/child-ex.mp3",
+    "she": "vocab/audio/vi/she/child-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-baby",
+   "concept": "baby",
+   "text": "em bé",
+   "speak": "em bé",
+   "reading": "",
+   "meaning": "baby",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/baby.mp3",
+    "she": "vocab/audio/vi/she/baby.mp3"
+   },
+   "image": "vocab/img/baby.jpg",
+   "emoji": "👶",
+   "example_phrase": "em bé dễ thương",
+   "example_sentence": "Em bé đang ngủ.",
+   "example_phrase_meaning": "a cute baby",
+   "example_meaning": "The baby is sleeping.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/baby-ex.mp3",
+    "she": "vocab/audio/vi/she/baby-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-grandmother",
+   "concept": "grandmother",
+   "text": "bà",
+   "speak": "bà",
+   "reading": "",
+   "meaning": "grandmother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/grandmother.mp3",
+    "she": "vocab/audio/vi/she/grandmother.mp3"
+   },
+   "image": "vocab/img/grandmother.jpg",
+   "emoji": "👵",
+   "example_phrase": "bà tôi",
+   "example_sentence": "Bà tôi nấu canh rất ngon.",
+   "example_phrase_meaning": "my grandmother",
+   "example_meaning": "My grandmother makes good soup.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/grandmother-ex.mp3",
+    "she": "vocab/audio/vi/she/grandmother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-grandfather",
+   "concept": "grandfather",
+   "text": "ông",
+   "speak": "ông",
+   "reading": "",
+   "meaning": "grandfather",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/grandfather.mp3",
+    "she": "vocab/audio/vi/she/grandfather.mp3"
+   },
+   "image": "vocab/img/grandfather.jpg",
+   "emoji": "👴",
+   "example_phrase": "ông tôi",
+   "example_sentence": "Ông tôi đọc báo.",
+   "example_phrase_meaning": "my grandfather",
+   "example_meaning": "My grandfather reads the newspaper.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/grandfather-ex.mp3",
+    "she": "vocab/audio/vi/she/grandfather-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-husband",
+   "concept": "husband",
+   "text": "chồng",
+   "speak": "chồng",
+   "reading": "",
+   "meaning": "husband",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/husband.mp3",
+    "she": "vocab/audio/vi/she/husband.mp3"
+   },
+   "image": "vocab/img/husband.jpg",
+   "emoji": "🤵",
+   "example_phrase": "chồng cô ấy",
+   "example_sentence": "Chồng cô ấy rất tốt bụng.",
+   "example_phrase_meaning": "her husband",
+   "example_meaning": "Her husband is kind.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/husband-ex.mp3",
+    "she": "vocab/audio/vi/she/husband-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-wife",
+   "concept": "wife",
+   "text": "vợ",
+   "speak": "vợ",
+   "reading": "",
+   "meaning": "wife",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/wife.mp3",
+    "she": "vocab/audio/vi/she/wife.mp3"
+   },
+   "image": "vocab/img/wife.jpg",
+   "emoji": "👰",
+   "example_phrase": "vợ anh ấy",
+   "example_sentence": "Vợ anh ấy là y tá.",
+   "example_phrase_meaning": "his wife",
+   "example_meaning": "His wife is a nurse.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/wife-ex.mp3",
+    "she": "vocab/audio/vi/she/wife-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-family",
+   "concept": "family",
+   "text": "gia đình",
+   "speak": "gia đình",
+   "reading": "",
+   "meaning": "family",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/family.mp3",
+    "she": "vocab/audio/vi/she/family.mp3"
+   },
+   "image": "vocab/img/family.jpg",
+   "emoji": "👨‍👩‍👧",
+   "example_phrase": "gia đình tôi",
+   "example_sentence": "Gia đình tôi có bốn người.",
+   "example_phrase_meaning": "my family",
+   "example_meaning": "My family has four people.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/family-ex.mp3",
+    "she": "vocab/audio/vi/she/family-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-uncle",
+   "concept": "uncle",
+   "text": "chú",
+   "speak": "chú",
+   "reading": "",
+   "meaning": "uncle",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/uncle.mp3",
+    "she": "vocab/audio/vi/she/uncle.mp3"
+   },
+   "image": "vocab/img/uncle.jpg",
+   "emoji": "👨",
+   "example_phrase": "chú tôi",
+   "example_sentence": "Chú tôi sống ở Đà Nẵng.",
+   "example_phrase_meaning": "my uncle",
+   "example_meaning": "My uncle lives in Da Nang.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/uncle-ex.mp3",
+    "she": "vocab/audio/vi/she/uncle-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-aunt",
+   "concept": "aunt",
+   "text": "cô",
+   "speak": "cô",
+   "reading": "",
+   "meaning": "aunt",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/aunt.mp3",
+    "she": "vocab/audio/vi/she/aunt.mp3"
+   },
+   "image": "vocab/img/aunt.jpg",
+   "emoji": "👩",
+   "example_phrase": "cô tôi",
+   "example_sentence": "Cô tôi tặng tôi một món quà.",
+   "example_phrase_meaning": "my aunt",
+   "example_meaning": "My aunt gave me a gift.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/aunt-ex.mp3",
+    "she": "vocab/audio/vi/she/aunt-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-grandchild",
+   "concept": "grandchild",
+   "text": "cháu",
+   "speak": "cháu",
+   "reading": "",
+   "meaning": "grandchild",
+   "topic": "family",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/grandchild.mp3",
+    "she": "vocab/audio/vi/she/grandchild.mp3"
+   },
+   "image": "vocab/img/grandchild.jpg",
+   "emoji": "👶",
+   "example_phrase": "cháu của bà",
+   "example_sentence": "Bà chơi với cháu.",
+   "example_phrase_meaning": "her grandchild",
+   "example_meaning": "Grandma plays with her grandchild.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/grandchild-ex.mp3",
+    "she": "vocab/audio/vi/she/grandchild-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-person",
+   "concept": "person",
+   "text": "người",
+   "speak": "người",
+   "reading": "",
+   "meaning": "person",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/person.mp3",
+    "she": "vocab/audio/vi/she/person.mp3"
+   },
+   "image": "vocab/img/person.jpg",
+   "emoji": "🧍",
+   "example_phrase": "một người tốt",
+   "example_sentence": "Anh ấy là một người tốt.",
+   "example_phrase_meaning": "a kind person",
+   "example_meaning": "He is a kind person.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/person-ex.mp3",
+    "she": "vocab/audio/vi/she/person-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-man",
+   "concept": "man",
+   "text": "đàn ông",
+   "speak": "đàn ông",
+   "reading": "",
+   "meaning": "man",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/man.mp3",
+    "she": "vocab/audio/vi/she/man.mp3"
+   },
+   "image": "vocab/img/man.jpg",
+   "emoji": "👨",
+   "example_phrase": "người đàn ông cao",
+   "example_sentence": "Người đàn ông kia là thầy giáo tôi.",
+   "example_phrase_meaning": "a tall man",
+   "example_meaning": "That man is my teacher.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/man-ex.mp3",
+    "she": "vocab/audio/vi/she/man-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-woman",
+   "concept": "woman",
+   "text": "phụ nữ",
+   "speak": "phụ nữ",
+   "reading": "",
+   "meaning": "woman",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/woman.mp3",
+    "she": "vocab/audio/vi/she/woman.mp3"
+   },
+   "image": "vocab/img/woman.jpg",
+   "emoji": "👩",
+   "example_phrase": "người phụ nữ trẻ",
+   "example_sentence": "Người phụ nữ đang đọc sách.",
+   "example_phrase_meaning": "a young woman",
+   "example_meaning": "The woman is reading a book.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/woman-ex.mp3",
+    "she": "vocab/audio/vi/she/woman-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-boy",
+   "concept": "boy",
+   "text": "cậu bé",
+   "speak": "cậu bé",
+   "reading": "",
+   "meaning": "boy",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/boy.mp3",
+    "she": "vocab/audio/vi/she/boy.mp3"
+   },
+   "image": "vocab/img/boy.jpg",
+   "emoji": "👦",
+   "example_phrase": "cậu bé nhỏ",
+   "example_sentence": "Cậu bé đang chạy.",
+   "example_phrase_meaning": "a little boy",
+   "example_meaning": "The boy is running.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/boy-ex.mp3",
+    "she": "vocab/audio/vi/she/boy-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-girl",
+   "concept": "girl",
+   "text": "cô bé",
+   "speak": "cô bé",
+   "reading": "",
+   "meaning": "girl",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/girl.mp3",
+    "she": "vocab/audio/vi/she/girl.mp3"
+   },
+   "image": "vocab/img/girl.jpg",
+   "emoji": "👧",
+   "example_phrase": "cô bé thông minh",
+   "example_sentence": "Cô bé thích vẽ.",
+   "example_phrase_meaning": "a smart girl",
+   "example_meaning": "The girl likes to draw.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/girl-ex.mp3",
+    "she": "vocab/audio/vi/she/girl-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-friend",
+   "concept": "friend",
+   "text": "bạn",
+   "speak": "bạn",
+   "reading": "",
+   "meaning": "friend",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/friend.mp3",
+    "she": "vocab/audio/vi/she/friend.mp3"
+   },
+   "image": "vocab/img/friend.jpg",
+   "emoji": "🧑‍🤝‍🧑",
+   "example_phrase": "bạn thân tôi",
+   "example_sentence": "Bạn tôi sống gần đây.",
+   "example_phrase_meaning": "my best friend",
+   "example_meaning": "My friend lives near here.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/friend-ex.mp3",
+    "she": "vocab/audio/vi/she/friend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-teacher",
+   "concept": "teacher",
+   "text": "giáo viên",
+   "speak": "giáo viên",
+   "reading": "",
+   "meaning": "teacher",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/teacher.mp3",
+    "she": "vocab/audio/vi/she/teacher.mp3"
+   },
+   "image": "vocab/img/teacher.jpg",
+   "emoji": "🧑‍🏫",
+   "example_phrase": "giáo viên của chúng tôi",
+   "example_sentence": "Giáo viên của chúng tôi rất vui tính.",
+   "example_phrase_meaning": "our teacher",
+   "example_meaning": "Our teacher is very funny.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/teacher-ex.mp3",
+    "she": "vocab/audio/vi/she/teacher-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-student",
+   "concept": "student",
+   "text": "học sinh",
+   "speak": "học sinh",
+   "reading": "",
+   "meaning": "student",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/student.mp3",
+    "she": "vocab/audio/vi/she/student.mp3"
+   },
+   "image": "vocab/img/student.jpg",
+   "emoji": "🧑‍🎓",
+   "example_phrase": "học sinh mới",
+   "example_sentence": "Tôi là học sinh.",
+   "example_phrase_meaning": "a new student",
+   "example_meaning": "I am a student.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/student-ex.mp3",
+    "she": "vocab/audio/vi/she/student-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-neighbor",
+   "concept": "neighbor",
+   "text": "hàng xóm",
+   "speak": "hàng xóm",
+   "reading": "",
+   "meaning": "neighbor",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/neighbor.mp3",
+    "she": "vocab/audio/vi/she/neighbor.mp3"
+   },
+   "image": "vocab/img/neighbor.jpg",
+   "emoji": "🏘️",
+   "example_phrase": "hàng xóm tôi",
+   "example_sentence": "Hàng xóm tôi có một con chó to.",
+   "example_phrase_meaning": "my neighbor",
+   "example_meaning": "My neighbor has a big dog.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/neighbor-ex.mp3",
+    "she": "vocab/audio/vi/she/neighbor-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-guest",
+   "concept": "guest",
+   "text": "khách",
+   "speak": "khách",
+   "reading": "",
+   "meaning": "guest",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/guest.mp3",
+    "she": "vocab/audio/vi/she/guest.mp3"
+   },
+   "image": "vocab/img/guest.jpg",
+   "emoji": "🛎️",
+   "example_phrase": "một vị khách đặc biệt",
+   "example_sentence": "Tối nay nhà tôi có khách.",
+   "example_phrase_meaning": "a special guest",
+   "example_meaning": "We have a guest tonight.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/guest-ex.mp3",
+    "she": "vocab/audio/vi/she/guest-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-everyone",
+   "concept": "everyone",
+   "text": "mọi người",
+   "speak": "mọi người",
+   "reading": "",
+   "meaning": "everyone",
+   "topic": "people",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/everyone.mp3",
+    "she": "vocab/audio/vi/she/everyone.mp3"
+   },
+   "image": "vocab/img/everyone.jpg",
+   "emoji": "👥",
+   "example_phrase": "chào mọi người",
+   "example_sentence": "Mọi người đều thích kem.",
+   "example_phrase_meaning": "hello everyone",
+   "example_meaning": "Everyone likes ice cream.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/everyone-ex.mp3",
+    "she": "vocab/audio/vi/she/everyone-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-adult",
+   "concept": "adult",
+   "text": "người lớn",
+   "speak": "người lớn",
+   "reading": "",
+   "meaning": "adult",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/adult.mp3",
+    "she": "vocab/audio/vi/she/adult.mp3"
+   },
+   "image": "vocab/img/adult.jpg",
+   "emoji": "🧑",
+   "example_phrase": "hai người lớn",
+   "example_sentence": "Cho hai người lớn và một trẻ em.",
+   "example_phrase_meaning": "two adults",
+   "example_meaning": "Two adults and one child, please.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/adult-ex.mp3",
+    "she": "vocab/audio/vi/she/adult-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-boyfriend",
+   "concept": "boyfriend",
+   "text": "bạn trai",
+   "speak": "bạn trai",
+   "reading": "",
+   "meaning": "boyfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/boyfriend.mp3",
+    "she": "vocab/audio/vi/she/boyfriend.mp3"
+   },
+   "image": "vocab/img/boyfriend.jpg",
+   "emoji": "💑",
+   "example_phrase": "bạn trai cô ấy",
+   "example_sentence": "Bạn trai cô ấy đến từ Tây Ban Nha.",
+   "example_phrase_meaning": "her boyfriend",
+   "example_meaning": "Her boyfriend is from Spain.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/boyfriend-ex.mp3",
+    "she": "vocab/audio/vi/she/boyfriend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-girlfriend",
+   "concept": "girlfriend",
+   "text": "bạn gái",
+   "speak": "bạn gái",
+   "reading": "",
+   "meaning": "girlfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/girlfriend.mp3",
+    "she": "vocab/audio/vi/she/girlfriend.mp3"
+   },
+   "image": "vocab/img/girlfriend.jpg",
+   "emoji": "💑",
+   "example_phrase": "bạn gái anh ấy",
+   "example_sentence": "Bạn gái anh ấy là ca sĩ.",
+   "example_phrase_meaning": "his girlfriend",
+   "example_meaning": "His girlfriend is a singer.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/vi/he/girlfriend-ex.mp3",
+    "she": "vocab/audio/vi/she/girlfriend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "vi-i",
+   "concept": "i",
+   "text": "tôi",
+   "speak": "tôi",
+   "reading": "",
+   "meaning": "I",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/i.mp3",
+    "she": "vocab/audio/vi/she/i.mp3"
+   },
+   "image": "vocab/img/i.jpg",
+   "emoji": "🙋",
+   "review": false
+  },
+  {
+   "id": "vi-you",
+   "concept": "you",
+   "text": "bạn",
+   "speak": "bạn",
+   "reading": "",
+   "meaning": "you",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/you.mp3",
+    "she": "vocab/audio/vi/she/you.mp3"
+   },
+   "image": "vocab/img/you.jpg",
+   "emoji": "🫵",
+   "review": false
+  },
+  {
+   "id": "vi-he",
+   "concept": "he",
+   "text": "anh ấy",
+   "speak": "anh ấy",
+   "reading": "",
+   "meaning": "he",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/he.mp3",
+    "she": "vocab/audio/vi/she/he.mp3"
+   },
+   "image": "vocab/img/he.jpg",
+   "emoji": "👨",
+   "review": false
+  },
+  {
+   "id": "vi-she",
+   "concept": "she",
+   "text": "cô ấy",
+   "speak": "cô ấy",
+   "reading": "",
+   "meaning": "she",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/she.mp3",
+    "she": "vocab/audio/vi/she/she.mp3"
+   },
+   "image": "vocab/img/she.jpg",
+   "emoji": "👩",
+   "review": false
+  },
+  {
+   "id": "vi-we",
+   "concept": "we",
+   "text": "chúng tôi",
+   "speak": "chúng tôi",
+   "reading": "",
+   "meaning": "we",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/we.mp3",
+    "she": "vocab/audio/vi/she/we.mp3"
+   },
+   "image": "vocab/img/we.jpg",
+   "emoji": "👫",
+   "review": false
+  },
+  {
+   "id": "vi-they",
+   "concept": "they",
+   "text": "họ",
+   "speak": "họ",
+   "reading": "",
+   "meaning": "they",
+   "topic": "pronouns",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/they.mp3",
+    "she": "vocab/audio/vi/she/they.mp3"
+   },
+   "image": "vocab/img/they.jpg",
+   "emoji": "👥",
+   "review": false
+  },
+  {
+   "id": "vi-this",
+   "concept": "this",
+   "text": "cái này",
+   "speak": "cái này",
+   "reading": "",
+   "meaning": "this",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/this.mp3",
+    "she": "vocab/audio/vi/she/this.mp3"
+   },
+   "image": "vocab/img/this.jpg",
+   "emoji": "👇",
+   "review": false
+  },
+  {
+   "id": "vi-that",
+   "concept": "that",
+   "text": "cái kia",
+   "speak": "cái kia",
+   "reading": "",
+   "meaning": "that",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/vi/he/that.mp3",
+    "she": "vocab/audio/vi/she/that.mp3"
+   },
+   "image": "vocab/img/that.jpg",
+   "emoji": "👉",
+   "review": false
+  },
+  {
+   "id": "vi-here",
+   "concept": "here",
+   "text": "ở đây",
+   "speak": "ở đây",
+   "reading": "",
+   "meaning": "here",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/here.mp3",
+    "she": "vocab/audio/vi/she/here.mp3"
+   },
+   "image": "vocab/img/here.jpg",
+   "emoji": "📍",
+   "review": false
+  },
+  {
+   "id": "vi-there",
+   "concept": "there",
+   "text": "ở đó",
+   "speak": "ở đó",
+   "reading": "",
+   "meaning": "there",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/vi/he/there.mp3",
+    "she": "vocab/audio/vi/she/there.mp3"
+   },
+   "image": "vocab/img/there.jpg",
+   "emoji": "🗺️",
+   "review": false
+  },
+  {
+   "id": "vi-what",
+   "concept": "what",
+   "text": "cái gì",
+   "speak": "cái gì",
+   "reading": "",
+   "meaning": "what",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/what.mp3",
+    "she": "vocab/audio/vi/she/what.mp3"
+   },
+   "image": "vocab/img/what.jpg",
+   "emoji": "❓",
+   "review": false
+  },
+  {
+   "id": "vi-who",
+   "concept": "who",
+   "text": "ai",
+   "speak": "ai",
+   "reading": "",
+   "meaning": "who",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/who.mp3",
+    "she": "vocab/audio/vi/she/who.mp3"
+   },
+   "image": "vocab/img/who.jpg",
+   "emoji": "🕵️",
+   "review": false
+  },
+  {
+   "id": "vi-where",
+   "concept": "where",
+   "text": "ở đâu",
+   "speak": "ở đâu",
+   "reading": "",
+   "meaning": "where",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/where.mp3",
+    "she": "vocab/audio/vi/she/where.mp3"
+   },
+   "image": "vocab/img/where.jpg",
+   "emoji": "🧭",
+   "review": false
+  },
+  {
+   "id": "vi-when",
+   "concept": "when",
+   "text": "khi nào",
+   "speak": "khi nào",
+   "reading": "",
+   "meaning": "when",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/when.mp3",
+    "she": "vocab/audio/vi/she/when.mp3"
+   },
+   "image": "vocab/img/when.jpg",
+   "emoji": "⏰",
+   "review": false
+  },
+  {
+   "id": "vi-why",
+   "concept": "why",
+   "text": "tại sao",
+   "speak": "tại sao",
+   "reading": "",
+   "meaning": "why",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/why.mp3",
+    "she": "vocab/audio/vi/she/why.mp3"
+   },
+   "image": "vocab/img/why.jpg",
+   "emoji": "🤔",
+   "review": false
+  },
+  {
+   "id": "vi-how",
+   "concept": "how",
+   "text": "như thế nào",
+   "speak": "như thế nào",
+   "reading": "",
+   "meaning": "how",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/how.mp3",
+    "she": "vocab/audio/vi/she/how.mp3"
+   },
+   "image": "vocab/img/how.jpg",
+   "emoji": "🛠️",
+   "review": false
+  },
+  {
+   "id": "vi-how_much_price",
+   "concept": "how_much_price",
+   "text": "bao nhiêu tiền",
+   "speak": "bao nhiêu tiền",
+   "reading": "",
+   "meaning": "how much (price)",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/how_much_price.mp3",
+    "she": "vocab/audio/vi/she/how_much_price.mp3"
+   },
+   "image": "vocab/img/how_much_price.jpg",
+   "emoji": "🏷️",
+   "review": false
+  },
+  {
+   "id": "vi-which",
+   "concept": "which",
+   "text": "cái nào",
+   "speak": "cái nào",
+   "reading": "",
+   "meaning": "which",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/which.mp3",
+    "she": "vocab/audio/vi/she/which.mp3"
+   },
+   "image": "vocab/img/which.jpg",
+   "emoji": "🔀",
+   "review": false
+  },
+  {
+   "id": "vi-how_many",
+   "concept": "how_many",
+   "text": "bao nhiêu",
+   "speak": "bao nhiêu",
+   "reading": "",
+   "meaning": "how many",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/vi/he/how_many.mp3",
+    "she": "vocab/audio/vi/she/how_many.mp3"
+   },
+   "image": "vocab/img/how_many.jpg",
+   "emoji": "🔢",
+   "review": false
+  },
+  {
+   "id": "vi-head",
+   "concept": "head",
+   "text": "đầu",
+   "speak": "đầu",
+   "reading": "",
+   "meaning": "head",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/head.mp3",
+    "she": "vocab/audio/vi/she/head.mp3"
+   },
+   "image": "vocab/img/head.jpg",
+   "emoji": "🙂",
+   "review": false
+  },
+  {
+   "id": "vi-face",
+   "concept": "face",
+   "text": "mặt",
+   "speak": "mặt",
+   "reading": "",
+   "meaning": "face",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/face.mp3",
+    "she": "vocab/audio/vi/she/face.mp3"
+   },
+   "image": "vocab/img/face.jpg",
+   "emoji": "😊",
+   "review": false
+  },
+  {
+   "id": "vi-eye",
+   "concept": "eye",
+   "text": "mắt",
+   "speak": "mắt",
+   "reading": "",
+   "meaning": "eye",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/eye.mp3",
+    "she": "vocab/audio/vi/she/eye.mp3"
+   },
+   "image": "vocab/img/eye.jpg",
+   "emoji": "👁️",
+   "review": false
+  },
+  {
+   "id": "vi-ear",
+   "concept": "ear",
+   "text": "tai",
+   "speak": "tai",
+   "reading": "",
+   "meaning": "ear",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/ear.mp3",
+    "she": "vocab/audio/vi/she/ear.mp3"
+   },
+   "image": "vocab/img/ear.jpg",
+   "emoji": "👂",
+   "review": false
+  },
+  {
+   "id": "vi-nose",
+   "concept": "nose",
+   "text": "mũi",
+   "speak": "mũi",
+   "reading": "",
+   "meaning": "nose",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/nose.mp3",
+    "she": "vocab/audio/vi/she/nose.mp3"
+   },
+   "image": "vocab/img/nose.jpg",
+   "emoji": "👃",
+   "review": false
+  },
+  {
+   "id": "vi-mouth",
+   "concept": "mouth",
+   "text": "miệng",
+   "speak": "miệng",
+   "reading": "",
+   "meaning": "mouth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/mouth.mp3",
+    "she": "vocab/audio/vi/she/mouth.mp3"
+   },
+   "image": "vocab/img/mouth.jpg",
+   "emoji": "👄",
+   "review": false
+  },
+  {
+   "id": "vi-tooth",
+   "concept": "tooth",
+   "text": "răng",
+   "speak": "răng",
+   "reading": "",
+   "meaning": "tooth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/tooth.mp3",
+    "she": "vocab/audio/vi/she/tooth.mp3"
+   },
+   "image": "vocab/img/tooth.jpg",
+   "emoji": "🦷",
+   "review": false
+  },
+  {
+   "id": "vi-hair",
+   "concept": "hair",
+   "text": "tóc",
+   "speak": "tóc",
+   "reading": "",
+   "meaning": "hair",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/hair.mp3",
+    "she": "vocab/audio/vi/she/hair.mp3"
+   },
+   "image": "vocab/img/hair.jpg",
+   "emoji": "💇",
+   "review": false
+  },
+  {
+   "id": "vi-hand",
+   "concept": "hand",
+   "text": "tay",
+   "speak": "tay",
+   "reading": "",
+   "meaning": "hand",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/hand.mp3",
+    "she": "vocab/audio/vi/she/hand.mp3"
+   },
+   "image": "vocab/img/hand.jpg",
+   "emoji": "✋",
+   "review": false
+  },
+  {
+   "id": "vi-arm",
+   "concept": "arm",
+   "text": "cánh tay",
+   "speak": "cánh tay",
+   "reading": "",
+   "meaning": "arm",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/arm.mp3",
+    "she": "vocab/audio/vi/she/arm.mp3"
+   },
+   "image": "vocab/img/arm.jpg",
+   "emoji": "💪",
+   "review": false
+  },
+  {
+   "id": "vi-leg",
+   "concept": "leg",
+   "text": "chân",
+   "speak": "chân",
+   "reading": "",
+   "meaning": "leg",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/leg.mp3",
+    "she": "vocab/audio/vi/she/leg.mp3"
+   },
+   "image": "vocab/img/leg.jpg",
+   "emoji": "🦵",
+   "review": false
+  },
+  {
+   "id": "vi-foot",
+   "concept": "foot",
+   "text": "bàn chân",
+   "speak": "bàn chân",
+   "reading": "",
+   "meaning": "foot",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/foot.mp3",
+    "she": "vocab/audio/vi/she/foot.mp3"
+   },
+   "image": "vocab/img/foot.jpg",
+   "emoji": "🦶",
+   "review": false
+  },
+  {
+   "id": "vi-finger",
+   "concept": "finger",
+   "text": "ngón tay",
+   "speak": "ngón tay",
+   "reading": "",
+   "meaning": "finger",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/finger.mp3",
+    "she": "vocab/audio/vi/she/finger.mp3"
+   },
+   "image": "vocab/img/finger.jpg",
+   "emoji": "☝️",
+   "review": false
+  },
+  {
+   "id": "vi-neck",
+   "concept": "neck",
+   "text": "cổ",
+   "speak": "cổ",
+   "reading": "",
+   "meaning": "neck",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/neck.mp3",
+    "she": "vocab/audio/vi/she/neck.mp3"
+   },
+   "image": "vocab/img/neck.jpg",
+   "emoji": "🦒",
+   "review": false
+  },
+  {
+   "id": "vi-shoulder",
+   "concept": "shoulder",
+   "text": "vai",
+   "speak": "vai",
+   "reading": "",
+   "meaning": "shoulder",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/shoulder.mp3",
+    "she": "vocab/audio/vi/she/shoulder.mp3"
+   },
+   "image": "vocab/img/shoulder.jpg",
+   "emoji": "🤷",
+   "review": false
+  },
+  {
+   "id": "vi-back_body",
+   "concept": "back_body",
+   "text": "lưng",
+   "speak": "lưng",
+   "reading": "",
+   "meaning": "back (body)",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/back_body.mp3",
+    "she": "vocab/audio/vi/she/back_body.mp3"
+   },
+   "image": "vocab/img/back_body.jpg",
+   "emoji": "🧍",
+   "review": false
+  },
+  {
+   "id": "vi-stomach",
+   "concept": "stomach",
+   "text": "bụng",
+   "speak": "bụng",
+   "reading": "",
+   "meaning": "stomach",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/stomach.mp3",
+    "she": "vocab/audio/vi/she/stomach.mp3"
+   },
+   "image": "vocab/img/stomach.jpg",
+   "emoji": "🫃",
+   "review": false
+  },
+  {
+   "id": "vi-heart",
+   "concept": "heart",
+   "text": "tim",
+   "speak": "tim",
+   "reading": "",
+   "meaning": "heart",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/heart.mp3",
+    "she": "vocab/audio/vi/she/heart.mp3"
+   },
+   "image": "vocab/img/heart.jpg",
+   "emoji": "❤️",
+   "review": false
+  },
+  {
+   "id": "vi-knee",
+   "concept": "knee",
+   "text": "đầu gối",
+   "speak": "đầu gối",
+   "reading": "",
+   "meaning": "knee",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/knee.mp3",
+    "she": "vocab/audio/vi/she/knee.mp3"
+   },
+   "image": "vocab/img/knee.jpg",
+   "emoji": "🦵",
+   "review": false
+  },
+  {
+   "id": "vi-body",
+   "concept": "body",
+   "text": "cơ thể",
+   "speak": "cơ thể",
+   "reading": "",
+   "meaning": "body",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/body.mp3",
+    "she": "vocab/audio/vi/she/body.mp3"
+   },
+   "image": "vocab/img/body.jpg",
+   "emoji": "🧍",
+   "review": false
+  },
+  {
+   "id": "vi-skin",
+   "concept": "skin",
+   "text": "da",
+   "speak": "da",
+   "reading": "",
+   "meaning": "skin",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/skin.mp3",
+    "she": "vocab/audio/vi/she/skin.mp3"
+   },
+   "image": "vocab/img/skin.jpg",
+   "emoji": "🖐️",
+   "review": false
+  },
+  {
+   "id": "vi-blood",
+   "concept": "blood",
+   "text": "máu",
+   "speak": "máu",
+   "reading": "",
+   "meaning": "blood",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/blood.mp3",
+    "she": "vocab/audio/vi/she/blood.mp3"
+   },
+   "image": "vocab/img/blood.jpg",
+   "emoji": "🩸",
+   "review": false
+  },
+  {
+   "id": "vi-tongue",
+   "concept": "tongue",
+   "text": "lưỡi",
+   "speak": "lưỡi",
+   "reading": "",
+   "meaning": "tongue",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/tongue.mp3",
+    "she": "vocab/audio/vi/she/tongue.mp3"
+   },
+   "image": "vocab/img/tongue.jpg",
+   "emoji": "👅",
+   "review": false
+  },
+  {
+   "id": "vi-red",
+   "concept": "red",
+   "text": "đỏ",
+   "speak": "đỏ",
+   "reading": "",
+   "meaning": "red",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/red.mp3",
+    "she": "vocab/audio/vi/she/red.mp3"
+   },
+   "image": "vocab/img/red.jpg",
+   "emoji": "🔴",
+   "review": false
+  },
+  {
+   "id": "vi-blue",
+   "concept": "blue",
+   "text": "xanh dương",
+   "speak": "xanh dương",
+   "reading": "",
+   "meaning": "blue",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/blue.mp3",
+    "she": "vocab/audio/vi/she/blue.mp3"
+   },
+   "image": "vocab/img/blue.jpg",
+   "emoji": "🔵",
+   "review": false
+  },
+  {
+   "id": "vi-yellow",
+   "concept": "yellow",
+   "text": "vàng",
+   "speak": "vàng",
+   "reading": "",
+   "meaning": "yellow",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/yellow.mp3",
+    "she": "vocab/audio/vi/she/yellow.mp3"
+   },
+   "image": "vocab/img/yellow.jpg",
+   "emoji": "🟡",
+   "review": false
+  },
+  {
+   "id": "vi-green",
+   "concept": "green",
+   "text": "xanh lá",
+   "speak": "xanh lá",
+   "reading": "",
+   "meaning": "green",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/green.mp3",
+    "she": "vocab/audio/vi/she/green.mp3"
+   },
+   "image": "vocab/img/green.jpg",
+   "emoji": "🟢",
+   "review": false
+  },
+  {
+   "id": "vi-white",
+   "concept": "white",
+   "text": "trắng",
+   "speak": "trắng",
+   "reading": "",
+   "meaning": "white",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/white.mp3",
+    "she": "vocab/audio/vi/she/white.mp3"
+   },
+   "image": "vocab/img/white.jpg",
+   "emoji": "⚪",
+   "review": false
+  },
+  {
+   "id": "vi-black",
+   "concept": "black",
+   "text": "đen",
+   "speak": "đen",
+   "reading": "",
+   "meaning": "black",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/black.mp3",
+    "she": "vocab/audio/vi/she/black.mp3"
+   },
+   "image": "vocab/img/black.jpg",
+   "emoji": "⚫",
+   "review": false
+  },
+  {
+   "id": "vi-orange_color",
+   "concept": "orange_color",
+   "text": "cam",
+   "speak": "cam",
+   "reading": "",
+   "meaning": "orange (color)",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/orange_color.mp3",
+    "she": "vocab/audio/vi/she/orange_color.mp3"
+   },
+   "image": "vocab/img/orange_color.jpg",
+   "emoji": "🟠",
+   "review": false
+  },
+  {
+   "id": "vi-pink",
+   "concept": "pink",
+   "text": "hồng",
+   "speak": "hồng",
+   "reading": "",
+   "meaning": "pink",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/pink.mp3",
+    "she": "vocab/audio/vi/she/pink.mp3"
+   },
+   "image": "vocab/img/pink.jpg",
+   "emoji": "🩷",
+   "review": false
+  },
+  {
+   "id": "vi-purple",
+   "concept": "purple",
+   "text": "tím",
+   "speak": "tím",
+   "reading": "",
+   "meaning": "purple",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/purple.mp3",
+    "she": "vocab/audio/vi/she/purple.mp3"
+   },
+   "image": "vocab/img/purple.jpg",
+   "emoji": "🟣",
+   "review": false
+  },
+  {
+   "id": "vi-brown",
+   "concept": "brown",
+   "text": "nâu",
+   "speak": "nâu",
+   "reading": "",
+   "meaning": "brown",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/brown.mp3",
+    "she": "vocab/audio/vi/she/brown.mp3"
+   },
+   "image": "vocab/img/brown.jpg",
+   "emoji": "🟤",
+   "review": false
+  },
+  {
+   "id": "vi-gray",
+   "concept": "gray",
+   "text": "xám",
+   "speak": "xám",
+   "reading": "",
+   "meaning": "gray",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/gray.mp3",
+    "she": "vocab/audio/vi/she/gray.mp3"
+   },
+   "image": "vocab/img/gray.jpg",
+   "emoji": "🩶",
+   "review": false
+  },
+  {
+   "id": "vi-color",
+   "concept": "color",
+   "text": "màu",
+   "speak": "màu",
+   "reading": "",
+   "meaning": "color",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/color.mp3",
+    "she": "vocab/audio/vi/she/color.mp3"
+   },
+   "image": "vocab/img/color.jpg",
+   "emoji": "🎨",
+   "review": false
+  },
+  {
+   "id": "vi-rice",
+   "concept": "rice",
+   "text": "cơm",
+   "speak": "cơm",
+   "reading": "",
+   "meaning": "cooked rice / a meal",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/rice.mp3",
+    "she": "vocab/audio/vi/she/rice.mp3"
+   },
+   "image": "vocab/img/rice.jpg",
+   "emoji": "🍚",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-water",
+   "concept": "water",
+   "text": "nước",
+   "speak": "nước",
+   "reading": "",
+   "meaning": "water",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/water.mp3",
+    "she": "vocab/audio/vi/she/water.mp3"
+   },
+   "image": "vocab/img/water.jpg",
+   "emoji": "💧",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-pho",
+   "concept": "pho",
+   "text": "phở",
+   "speak": "phở",
+   "reading": "",
+   "meaning": "pho (noodle soup)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/pho.mp3",
+    "she": "vocab/audio/vi/she/pho.mp3"
+   },
+   "image": "vocab/img/pho.jpg",
+   "emoji": "🍜",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-tea",
+   "concept": "tea",
+   "text": "trà",
+   "speak": "trà",
+   "reading": "",
+   "meaning": "tea",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/tea.mp3",
+    "she": "vocab/audio/vi/she/tea.mp3"
+   },
+   "image": "vocab/img/tea.jpg",
+   "emoji": "🍵",
+   "review": false
+  },
+  {
+   "id": "vi-sushi",
+   "concept": "sushi",
+   "text": "sushi",
+   "speak": "sushi",
+   "reading": "",
+   "meaning": "sushi",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/sushi.mp3",
+    "she": "vocab/audio/vi/she/sushi.mp3"
+   },
+   "image": "vocab/img/sushi.jpg",
+   "emoji": "🍣",
+   "review": false
+  },
+  {
+   "id": "vi-bread",
+   "concept": "bread",
+   "text": "bánh mì",
+   "speak": "bánh mì",
+   "reading": "",
+   "meaning": "bread",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/bread.mp3",
+    "she": "vocab/audio/vi/she/bread.mp3"
+   },
+   "image": "vocab/img/bread.jpg",
+   "emoji": "🍞",
+   "review": false
+  },
+  {
+   "id": "vi-noodles",
+   "concept": "noodles",
+   "text": "mì",
+   "speak": "mì",
+   "reading": "",
+   "meaning": "noodles",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/noodles.mp3",
+    "she": "vocab/audio/vi/she/noodles.mp3"
+   },
+   "image": "vocab/img/noodles.jpg",
+   "emoji": "🍜",
+   "review": false
+  },
+  {
+   "id": "vi-meat",
+   "concept": "meat",
+   "text": "thịt",
+   "speak": "thịt",
+   "reading": "",
+   "meaning": "meat",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/meat.mp3",
+    "she": "vocab/audio/vi/she/meat.mp3"
+   },
+   "image": "vocab/img/meat.jpg",
+   "emoji": "🥩",
+   "review": false
+  },
+  {
+   "id": "vi-chicken_meat",
+   "concept": "chicken_meat",
+   "text": "thịt gà",
+   "speak": "thịt gà",
+   "reading": "",
+   "meaning": "chicken (meat)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/chicken_meat.mp3",
+    "she": "vocab/audio/vi/she/chicken_meat.mp3"
+   },
+   "image": "vocab/img/chicken_meat.jpg",
+   "emoji": "🍗",
+   "review": false
+  },
+  {
+   "id": "vi-beef",
+   "concept": "beef",
+   "text": "thịt bò",
+   "speak": "thịt bò",
+   "reading": "",
+   "meaning": "beef",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/beef.mp3",
+    "she": "vocab/audio/vi/she/beef.mp3"
+   },
+   "image": "vocab/img/beef.jpg",
+   "emoji": "🥩",
+   "review": false
+  },
+  {
+   "id": "vi-pork",
+   "concept": "pork",
+   "text": "thịt lợn",
+   "speak": "thịt lợn",
+   "reading": "",
+   "meaning": "pork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/pork.mp3",
+    "she": "vocab/audio/vi/she/pork.mp3"
+   },
+   "image": "vocab/img/pork.jpg",
+   "emoji": "🥓",
+   "review": false
+  },
+  {
+   "id": "vi-fish_food",
+   "concept": "fish_food",
+   "text": "cá",
+   "speak": "cá",
+   "reading": "",
+   "meaning": "fish (food)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/fish_food.mp3",
+    "she": "vocab/audio/vi/she/fish_food.mp3"
+   },
+   "image": "vocab/img/fish_food.jpg",
+   "emoji": "🐟",
+   "review": false
+  },
+  {
+   "id": "vi-egg",
+   "concept": "egg",
+   "text": "trứng",
+   "speak": "trứng",
+   "reading": "",
+   "meaning": "egg",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/egg.mp3",
+    "she": "vocab/audio/vi/she/egg.mp3"
+   },
+   "image": "vocab/img/egg.jpg",
+   "emoji": "🥚",
+   "review": false
+  },
+  {
+   "id": "vi-vegetable",
+   "concept": "vegetable",
+   "text": "rau",
+   "speak": "rau",
+   "reading": "",
+   "meaning": "vegetable",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/vegetable.mp3",
+    "she": "vocab/audio/vi/she/vegetable.mp3"
+   },
+   "image": "vocab/img/vegetable.jpg",
+   "emoji": "🥦",
+   "review": false
+  },
+  {
+   "id": "vi-fruit",
+   "concept": "fruit",
+   "text": "trái cây",
+   "speak": "trái cây",
+   "reading": "",
+   "meaning": "fruit",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/fruit.mp3",
+    "she": "vocab/audio/vi/she/fruit.mp3"
+   },
+   "image": "vocab/img/fruit.jpg",
+   "emoji": "🍎",
+   "review": false
+  },
+  {
+   "id": "vi-apple",
+   "concept": "apple",
+   "text": "táo",
+   "speak": "táo",
+   "reading": "",
+   "meaning": "apple",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/apple.mp3",
+    "she": "vocab/audio/vi/she/apple.mp3"
+   },
+   "image": "vocab/img/apple.jpg",
+   "emoji": "🍎",
+   "review": false
+  },
+  {
+   "id": "vi-banana",
+   "concept": "banana",
+   "text": "chuối",
+   "speak": "chuối",
+   "reading": "",
+   "meaning": "banana",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/banana.mp3",
+    "she": "vocab/audio/vi/she/banana.mp3"
+   },
+   "image": "vocab/img/banana.jpg",
+   "emoji": "🍌",
+   "review": false
+  },
+  {
+   "id": "vi-orange_fruit",
+   "concept": "orange_fruit",
+   "text": "cam",
+   "speak": "cam",
+   "reading": "",
+   "meaning": "orange (fruit)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/orange_fruit.mp3",
+    "she": "vocab/audio/vi/she/orange_fruit.mp3"
+   },
+   "image": "vocab/img/orange_fruit.jpg",
+   "emoji": "🍊",
+   "review": false
+  },
+  {
+   "id": "vi-grape",
+   "concept": "grape",
+   "text": "nho",
+   "speak": "nho",
+   "reading": "",
+   "meaning": "grape",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/grape.mp3",
+    "she": "vocab/audio/vi/she/grape.mp3"
+   },
+   "image": "vocab/img/grape.jpg",
+   "emoji": "🍇",
+   "review": false
+  },
+  {
+   "id": "vi-watermelon",
+   "concept": "watermelon",
+   "text": "dưa hấu",
+   "speak": "dưa hấu",
+   "reading": "",
+   "meaning": "watermelon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/watermelon.mp3",
+    "she": "vocab/audio/vi/she/watermelon.mp3"
+   },
+   "image": "vocab/img/watermelon.jpg",
+   "emoji": "🍉",
+   "review": false
+  },
+  {
+   "id": "vi-mango",
+   "concept": "mango",
+   "text": "xoài",
+   "speak": "xoài",
+   "reading": "",
+   "meaning": "mango",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/mango.mp3",
+    "she": "vocab/audio/vi/she/mango.mp3"
+   },
+   "image": "vocab/img/mango.jpg",
+   "emoji": "🥭",
+   "review": false
+  },
+  {
+   "id": "vi-strawberry",
+   "concept": "strawberry",
+   "text": "dâu tây",
+   "speak": "dâu tây",
+   "reading": "",
+   "meaning": "strawberry",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/strawberry.mp3",
+    "she": "vocab/audio/vi/she/strawberry.mp3"
+   },
+   "image": "vocab/img/strawberry.jpg",
+   "emoji": "🍓",
+   "review": false
+  },
+  {
+   "id": "vi-lemon",
+   "concept": "lemon",
+   "text": "chanh",
+   "speak": "chanh",
+   "reading": "",
+   "meaning": "lemon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/lemon.mp3",
+    "she": "vocab/audio/vi/she/lemon.mp3"
+   },
+   "image": "vocab/img/lemon.jpg",
+   "emoji": "🍋",
+   "review": false
+  },
+  {
+   "id": "vi-tomato",
+   "concept": "tomato",
+   "text": "cà chua",
+   "speak": "cà chua",
+   "reading": "",
+   "meaning": "tomato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/tomato.mp3",
+    "she": "vocab/audio/vi/she/tomato.mp3"
+   },
+   "image": "vocab/img/tomato.jpg",
+   "emoji": "🍅",
+   "review": false
+  },
+  {
+   "id": "vi-potato",
+   "concept": "potato",
+   "text": "khoai tây",
+   "speak": "khoai tây",
+   "reading": "",
+   "meaning": "potato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/potato.mp3",
+    "she": "vocab/audio/vi/she/potato.mp3"
+   },
+   "image": "vocab/img/potato.jpg",
+   "emoji": "🥔",
+   "review": false
+  },
+  {
+   "id": "vi-carrot",
+   "concept": "carrot",
+   "text": "cà rốt",
+   "speak": "cà rốt",
+   "reading": "",
+   "meaning": "carrot",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/carrot.mp3",
+    "she": "vocab/audio/vi/she/carrot.mp3"
+   },
+   "image": "vocab/img/carrot.jpg",
+   "emoji": "🥕",
+   "review": false
+  },
+  {
+   "id": "vi-onion",
+   "concept": "onion",
+   "text": "hành tây",
+   "speak": "hành tây",
+   "reading": "",
+   "meaning": "onion",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/onion.mp3",
+    "she": "vocab/audio/vi/she/onion.mp3"
+   },
+   "image": "vocab/img/onion.jpg",
+   "emoji": "🧅",
+   "review": false
+  },
+  {
+   "id": "vi-garlic",
+   "concept": "garlic",
+   "text": "tỏi",
+   "speak": "tỏi",
+   "reading": "",
+   "meaning": "garlic",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/garlic.mp3",
+    "she": "vocab/audio/vi/she/garlic.mp3"
+   },
+   "image": "vocab/img/garlic.jpg",
+   "emoji": "🧄",
+   "review": false
+  },
+  {
+   "id": "vi-corn",
+   "concept": "corn",
+   "text": "ngô",
+   "speak": "ngô",
+   "reading": "",
+   "meaning": "corn",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/corn.mp3",
+    "she": "vocab/audio/vi/she/corn.mp3"
+   },
+   "image": "vocab/img/corn.jpg",
+   "emoji": "🌽",
+   "review": false
+  },
+  {
+   "id": "vi-mushroom",
+   "concept": "mushroom",
+   "text": "nấm",
+   "speak": "nấm",
+   "reading": "",
+   "meaning": "mushroom",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/mushroom.mp3",
+    "she": "vocab/audio/vi/she/mushroom.mp3"
+   },
+   "image": "vocab/img/mushroom.jpg",
+   "emoji": "🍄",
+   "review": false
+  },
+  {
+   "id": "vi-salt",
+   "concept": "salt",
+   "text": "muối",
+   "speak": "muối",
+   "reading": "",
+   "meaning": "salt",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/salt.mp3",
+    "she": "vocab/audio/vi/she/salt.mp3"
+   },
+   "image": "vocab/img/salt.jpg",
+   "emoji": "🧂",
+   "review": false
+  },
+  {
+   "id": "vi-sugar",
+   "concept": "sugar",
+   "text": "đường",
+   "speak": "đường",
+   "reading": "",
+   "meaning": "sugar",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/sugar.mp3",
+    "she": "vocab/audio/vi/she/sugar.mp3"
+   },
+   "image": "vocab/img/sugar.jpg",
+   "emoji": "🍬",
+   "review": false
+  },
+  {
+   "id": "vi-soup",
+   "concept": "soup",
+   "text": "canh",
+   "speak": "canh",
+   "reading": "",
+   "meaning": "soup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/soup.mp3",
+    "she": "vocab/audio/vi/she/soup.mp3"
+   },
+   "image": "vocab/img/soup.jpg",
+   "emoji": "🥣",
+   "review": false
+  },
+  {
+   "id": "vi-salad",
+   "concept": "salad",
+   "text": "xa lát",
+   "speak": "xa lát",
+   "reading": "",
+   "meaning": "salad",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/salad.mp3",
+    "she": "vocab/audio/vi/she/salad.mp3"
+   },
+   "image": "vocab/img/salad.jpg",
+   "emoji": "🥗",
+   "review": false
+  },
+  {
+   "id": "vi-cake",
+   "concept": "cake",
+   "text": "bánh ngọt",
+   "speak": "bánh ngọt",
+   "reading": "",
+   "meaning": "cake",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/cake.mp3",
+    "she": "vocab/audio/vi/she/cake.mp3"
+   },
+   "image": "vocab/img/cake.jpg",
+   "emoji": "🍰",
+   "review": false
+  },
+  {
+   "id": "vi-candy",
+   "concept": "candy",
+   "text": "kẹo",
+   "speak": "kẹo",
+   "reading": "",
+   "meaning": "candy",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/candy.mp3",
+    "she": "vocab/audio/vi/she/candy.mp3"
+   },
+   "image": "vocab/img/candy.jpg",
+   "emoji": "🍬",
+   "review": false
+  },
+  {
+   "id": "vi-chocolate",
+   "concept": "chocolate",
+   "text": "sô cô la",
+   "speak": "sô cô la",
+   "reading": "",
+   "meaning": "chocolate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/chocolate.mp3",
+    "she": "vocab/audio/vi/she/chocolate.mp3"
+   },
+   "image": "vocab/img/chocolate.jpg",
+   "emoji": "🍫",
+   "review": false
+  },
+  {
+   "id": "vi-ice_cream",
+   "concept": "ice_cream",
+   "text": "kem",
+   "speak": "kem",
+   "reading": "",
+   "meaning": "ice cream",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/ice_cream.mp3",
+    "she": "vocab/audio/vi/she/ice_cream.mp3"
+   },
+   "image": "vocab/img/ice_cream.jpg",
+   "emoji": "🍦",
+   "review": false
+  },
+  {
+   "id": "vi-cheese",
+   "concept": "cheese",
+   "text": "phô mai",
+   "speak": "phô mai",
+   "reading": "",
+   "meaning": "cheese",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/cheese.mp3",
+    "she": "vocab/audio/vi/she/cheese.mp3"
+   },
+   "image": "vocab/img/cheese.jpg",
+   "emoji": "🧀",
+   "review": false
+  },
+  {
+   "id": "vi-butter",
+   "concept": "butter",
+   "text": "bơ",
+   "speak": "bơ",
+   "reading": "",
+   "meaning": "butter",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/butter.mp3",
+    "she": "vocab/audio/vi/she/butter.mp3"
+   },
+   "image": "vocab/img/butter.jpg",
+   "emoji": "🧈",
+   "review": false
+  },
+  {
+   "id": "vi-milk",
+   "concept": "milk",
+   "text": "sữa",
+   "speak": "sữa",
+   "reading": "",
+   "meaning": "milk",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/milk.mp3",
+    "she": "vocab/audio/vi/she/milk.mp3"
+   },
+   "image": "vocab/img/milk.jpg",
+   "emoji": "🥛",
+   "review": false
+  },
+  {
+   "id": "vi-coffee",
+   "concept": "coffee",
+   "text": "cà phê",
+   "speak": "cà phê",
+   "reading": "",
+   "meaning": "coffee",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/coffee.mp3",
+    "she": "vocab/audio/vi/she/coffee.mp3"
+   },
+   "image": "vocab/img/coffee.jpg",
+   "emoji": "☕",
+   "review": false
+  },
+  {
+   "id": "vi-juice",
+   "concept": "juice",
+   "text": "nước ép",
+   "speak": "nước ép",
+   "reading": "",
+   "meaning": "juice",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/juice.mp3",
+    "she": "vocab/audio/vi/she/juice.mp3"
+   },
+   "image": "vocab/img/juice.jpg",
+   "emoji": "🧃",
+   "review": false
+  },
+  {
+   "id": "vi-beer",
+   "concept": "beer",
+   "text": "bia",
+   "speak": "bia",
+   "reading": "",
+   "meaning": "beer",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/beer.mp3",
+    "she": "vocab/audio/vi/she/beer.mp3"
+   },
+   "image": "vocab/img/beer.jpg",
+   "emoji": "🍺",
+   "review": false
+  },
+  {
+   "id": "vi-wine",
+   "concept": "wine",
+   "text": "rượu vang",
+   "speak": "rượu vang",
+   "reading": "",
+   "meaning": "wine",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/wine.mp3",
+    "she": "vocab/audio/vi/she/wine.mp3"
+   },
+   "image": "vocab/img/wine.jpg",
+   "emoji": "🍷",
+   "review": false
+  },
+  {
+   "id": "vi-breakfast",
+   "concept": "breakfast",
+   "text": "bữa sáng",
+   "speak": "bữa sáng",
+   "reading": "",
+   "meaning": "breakfast",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/breakfast.mp3",
+    "she": "vocab/audio/vi/she/breakfast.mp3"
+   },
+   "image": "vocab/img/breakfast.jpg",
+   "emoji": "🍳",
+   "review": false
+  },
+  {
+   "id": "vi-lunch",
+   "concept": "lunch",
+   "text": "bữa trưa",
+   "speak": "bữa trưa",
+   "reading": "",
+   "meaning": "lunch",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/lunch.mp3",
+    "she": "vocab/audio/vi/she/lunch.mp3"
+   },
+   "image": "vocab/img/lunch.jpg",
+   "emoji": "🍱",
+   "review": false
+  },
+  {
+   "id": "vi-dinner",
+   "concept": "dinner",
+   "text": "bữa tối",
+   "speak": "bữa tối",
+   "reading": "",
+   "meaning": "dinner",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/dinner.mp3",
+    "she": "vocab/audio/vi/she/dinner.mp3"
+   },
+   "image": "vocab/img/dinner.jpg",
+   "emoji": "🍽️",
+   "review": false
+  },
+  {
+   "id": "vi-food",
+   "concept": "food",
+   "text": "đồ ăn",
+   "speak": "đồ ăn",
+   "reading": "",
+   "meaning": "food",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/food.mp3",
+    "she": "vocab/audio/vi/she/food.mp3"
+   },
+   "image": "vocab/img/food.jpg",
+   "emoji": "🍲",
+   "review": false
+  },
+  {
+   "id": "vi-dumpling",
+   "concept": "dumpling",
+   "text": "sủi cảo",
+   "speak": "sủi cảo",
+   "reading": "",
+   "meaning": "dumpling",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/dumpling.mp3",
+    "she": "vocab/audio/vi/she/dumpling.mp3"
+   },
+   "image": "vocab/img/dumpling.jpg",
+   "emoji": "🥟",
+   "review": false
+  },
+  {
+   "id": "vi-tofu",
+   "concept": "tofu",
+   "text": "đậu phụ",
+   "speak": "đậu phụ",
+   "reading": "",
+   "meaning": "tofu",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/tofu.mp3",
+    "she": "vocab/audio/vi/she/tofu.mp3"
+   },
+   "image": "vocab/img/tofu.jpg",
+   "emoji": "🍢",
+   "review": false
+  },
+  {
+   "id": "vi-shrimp",
+   "concept": "shrimp",
+   "text": "tôm",
+   "speak": "tôm",
+   "reading": "",
+   "meaning": "shrimp",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/shrimp.mp3",
+    "she": "vocab/audio/vi/she/shrimp.mp3"
+   },
+   "image": "vocab/img/shrimp.jpg",
+   "emoji": "🦐",
+   "review": false
+  },
+  {
+   "id": "vi-chopsticks",
+   "concept": "chopsticks",
+   "text": "đũa",
+   "speak": "đũa",
+   "reading": "",
+   "meaning": "chopsticks",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/chopsticks.mp3",
+    "she": "vocab/audio/vi/she/chopsticks.mp3"
+   },
+   "image": "vocab/img/chopsticks.jpg",
+   "emoji": "🥢",
+   "review": false
+  },
+  {
+   "id": "vi-spoon",
+   "concept": "spoon",
+   "text": "thìa",
+   "speak": "thìa",
+   "reading": "",
+   "meaning": "spoon",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/spoon.mp3",
+    "she": "vocab/audio/vi/she/spoon.mp3"
+   },
+   "image": "vocab/img/spoon.jpg",
+   "emoji": "🥄",
+   "review": false
+  },
+  {
+   "id": "vi-fork",
+   "concept": "fork",
+   "text": "nĩa",
+   "speak": "nĩa",
+   "reading": "",
+   "meaning": "fork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/fork.mp3",
+    "she": "vocab/audio/vi/she/fork.mp3"
+   },
+   "image": "vocab/img/fork.jpg",
+   "emoji": "🍴",
+   "review": false
+  },
+  {
+   "id": "vi-knife",
+   "concept": "knife",
+   "text": "dao",
+   "speak": "dao",
+   "reading": "",
+   "meaning": "knife",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/knife.mp3",
+    "she": "vocab/audio/vi/she/knife.mp3"
+   },
+   "image": "vocab/img/knife.jpg",
+   "emoji": "🔪",
+   "review": false
+  },
+  {
+   "id": "vi-bowl",
+   "concept": "bowl",
+   "text": "bát",
+   "speak": "bát",
+   "reading": "",
+   "meaning": "bowl",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/bowl.mp3",
+    "she": "vocab/audio/vi/she/bowl.mp3"
+   },
+   "image": "vocab/img/bowl.jpg",
+   "emoji": "🥣",
+   "review": false
+  },
+  {
+   "id": "vi-plate",
+   "concept": "plate",
+   "text": "đĩa",
+   "speak": "đĩa",
+   "reading": "",
+   "meaning": "plate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/plate.mp3",
+    "she": "vocab/audio/vi/she/plate.mp3"
+   },
+   "image": "vocab/img/plate.jpg",
+   "emoji": "🍽️",
+   "review": false
+  },
+  {
+   "id": "vi-cup",
+   "concept": "cup",
+   "text": "cốc",
+   "speak": "cốc",
+   "reading": "",
+   "meaning": "cup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/cup.mp3",
+    "she": "vocab/audio/vi/she/cup.mp3"
+   },
+   "image": "vocab/img/cup.jpg",
+   "emoji": "🥤",
+   "review": false
+  },
+  {
+   "id": "vi-bottle",
+   "concept": "bottle",
+   "text": "chai",
+   "speak": "chai",
+   "reading": "",
+   "meaning": "bottle",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/vi/he/bottle.mp3",
+    "she": "vocab/audio/vi/she/bottle.mp3"
+   },
+   "image": "vocab/img/bottle.jpg",
+   "emoji": "🍾",
+   "review": false
+  },
+  {
+   "id": "vi-eat",
+   "concept": "eat",
+   "text": "ăn",
+   "speak": "ăn",
+   "reading": "",
+   "meaning": "to eat",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/eat.mp3",
+    "she": "vocab/audio/vi/she/eat.mp3"
+   },
+   "image": "vocab/img/eat.jpg",
+   "emoji": "🍽️",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-drink",
+   "concept": "drink",
+   "text": "uống",
+   "speak": "uống",
+   "reading": "",
+   "meaning": "to drink",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/drink.mp3",
+    "she": "vocab/audio/vi/she/drink.mp3"
+   },
+   "image": "vocab/img/drink.jpg",
+   "emoji": "🥤",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-go",
+   "concept": "go",
+   "text": "đi",
+   "speak": "đi",
+   "reading": "",
+   "meaning": "to go",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/go.mp3",
+    "she": "vocab/audio/vi/she/go.mp3"
+   },
+   "image": "vocab/img/go.jpg",
+   "emoji": "🚶",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-want",
+   "concept": "want",
+   "text": "muốn",
+   "speak": "muốn",
+   "reading": "",
+   "meaning": "to want",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/want.mp3",
+    "she": "vocab/audio/vi/she/want.mp3"
+   },
+   "image": "vocab/img/want.jpg",
+   "emoji": "🤲",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "vi-come",
+   "concept": "come",
+   "text": "đến",
+   "speak": "đến",
+   "reading": "",
+   "meaning": "to come",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/come.mp3",
+    "she": "vocab/audio/vi/she/come.mp3"
+   },
+   "image": "vocab/img/come.jpg",
+   "emoji": "🫴",
+   "review": false
+  },
+  {
+   "id": "vi-see",
+   "concept": "see",
+   "text": "nhìn",
+   "speak": "nhìn",
+   "reading": "",
+   "meaning": "to see",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/see.mp3",
+    "she": "vocab/audio/vi/she/see.mp3"
+   },
+   "image": "vocab/img/see.jpg",
+   "emoji": "👀",
+   "review": false
+  },
+  {
+   "id": "vi-listen",
+   "concept": "listen",
+   "text": "nghe",
+   "speak": "nghe",
+   "reading": "",
+   "meaning": "to listen",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/listen.mp3",
+    "she": "vocab/audio/vi/she/listen.mp3"
+   },
+   "image": "vocab/img/listen.jpg",
+   "emoji": "👂",
+   "review": false
+  },
+  {
+   "id": "vi-speak",
+   "concept": "speak",
+   "text": "nói",
+   "speak": "nói",
+   "reading": "",
+   "meaning": "to speak",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/speak.mp3",
+    "she": "vocab/audio/vi/she/speak.mp3"
+   },
+   "image": "vocab/img/speak.jpg",
+   "emoji": "🗣️",
+   "review": false
+  },
+  {
+   "id": "vi-read",
+   "concept": "read",
+   "text": "đọc",
+   "speak": "đọc",
+   "reading": "",
+   "meaning": "to read",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/read.mp3",
+    "she": "vocab/audio/vi/she/read.mp3"
+   },
+   "image": "vocab/img/read.jpg",
+   "emoji": "📖",
+   "review": false
+  },
+  {
+   "id": "vi-write",
+   "concept": "write",
+   "text": "viết",
+   "speak": "viết",
+   "reading": "",
+   "meaning": "to write",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/write.mp3",
+    "she": "vocab/audio/vi/she/write.mp3"
+   },
+   "image": "vocab/img/write.jpg",
+   "emoji": "✍️",
+   "review": false
+  },
+  {
+   "id": "vi-sleep",
+   "concept": "sleep",
+   "text": "ngủ",
+   "speak": "ngủ",
+   "reading": "",
+   "meaning": "to sleep",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/sleep.mp3",
+    "she": "vocab/audio/vi/she/sleep.mp3"
+   },
+   "image": "vocab/img/sleep.jpg",
+   "emoji": "😴",
+   "review": false
+  },
+  {
+   "id": "vi-wake_up",
+   "concept": "wake_up",
+   "text": "thức dậy",
+   "speak": "thức dậy",
+   "reading": "",
+   "meaning": "to wake up",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/wake_up.mp3",
+    "she": "vocab/audio/vi/she/wake_up.mp3"
+   },
+   "image": "vocab/img/wake_up.jpg",
+   "emoji": "⏰",
+   "review": false
+  },
+  {
+   "id": "vi-walk",
+   "concept": "walk",
+   "text": "đi bộ",
+   "speak": "đi bộ",
+   "reading": "",
+   "meaning": "to walk",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/walk.mp3",
+    "she": "vocab/audio/vi/she/walk.mp3"
+   },
+   "image": "vocab/img/walk.jpg",
+   "emoji": "🚶",
+   "review": false
+  },
+  {
+   "id": "vi-run",
+   "concept": "run",
+   "text": "chạy",
+   "speak": "chạy",
+   "reading": "",
+   "meaning": "to run",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/run.mp3",
+    "she": "vocab/audio/vi/she/run.mp3"
+   },
+   "image": "vocab/img/run.jpg",
+   "emoji": "🏃",
+   "review": false
+  },
+  {
+   "id": "vi-sit",
+   "concept": "sit",
+   "text": "ngồi",
+   "speak": "ngồi",
+   "reading": "",
+   "meaning": "to sit",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/sit.mp3",
+    "she": "vocab/audio/vi/she/sit.mp3"
+   },
+   "image": "vocab/img/sit.jpg",
+   "emoji": "🪑",
+   "review": false
+  },
+  {
+   "id": "vi-stand",
+   "concept": "stand",
+   "text": "đứng",
+   "speak": "đứng",
+   "reading": "",
+   "meaning": "to stand",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/stand.mp3",
+    "she": "vocab/audio/vi/she/stand.mp3"
+   },
+   "image": "vocab/img/stand.jpg",
+   "emoji": "🧍",
+   "review": false
+  },
+  {
+   "id": "vi-buy",
+   "concept": "buy",
+   "text": "mua",
+   "speak": "mua",
+   "reading": "",
+   "meaning": "to buy",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/buy.mp3",
+    "she": "vocab/audio/vi/she/buy.mp3"
+   },
+   "image": "vocab/img/buy.jpg",
+   "emoji": "🛍️",
+   "review": false
+  },
+  {
+   "id": "vi-sell",
+   "concept": "sell",
+   "text": "bán",
+   "speak": "bán",
+   "reading": "",
+   "meaning": "to sell",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/sell.mp3",
+    "she": "vocab/audio/vi/she/sell.mp3"
+   },
+   "image": "vocab/img/sell.jpg",
+   "emoji": "🏪",
+   "review": false
+  },
+  {
+   "id": "vi-give",
+   "concept": "give",
+   "text": "cho",
+   "speak": "cho",
+   "reading": "",
+   "meaning": "to give",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/give.mp3",
+    "she": "vocab/audio/vi/she/give.mp3"
+   },
+   "image": "vocab/img/give.jpg",
+   "emoji": "🎁",
+   "review": false
+  },
+  {
+   "id": "vi-take",
+   "concept": "take",
+   "text": "lấy",
+   "speak": "lấy",
+   "reading": "",
+   "meaning": "to take",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/take.mp3",
+    "she": "vocab/audio/vi/she/take.mp3"
+   },
+   "image": "vocab/img/take.jpg",
+   "emoji": "✊",
+   "review": false
+  },
+  {
+   "id": "vi-make",
+   "concept": "make",
+   "text": "làm",
+   "speak": "làm",
+   "reading": "",
+   "meaning": "to make",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/make.mp3",
+    "she": "vocab/audio/vi/she/make.mp3"
+   },
+   "image": "vocab/img/make.jpg",
+   "emoji": "🔨",
+   "review": false
+  },
+  {
+   "id": "vi-work",
+   "concept": "work",
+   "text": "làm việc",
+   "speak": "làm việc",
+   "reading": "",
+   "meaning": "to work",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/work.mp3",
+    "she": "vocab/audio/vi/she/work.mp3"
+   },
+   "image": "vocab/img/work.jpg",
+   "emoji": "💼",
+   "review": false
+  },
+  {
+   "id": "vi-study",
+   "concept": "study",
+   "text": "học",
+   "speak": "học",
+   "reading": "",
+   "meaning": "to study",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/study.mp3",
+    "she": "vocab/audio/vi/she/study.mp3"
+   },
+   "image": "vocab/img/study.jpg",
+   "emoji": "📚",
+   "review": false
+  },
+  {
+   "id": "vi-play",
+   "concept": "play",
+   "text": "chơi",
+   "speak": "chơi",
+   "reading": "",
+   "meaning": "to play",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/play.mp3",
+    "she": "vocab/audio/vi/she/play.mp3"
+   },
+   "image": "vocab/img/play.jpg",
+   "emoji": "⚽",
+   "review": false
+  },
+  {
+   "id": "vi-love",
+   "concept": "love",
+   "text": "yêu",
+   "speak": "yêu",
+   "reading": "",
+   "meaning": "to love",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/love.mp3",
+    "she": "vocab/audio/vi/she/love.mp3"
+   },
+   "image": "vocab/img/love.jpg",
+   "emoji": "❤️",
+   "review": false
+  },
+  {
+   "id": "vi-like",
+   "concept": "like",
+   "text": "thích",
+   "speak": "thích",
+   "reading": "",
+   "meaning": "to like",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/like.mp3",
+    "she": "vocab/audio/vi/she/like.mp3"
+   },
+   "image": "vocab/img/like.jpg",
+   "emoji": "👍",
+   "review": false
+  },
+  {
+   "id": "vi-know",
+   "concept": "know",
+   "text": "biết",
+   "speak": "biết",
+   "reading": "",
+   "meaning": "to know",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/know.mp3",
+    "she": "vocab/audio/vi/she/know.mp3"
+   },
+   "image": "vocab/img/know.jpg",
+   "emoji": "💡",
+   "review": false
+  },
+  {
+   "id": "vi-think",
+   "concept": "think",
+   "text": "nghĩ",
+   "speak": "nghĩ",
+   "reading": "",
+   "meaning": "to think",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/think.mp3",
+    "she": "vocab/audio/vi/she/think.mp3"
+   },
+   "image": "vocab/img/think.jpg",
+   "emoji": "💭",
+   "review": false
+  },
+  {
+   "id": "vi-understand",
+   "concept": "understand",
+   "text": "hiểu",
+   "speak": "hiểu",
+   "reading": "",
+   "meaning": "to understand",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/understand.mp3",
+    "she": "vocab/audio/vi/she/understand.mp3"
+   },
+   "image": "vocab/img/understand.jpg",
+   "emoji": "🤓",
+   "review": false
+  },
+  {
+   "id": "vi-open",
+   "concept": "open",
+   "text": "mở",
+   "speak": "mở",
+   "reading": "",
+   "meaning": "to open",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/open.mp3",
+    "she": "vocab/audio/vi/she/open.mp3"
+   },
+   "image": "vocab/img/open.jpg",
+   "emoji": "📂",
+   "review": false
+  },
+  {
+   "id": "vi-close",
+   "concept": "close",
+   "text": "đóng",
+   "speak": "đóng",
+   "reading": "",
+   "meaning": "to close",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/close.mp3",
+    "she": "vocab/audio/vi/she/close.mp3"
+   },
+   "image": "vocab/img/close.jpg",
+   "emoji": "🚪",
+   "review": false
+  },
+  {
+   "id": "vi-cook",
+   "concept": "cook",
+   "text": "nấu ăn",
+   "speak": "nấu ăn",
+   "reading": "",
+   "meaning": "to cook",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/cook.mp3",
+    "she": "vocab/audio/vi/she/cook.mp3"
+   },
+   "image": "vocab/img/cook.jpg",
+   "emoji": "🍳",
+   "review": false
+  },
+  {
+   "id": "vi-wash",
+   "concept": "wash",
+   "text": "rửa",
+   "speak": "rửa",
+   "reading": "",
+   "meaning": "to wash",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/wash.mp3",
+    "she": "vocab/audio/vi/she/wash.mp3"
+   },
+   "image": "vocab/img/wash.jpg",
+   "emoji": "🧼",
+   "review": false
+  },
+  {
+   "id": "vi-help",
+   "concept": "help",
+   "text": "giúp",
+   "speak": "giúp",
+   "reading": "",
+   "meaning": "to help",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/help.mp3",
+    "she": "vocab/audio/vi/she/help.mp3"
+   },
+   "image": "vocab/img/help.jpg",
+   "emoji": "🆘",
+   "review": false
+  },
+  {
+   "id": "vi-wait",
+   "concept": "wait",
+   "text": "đợi",
+   "speak": "đợi",
+   "reading": "",
+   "meaning": "to wait",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/wait.mp3",
+    "she": "vocab/audio/vi/she/wait.mp3"
+   },
+   "image": "vocab/img/wait.jpg",
+   "emoji": "⌛",
+   "review": false
+  },
+  {
+   "id": "vi-call_phone",
+   "concept": "call_phone",
+   "text": "gọi điện",
+   "speak": "gọi điện",
+   "reading": "",
+   "meaning": "to call (phone)",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/call_phone.mp3",
+    "she": "vocab/audio/vi/she/call_phone.mp3"
+   },
+   "image": "vocab/img/call_phone.jpg",
+   "emoji": "📞",
+   "review": false
+  },
+  {
+   "id": "vi-ask",
+   "concept": "ask",
+   "text": "hỏi",
+   "speak": "hỏi",
+   "reading": "",
+   "meaning": "to ask",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/ask.mp3",
+    "she": "vocab/audio/vi/she/ask.mp3"
+   },
+   "image": "vocab/img/ask.jpg",
+   "emoji": "🙋",
+   "review": false
+  },
+  {
+   "id": "vi-answer",
+   "concept": "answer",
+   "text": "trả lời",
+   "speak": "trả lời",
+   "reading": "",
+   "meaning": "to answer",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/answer.mp3",
+    "she": "vocab/audio/vi/she/answer.mp3"
+   },
+   "image": "vocab/img/answer.jpg",
+   "emoji": "💬",
+   "review": false
+  },
+  {
+   "id": "vi-learn",
+   "concept": "learn",
+   "text": "học",
+   "speak": "học",
+   "reading": "",
+   "meaning": "to learn",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/learn.mp3",
+    "she": "vocab/audio/vi/she/learn.mp3"
+   },
+   "image": "vocab/img/learn.jpg",
+   "emoji": "🎓",
+   "review": false
+  },
+  {
+   "id": "vi-teach",
+   "concept": "teach",
+   "text": "dạy",
+   "speak": "dạy",
+   "reading": "",
+   "meaning": "to teach",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/teach.mp3",
+    "she": "vocab/audio/vi/she/teach.mp3"
+   },
+   "image": "vocab/img/teach.jpg",
+   "emoji": "🧑‍🏫",
+   "review": false
+  },
+  {
+   "id": "vi-swim",
+   "concept": "swim",
+   "text": "bơi",
+   "speak": "bơi",
+   "reading": "",
+   "meaning": "to swim",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/swim.mp3",
+    "she": "vocab/audio/vi/she/swim.mp3"
+   },
+   "image": "vocab/img/swim.jpg",
+   "emoji": "🏊",
+   "review": false
+  },
+  {
+   "id": "vi-sing",
+   "concept": "sing",
+   "text": "hát",
+   "speak": "hát",
+   "reading": "",
+   "meaning": "to sing",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/sing.mp3",
+    "she": "vocab/audio/vi/she/sing.mp3"
+   },
+   "image": "vocab/img/sing.jpg",
+   "emoji": "🎤",
+   "review": false
+  },
+  {
+   "id": "vi-dance",
+   "concept": "dance",
+   "text": "nhảy múa",
+   "speak": "nhảy múa",
+   "reading": "",
+   "meaning": "to dance",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/dance.mp3",
+    "she": "vocab/audio/vi/she/dance.mp3"
+   },
+   "image": "vocab/img/dance.jpg",
+   "emoji": "💃",
+   "review": false
+  },
+  {
+   "id": "vi-laugh",
+   "concept": "laugh",
+   "text": "cười",
+   "speak": "cười",
+   "reading": "",
+   "meaning": "to laugh",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/laugh.mp3",
+    "she": "vocab/audio/vi/she/laugh.mp3"
+   },
+   "image": "vocab/img/laugh.jpg",
+   "emoji": "😂",
+   "review": false
+  },
+  {
+   "id": "vi-cry",
+   "concept": "cry",
+   "text": "khóc",
+   "speak": "khóc",
+   "reading": "",
+   "meaning": "to cry",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/cry.mp3",
+    "she": "vocab/audio/vi/she/cry.mp3"
+   },
+   "image": "vocab/img/cry.jpg",
+   "emoji": "😢",
+   "review": false
+  },
+  {
+   "id": "vi-have",
+   "concept": "have",
+   "text": "có",
+   "speak": "có",
+   "reading": "",
+   "meaning": "to have",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/have.mp3",
+    "she": "vocab/audio/vi/she/have.mp3"
+   },
+   "image": "vocab/img/have.jpg",
+   "emoji": "🤲",
+   "review": false
+  },
+  {
+   "id": "vi-need",
+   "concept": "need",
+   "text": "cần",
+   "speak": "cần",
+   "reading": "",
+   "meaning": "to need",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/need.mp3",
+    "she": "vocab/audio/vi/she/need.mp3"
+   },
+   "image": "vocab/img/need.jpg",
+   "emoji": "🙏",
+   "review": false
+  },
+  {
+   "id": "vi-use",
+   "concept": "use",
+   "text": "dùng",
+   "speak": "dùng",
+   "reading": "",
+   "meaning": "to use",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/use.mp3",
+    "she": "vocab/audio/vi/she/use.mp3"
+   },
+   "image": "vocab/img/use.jpg",
+   "emoji": "🔧",
+   "review": false
+  },
+  {
+   "id": "vi-find",
+   "concept": "find",
+   "text": "tìm thấy",
+   "speak": "tìm thấy",
+   "reading": "",
+   "meaning": "to find",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/find.mp3",
+    "she": "vocab/audio/vi/she/find.mp3"
+   },
+   "image": "vocab/img/find.jpg",
+   "emoji": "🔍",
+   "review": false
+  },
+  {
+   "id": "vi-look_for",
+   "concept": "look_for",
+   "text": "tìm",
+   "speak": "tìm",
+   "reading": "",
+   "meaning": "to look for",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/look_for.mp3",
+    "she": "vocab/audio/vi/she/look_for.mp3"
+   },
+   "image": "vocab/img/look_for.jpg",
+   "emoji": "🔦",
+   "review": false
+  },
+  {
+   "id": "vi-live",
+   "concept": "live",
+   "text": "sống",
+   "speak": "sống",
+   "reading": "",
+   "meaning": "to live",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/live.mp3",
+    "she": "vocab/audio/vi/she/live.mp3"
+   },
+   "image": "vocab/img/live.jpg",
+   "emoji": "🏡",
+   "review": false
+  },
+  {
+   "id": "vi-drive",
+   "concept": "drive",
+   "text": "lái xe",
+   "speak": "lái xe",
+   "reading": "",
+   "meaning": "to drive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/drive.mp3",
+    "she": "vocab/audio/vi/she/drive.mp3"
+   },
+   "image": "vocab/img/drive.jpg",
+   "emoji": "🚗",
+   "review": false
+  },
+  {
+   "id": "vi-fly",
+   "concept": "fly",
+   "text": "bay",
+   "speak": "bay",
+   "reading": "",
+   "meaning": "to fly",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/fly.mp3",
+    "she": "vocab/audio/vi/she/fly.mp3"
+   },
+   "image": "vocab/img/fly.jpg",
+   "emoji": "🕊️",
+   "review": false
+  },
+  {
+   "id": "vi-come_back",
+   "concept": "come_back",
+   "text": "trở về",
+   "speak": "trở về",
+   "reading": "",
+   "meaning": "to come back",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/come_back.mp3",
+    "she": "vocab/audio/vi/she/come_back.mp3"
+   },
+   "image": "vocab/img/come_back.jpg",
+   "emoji": "🔙",
+   "review": false
+  },
+  {
+   "id": "vi-arrive",
+   "concept": "arrive",
+   "text": "đến nơi",
+   "speak": "đến nơi",
+   "reading": "",
+   "meaning": "to arrive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/arrive.mp3",
+    "she": "vocab/audio/vi/she/arrive.mp3"
+   },
+   "image": "vocab/img/arrive.jpg",
+   "emoji": "🛬",
+   "review": false
+  },
+  {
+   "id": "vi-leave",
+   "concept": "leave",
+   "text": "rời đi",
+   "speak": "rời đi",
+   "reading": "",
+   "meaning": "to leave",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/leave.mp3",
+    "she": "vocab/audio/vi/she/leave.mp3"
+   },
+   "image": "vocab/img/leave.jpg",
+   "emoji": "🚪",
+   "review": false
+  },
+  {
+   "id": "vi-start",
+   "concept": "start",
+   "text": "bắt đầu",
+   "speak": "bắt đầu",
+   "reading": "",
+   "meaning": "to start",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/start.mp3",
+    "she": "vocab/audio/vi/she/start.mp3"
+   },
+   "image": "vocab/img/start.jpg",
+   "emoji": "🏁",
+   "review": false
+  },
+  {
+   "id": "vi-finish",
+   "concept": "finish",
+   "text": "kết thúc",
+   "speak": "kết thúc",
+   "reading": "",
+   "meaning": "to finish",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/finish.mp3",
+    "she": "vocab/audio/vi/she/finish.mp3"
+   },
+   "image": "vocab/img/finish.jpg",
+   "emoji": "🏆",
+   "review": false
+  },
+  {
+   "id": "vi-pay",
+   "concept": "pay",
+   "text": "trả tiền",
+   "speak": "trả tiền",
+   "reading": "",
+   "meaning": "to pay",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/pay.mp3",
+    "she": "vocab/audio/vi/she/pay.mp3"
+   },
+   "image": "vocab/img/pay.jpg",
+   "emoji": "💳",
+   "review": false
+  },
+  {
+   "id": "vi-send",
+   "concept": "send",
+   "text": "gửi",
+   "speak": "gửi",
+   "reading": "",
+   "meaning": "to send",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/send.mp3",
+    "she": "vocab/audio/vi/she/send.mp3"
+   },
+   "image": "vocab/img/send.jpg",
+   "emoji": "📨",
+   "review": false
+  },
+  {
+   "id": "vi-meet",
+   "concept": "meet",
+   "text": "gặp",
+   "speak": "gặp",
+   "reading": "",
+   "meaning": "to meet",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/meet.mp3",
+    "she": "vocab/audio/vi/she/meet.mp3"
+   },
+   "image": "vocab/img/meet.jpg",
+   "emoji": "🤝",
+   "review": false
+  },
+  {
+   "id": "vi-remember",
+   "concept": "remember",
+   "text": "nhớ",
+   "speak": "nhớ",
+   "reading": "",
+   "meaning": "to remember",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/remember.mp3",
+    "she": "vocab/audio/vi/she/remember.mp3"
+   },
+   "image": "vocab/img/remember.jpg",
+   "emoji": "🧠",
+   "review": false
+  },
+  {
+   "id": "vi-forget",
+   "concept": "forget",
+   "text": "quên",
+   "speak": "quên",
+   "reading": "",
+   "meaning": "to forget",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/forget.mp3",
+    "she": "vocab/audio/vi/she/forget.mp3"
+   },
+   "image": "vocab/img/forget.jpg",
+   "emoji": "❓",
+   "review": false
+  },
+  {
+   "id": "vi-clean",
+   "concept": "clean",
+   "text": "dọn dẹp",
+   "speak": "dọn dẹp",
+   "reading": "",
+   "meaning": "to clean",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/clean.mp3",
+    "she": "vocab/audio/vi/she/clean.mp3"
+   },
+   "image": "vocab/img/clean.jpg",
+   "emoji": "🧹",
+   "review": false
+  },
+  {
+   "id": "vi-draw",
+   "concept": "draw",
+   "text": "vẽ",
+   "speak": "vẽ",
+   "reading": "",
+   "meaning": "to draw",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/draw.mp3",
+    "she": "vocab/audio/vi/she/draw.mp3"
+   },
+   "image": "vocab/img/draw.jpg",
+   "emoji": "🖍️",
+   "review": false
+  },
+  {
+   "id": "vi-jump",
+   "concept": "jump",
+   "text": "nhảy",
+   "speak": "nhảy",
+   "reading": "",
+   "meaning": "to jump",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/jump.mp3",
+    "she": "vocab/audio/vi/she/jump.mp3"
+   },
+   "image": "vocab/img/jump.jpg",
+   "emoji": "🦘",
+   "review": false
+  },
+  {
+   "id": "vi-throw",
+   "concept": "throw",
+   "text": "ném",
+   "speak": "ném",
+   "reading": "",
+   "meaning": "to throw",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/throw.mp3",
+    "she": "vocab/audio/vi/she/throw.mp3"
+   },
+   "image": "vocab/img/throw.jpg",
+   "emoji": "🥏",
+   "review": false
+  },
+  {
+   "id": "vi-push",
+   "concept": "push",
+   "text": "đẩy",
+   "speak": "đẩy",
+   "reading": "",
+   "meaning": "to push",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/push.mp3",
+    "she": "vocab/audio/vi/she/push.mp3"
+   },
+   "image": "vocab/img/push.jpg",
+   "emoji": "🫸",
+   "review": false
+  },
+  {
+   "id": "vi-pull",
+   "concept": "pull",
+   "text": "kéo",
+   "speak": "kéo",
+   "reading": "",
+   "meaning": "to pull",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/pull.mp3",
+    "she": "vocab/audio/vi/she/pull.mp3"
+   },
+   "image": "vocab/img/pull.jpg",
+   "emoji": "🪢",
+   "review": false
+  },
+  {
+   "id": "vi-cut",
+   "concept": "cut",
+   "text": "cắt",
+   "speak": "cắt",
+   "reading": "",
+   "meaning": "to cut",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/vi/he/cut.mp3",
+    "she": "vocab/audio/vi/she/cut.mp3"
+   },
+   "image": "vocab/img/cut.jpg",
+   "emoji": "✂️",
+   "review": false
+  },
+  {
+   "id": "vi-big",
+   "concept": "big",
+   "text": "to",
+   "speak": "to",
+   "reading": "",
+   "meaning": "big",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/big.mp3",
+    "she": "vocab/audio/vi/she/big.mp3"
+   },
+   "image": "vocab/img/big.jpg",
+   "emoji": "🐘",
+   "review": false
+  },
+  {
+   "id": "vi-small",
+   "concept": "small",
+   "text": "nhỏ",
+   "speak": "nhỏ",
+   "reading": "",
+   "meaning": "small",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/small.mp3",
+    "she": "vocab/audio/vi/she/small.mp3"
+   },
+   "image": "vocab/img/small.jpg",
+   "emoji": "🐭",
+   "review": false
+  },
+  {
+   "id": "vi-hot",
+   "concept": "hot",
+   "text": "nóng",
+   "speak": "nóng",
+   "reading": "",
+   "meaning": "hot",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/hot.mp3",
+    "she": "vocab/audio/vi/she/hot.mp3"
+   },
+   "image": "vocab/img/hot.jpg",
+   "emoji": "🔥",
+   "review": false
+  },
+  {
+   "id": "vi-cold",
+   "concept": "cold",
+   "text": "lạnh",
+   "speak": "lạnh",
+   "reading": "",
+   "meaning": "cold",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/cold.mp3",
+    "she": "vocab/audio/vi/she/cold.mp3"
+   },
+   "image": "vocab/img/cold.jpg",
+   "emoji": "🥶",
+   "review": false
+  },
+  {
+   "id": "vi-good",
+   "concept": "good",
+   "text": "tốt",
+   "speak": "tốt",
+   "reading": "",
+   "meaning": "good",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/good.mp3",
+    "she": "vocab/audio/vi/she/good.mp3"
+   },
+   "image": "vocab/img/good.jpg",
+   "emoji": "👍",
+   "review": false
+  },
+  {
+   "id": "vi-bad",
+   "concept": "bad",
+   "text": "xấu",
+   "speak": "xấu",
+   "reading": "",
+   "meaning": "bad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/bad.mp3",
+    "she": "vocab/audio/vi/she/bad.mp3"
+   },
+   "image": "vocab/img/bad.jpg",
+   "emoji": "👎",
+   "review": false
+  },
+  {
+   "id": "vi-new",
+   "concept": "new",
+   "text": "mới",
+   "speak": "mới",
+   "reading": "",
+   "meaning": "new",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/new.mp3",
+    "she": "vocab/audio/vi/she/new.mp3"
+   },
+   "image": "vocab/img/new.jpg",
+   "emoji": "✨",
+   "review": false
+  },
+  {
+   "id": "vi-old_thing",
+   "concept": "old_thing",
+   "text": "cũ",
+   "speak": "cũ",
+   "reading": "",
+   "meaning": "old (thing)",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/old_thing.mp3",
+    "she": "vocab/audio/vi/she/old_thing.mp3"
+   },
+   "image": "vocab/img/old_thing.jpg",
+   "emoji": "🏚️",
+   "review": false
+  },
+  {
+   "id": "vi-young",
+   "concept": "young",
+   "text": "trẻ",
+   "speak": "trẻ",
+   "reading": "",
+   "meaning": "young",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/young.mp3",
+    "she": "vocab/audio/vi/she/young.mp3"
+   },
+   "image": "vocab/img/young.jpg",
+   "emoji": "🧒",
+   "review": false
+  },
+  {
+   "id": "vi-old_age",
+   "concept": "old_age",
+   "text": "già",
+   "speak": "già",
+   "reading": "",
+   "meaning": "old (age)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/old_age.mp3",
+    "she": "vocab/audio/vi/she/old_age.mp3"
+   },
+   "image": "vocab/img/old_age.jpg",
+   "emoji": "👴",
+   "review": false
+  },
+  {
+   "id": "vi-beautiful",
+   "concept": "beautiful",
+   "text": "đẹp",
+   "speak": "đẹp",
+   "reading": "",
+   "meaning": "beautiful",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/beautiful.mp3",
+    "she": "vocab/audio/vi/she/beautiful.mp3"
+   },
+   "image": "vocab/img/beautiful.jpg",
+   "emoji": "🌺",
+   "review": false
+  },
+  {
+   "id": "vi-delicious",
+   "concept": "delicious",
+   "text": "ngon",
+   "speak": "ngon",
+   "reading": "",
+   "meaning": "delicious",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/delicious.mp3",
+    "she": "vocab/audio/vi/she/delicious.mp3"
+   },
+   "image": "vocab/img/delicious.jpg",
+   "emoji": "😋",
+   "review": false
+  },
+  {
+   "id": "vi-happy",
+   "concept": "happy",
+   "text": "vui",
+   "speak": "vui",
+   "reading": "",
+   "meaning": "happy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/happy.mp3",
+    "she": "vocab/audio/vi/she/happy.mp3"
+   },
+   "image": "vocab/img/happy.jpg",
+   "emoji": "😄",
+   "review": false
+  },
+  {
+   "id": "vi-sad",
+   "concept": "sad",
+   "text": "buồn",
+   "speak": "buồn",
+   "reading": "",
+   "meaning": "sad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/sad.mp3",
+    "she": "vocab/audio/vi/she/sad.mp3"
+   },
+   "image": "vocab/img/sad.jpg",
+   "emoji": "😢",
+   "review": false
+  },
+  {
+   "id": "vi-tired",
+   "concept": "tired",
+   "text": "mệt",
+   "speak": "mệt",
+   "reading": "",
+   "meaning": "tired",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/tired.mp3",
+    "she": "vocab/audio/vi/she/tired.mp3"
+   },
+   "image": "vocab/img/tired.jpg",
+   "emoji": "😩",
+   "review": false
+  },
+  {
+   "id": "vi-hungry",
+   "concept": "hungry",
+   "text": "đói",
+   "speak": "đói",
+   "reading": "",
+   "meaning": "hungry",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/hungry.mp3",
+    "she": "vocab/audio/vi/she/hungry.mp3"
+   },
+   "image": "vocab/img/hungry.jpg",
+   "emoji": "🤤",
+   "review": false
+  },
+  {
+   "id": "vi-thirsty",
+   "concept": "thirsty",
+   "text": "khát",
+   "speak": "khát",
+   "reading": "",
+   "meaning": "thirsty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/thirsty.mp3",
+    "she": "vocab/audio/vi/she/thirsty.mp3"
+   },
+   "image": "vocab/img/thirsty.jpg",
+   "emoji": "🥵",
+   "review": false
+  },
+  {
+   "id": "vi-fast",
+   "concept": "fast",
+   "text": "nhanh",
+   "speak": "nhanh",
+   "reading": "",
+   "meaning": "fast",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/fast.mp3",
+    "she": "vocab/audio/vi/she/fast.mp3"
+   },
+   "image": "vocab/img/fast.jpg",
+   "emoji": "🐇",
+   "review": false
+  },
+  {
+   "id": "vi-slow",
+   "concept": "slow",
+   "text": "chậm",
+   "speak": "chậm",
+   "reading": "",
+   "meaning": "slow",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/slow.mp3",
+    "she": "vocab/audio/vi/she/slow.mp3"
+   },
+   "image": "vocab/img/slow.jpg",
+   "emoji": "🐢",
+   "review": false
+  },
+  {
+   "id": "vi-long",
+   "concept": "long",
+   "text": "dài",
+   "speak": "dài",
+   "reading": "",
+   "meaning": "long",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/long.mp3",
+    "she": "vocab/audio/vi/she/long.mp3"
+   },
+   "image": "vocab/img/long.jpg",
+   "emoji": "🐍",
+   "review": false
+  },
+  {
+   "id": "vi-short",
+   "concept": "short",
+   "text": "ngắn",
+   "speak": "ngắn",
+   "reading": "",
+   "meaning": "short",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/short.mp3",
+    "she": "vocab/audio/vi/she/short.mp3"
+   },
+   "image": "vocab/img/short.jpg",
+   "emoji": "✏️",
+   "review": false
+  },
+  {
+   "id": "vi-tall",
+   "concept": "tall",
+   "text": "cao",
+   "speak": "cao",
+   "reading": "",
+   "meaning": "tall",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/tall.mp3",
+    "she": "vocab/audio/vi/she/tall.mp3"
+   },
+   "image": "vocab/img/tall.jpg",
+   "emoji": "🦒",
+   "review": false
+  },
+  {
+   "id": "vi-expensive",
+   "concept": "expensive",
+   "text": "đắt",
+   "speak": "đắt",
+   "reading": "",
+   "meaning": "expensive",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/expensive.mp3",
+    "she": "vocab/audio/vi/she/expensive.mp3"
+   },
+   "image": "vocab/img/expensive.jpg",
+   "emoji": "💎",
+   "review": false
+  },
+  {
+   "id": "vi-cheap",
+   "concept": "cheap",
+   "text": "rẻ",
+   "speak": "rẻ",
+   "reading": "",
+   "meaning": "cheap",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/cheap.mp3",
+    "she": "vocab/audio/vi/she/cheap.mp3"
+   },
+   "image": "vocab/img/cheap.jpg",
+   "emoji": "🪙",
+   "review": false
+  },
+  {
+   "id": "vi-many",
+   "concept": "many",
+   "text": "nhiều",
+   "speak": "nhiều",
+   "reading": "",
+   "meaning": "many",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/many.mp3",
+    "she": "vocab/audio/vi/she/many.mp3"
+   },
+   "image": "vocab/img/many.jpg",
+   "emoji": "🎈",
+   "review": false
+  },
+  {
+   "id": "vi-few",
+   "concept": "few",
+   "text": "ít",
+   "speak": "ít",
+   "reading": "",
+   "meaning": "few",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/few.mp3",
+    "she": "vocab/audio/vi/she/few.mp3"
+   },
+   "image": "vocab/img/few.jpg",
+   "emoji": "🎈",
+   "review": false
+  },
+  {
+   "id": "vi-easy",
+   "concept": "easy",
+   "text": "dễ",
+   "speak": "dễ",
+   "reading": "",
+   "meaning": "easy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/easy.mp3",
+    "she": "vocab/audio/vi/she/easy.mp3"
+   },
+   "image": "vocab/img/easy.jpg",
+   "emoji": "😌",
+   "review": false
+  },
+  {
+   "id": "vi-difficult",
+   "concept": "difficult",
+   "text": "khó",
+   "speak": "khó",
+   "reading": "",
+   "meaning": "difficult",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/difficult.mp3",
+    "she": "vocab/audio/vi/she/difficult.mp3"
+   },
+   "image": "vocab/img/difficult.jpg",
+   "emoji": "😣",
+   "review": false
+  },
+  {
+   "id": "vi-heavy",
+   "concept": "heavy",
+   "text": "nặng",
+   "speak": "nặng",
+   "reading": "",
+   "meaning": "heavy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/heavy.mp3",
+    "she": "vocab/audio/vi/she/heavy.mp3"
+   },
+   "image": "vocab/img/heavy.jpg",
+   "emoji": "🏋️",
+   "review": false
+  },
+  {
+   "id": "vi-light_weight",
+   "concept": "light_weight",
+   "text": "nhẹ",
+   "speak": "nhẹ",
+   "reading": "",
+   "meaning": "light (weight)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/light_weight.mp3",
+    "she": "vocab/audio/vi/she/light_weight.mp3"
+   },
+   "image": "vocab/img/light_weight.jpg",
+   "emoji": "🪶",
+   "review": false
+  },
+  {
+   "id": "vi-clean_adj",
+   "concept": "clean_adj",
+   "text": "sạch",
+   "speak": "sạch",
+   "reading": "",
+   "meaning": "clean (adj)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/clean_adj.mp3",
+    "she": "vocab/audio/vi/she/clean_adj.mp3"
+   },
+   "image": "vocab/img/clean_adj.jpg",
+   "emoji": "✨",
+   "review": false
+  },
+  {
+   "id": "vi-dirty",
+   "concept": "dirty",
+   "text": "bẩn",
+   "speak": "bẩn",
+   "reading": "",
+   "meaning": "dirty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/dirty.mp3",
+    "she": "vocab/audio/vi/she/dirty.mp3"
+   },
+   "image": "vocab/img/dirty.jpg",
+   "emoji": "💩",
+   "review": false
+  },
+  {
+   "id": "vi-busy",
+   "concept": "busy",
+   "text": "bận",
+   "speak": "bận",
+   "reading": "",
+   "meaning": "busy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/busy.mp3",
+    "she": "vocab/audio/vi/she/busy.mp3"
+   },
+   "image": "vocab/img/busy.jpg",
+   "emoji": "🤹",
+   "review": false
+  },
+  {
+   "id": "vi-correct",
+   "concept": "correct",
+   "text": "đúng",
+   "speak": "đúng",
+   "reading": "",
+   "meaning": "correct",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/correct.mp3",
+    "she": "vocab/audio/vi/she/correct.mp3"
+   },
+   "image": "vocab/img/correct.jpg",
+   "emoji": "✅",
+   "review": false
+  },
+  {
+   "id": "vi-wrong",
+   "concept": "wrong",
+   "text": "sai",
+   "speak": "sai",
+   "reading": "",
+   "meaning": "wrong",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/wrong.mp3",
+    "she": "vocab/audio/vi/she/wrong.mp3"
+   },
+   "image": "vocab/img/wrong.jpg",
+   "emoji": "❌",
+   "review": false
+  },
+  {
+   "id": "vi-same",
+   "concept": "same",
+   "text": "giống nhau",
+   "speak": "giống nhau",
+   "reading": "",
+   "meaning": "same",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/same.mp3",
+    "she": "vocab/audio/vi/she/same.mp3"
+   },
+   "image": "vocab/img/same.jpg",
+   "emoji": "🟰",
+   "review": false
+  },
+  {
+   "id": "vi-different",
+   "concept": "different",
+   "text": "khác",
+   "speak": "khác",
+   "reading": "",
+   "meaning": "different",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/different.mp3",
+    "she": "vocab/audio/vi/she/different.mp3"
+   },
+   "image": "vocab/img/different.jpg",
+   "emoji": "🔀",
+   "review": false
+  },
+  {
+   "id": "vi-strong",
+   "concept": "strong",
+   "text": "khỏe",
+   "speak": "khỏe",
+   "reading": "",
+   "meaning": "strong",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/strong.mp3",
+    "she": "vocab/audio/vi/she/strong.mp3"
+   },
+   "image": "vocab/img/strong.jpg",
+   "emoji": "💪",
+   "review": false
+  },
+  {
+   "id": "vi-weak",
+   "concept": "weak",
+   "text": "yếu",
+   "speak": "yếu",
+   "reading": "",
+   "meaning": "weak",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/weak.mp3",
+    "she": "vocab/audio/vi/she/weak.mp3"
+   },
+   "image": "vocab/img/weak.jpg",
+   "emoji": "🥀",
+   "review": false
+  },
+  {
+   "id": "vi-fun",
+   "concept": "fun",
+   "text": "vui vẻ",
+   "speak": "vui vẻ",
+   "reading": "",
+   "meaning": "fun",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/fun.mp3",
+    "she": "vocab/audio/vi/she/fun.mp3"
+   },
+   "image": "vocab/img/fun.jpg",
+   "emoji": "🎢",
+   "review": false
+  },
+  {
+   "id": "vi-interesting",
+   "concept": "interesting",
+   "text": "thú vị",
+   "speak": "thú vị",
+   "reading": "",
+   "meaning": "interesting",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/interesting.mp3",
+    "she": "vocab/audio/vi/she/interesting.mp3"
+   },
+   "image": "vocab/img/interesting.jpg",
+   "emoji": "🧐",
+   "review": false
+  },
+  {
+   "id": "vi-cute",
+   "concept": "cute",
+   "text": "dễ thương",
+   "speak": "dễ thương",
+   "reading": "",
+   "meaning": "cute",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/cute.mp3",
+    "she": "vocab/audio/vi/she/cute.mp3"
+   },
+   "image": "vocab/img/cute.jpg",
+   "emoji": "🐱",
+   "review": false
+  },
+  {
+   "id": "vi-quiet",
+   "concept": "quiet",
+   "text": "yên tĩnh",
+   "speak": "yên tĩnh",
+   "reading": "",
+   "meaning": "quiet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/quiet.mp3",
+    "she": "vocab/audio/vi/she/quiet.mp3"
+   },
+   "image": "vocab/img/quiet.jpg",
+   "emoji": "🤫",
+   "review": false
+  },
+  {
+   "id": "vi-noisy",
+   "concept": "noisy",
+   "text": "ồn ào",
+   "speak": "ồn ào",
+   "reading": "",
+   "meaning": "noisy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/noisy.mp3",
+    "she": "vocab/audio/vi/she/noisy.mp3"
+   },
+   "image": "vocab/img/noisy.jpg",
+   "emoji": "📢",
+   "review": false
+  },
+  {
+   "id": "vi-near",
+   "concept": "near",
+   "text": "gần",
+   "speak": "gần",
+   "reading": "",
+   "meaning": "near",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/near.mp3",
+    "she": "vocab/audio/vi/she/near.mp3"
+   },
+   "image": "vocab/img/near.jpg",
+   "emoji": "📍",
+   "review": false
+  },
+  {
+   "id": "vi-far",
+   "concept": "far",
+   "text": "xa",
+   "speak": "xa",
+   "reading": "",
+   "meaning": "far",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/far.mp3",
+    "she": "vocab/audio/vi/she/far.mp3"
+   },
+   "image": "vocab/img/far.jpg",
+   "emoji": "🏔️",
+   "review": false
+  },
+  {
+   "id": "vi-sweet",
+   "concept": "sweet",
+   "text": "ngọt",
+   "speak": "ngọt",
+   "reading": "",
+   "meaning": "sweet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/sweet.mp3",
+    "she": "vocab/audio/vi/she/sweet.mp3"
+   },
+   "image": "vocab/img/sweet.jpg",
+   "emoji": "🍭",
+   "review": false
+  },
+  {
+   "id": "vi-spicy",
+   "concept": "spicy",
+   "text": "cay",
+   "speak": "cay",
+   "reading": "",
+   "meaning": "spicy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/spicy.mp3",
+    "she": "vocab/audio/vi/she/spicy.mp3"
+   },
+   "image": "vocab/img/spicy.jpg",
+   "emoji": "🌶️",
+   "review": false
+  },
+  {
+   "id": "vi-sour",
+   "concept": "sour",
+   "text": "chua",
+   "speak": "chua",
+   "reading": "",
+   "meaning": "sour",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/sour.mp3",
+    "she": "vocab/audio/vi/she/sour.mp3"
+   },
+   "image": "vocab/img/sour.jpg",
+   "emoji": "🍋",
+   "review": false
+  },
+  {
+   "id": "vi-salty",
+   "concept": "salty",
+   "text": "mặn",
+   "speak": "mặn",
+   "reading": "",
+   "meaning": "salty",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/vi/he/salty.mp3",
+    "she": "vocab/audio/vi/she/salty.mp3"
+   },
+   "image": "vocab/img/salty.jpg",
+   "emoji": "🧂",
+   "review": false
+  }
+ ]
+}

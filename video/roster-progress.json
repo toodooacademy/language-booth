@@ -1,0 +1,424 @@
+{
+  "updated_at": "2026-11-11T12:20:57-08:00",
+  "timezone": "America/Los_Angeles",
+  "goal": "3 clips (idle, talking, meltdown) for each of 40 roster characters, Bao-style",
+  "encode": {
+    "raw": "Keep GenerateVideo output as video/<id>/{idle,talking,meltdown}.mp4 (target ~720x720, 24fps, ~5s idle/talking, ~6s meltdown)",
+    "mobile": {
+      "path": "video/<id>/mobile/{idle,talking,meltdown}.mp4",
+      "size": "480x480",
+      "fps": 24,
+      "codec": "libx264 Constrained Baseline level 3.1",
+      "pix_fmt": "yuv420p",
+      "color": "bt709 tv",
+      "audio": "none (muted)",
+      "crf": 28,
+      "preset": "slow",
+      "x264_params": "me=hex:deblock=-3,-3:psy-rd=2.00,0.70:aq-strength=1.20",
+      "movflags": "+faststart",
+      "script": "video/encode-mobile.sh"
+    }
+  },
+  "skipped": {
+    "stick-bao": "Stick figures are drawn in code; no video clips.",
+    "real-m-01": "Thầy Bao already has approved clips at video/thay-bao/. Checked current characters/real-m-01/neutral-closed.jpg against those clips: same person (young man, glasses, pink sweater). Skipping regeneration so the approved videos stay in place.",
+    "real-f-01": "Cô Bao already has approved clips at video/co-bao/. Checked current characters/real-f-01/neutral-closed.jpg against those clips: same person (young woman, bun with pencil, floral top). Skipping regeneration so the approved videos stay in place."
+  },
+  "order": [
+    "anime-m-01",
+    "anime-f-01",
+    "anime-m-02",
+    "anime-f-02",
+    "anime-m-03",
+    "anime-f-03",
+    "anime-m-04",
+    "anime-f-04",
+    "anime-m-05",
+    "anime-f-05",
+    "anime-m-06",
+    "anime-f-06",
+    "anime-m-07",
+    "anime-f-07",
+    "anime-m-08",
+    "anime-f-08",
+    "anime-m-09",
+    "anime-f-09",
+    "anime-m-10",
+    "anime-f-10",
+    "real-m-02",
+    "real-f-02",
+    "real-m-03",
+    "real-f-03",
+    "real-m-04",
+    "real-f-04",
+    "real-m-05",
+    "real-f-05",
+    "real-m-06",
+    "real-f-06",
+    "real-m-07",
+    "real-f-07",
+    "real-m-08",
+    "real-f-08",
+    "real-m-09",
+    "real-f-09",
+    "real-m-10",
+    "real-f-10"
+  ],
+  "already_done_aliases": {
+    "real-m-01": {
+      "name": "Thầy Bao",
+      "paths": "video/thay-bao/ and video/thay-bao/mobile/"
+    },
+    "real-f-01": {
+      "name": "Cô Bao",
+      "paths": "video/co-bao/ and video/co-bao/mobile/"
+    }
+  },
+  "characters": {
+    "anime-m-01": {
+      "name": "Kenji Spark",
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match reference. Anime style preserved. Idle is a calm blink/breath loop. Talking has clear mouth movement mid-clip and closed mouth at both ends. Meltdown is a family-friendly over-the-top frustrated pose with fists, red face, same identity. No regen needed.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-01/idle.mp4",
+          "mobile": "video/anime-m-01/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-01/talking.mp4",
+          "mobile": "video/anime-m-01/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-01/meltdown.mp4",
+          "mobile": "video/anime-m-01/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
+    },
+    "anime-m-02": {
+      "name": "Minh Comet",
+      "gender": "male",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and male gender match (fluffy brown hair, olive jacket, black tee). Anime style preserved. Idle calm loop, talking has clear open mouth mid-clip, meltdown is comedic frustration with fists. No regen needed.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-m-02/idle.mp4",
+          "mobile": "video/anime-m-02/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-m-02/talking.mp4",
+          "mobile": "video/anime-m-02/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-m-02/meltdown.mp4",
+          "mobile": "video/anime-m-02/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
+    },
+    "anime-m-03": {
+      "name": "Rio Flash",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-04": {
+      "name": "Hao Bubble",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-05": {
+      "name": "Theo Noodle",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-06": {
+      "name": "Jae Volt",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-07": {
+      "name": "Luca Puff",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-08": {
+      "name": "Hiro Pixel",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-09": {
+      "name": "Sam Boba",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-m-10": {
+      "name": "Omar Zest",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-01": {
+      "name": "Linh Petal",
+      "gender": "female",
+      "style": "anime",
+      "status": "done",
+      "verified": true,
+      "notes": "Identity and female gender match reference (long black hair, pink flower clips, lavender blouse). Anime style preserved. Idle is a calm loop. Talking has clear mid-clip mouth movement. Meltdown is family-friendly over-the-top frustration with fists. No regen needed.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-01/idle.mp4",
+          "mobile": "video/anime-f-01/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-01/talking.mp4",
+          "mobile": "video/anime-f-01/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "meltdown": {
+          "raw": "video/anime-f-01/meltdown.mp4",
+          "mobile": "video/anime-f-01/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
+    },
+    "anime-f-02": {
+      "name": "Yuki Frost",
+      "gender": "female",
+      "style": "anime",
+      "status": "in_progress",
+      "verified": false,
+      "notes": "Idle and meltdown verified: identity and female gender match (silver-lavender bob, sailor collar, white cardigan). Talking attempt 1 had only very subtle mouth movement (mostly smiling/blinking); regenerating talking once with a stronger lip-movement prompt.",
+      "clips": {
+        "idle": {
+          "raw": "video/anime-f-02/idle.mp4",
+          "mobile": "video/anime-f-02/mobile/idle.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": true
+        },
+        "talking": {
+          "raw": "video/anime-f-02/talking.mp4",
+          "mobile": "video/anime-f-02/mobile/talking.mp4",
+          "duration_s": 5.041667,
+          "attempts": 1,
+          "verified": false,
+          "issue": "mouth movement too subtle"
+        },
+        "meltdown": {
+          "raw": "video/anime-f-02/meltdown.mp4",
+          "mobile": "video/anime-f-02/mobile/meltdown.mp4",
+          "duration_s": 6.041667,
+          "attempts": 1,
+          "verified": true
+        }
+      }
+    },
+    "anime-f-03": {
+      "name": "Mei Bun",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-04": {
+      "name": "Sofia Fizz",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-05": {
+      "name": "Aya Comet",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-06": {
+      "name": "Hana Beam",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-07": {
+      "name": "Camila Pop",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-08": {
+      "name": "Trang Moon",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-09": {
+      "name": "Nora Flick",
+      "status": "pending",
+      "clips": {}
+    },
+    "anime-f-10": {
+      "name": "Priya Glow",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-01": {
+      "name": "Thầy Bao",
+      "status": "skipped_existing_approved",
+      "reason": "Thầy Bao already has approved clips at video/thay-bao/. Checked current characters/real-m-01/neutral-closed.jpg against those clips: same person (young man, glasses, pink sweater). Skipping regeneration so the approved videos stay in place.",
+      "clips": {
+        "idle": {
+          "mobile": "video/thay-bao/mobile/idle.mp4"
+        },
+        "talking": {
+          "mobile": "video/thay-bao/mobile/talking.mp4"
+        },
+        "meltdown": {
+          "mobile": "video/thay-bao/mobile/meltdown.mp4"
+        }
+      }
+    },
+    "real-m-02": {
+      "name": "Diego Sol",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-03": {
+      "name": "Ken Nakamura",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-04": {
+      "name": "Wei Chen",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-05": {
+      "name": "Marcus Hale",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-06": {
+      "name": "Alejandro Ruiz",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-07": {
+      "name": "Jin Park",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-08": {
+      "name": "Eli Santos",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-09": {
+      "name": "Noah Kim",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-m-10": {
+      "name": "Rafael Mendes",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-01": {
+      "name": "Cô Bao",
+      "status": "skipped_existing_approved",
+      "reason": "Cô Bao already has approved clips at video/co-bao/. Checked current characters/real-f-01/neutral-closed.jpg against those clips: same person (young woman, bun with pencil, floral top). Skipping regeneration so the approved videos stay in place.",
+      "clips": {
+        "idle": {
+          "mobile": "video/co-bao/mobile/idle.mp4"
+        },
+        "talking": {
+          "mobile": "video/co-bao/mobile/talking.mp4"
+        },
+        "meltdown": {
+          "mobile": "video/co-bao/mobile/meltdown.mp4"
+        }
+      }
+    },
+    "real-f-02": {
+      "name": "Elena Vasquez",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-03": {
+      "name": "Aiko Mori",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-04": {
+      "name": "Lan Pham",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-05": {
+      "name": "Maya Brooks",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-06": {
+      "name": "Sofia Alvarez",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-07": {
+      "name": "Hana Lee",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-08": {
+      "name": "Mei Lin",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-09": {
+      "name": "Priya Shah",
+      "status": "pending",
+      "clips": {}
+    },
+    "real-f-10": {
+      "name": "Amara Diallo",
+      "status": "pending",
+      "clips": {}
+    }
+  },
+  "failures": [],
+  "notes": "Do not edit index.html; integration is handled by another worker. App should map character id -> video/<id>/mobile/{idle,talking,meltdown}.mp4, with real-m-01 -> video/thay-bao/mobile/ and real-f-01 -> video/co-bao/mobile/.",
+  "milestone_first4": {
+    "at": "2026-11-11T12:20:57-08:00",
+    "done": [
+      "anime-m-01 Kenji Spark",
+      "anime-f-01 Linh Petal",
+      "anime-m-02 Minh Comet"
+    ],
+    "in_progress": [
+      "anime-f-02 Yuki Frost (talking regen)"
+    ],
+    "failures": [],
+    "skipped": [
+      "real-m-01 Thầy Bao (approved videos already exist, frames match)",
+      "real-f-01 Cô Bao (approved videos already exist, frames match)"
+    ]
+  }
+}

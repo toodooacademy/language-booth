@@ -1,0 +1,127 @@
+[
+ {
+  "line": "st006#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.83: hai, sanbyakuni-gōshitsu ni sunde imasu. | haigoushitsunisundeimasu"
+ },
+ {
+  "line": "st007#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.86: kinō wa ichinichijū ame deshita ne. | kinouhaichinichinakaamedeshitane"
+ },
+ {
+  "line": "st072#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.90: ohayō gozaimasu. mensetsu no kata desu ka. | ohayougozaimasumensetsunohoudesuka"
+ },
+ {
+  "line": "st072#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.83: hai, jūji ni yoyaku shite imasu. | haitotokiniyoyakushiteimasu"
+ },
+ {
+  "line": "st078#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: muttsume gurai desu. ōkii ichiba de orite kudasai. | mutsumeguraidesuoukiishijoudeoritekudasai"
+ },
+ {
+  "line": "st079#5",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: hai, juppun gurai desu. | haijuubunguraidesu"
+ },
+ {
+  "line": "st080#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: nijuppun go gurai desu. | nijuufungoguraidesu"
+ },
+ {
+  "line": "st082#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.87: onaka ga itai desu. | oharagaitaidesu"
+ },
+ {
+  "line": "st083#1",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.88: konshū hajimeta bakari na n da. | imashuuhajimetabakarinanda"
+ },
+ {
+  "line": "st086#5",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.78: jūroku-wa desu. ima, jūwame desu. | juurokuhanashidesuimajuuhanashimedesu"
+ },
+ {
+  "line": "st088#3",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.79: sanjussai! toshi o totta ki ga suru. | sanjuusainenototsutakigasuru"
+ },
+ {
+  "line": "st088#5",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.85: haha, arigatō. haitte kēki tabete! | hawaarigatouitsutsutekeekitabete"
+ },
+ {
+  "line": "st090#4",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.78: takakatta? | takatsuta"
+ },
+ {
+  "line": "st093#0",
+  "lang": "zh",
+  "issue": "pinyin syllables 10 != hanzi 8: wéi, nín hǎo, wǒ shì sì B de fángkè."
+ },
+ {
+  "line": "st098#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.84: konshūmatsu, ohiru o ogorasete. | imashuumatsuohiruwougorasete"
+ },
+ {
+  "line": "st099#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.87: a, sumimasen! | atsusumimasen"
+ },
+ {
+  "line": "st104#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.83: konshūmatsu no tenki wa dō? | imashuumatsunotenkihadou"
+ },
+ {
+  "line": "st105#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.79: kono ichiba ni wa yoku kuru no? | konoshijounihayokukuruno"
+ },
+ {
+  "line": "st106#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.87: jā, boku wa ofuro to yuka o yaru ne. | jaabokuwaofurototokowoyarune"
+ },
+ {
+  "line": "st110#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.88: asagohan wa tabemashita ka. | asagomeshiwatabemashitaka"
+ },
+ {
+  "line": "st110#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.85: boku wa asa wa itsumo gohan desu. | bokuwaasahaitsumogomeshidesu"
+ },
+ {
+  "line": "st112#4",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: jā, sore ni suru. kimi mo nomu? | jaasorenisurukunmonomu"
+ },
+ {
+  "line": "st115#2",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.86: Yui desu. sannin desu. | yuidesusanhitodesu"
+ },
+ {
+  "line": "st117#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.89: sumimasen, kono jaketto wa sēruchū desu ka. | sumimasenkonojakettowaseerunakadesuka"
+ },
+ {
+  "line": "st120#0",
+  "lang": "ja",
+  "issue": "romaji vs kakasi 0.87: konshū wa otaku ga nigiyaka desu ne. | imashuuhaotakuganigiyakadesune"
+ }
+]

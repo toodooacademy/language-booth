@@ -1,0 +1,11 @@
+Language Booth vocab illustration style
+======================================
+Folder: /workspace/language-app/vocab/img/<concept_id>.jpg
+Size: 256x256 JPEG (quality ~82), sRGB.
+One image per concept, shared across all languages.
+
+Prompt prefix (always use this, then add the subject):
+
+A clean, friendly square illustration for a children's language-learning flashcard. Simple flat soft style, soft rounded shapes, gentle shading, even lighting. Plain light beige or cream background, no scene, no floor grid, no border. No text, no letters, no typography, no numbers written as glyphs, no watermark, no logo, no caption. Centered single subject, generous margin, consistent character proportions if people are shown, warm gentle colors, not cute-grotesque, not 3D render, not photoreal, not anime-detailed.
+
+Then: Subject: <promptSubject from concepts.json>.

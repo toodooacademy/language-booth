@@ -1,0 +1,7868 @@
+{
+ "lang": "ja",
+ "name": "Japanese",
+ "speech": "ja-JP",
+ "topics": [
+  {
+   "id": "greetings",
+   "label": "Greetings"
+  },
+  {
+   "id": "numbers",
+   "label": "Numbers"
+  },
+  {
+   "id": "time",
+   "label": "Time & Calendar"
+  },
+  {
+   "id": "family",
+   "label": "Family"
+  },
+  {
+   "id": "people",
+   "label": "People"
+  },
+  {
+   "id": "pronouns",
+   "label": "Pronouns & Pointing"
+  },
+  {
+   "id": "questions",
+   "label": "Question Words"
+  },
+  {
+   "id": "body",
+   "label": "Body"
+  },
+  {
+   "id": "colors",
+   "label": "Colors"
+  },
+  {
+   "id": "food",
+   "label": "Food & Drink"
+  },
+  {
+   "id": "verbs",
+   "label": "Common Verbs"
+  },
+  {
+   "id": "adjectives",
+   "label": "Describing Words"
+  }
+ ],
+ "tiers": [
+  {
+   "id": 1,
+   "label": "Beginner"
+  },
+  {
+   "id": 2,
+   "label": "Elementary"
+  },
+  {
+   "id": 3,
+   "label": "Pre-intermediate"
+  },
+  {
+   "id": 4,
+   "label": "Intermediate"
+  },
+  {
+   "id": 5,
+   "label": "Upper-intermediate"
+  }
+ ],
+ "pageSize": 24,
+ "count": 341,
+ "words": [
+  {
+   "id": "ja-hello",
+   "concept": "hello",
+   "text": "こんにちは",
+   "speak": "こんにちは",
+   "reading": "konnichiwa",
+   "meaning": "hello",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/hello.mp3",
+    "she": "vocab/audio/ja/she/hello.mp3"
+   },
+   "image": "vocab/img/hello.jpg",
+   "emoji": "👋",
+   "kana": "こんにちは",
+   "legacy": true,
+   "example_phrase": "先生、こんにちは",
+   "example_sentence": "こんにちは、私はランです。",
+   "example_phrase_meaning": "hello, teacher",
+   "example_meaning": "Hello, my name is Lan.",
+   "example_phrase_reading": "Sensei, konnichiwa",
+   "example_sentence_reading": "Konnichiwa, watashi wa ran desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/hello-ex.mp3",
+    "she": "vocab/audio/ja/she/hello-ex.mp3"
+   },
+   "example_phrase_kana": "せんせい、こんにちは",
+   "example_sentence_kana": "こんにちは、わたしはらんです。",
+   "review": false
+  },
+  {
+   "id": "ja-thank_you",
+   "concept": "thank_you",
+   "text": "ありがとう",
+   "speak": "ありがとう",
+   "reading": "arigatō",
+   "meaning": "thank you",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/ja/he/thank_you.mp3",
+    "she": "vocab/audio/ja/she/thank_you.mp3"
+   },
+   "image": "vocab/img/thank_you.jpg",
+   "emoji": "🙏",
+   "kana": "ありがとう",
+   "legacy": true,
+   "example_phrase": "どうもありがとう",
+   "example_sentence": "お茶をありがとう。",
+   "example_phrase_meaning": "thank you very much",
+   "example_meaning": "Thank you for the tea.",
+   "example_phrase_reading": "Dōmo arigatō",
+   "example_sentence_reading": "Ocha o arigatō.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/thank_you-ex.mp3",
+    "she": "vocab/audio/ja/she/thank_you-ex.mp3"
+   },
+   "example_phrase_kana": "どうもありがとう",
+   "example_sentence_kana": "おちゃをありがとう。",
+   "review": false
+  },
+  {
+   "id": "ja-sorry",
+   "concept": "sorry",
+   "text": "すみません",
+   "speak": "すみません",
+   "reading": "sumimasen",
+   "meaning": "excuse me / sorry",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/ja/he/sorry.mp3",
+    "she": "vocab/audio/ja/she/sorry.mp3"
+   },
+   "image": "vocab/img/sorry.jpg",
+   "emoji": "🙇",
+   "kana": "すみません",
+   "legacy": true,
+   "example_phrase": "本当にすみません",
+   "example_sentence": "すみません、遅れました。",
+   "example_phrase_meaning": "I'm very sorry",
+   "example_meaning": "Sorry, I am late.",
+   "example_phrase_reading": "Hontōni sumimasen",
+   "example_sentence_reading": "Sumimasen, okuremashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/sorry-ex.mp3",
+    "she": "vocab/audio/ja/she/sorry-ex.mp3"
+   },
+   "example_phrase_kana": "ほんとうにすみません",
+   "example_sentence_kana": "すみません、おくれました。",
+   "review": false
+  },
+  {
+   "id": "ja-yes",
+   "concept": "yes",
+   "text": "はい",
+   "speak": "はい",
+   "reading": "hai",
+   "meaning": "yes",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/yes.mp3",
+    "she": "vocab/audio/ja/she/yes.mp3"
+   },
+   "image": "vocab/img/yes.jpg",
+   "emoji": "👍",
+   "kana": "はい",
+   "legacy": true,
+   "example_phrase": "はい、どうぞ",
+   "example_sentence": "はい、私は学生です。",
+   "example_phrase_meaning": "yes, please",
+   "example_meaning": "Yes, I am a student.",
+   "example_phrase_reading": "Hai, dōzo",
+   "example_sentence_reading": "Hai, watashi wa gakusei desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/yes-ex.mp3",
+    "she": "vocab/audio/ja/she/yes-ex.mp3"
+   },
+   "example_phrase_kana": "はい、どうぞ",
+   "example_sentence_kana": "はい、わたしはがくせいです。",
+   "review": false
+  },
+  {
+   "id": "ja-no",
+   "concept": "no",
+   "text": "いいえ",
+   "speak": "いいえ",
+   "reading": "iie",
+   "meaning": "no",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/no.mp3",
+    "she": "vocab/audio/ja/she/no.mp3"
+   },
+   "image": "vocab/img/no.jpg",
+   "emoji": "🙅",
+   "kana": "いいえ",
+   "legacy": true,
+   "example_phrase": "いいえ、けっこうです",
+   "example_sentence": "いいえ、コーヒーはいりません。",
+   "example_phrase_meaning": "no, thank you",
+   "example_meaning": "No, I don't want coffee.",
+   "example_phrase_reading": "Iie, kekkō desu",
+   "example_sentence_reading": "Iie, kōhī wa irimasen.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/no-ex.mp3",
+    "she": "vocab/audio/ja/she/no-ex.mp3"
+   },
+   "example_phrase_kana": "いいえ、けっこうです",
+   "example_sentence_kana": "いいえ、コーヒーはいりません。",
+   "review": false
+  },
+  {
+   "id": "ja-goodbye",
+   "concept": "goodbye",
+   "text": "さようなら",
+   "speak": "さようなら",
+   "reading": "sayōnara",
+   "meaning": "goodbye",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/goodbye.mp3",
+    "she": "vocab/audio/ja/she/goodbye.mp3"
+   },
+   "image": "vocab/img/goodbye.jpg",
+   "emoji": "👋",
+   "kana": "さようなら",
+   "example_phrase": "みなさん、さようなら",
+   "example_sentence": "さようなら、また明日。",
+   "example_phrase_meaning": "goodbye, everyone",
+   "example_meaning": "Goodbye, see you tomorrow.",
+   "example_phrase_reading": "Minasan, sayōnara",
+   "example_sentence_reading": "Sayōnara, mata ashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/goodbye-ex.mp3",
+    "she": "vocab/audio/ja/she/goodbye-ex.mp3"
+   },
+   "example_phrase_kana": "みなさん、さようなら",
+   "example_sentence_kana": "さようなら、またあした。",
+   "review": false
+  },
+  {
+   "id": "ja-good_morning",
+   "concept": "good_morning",
+   "text": "おはよう",
+   "speak": "おはよう",
+   "reading": "ohayō",
+   "meaning": "good morning",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/ja/he/good_morning.mp3",
+    "she": "vocab/audio/ja/she/good_morning.mp3"
+   },
+   "image": "vocab/img/good_morning.jpg",
+   "emoji": "🌅",
+   "kana": "おはよう",
+   "example_phrase": "お母さん、おはよう",
+   "example_sentence": "おはよう、よく寝た？",
+   "example_phrase_meaning": "good morning, mom",
+   "example_meaning": "Good morning, did you sleep well?",
+   "example_phrase_reading": "Okāsan, ohayō",
+   "example_sentence_reading": "Ohayō, yoku neta?",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/good_morning-ex.mp3",
+    "she": "vocab/audio/ja/she/good_morning-ex.mp3"
+   },
+   "example_phrase_kana": "おかあさん、おはよう",
+   "example_sentence_kana": "おはよう、よくねた？",
+   "review": false
+  },
+  {
+   "id": "ja-good_night",
+   "concept": "good_night",
+   "text": "おやすみ",
+   "speak": "おやすみ",
+   "reading": "oyasumi",
+   "meaning": "good night",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/ja/he/good_night.mp3",
+    "she": "vocab/audio/ja/she/good_night.mp3"
+   },
+   "image": "vocab/img/good_night.jpg",
+   "emoji": "🌙",
+   "kana": "おやすみ",
+   "example_phrase": "お父さん、おやすみ",
+   "example_sentence": "おやすみ、ゆっくり寝てね。",
+   "example_phrase_meaning": "good night, dad",
+   "example_meaning": "Good night, sleep well.",
+   "example_phrase_reading": "Otōsan, oyasumi",
+   "example_sentence_reading": "Oyasumi, yukkuri nete ne.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/good_night-ex.mp3",
+    "she": "vocab/audio/ja/she/good_night-ex.mp3"
+   },
+   "example_phrase_kana": "おとうさん、おやすみ",
+   "example_sentence_kana": "おやすみ、ゆっくりねてね。",
+   "review": false
+  },
+  {
+   "id": "ja-please",
+   "concept": "please",
+   "text": "お願いします",
+   "speak": "おねがいします",
+   "reading": "onegaishimasu",
+   "meaning": "please",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/please.mp3",
+    "she": "vocab/audio/ja/she/please.mp3"
+   },
+   "image": "vocab/img/please.jpg",
+   "emoji": "🥺",
+   "kana": "おねがいします",
+   "example_phrase": "水をお願いします",
+   "example_sentence": "座ってください。",
+   "example_phrase_meaning": "water, please",
+   "example_meaning": "Please sit down.",
+   "example_phrase_reading": "Mizu o onegaishimasu",
+   "example_sentence_reading": "Suwatte kudasai.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/please-ex.mp3",
+    "she": "vocab/audio/ja/she/please-ex.mp3"
+   },
+   "example_phrase_kana": "みずをおねがいします",
+   "example_sentence_kana": "すわってください。",
+   "review": false
+  },
+  {
+   "id": "ja-youre_welcome",
+   "concept": "youre_welcome",
+   "text": "どういたしまして",
+   "speak": "どういたしまして",
+   "reading": "dōitashimashite",
+   "meaning": "you're welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/ja/he/youre_welcome.mp3",
+    "she": "vocab/audio/ja/she/youre_welcome.mp3"
+   },
+   "image": "vocab/img/youre_welcome.jpg",
+   "emoji": "😊",
+   "kana": "どういたしまして",
+   "example_phrase": "いいえ、どういたしまして",
+   "example_sentence": "どういたしまして、簡単でした。",
+   "example_phrase_meaning": "you're welcome, friend",
+   "example_meaning": "You're welcome, it was easy.",
+   "example_phrase_reading": "Iie, dōitashimashite",
+   "example_sentence_reading": "Dōitashimashite, kantan deshita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/youre_welcome-ex.mp3",
+    "she": "vocab/audio/ja/she/youre_welcome-ex.mp3"
+   },
+   "example_phrase_kana": "いいえ、どういたしまして",
+   "example_sentence_kana": "どういたしまして、かんたんでした。",
+   "review": false
+  },
+  {
+   "id": "ja-welcome",
+   "concept": "welcome",
+   "text": "ようこそ",
+   "speak": "ようこそ",
+   "reading": "yōkoso",
+   "meaning": "welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/welcome.mp3",
+    "she": "vocab/audio/ja/she/welcome.mp3"
+   },
+   "image": "vocab/img/welcome.jpg",
+   "emoji": "🤗",
+   "kana": "ようこそ",
+   "example_phrase": "日本へようこそ",
+   "example_sentence": "私の家へようこそ！",
+   "example_phrase_meaning": "welcome home",
+   "example_meaning": "Welcome to my house!",
+   "example_phrase_reading": "Nihon e yōkoso",
+   "example_sentence_reading": "Watashi no ie e yōkoso!",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/welcome-ex.mp3",
+    "she": "vocab/audio/ja/she/welcome-ex.mp3"
+   },
+   "example_phrase_kana": "にほんへようこそ",
+   "example_sentence_kana": "わたしのいえへようこそ！",
+   "review": false
+  },
+  {
+   "id": "ja-okay",
+   "concept": "okay",
+   "text": "いいよ",
+   "speak": "いいよ",
+   "reading": "iiyo",
+   "meaning": "okay",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/okay.mp3",
+    "she": "vocab/audio/ja/she/okay.mp3"
+   },
+   "image": "vocab/img/okay.jpg",
+   "emoji": "👌",
+   "kana": "いいよ",
+   "example_phrase": "いいよ、行こう",
+   "example_sentence": "いいよ、分かった。",
+   "example_phrase_meaning": "okay, let's go",
+   "example_meaning": "Okay, I understand.",
+   "example_phrase_reading": "Iiyo, ikō",
+   "example_sentence_reading": "Iiyo, wakatta.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/okay-ex.mp3",
+    "she": "vocab/audio/ja/she/okay-ex.mp3"
+   },
+   "example_phrase_kana": "いいよ、いこう",
+   "example_sentence_kana": "いいよ、わかった。",
+   "review": false
+  },
+  {
+   "id": "ja-nice_to_meet_you",
+   "concept": "nice_to_meet_you",
+   "text": "はじめまして",
+   "speak": "はじめまして",
+   "reading": "hajimemashite",
+   "meaning": "nice to meet you",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/ja/he/nice_to_meet_you.mp3",
+    "she": "vocab/audio/ja/she/nice_to_meet_you.mp3"
+   },
+   "image": "vocab/img/nice_to_meet_you.jpg",
+   "emoji": "🤝",
+   "kana": "はじめまして",
+   "example_phrase": "はじめまして、ミンです",
+   "example_sentence": "はじめまして、ミンです。どうぞよろしく。",
+   "example_phrase_meaning": "nice to meet you too",
+   "example_meaning": "Nice to meet you, I'm Minh.",
+   "example_phrase_reading": "Hajimemashite, min desu",
+   "example_sentence_reading": "Hajimemashite, min desu. dōzo yoroshiku.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/nice_to_meet_you-ex.mp3",
+    "she": "vocab/audio/ja/she/nice_to_meet_you-ex.mp3"
+   },
+   "example_phrase_kana": "はじめまして、みんです",
+   "example_sentence_kana": "はじめまして、みんです。どうぞよろしく。",
+   "review": false
+  },
+  {
+   "id": "ja-congratulations",
+   "concept": "congratulations",
+   "text": "おめでとう",
+   "speak": "おめでとう",
+   "reading": "omedetō",
+   "meaning": "congratulations",
+   "topic": "greetings",
+   "tier": 3,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/ja/he/congratulations.mp3",
+    "she": "vocab/audio/ja/she/congratulations.mp3"
+   },
+   "image": "vocab/img/congratulations.jpg",
+   "emoji": "🎉",
+   "kana": "おめでとう",
+   "example_phrase": "ご結婚おめでとう",
+   "example_sentence": "新しい仕事、おめでとう！",
+   "example_phrase_meaning": "congratulations to you",
+   "example_meaning": "Congratulations on your new job!",
+   "example_phrase_reading": "Gokekkon omedetō",
+   "example_sentence_reading": "Atarashii shigoto, omedetō!",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/congratulations-ex.mp3",
+    "she": "vocab/audio/ja/she/congratulations-ex.mp3"
+   },
+   "example_phrase_kana": "ごけっこんおめでとう",
+   "example_sentence_kana": "あたらしいしごと、おめでとう！",
+   "review": false
+  },
+  {
+   "id": "ja-name",
+   "concept": "name",
+   "text": "名前",
+   "speak": "なまえ",
+   "reading": "namae",
+   "meaning": "name",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/name.mp3",
+    "she": "vocab/audio/ja/she/name.mp3"
+   },
+   "image": "vocab/img/name.jpg",
+   "emoji": "📛",
+   "kana": "なまえ",
+   "example_phrase": "私の名前",
+   "example_sentence": "お名前は何ですか？",
+   "example_phrase_meaning": "my name",
+   "example_meaning": "What is your name?",
+   "example_phrase_reading": "Watashi no namae",
+   "example_sentence_reading": "Onamae wa nan desu ka?",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/name-ex.mp3",
+    "she": "vocab/audio/ja/she/name-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのなまえ",
+   "example_sentence_kana": "おなまえはなんですか？",
+   "review": false
+  },
+  {
+   "id": "ja-one",
+   "concept": "one",
+   "text": "一",
+   "speak": "いち",
+   "reading": "ichi",
+   "meaning": "one",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/one.mp3",
+    "she": "vocab/audio/ja/she/one.mp3"
+   },
+   "image": "vocab/img/one.jpg",
+   "emoji": "1️⃣",
+   "kana": "いち",
+   "legacy": true,
+   "example_phrase": "りんご一つ",
+   "example_sentence": "猫が一匹います。",
+   "example_phrase_meaning": "one apple",
+   "example_meaning": "I have one cat.",
+   "example_phrase_reading": "Ringo hitotsu",
+   "example_sentence_reading": "Neko ga ippiki imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/one-ex.mp3",
+    "she": "vocab/audio/ja/she/one-ex.mp3"
+   },
+   "example_phrase_kana": "りんごひとつ",
+   "example_sentence_kana": "ねこがいっぴきいます。",
+   "review": false
+  },
+  {
+   "id": "ja-two",
+   "concept": "two",
+   "text": "二",
+   "speak": "に",
+   "reading": "ni",
+   "meaning": "two",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/two.mp3",
+    "she": "vocab/audio/ja/she/two.mp3"
+   },
+   "image": "vocab/img/two.jpg",
+   "emoji": "2️⃣",
+   "kana": "に",
+   "legacy": true,
+   "example_phrase": "コップ二つ",
+   "example_sentence": "兄が二人います。",
+   "example_phrase_meaning": "two cups",
+   "example_meaning": "I have two brothers.",
+   "example_phrase_reading": "Koppu futatsu",
+   "example_sentence_reading": "Ani ga futari imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/two-ex.mp3",
+    "she": "vocab/audio/ja/she/two-ex.mp3"
+   },
+   "example_phrase_kana": "コップふたつ",
+   "example_sentence_kana": "あにがふたりいます。",
+   "review": false
+  },
+  {
+   "id": "ja-three",
+   "concept": "three",
+   "text": "三",
+   "speak": "さん",
+   "reading": "san",
+   "meaning": "three",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/three.mp3",
+    "she": "vocab/audio/ja/she/three.mp3"
+   },
+   "image": "vocab/img/three.jpg",
+   "emoji": "3️⃣",
+   "kana": "さん",
+   "legacy": true,
+   "example_phrase": "本三冊",
+   "example_sentence": "机の上に本が三冊あります。",
+   "example_phrase_meaning": "three books",
+   "example_meaning": "There are three books on the table.",
+   "example_phrase_reading": "Hon sansatsu",
+   "example_sentence_reading": "Tsukue no ue ni hon ga sansatsu arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/three-ex.mp3",
+    "she": "vocab/audio/ja/she/three-ex.mp3"
+   },
+   "example_phrase_kana": "ほんさんさつ",
+   "example_sentence_kana": "つくえのうえにほんがさんさつあります。",
+   "review": false
+  },
+  {
+   "id": "ja-four",
+   "concept": "four",
+   "text": "四",
+   "speak": "よん",
+   "reading": "yon",
+   "meaning": "four",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/four.mp3",
+    "she": "vocab/audio/ja/she/four.mp3"
+   },
+   "image": "vocab/img/four.jpg",
+   "emoji": "4️⃣",
+   "kana": "よん",
+   "legacy": true,
+   "example_phrase": "四つの季節",
+   "example_sentence": "一年には四つの季節があります。",
+   "example_phrase_meaning": "four seasons",
+   "example_meaning": "A year has four seasons.",
+   "example_phrase_reading": "Yottsu no kisetsu",
+   "example_sentence_reading": "Ichinen ni wa yottsu no kisetsu ga arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/four-ex.mp3",
+    "she": "vocab/audio/ja/she/four-ex.mp3"
+   },
+   "example_phrase_kana": "よっつのきせつ",
+   "example_sentence_kana": "いちねんにはよっつのきせつがあります。",
+   "review": false
+  },
+  {
+   "id": "ja-five",
+   "concept": "five",
+   "text": "五",
+   "speak": "ご",
+   "reading": "go",
+   "meaning": "five",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/five.mp3",
+    "she": "vocab/audio/ja/she/five.mp3"
+   },
+   "image": "vocab/img/five.jpg",
+   "emoji": "5️⃣",
+   "kana": "ご",
+   "legacy": true,
+   "example_phrase": "五本の指",
+   "example_sentence": "手には指が五本あります。",
+   "example_phrase_meaning": "five fingers",
+   "example_meaning": "My hand has five fingers.",
+   "example_phrase_reading": "Gohon no yubi",
+   "example_sentence_reading": "Te ni wa yubi ga gohon arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/five-ex.mp3",
+    "she": "vocab/audio/ja/she/five-ex.mp3"
+   },
+   "example_phrase_kana": "ごほんのゆび",
+   "example_sentence_kana": "てにはゆびがごほんあります。",
+   "review": false
+  },
+  {
+   "id": "ja-six",
+   "concept": "six",
+   "text": "六",
+   "speak": "ろく",
+   "reading": "roku",
+   "meaning": "six",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/six.mp3",
+    "she": "vocab/audio/ja/she/six.mp3"
+   },
+   "image": "vocab/img/six.jpg",
+   "emoji": "6️⃣",
+   "kana": "ろく",
+   "legacy": true,
+   "example_phrase": "卵六個",
+   "example_sentence": "卵を六個買ってください。",
+   "example_phrase_meaning": "six eggs",
+   "example_meaning": "Please buy six eggs.",
+   "example_phrase_reading": "Tamago rokko",
+   "example_sentence_reading": "Tamago o rokko katte kudasai.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/six-ex.mp3",
+    "she": "vocab/audio/ja/she/six-ex.mp3"
+   },
+   "example_phrase_kana": "たまごろっこ",
+   "example_sentence_kana": "たまごをろっこかってください。",
+   "review": false
+  },
+  {
+   "id": "ja-seven",
+   "concept": "seven",
+   "text": "七",
+   "speak": "なな",
+   "reading": "nana",
+   "meaning": "seven",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/seven.mp3",
+    "she": "vocab/audio/ja/she/seven.mp3"
+   },
+   "image": "vocab/img/seven.jpg",
+   "emoji": "7️⃣",
+   "kana": "なな",
+   "legacy": true,
+   "example_phrase": "七日間",
+   "example_sentence": "一週間は七日です。",
+   "example_phrase_meaning": "seven days",
+   "example_meaning": "A week has seven days.",
+   "example_phrase_reading": "Nanokakan",
+   "example_sentence_reading": "Isshūkan wa nanoka desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/seven-ex.mp3",
+    "she": "vocab/audio/ja/she/seven-ex.mp3"
+   },
+   "example_phrase_kana": "なのかかん",
+   "example_sentence_kana": "いっしゅうかんはなのかです。",
+   "review": false
+  },
+  {
+   "id": "ja-eight",
+   "concept": "eight",
+   "text": "八",
+   "speak": "はち",
+   "reading": "hachi",
+   "meaning": "eight",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/eight.mp3",
+    "she": "vocab/audio/ja/she/eight.mp3"
+   },
+   "image": "vocab/img/eight.jpg",
+   "emoji": "8️⃣",
+   "kana": "はち",
+   "legacy": true,
+   "example_phrase": "八時",
+   "example_sentence": "私は八時に起きます。",
+   "example_phrase_meaning": "eight o'clock",
+   "example_meaning": "I get up at eight o'clock.",
+   "example_phrase_reading": "Hachiji",
+   "example_sentence_reading": "Watashi wa hachiji ni okimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/eight-ex.mp3",
+    "she": "vocab/audio/ja/she/eight-ex.mp3"
+   },
+   "example_phrase_kana": "はちじ",
+   "example_sentence_kana": "わたしははちじにおきます。",
+   "review": false
+  },
+  {
+   "id": "ja-nine",
+   "concept": "nine",
+   "text": "九",
+   "speak": "きゅう",
+   "reading": "kyū",
+   "meaning": "nine",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/nine.mp3",
+    "she": "vocab/audio/ja/she/nine.mp3"
+   },
+   "image": "vocab/img/nine.jpg",
+   "emoji": "9️⃣",
+   "kana": "きゅう",
+   "legacy": true,
+   "example_phrase": "猫九匹",
+   "example_sentence": "祖母は猫を九匹飼っています。",
+   "example_phrase_meaning": "nine cats",
+   "example_meaning": "My grandmother has nine cats.",
+   "example_phrase_reading": "Neko kyūhiki",
+   "example_sentence_reading": "Sobo wa neko o kyūhiki katte imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/nine-ex.mp3",
+    "she": "vocab/audio/ja/she/nine-ex.mp3"
+   },
+   "example_phrase_kana": "ねこきゅうひき",
+   "example_sentence_kana": "そぼはねこをきゅうひきかっています。",
+   "review": false
+  },
+  {
+   "id": "ja-ten",
+   "concept": "ten",
+   "text": "十",
+   "speak": "じゅう",
+   "reading": "jū",
+   "meaning": "ten",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/ten.mp3",
+    "she": "vocab/audio/ja/she/ten.mp3"
+   },
+   "image": "vocab/img/ten.jpg",
+   "emoji": "🔟",
+   "kana": "じゅう",
+   "legacy": true,
+   "example_phrase": "りんご十個",
+   "example_sentence": "机の上にりんごが十個あります。",
+   "example_phrase_meaning": "ten apples",
+   "example_meaning": "There are ten apples on the table.",
+   "example_phrase_reading": "Ringo jukko",
+   "example_sentence_reading": "Tsukue no ue ni ringo ga jukko arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/ten-ex.mp3",
+    "she": "vocab/audio/ja/she/ten-ex.mp3"
+   },
+   "example_phrase_kana": "りんごじゅっこ",
+   "example_sentence_kana": "つくえのうえにりんごがじゅっこあります。",
+   "review": false
+  },
+  {
+   "id": "ja-zero",
+   "concept": "zero",
+   "text": "ゼロ",
+   "speak": "ゼロ",
+   "reading": "zero",
+   "meaning": "zero",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/zero.mp3",
+    "she": "vocab/audio/ja/she/zero.mp3"
+   },
+   "image": "vocab/img/zero.jpg",
+   "emoji": "0️⃣",
+   "kana": "ゼロ",
+   "example_phrase": "ゼロ点",
+   "example_sentence": "テストはゼロ点でした。",
+   "example_phrase_meaning": "zero points",
+   "example_meaning": "I got zero points.",
+   "example_phrase_reading": "Zeroten",
+   "example_sentence_reading": "Tesuto wa zeroten deshita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/zero-ex.mp3",
+    "she": "vocab/audio/ja/she/zero-ex.mp3"
+   },
+   "example_phrase_kana": "ゼロてん",
+   "example_sentence_kana": "テストはゼロてんでした。",
+   "review": false
+  },
+  {
+   "id": "ja-eleven",
+   "concept": "eleven",
+   "text": "十一",
+   "speak": "じゅういち",
+   "reading": "jūichi",
+   "meaning": "eleven",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/eleven.mp3",
+    "she": "vocab/audio/ja/she/eleven.mp3"
+   },
+   "image": "vocab/img/eleven.jpg",
+   "emoji": "🔢",
+   "kana": "じゅういち",
+   "example_phrase": "十一人の選手",
+   "example_sentence": "サッカーのチームは十一人です。",
+   "example_phrase_meaning": "eleven players",
+   "example_meaning": "A soccer team has eleven players.",
+   "example_phrase_reading": "Jūichinin no senshu",
+   "example_sentence_reading": "Sakkā no chīmu wa jūichinin desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/eleven-ex.mp3",
+    "she": "vocab/audio/ja/she/eleven-ex.mp3"
+   },
+   "example_phrase_kana": "じゅういちにんのせんしゅ",
+   "example_sentence_kana": "サッカーのチームはじゅういちにんです。",
+   "review": false
+  },
+  {
+   "id": "ja-twelve",
+   "concept": "twelve",
+   "text": "十二",
+   "speak": "じゅうに",
+   "reading": "jūni",
+   "meaning": "twelve",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/twelve.mp3",
+    "she": "vocab/audio/ja/she/twelve.mp3"
+   },
+   "image": "vocab/img/twelve.jpg",
+   "emoji": "🥚",
+   "kana": "じゅうに",
+   "example_phrase": "十二か月",
+   "example_sentence": "一年は十二か月です。",
+   "example_phrase_meaning": "twelve months",
+   "example_meaning": "A year has twelve months.",
+   "example_phrase_reading": "Jūnikagetsu",
+   "example_sentence_reading": "Ichinen wa jūnikagetsu desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/twelve-ex.mp3",
+    "she": "vocab/audio/ja/she/twelve-ex.mp3"
+   },
+   "example_phrase_kana": "じゅうにかげつ",
+   "example_sentence_kana": "いちねんはじゅうにかげつです。",
+   "review": false
+  },
+  {
+   "id": "ja-twenty",
+   "concept": "twenty",
+   "text": "二十",
+   "speak": "にじゅう",
+   "reading": "nijū",
+   "meaning": "twenty",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/twenty.mp3",
+    "she": "vocab/audio/ja/she/twenty.mp3"
+   },
+   "image": "vocab/img/twenty.jpg",
+   "emoji": "🔢",
+   "kana": "にじゅう",
+   "example_phrase": "二十歳",
+   "example_sentence": "姉は二十歳です。",
+   "example_phrase_meaning": "twenty years old",
+   "example_meaning": "My sister is twenty years old.",
+   "example_phrase_reading": "Hatachi",
+   "example_sentence_reading": "Ane wa hatachi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/twenty-ex.mp3",
+    "she": "vocab/audio/ja/she/twenty-ex.mp3"
+   },
+   "example_phrase_kana": "はたち",
+   "example_sentence_kana": "あねははたちです。",
+   "review": false
+  },
+  {
+   "id": "ja-thirty",
+   "concept": "thirty",
+   "text": "三十",
+   "speak": "さんじゅう",
+   "reading": "sanjū",
+   "meaning": "thirty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/thirty.mp3",
+    "she": "vocab/audio/ja/she/thirty.mp3"
+   },
+   "image": "vocab/img/thirty.jpg",
+   "emoji": "🔢",
+   "kana": "さんじゅう",
+   "example_phrase": "三十分",
+   "example_sentence": "バスは三十分後に来ます。",
+   "example_phrase_meaning": "thirty minutes",
+   "example_meaning": "The bus comes in thirty minutes.",
+   "example_phrase_reading": "Sanjuppun",
+   "example_sentence_reading": "Basu wa sanjuppun go ni kimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/thirty-ex.mp3",
+    "she": "vocab/audio/ja/she/thirty-ex.mp3"
+   },
+   "example_phrase_kana": "さんじゅっぷん",
+   "example_sentence_kana": "バスはさんじゅっぷんごにきます。",
+   "review": false
+  },
+  {
+   "id": "ja-fifty",
+   "concept": "fifty",
+   "text": "五十",
+   "speak": "ごじゅう",
+   "reading": "gojū",
+   "meaning": "fifty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/fifty.mp3",
+    "she": "vocab/audio/ja/she/fifty.mp3"
+   },
+   "image": "vocab/img/fifty.jpg",
+   "emoji": "🔢",
+   "kana": "ごじゅう",
+   "example_phrase": "五十人",
+   "example_sentence": "パーティーに五十人来ました。",
+   "example_phrase_meaning": "fifty people",
+   "example_meaning": "Fifty people came to the party.",
+   "example_phrase_reading": "Gojūnin",
+   "example_sentence_reading": "Pāteī ni gojūnin kimashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/fifty-ex.mp3",
+    "she": "vocab/audio/ja/she/fifty-ex.mp3"
+   },
+   "example_phrase_kana": "ごじゅうにん",
+   "example_sentence_kana": "パーティーにごじゅうにんきました。",
+   "review": false
+  },
+  {
+   "id": "ja-hundred",
+   "concept": "hundred",
+   "text": "百",
+   "speak": "ひゃく",
+   "reading": "hyaku",
+   "meaning": "hundred",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/hundred.mp3",
+    "she": "vocab/audio/ja/she/hundred.mp3"
+   },
+   "image": "vocab/img/hundred.jpg",
+   "emoji": "💯",
+   "kana": "ひゃく",
+   "example_phrase": "百ドル",
+   "example_sentence": "このかばんは百ドルです。",
+   "example_phrase_meaning": "one hundred dollars",
+   "example_meaning": "This bag costs one hundred dollars.",
+   "example_phrase_reading": "Hyaku doru",
+   "example_sentence_reading": "Kono kaban wa hyaku doru desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/hundred-ex.mp3",
+    "she": "vocab/audio/ja/she/hundred-ex.mp3"
+   },
+   "example_phrase_kana": "ひゃくドル",
+   "example_sentence_kana": "このかばんはひゃくドルです。",
+   "review": false
+  },
+  {
+   "id": "ja-thousand",
+   "concept": "thousand",
+   "text": "千",
+   "speak": "せん",
+   "reading": "sen",
+   "meaning": "thousand",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/thousand.mp3",
+    "she": "vocab/audio/ja/she/thousand.mp3"
+   },
+   "image": "vocab/img/thousand.jpg",
+   "emoji": "🔢",
+   "kana": "せん",
+   "example_phrase": "千個の星",
+   "example_sentence": "空に星が千個見えます。",
+   "example_phrase_meaning": "a thousand stars",
+   "example_meaning": "I can see a thousand stars.",
+   "example_phrase_reading": "Senko no hoshi",
+   "example_sentence_reading": "Sora ni hoshi ga senko miemasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/thousand-ex.mp3",
+    "she": "vocab/audio/ja/she/thousand-ex.mp3"
+   },
+   "example_phrase_kana": "せんこのほし",
+   "example_sentence_kana": "そらにほしがせんこみえます。",
+   "review": false
+  },
+  {
+   "id": "ja-million",
+   "concept": "million",
+   "text": "百万",
+   "speak": "ひゃくまん",
+   "reading": "hyakuman",
+   "meaning": "million",
+   "topic": "numbers",
+   "tier": 4,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/ja/he/million.mp3",
+    "she": "vocab/audio/ja/she/million.mp3"
+   },
+   "image": "vocab/img/million.jpg",
+   "emoji": "💰",
+   "kana": "ひゃくまん",
+   "example_phrase": "百万人",
+   "example_sentence": "この町には百万人が住んでいます。",
+   "example_phrase_meaning": "a million people",
+   "example_meaning": "A million people live in this city.",
+   "example_phrase_reading": "Hyakumannin",
+   "example_sentence_reading": "Kono machi ni wa hyakumannin ga sunde imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/million-ex.mp3",
+    "she": "vocab/audio/ja/she/million-ex.mp3"
+   },
+   "example_phrase_kana": "ひゃくまんにん",
+   "example_sentence_kana": "このまちにはひゃくまんにんがすんでいます。",
+   "review": false
+  },
+  {
+   "id": "ja-first",
+   "concept": "first",
+   "text": "一番",
+   "speak": "いちばん",
+   "reading": "ichiban",
+   "meaning": "first",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/first.mp3",
+    "she": "vocab/audio/ja/she/first.mp3"
+   },
+   "image": "vocab/img/first.jpg",
+   "emoji": "🥇",
+   "kana": "いちばん",
+   "example_phrase": "一番前の席",
+   "example_sentence": "今日は学校の初日です。",
+   "example_phrase_meaning": "the first day",
+   "example_meaning": "Today is my first day at school.",
+   "example_phrase_reading": "Ichiban mae no seki",
+   "example_sentence_reading": "Kyō wa gakkō no shonichi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/first-ex.mp3",
+    "she": "vocab/audio/ja/she/first-ex.mp3"
+   },
+   "example_phrase_kana": "いちばんまえのせき",
+   "example_sentence_kana": "きょうはがっこうのしょにちです。",
+   "review": false
+  },
+  {
+   "id": "ja-last",
+   "concept": "last",
+   "text": "最後",
+   "speak": "さいご",
+   "reading": "saigo",
+   "meaning": "last",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/last.mp3",
+    "she": "vocab/audio/ja/she/last.mp3"
+   },
+   "image": "vocab/img/last.jpg",
+   "emoji": "🏁",
+   "kana": "さいご",
+   "example_phrase": "最後の電車",
+   "example_sentence": "これは最後の電車です。",
+   "example_phrase_meaning": "the last train",
+   "example_meaning": "This is the last train.",
+   "example_phrase_reading": "Saigo no densha",
+   "example_sentence_reading": "Kore wa saigo no densha desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/last-ex.mp3",
+    "she": "vocab/audio/ja/she/last-ex.mp3"
+   },
+   "example_phrase_kana": "さいごのでんしゃ",
+   "example_sentence_kana": "これはさいごのでんしゃです。",
+   "review": false
+  },
+  {
+   "id": "ja-half",
+   "concept": "half",
+   "text": "半分",
+   "speak": "はんぶん",
+   "reading": "hanbun",
+   "meaning": "half",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/half.mp3",
+    "she": "vocab/audio/ja/she/half.mp3"
+   },
+   "image": "vocab/img/half.jpg",
+   "emoji": "🌓",
+   "kana": "はんぶん",
+   "example_phrase": "りんごの半分",
+   "example_sentence": "りんごを半分食べました。",
+   "example_phrase_meaning": "half an apple",
+   "example_meaning": "I ate half an apple.",
+   "example_phrase_reading": "Ringo no hanbun",
+   "example_sentence_reading": "Ringo o hanbun tabemashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/half-ex.mp3",
+    "she": "vocab/audio/ja/she/half-ex.mp3"
+   },
+   "example_phrase_kana": "りんごのはんぶん",
+   "example_sentence_kana": "りんごをはんぶんたべました。",
+   "review": false
+  },
+  {
+   "id": "ja-number",
+   "concept": "number",
+   "text": "数字",
+   "speak": "すうじ",
+   "reading": "sūji",
+   "meaning": "number",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/number.mp3",
+    "she": "vocab/audio/ja/she/number.mp3"
+   },
+   "image": "vocab/img/number.jpg",
+   "emoji": "🔢",
+   "kana": "すうじ",
+   "example_phrase": "電話番号",
+   "example_sentence": "電話番号は何番ですか？",
+   "example_phrase_meaning": "phone number",
+   "example_meaning": "What is your phone number?",
+   "example_phrase_reading": "Denwa bangō",
+   "example_sentence_reading": "Denwa bangō wa nanban desu ka?",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/number-ex.mp3",
+    "she": "vocab/audio/ja/she/number-ex.mp3"
+   },
+   "example_phrase_kana": "でんわばんごう",
+   "example_sentence_kana": "でんわばんごうはなんばんですか？",
+   "review": false
+  },
+  {
+   "id": "ja-day",
+   "concept": "day",
+   "text": "日",
+   "speak": "ひ",
+   "reading": "hi",
+   "meaning": "day",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/day.mp3",
+    "she": "vocab/audio/ja/she/day.mp3"
+   },
+   "image": "vocab/img/day.jpg",
+   "emoji": "📅",
+   "kana": "ひ",
+   "example_phrase": "毎日",
+   "example_sentence": "私は毎日お茶を飲みます。",
+   "example_phrase_meaning": "every day",
+   "example_meaning": "I drink tea every day.",
+   "example_phrase_reading": "Mainichi",
+   "example_sentence_reading": "Watashi wa mainichi ocha o nomimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/day-ex.mp3",
+    "she": "vocab/audio/ja/she/day-ex.mp3"
+   },
+   "example_phrase_kana": "まいにち",
+   "example_sentence_kana": "わたしはまいにちおちゃをのみます。",
+   "review": false
+  },
+  {
+   "id": "ja-week",
+   "concept": "week",
+   "text": "週",
+   "speak": "しゅう",
+   "reading": "shū",
+   "meaning": "week",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/week.mp3",
+    "she": "vocab/audio/ja/she/week.mp3"
+   },
+   "image": "vocab/img/week.jpg",
+   "emoji": "🗓️",
+   "kana": "しゅう",
+   "example_phrase": "来週",
+   "example_sentence": "来週ハノイに行きます。",
+   "example_phrase_meaning": "next week",
+   "example_meaning": "I will go to Hanoi next week.",
+   "example_phrase_reading": "Raishū",
+   "example_sentence_reading": "Raishū hanoi ni ikimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/week-ex.mp3",
+    "she": "vocab/audio/ja/she/week-ex.mp3"
+   },
+   "example_phrase_kana": "らいしゅう",
+   "example_sentence_kana": "らいしゅうハノイにいきます。",
+   "review": false
+  },
+  {
+   "id": "ja-month",
+   "concept": "month",
+   "text": "月",
+   "speak": "つき",
+   "reading": "tsuki",
+   "meaning": "month",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/month.mp3",
+    "she": "vocab/audio/ja/she/month.mp3"
+   },
+   "image": "vocab/img/month.jpg",
+   "emoji": "🗓️",
+   "kana": "つき",
+   "example_phrase": "今月",
+   "example_sentence": "今月はとても忙しいです。",
+   "example_phrase_meaning": "this month",
+   "example_meaning": "This month is very busy.",
+   "example_phrase_reading": "Kongetsu",
+   "example_sentence_reading": "Kongetsu wa totemo isogashii desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/month-ex.mp3",
+    "she": "vocab/audio/ja/she/month-ex.mp3"
+   },
+   "example_phrase_kana": "こんげつ",
+   "example_sentence_kana": "こんげつはとてもいそがしいです。",
+   "review": false
+  },
+  {
+   "id": "ja-year",
+   "concept": "year",
+   "text": "年",
+   "speak": "とし",
+   "reading": "toshi",
+   "meaning": "year",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/year.mp3",
+    "she": "vocab/audio/ja/she/year.mp3"
+   },
+   "image": "vocab/img/year.jpg",
+   "emoji": "🎆",
+   "kana": "とし",
+   "example_phrase": "去年",
+   "example_sentence": "去年は東京に住んでいました。",
+   "example_phrase_meaning": "last year",
+   "example_meaning": "Last year I lived in Tokyo.",
+   "example_phrase_reading": "Kyonen",
+   "example_sentence_reading": "Kyonen wa tōkyō ni sunde imashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/year-ex.mp3",
+    "she": "vocab/audio/ja/she/year-ex.mp3"
+   },
+   "example_phrase_kana": "きょねん",
+   "example_sentence_kana": "きょねんはとうきょうにすんでいました。",
+   "review": false
+  },
+  {
+   "id": "ja-today",
+   "concept": "today",
+   "text": "今日",
+   "speak": "きょう",
+   "reading": "kyō",
+   "meaning": "today",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/today.mp3",
+    "she": "vocab/audio/ja/she/today.mp3"
+   },
+   "image": "vocab/img/today.jpg",
+   "emoji": "📍",
+   "kana": "きょう",
+   "example_phrase": "今日の天気",
+   "example_sentence": "今日は月曜日です。",
+   "example_phrase_meaning": "today's weather",
+   "example_meaning": "Today is Monday.",
+   "example_phrase_reading": "Kyō no tenki",
+   "example_sentence_reading": "Kyō wa getsuyōbi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/today-ex.mp3",
+    "she": "vocab/audio/ja/she/today-ex.mp3"
+   },
+   "example_phrase_kana": "きょうのてんき",
+   "example_sentence_kana": "きょうはげつようびです。",
+   "review": false
+  },
+  {
+   "id": "ja-tomorrow",
+   "concept": "tomorrow",
+   "text": "明日",
+   "speak": "あした",
+   "reading": "ashita",
+   "meaning": "tomorrow",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/tomorrow.mp3",
+    "she": "vocab/audio/ja/she/tomorrow.mp3"
+   },
+   "image": "vocab/img/tomorrow.jpg",
+   "emoji": "➡️",
+   "kana": "あした",
+   "example_phrase": "また明日",
+   "example_sentence": "明日はテストがあります。",
+   "example_phrase_meaning": "see you tomorrow",
+   "example_meaning": "Tomorrow I have a test.",
+   "example_phrase_reading": "Mata ashita",
+   "example_sentence_reading": "Ashita wa tesuto ga arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/tomorrow-ex.mp3",
+    "she": "vocab/audio/ja/she/tomorrow-ex.mp3"
+   },
+   "example_phrase_kana": "またあした",
+   "example_sentence_kana": "あしたはテストがあります。",
+   "review": false
+  },
+  {
+   "id": "ja-yesterday",
+   "concept": "yesterday",
+   "text": "昨日",
+   "speak": "きのう",
+   "reading": "kinō",
+   "meaning": "yesterday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/yesterday.mp3",
+    "she": "vocab/audio/ja/she/yesterday.mp3"
+   },
+   "image": "vocab/img/yesterday.jpg",
+   "emoji": "⬅️",
+   "kana": "きのう",
+   "example_phrase": "昨日の朝",
+   "example_sentence": "昨日は雨でした。",
+   "example_phrase_meaning": "yesterday morning",
+   "example_meaning": "Yesterday it rained.",
+   "example_phrase_reading": "Kinō no asa",
+   "example_sentence_reading": "Kinō wa ame deshita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/yesterday-ex.mp3",
+    "she": "vocab/audio/ja/she/yesterday-ex.mp3"
+   },
+   "example_phrase_kana": "きのうのあさ",
+   "example_sentence_kana": "きのうはあめでした。",
+   "review": false
+  },
+  {
+   "id": "ja-now",
+   "concept": "now",
+   "text": "今",
+   "speak": "いま",
+   "reading": "ima",
+   "meaning": "now",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/now.mp3",
+    "she": "vocab/audio/ja/she/now.mp3"
+   },
+   "image": "vocab/img/now.jpg",
+   "emoji": "⏱️",
+   "kana": "いま",
+   "example_phrase": "今すぐ",
+   "example_sentence": "今、忙しいです。",
+   "example_phrase_meaning": "right now",
+   "example_meaning": "I am busy now.",
+   "example_phrase_reading": "Ima sugu",
+   "example_sentence_reading": "Ima, isogashii desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/now-ex.mp3",
+    "she": "vocab/audio/ja/she/now-ex.mp3"
+   },
+   "example_phrase_kana": "いますぐ",
+   "example_sentence_kana": "いま、いそがしいです。",
+   "review": false
+  },
+  {
+   "id": "ja-morning",
+   "concept": "morning",
+   "text": "朝",
+   "speak": "あさ",
+   "reading": "asa",
+   "meaning": "morning",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/morning.mp3",
+    "she": "vocab/audio/ja/she/morning.mp3"
+   },
+   "image": "vocab/img/morning.jpg",
+   "emoji": "🌅",
+   "kana": "あさ",
+   "example_phrase": "毎朝",
+   "example_sentence": "毎朝走ります。",
+   "example_phrase_meaning": "every morning",
+   "example_meaning": "I run every morning.",
+   "example_phrase_reading": "Maiasa",
+   "example_sentence_reading": "Maiasa hashirimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/morning-ex.mp3",
+    "she": "vocab/audio/ja/she/morning-ex.mp3"
+   },
+   "example_phrase_kana": "まいあさ",
+   "example_sentence_kana": "まいあさはしります。",
+   "review": false
+  },
+  {
+   "id": "ja-afternoon",
+   "concept": "afternoon",
+   "text": "午後",
+   "speak": "ごご",
+   "reading": "gogo",
+   "meaning": "afternoon",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/afternoon.mp3",
+    "she": "vocab/audio/ja/she/afternoon.mp3"
+   },
+   "image": "vocab/img/afternoon.jpg",
+   "emoji": "🌤️",
+   "kana": "ごご",
+   "example_phrase": "今日の午後",
+   "example_sentence": "今日の午後、勉強します。",
+   "example_phrase_meaning": "this afternoon",
+   "example_meaning": "This afternoon I will study.",
+   "example_phrase_reading": "Kyō no gogo",
+   "example_sentence_reading": "Kyō no gogo, benkyō shimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/afternoon-ex.mp3",
+    "she": "vocab/audio/ja/she/afternoon-ex.mp3"
+   },
+   "example_phrase_kana": "きょうのごご",
+   "example_sentence_kana": "きょうのごご、べんきょうします。",
+   "review": false
+  },
+  {
+   "id": "ja-night",
+   "concept": "night",
+   "text": "夜",
+   "speak": "よる",
+   "reading": "yoru",
+   "meaning": "night",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/night.mp3",
+    "she": "vocab/audio/ja/she/night.mp3"
+   },
+   "image": "vocab/img/night.jpg",
+   "emoji": "🌃",
+   "kana": "よる",
+   "example_phrase": "昨日の夜",
+   "example_sentence": "昨日の夜はよく寝ました。",
+   "example_phrase_meaning": "last night",
+   "example_meaning": "Last night I slept well.",
+   "example_phrase_reading": "Kinō no yoru",
+   "example_sentence_reading": "Kinō no yoru wa yoku nemashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/night-ex.mp3",
+    "she": "vocab/audio/ja/she/night-ex.mp3"
+   },
+   "example_phrase_kana": "きのうのよる",
+   "example_sentence_kana": "きのうのよるはよくねました。",
+   "review": false
+  },
+  {
+   "id": "ja-hour",
+   "concept": "hour",
+   "text": "時間",
+   "speak": "じかん",
+   "reading": "jikan",
+   "meaning": "hour",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/hour.mp3",
+    "she": "vocab/audio/ja/she/hour.mp3"
+   },
+   "image": "vocab/img/hour.jpg",
+   "emoji": "⏳",
+   "kana": "じかん",
+   "example_phrase": "一時間",
+   "example_sentence": "一時間勉強します。",
+   "example_phrase_meaning": "one hour",
+   "example_meaning": "I study for one hour.",
+   "example_phrase_reading": "Ichijikan",
+   "example_sentence_reading": "Ichijikan benkyō shimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/hour-ex.mp3",
+    "she": "vocab/audio/ja/she/hour-ex.mp3"
+   },
+   "example_phrase_kana": "いちじかん",
+   "example_sentence_kana": "いちじかんべんきょうします。",
+   "review": false
+  },
+  {
+   "id": "ja-minute",
+   "concept": "minute",
+   "text": "分",
+   "speak": "ふん",
+   "reading": "fun",
+   "meaning": "minute",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/minute.mp3",
+    "she": "vocab/audio/ja/she/minute.mp3"
+   },
+   "image": "vocab/img/minute.jpg",
+   "emoji": "⏲️",
+   "kana": "ふん",
+   "example_phrase": "五分",
+   "example_sentence": "五分待ってください。",
+   "example_phrase_meaning": "five minutes",
+   "example_meaning": "Please wait five minutes.",
+   "example_phrase_reading": "Gofun",
+   "example_sentence_reading": "Gofun matte kudasai.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/minute-ex.mp3",
+    "she": "vocab/audio/ja/she/minute-ex.mp3"
+   },
+   "example_phrase_kana": "ごふん",
+   "example_sentence_kana": "ごふんまってください。",
+   "review": false
+  },
+  {
+   "id": "ja-second_time",
+   "concept": "second_time",
+   "text": "秒",
+   "speak": "びょう",
+   "reading": "byō",
+   "meaning": "second (time)",
+   "topic": "time",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/second_time.mp3",
+    "she": "vocab/audio/ja/she/second_time.mp3"
+   },
+   "image": "vocab/img/second_time.jpg",
+   "emoji": "⏱️",
+   "kana": "びょう",
+   "example_phrase": "十秒",
+   "example_sentence": "十秒待って。",
+   "example_phrase_meaning": "ten seconds",
+   "example_meaning": "Wait ten seconds.",
+   "example_phrase_reading": "Jūbyō",
+   "example_sentence_reading": "Jūbyō matte.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/second_time-ex.mp3",
+    "she": "vocab/audio/ja/she/second_time-ex.mp3"
+   },
+   "example_phrase_kana": "じゅうびょう",
+   "example_sentence_kana": "じゅうびょうまって。",
+   "review": false
+  },
+  {
+   "id": "ja-time",
+   "concept": "time",
+   "text": "時",
+   "speak": "とき",
+   "reading": "toki",
+   "meaning": "time",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/time.mp3",
+    "she": "vocab/audio/ja/she/time.mp3"
+   },
+   "image": "vocab/img/time.jpg",
+   "emoji": "🕰️",
+   "kana": "とき",
+   "example_phrase": "楽しい時",
+   "example_sentence": "今日は時間がありません。",
+   "example_phrase_meaning": "free time",
+   "example_meaning": "I have no time today.",
+   "example_phrase_reading": "Tanoshii toki",
+   "example_sentence_reading": "Kyō wa jikan ga arimasen.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/time-ex.mp3",
+    "she": "vocab/audio/ja/she/time-ex.mp3"
+   },
+   "example_phrase_kana": "たのしいとき",
+   "example_sentence_kana": "きょうはじかんがありません。",
+   "review": false
+  },
+  {
+   "id": "ja-clock",
+   "concept": "clock",
+   "text": "時計",
+   "speak": "とけい",
+   "reading": "tokei",
+   "meaning": "clock",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/clock.mp3",
+    "she": "vocab/audio/ja/she/clock.mp3"
+   },
+   "image": "vocab/img/clock.jpg",
+   "emoji": "🕰️",
+   "kana": "とけい",
+   "example_phrase": "大きい時計",
+   "example_sentence": "時計は壁にあります。",
+   "example_phrase_meaning": "a big clock",
+   "example_meaning": "The clock is on the wall.",
+   "example_phrase_reading": "Ōkii tokei",
+   "example_sentence_reading": "Tokei wa kabe ni arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/clock-ex.mp3",
+    "she": "vocab/audio/ja/she/clock-ex.mp3"
+   },
+   "example_phrase_kana": "おおきいとけい",
+   "example_sentence_kana": "とけいはかべにあります。",
+   "review": false
+  },
+  {
+   "id": "ja-monday",
+   "concept": "monday",
+   "text": "月曜日",
+   "speak": "げつようび",
+   "reading": "getsuyōbi",
+   "meaning": "Monday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/monday.mp3",
+    "she": "vocab/audio/ja/she/monday.mp3"
+   },
+   "image": "vocab/img/monday.jpg",
+   "emoji": "📅",
+   "kana": "げつようび",
+   "example_phrase": "来週の月曜日",
+   "example_sentence": "月曜日に働きます。",
+   "example_phrase_meaning": "next Monday",
+   "example_meaning": "I work on Monday.",
+   "example_phrase_reading": "Raishū no getsuyōbi",
+   "example_sentence_reading": "Getsuyōbi ni hatarakimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/monday-ex.mp3",
+    "she": "vocab/audio/ja/she/monday-ex.mp3"
+   },
+   "example_phrase_kana": "らいしゅうのげつようび",
+   "example_sentence_kana": "げつようびにはたらきます。",
+   "review": false
+  },
+  {
+   "id": "ja-tuesday",
+   "concept": "tuesday",
+   "text": "火曜日",
+   "speak": "かようび",
+   "reading": "kayōbi",
+   "meaning": "Tuesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/tuesday.mp3",
+    "she": "vocab/audio/ja/she/tuesday.mp3"
+   },
+   "image": "vocab/img/tuesday.jpg",
+   "emoji": "📅",
+   "kana": "かようび",
+   "example_phrase": "毎週火曜日",
+   "example_sentence": "毎週火曜日に泳ぎます。",
+   "example_phrase_meaning": "every Tuesday",
+   "example_meaning": "I swim every Tuesday.",
+   "example_phrase_reading": "Maishū kayōbi",
+   "example_sentence_reading": "Maishū kayōbi ni oyogimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/tuesday-ex.mp3",
+    "she": "vocab/audio/ja/she/tuesday-ex.mp3"
+   },
+   "example_phrase_kana": "まいしゅうかようび",
+   "example_sentence_kana": "まいしゅうかようびにおよぎます。",
+   "review": false
+  },
+  {
+   "id": "ja-wednesday",
+   "concept": "wednesday",
+   "text": "水曜日",
+   "speak": "すいようび",
+   "reading": "suiyōbi",
+   "meaning": "Wednesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/wednesday.mp3",
+    "she": "vocab/audio/ja/she/wednesday.mp3"
+   },
+   "image": "vocab/img/wednesday.jpg",
+   "emoji": "📅",
+   "kana": "すいようび",
+   "example_phrase": "水曜日に",
+   "example_sentence": "水曜日に授業があります。",
+   "example_phrase_meaning": "on Wednesday",
+   "example_meaning": "We have class on Wednesday.",
+   "example_phrase_reading": "Suiyōbi ni",
+   "example_sentence_reading": "Suiyōbi ni jugyō ga arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/wednesday-ex.mp3",
+    "she": "vocab/audio/ja/she/wednesday-ex.mp3"
+   },
+   "example_phrase_kana": "すいようびに",
+   "example_sentence_kana": "すいようびにじゅぎょうがあります。",
+   "review": false
+  },
+  {
+   "id": "ja-thursday",
+   "concept": "thursday",
+   "text": "木曜日",
+   "speak": "もくようび",
+   "reading": "mokuyōbi",
+   "meaning": "Thursday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/thursday.mp3",
+    "she": "vocab/audio/ja/she/thursday.mp3"
+   },
+   "image": "vocab/img/thursday.jpg",
+   "emoji": "📅",
+   "kana": "もくようび",
+   "example_phrase": "木曜日の夜",
+   "example_sentence": "木曜日に友達に会います。",
+   "example_phrase_meaning": "Thursday evening",
+   "example_meaning": "I see my friend on Thursday.",
+   "example_phrase_reading": "Mokuyōbi no yoru",
+   "example_sentence_reading": "Mokuyōbi ni tomodachi ni aimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/thursday-ex.mp3",
+    "she": "vocab/audio/ja/she/thursday-ex.mp3"
+   },
+   "example_phrase_kana": "もくようびのよる",
+   "example_sentence_kana": "もくようびにともだちにあいます。",
+   "review": false
+  },
+  {
+   "id": "ja-friday",
+   "concept": "friday",
+   "text": "金曜日",
+   "speak": "きんようび",
+   "reading": "kinyōbi",
+   "meaning": "Friday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/friday.mp3",
+    "she": "vocab/audio/ja/she/friday.mp3"
+   },
+   "image": "vocab/img/friday.jpg",
+   "emoji": "📅",
+   "kana": "きんようび",
+   "example_phrase": "金曜日の夜",
+   "example_sentence": "金曜日が一番好きです。",
+   "example_phrase_meaning": "Friday night",
+   "example_meaning": "Friday is my favorite day.",
+   "example_phrase_reading": "Kinyōbi no yoru",
+   "example_sentence_reading": "Kinyōbi ga ichiban suki desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/friday-ex.mp3",
+    "she": "vocab/audio/ja/she/friday-ex.mp3"
+   },
+   "example_phrase_kana": "きんようびのよる",
+   "example_sentence_kana": "きんようびがいちばんすきです。",
+   "review": false
+  },
+  {
+   "id": "ja-saturday",
+   "concept": "saturday",
+   "text": "土曜日",
+   "speak": "どようび",
+   "reading": "doyōbi",
+   "meaning": "Saturday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/saturday.mp3",
+    "she": "vocab/audio/ja/she/saturday.mp3"
+   },
+   "image": "vocab/img/saturday.jpg",
+   "emoji": "📅",
+   "kana": "どようび",
+   "example_phrase": "今週の土曜日",
+   "example_sentence": "今週の土曜日に買い物に行きます。",
+   "example_phrase_meaning": "this Saturday",
+   "example_meaning": "This Saturday I will go shopping.",
+   "example_phrase_reading": "Konshū no doyōbi",
+   "example_sentence_reading": "Konshū no doyōbi ni kaimono ni ikimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/saturday-ex.mp3",
+    "she": "vocab/audio/ja/she/saturday-ex.mp3"
+   },
+   "example_phrase_kana": "こんしゅうのどようび",
+   "example_sentence_kana": "こんしゅうのどようびにかいものにいきます。",
+   "review": false
+  },
+  {
+   "id": "ja-sunday",
+   "concept": "sunday",
+   "text": "日曜日",
+   "speak": "にちようび",
+   "reading": "nichiyōbi",
+   "meaning": "Sunday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/sunday.mp3",
+    "she": "vocab/audio/ja/she/sunday.mp3"
+   },
+   "image": "vocab/img/sunday.jpg",
+   "emoji": "📅",
+   "kana": "にちようび",
+   "example_phrase": "日曜日に",
+   "example_sentence": "日曜日は家で休みます。",
+   "example_phrase_meaning": "on Sunday",
+   "example_meaning": "On Sunday I rest at home.",
+   "example_phrase_reading": "Nichiyōbi ni",
+   "example_sentence_reading": "Nichiyōbi wa ie de yasumimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/sunday-ex.mp3",
+    "she": "vocab/audio/ja/she/sunday-ex.mp3"
+   },
+   "example_phrase_kana": "にちようびに",
+   "example_sentence_kana": "にちようびはいえでやすみます。",
+   "review": false
+  },
+  {
+   "id": "ja-weekend",
+   "concept": "weekend",
+   "text": "週末",
+   "speak": "しゅうまつ",
+   "reading": "shūmatsu",
+   "meaning": "weekend",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/weekend.mp3",
+    "she": "vocab/audio/ja/she/weekend.mp3"
+   },
+   "image": "vocab/img/weekend.jpg",
+   "emoji": "🏖️",
+   "kana": "しゅうまつ",
+   "example_phrase": "今週末",
+   "example_sentence": "週末は何をしますか？",
+   "example_phrase_meaning": "this weekend",
+   "example_meaning": "What will you do this weekend?",
+   "example_phrase_reading": "Konshūmatsu",
+   "example_sentence_reading": "Shūmatsu wa nani o shimasu ka?",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/weekend-ex.mp3",
+    "she": "vocab/audio/ja/she/weekend-ex.mp3"
+   },
+   "example_phrase_kana": "こんしゅうまつ",
+   "example_sentence_kana": "しゅうまつはなにをしますか？",
+   "review": false
+  },
+  {
+   "id": "ja-spring",
+   "concept": "spring",
+   "text": "春",
+   "speak": "はる",
+   "reading": "haru",
+   "meaning": "spring",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/spring.mp3",
+    "she": "vocab/audio/ja/she/spring.mp3"
+   },
+   "image": "vocab/img/spring.jpg",
+   "emoji": "🌸",
+   "kana": "はる",
+   "example_phrase": "春の花",
+   "example_sentence": "春に花が咲きます。",
+   "example_phrase_meaning": "in spring",
+   "example_meaning": "Flowers bloom in spring.",
+   "example_phrase_reading": "Haru no hana",
+   "example_sentence_reading": "Haru ni hana ga sakimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/spring-ex.mp3",
+    "she": "vocab/audio/ja/she/spring-ex.mp3"
+   },
+   "example_phrase_kana": "はるのはな",
+   "example_sentence_kana": "はるにはながさきます。",
+   "review": false
+  },
+  {
+   "id": "ja-summer",
+   "concept": "summer",
+   "text": "夏",
+   "speak": "なつ",
+   "reading": "natsu",
+   "meaning": "summer",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/summer.mp3",
+    "she": "vocab/audio/ja/she/summer.mp3"
+   },
+   "image": "vocab/img/summer.jpg",
+   "emoji": "☀️",
+   "kana": "なつ",
+   "example_phrase": "夏休み",
+   "example_sentence": "夏はとても暑いです。",
+   "example_phrase_meaning": "summer vacation",
+   "example_meaning": "Summer is very hot.",
+   "example_phrase_reading": "Natsuyasumi",
+   "example_sentence_reading": "Natsu wa totemo atsui desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/summer-ex.mp3",
+    "she": "vocab/audio/ja/she/summer-ex.mp3"
+   },
+   "example_phrase_kana": "なつやすみ",
+   "example_sentence_kana": "なつはとてもあついです。",
+   "review": false
+  },
+  {
+   "id": "ja-autumn",
+   "concept": "autumn",
+   "text": "秋",
+   "speak": "あき",
+   "reading": "aki",
+   "meaning": "autumn",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/autumn.mp3",
+    "she": "vocab/audio/ja/she/autumn.mp3"
+   },
+   "image": "vocab/img/autumn.jpg",
+   "emoji": "🍂",
+   "kana": "あき",
+   "example_phrase": "秋の葉っぱ",
+   "example_sentence": "秋は葉っぱが赤くなります。",
+   "example_phrase_meaning": "autumn leaves",
+   "example_meaning": "In autumn the leaves turn red.",
+   "example_phrase_reading": "Aki no happa",
+   "example_sentence_reading": "Aki wa happa ga akaku narimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/autumn-ex.mp3",
+    "she": "vocab/audio/ja/she/autumn-ex.mp3"
+   },
+   "example_phrase_kana": "あきのはっぱ",
+   "example_sentence_kana": "あきははっぱがあかくなります。",
+   "review": false
+  },
+  {
+   "id": "ja-winter",
+   "concept": "winter",
+   "text": "冬",
+   "speak": "ふゆ",
+   "reading": "fuyu",
+   "meaning": "winter",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/winter.mp3",
+    "she": "vocab/audio/ja/she/winter.mp3"
+   },
+   "image": "vocab/img/winter.jpg",
+   "emoji": "❄️",
+   "kana": "ふゆ",
+   "example_phrase": "寒い冬",
+   "example_sentence": "冬は雪が降ります。",
+   "example_phrase_meaning": "cold winter",
+   "example_meaning": "It snows in winter.",
+   "example_phrase_reading": "Samui fuyu",
+   "example_sentence_reading": "Fuyu wa yuki ga furimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/winter-ex.mp3",
+    "she": "vocab/audio/ja/she/winter-ex.mp3"
+   },
+   "example_phrase_kana": "さむいふゆ",
+   "example_sentence_kana": "ふゆはゆきがふります。",
+   "review": false
+  },
+  {
+   "id": "ja-birthday",
+   "concept": "birthday",
+   "text": "誕生日",
+   "speak": "たんじょうび",
+   "reading": "tanjōbi",
+   "meaning": "birthday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/birthday.mp3",
+    "she": "vocab/audio/ja/she/birthday.mp3"
+   },
+   "image": "vocab/img/birthday.jpg",
+   "emoji": "🎂",
+   "kana": "たんじょうび",
+   "example_phrase": "お誕生日おめでとう",
+   "example_sentence": "今日は私の誕生日です。",
+   "example_phrase_meaning": "happy birthday",
+   "example_meaning": "Today is my birthday.",
+   "example_phrase_reading": "Otanjōbi omedetō",
+   "example_sentence_reading": "Kyō wa watashi no tanjōbi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/birthday-ex.mp3",
+    "she": "vocab/audio/ja/she/birthday-ex.mp3"
+   },
+   "example_phrase_kana": "おたんじょうびおめでとう",
+   "example_sentence_kana": "きょうはわたしのたんじょうびです。",
+   "review": false
+  },
+  {
+   "id": "ja-early",
+   "concept": "early",
+   "text": "早い",
+   "speak": "はやい",
+   "reading": "hayai",
+   "meaning": "early",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/early.mp3",
+    "she": "vocab/audio/ja/she/early.mp3"
+   },
+   "image": "vocab/img/early.jpg",
+   "emoji": "🐓",
+   "kana": "はやい",
+   "example_phrase": "早い時間",
+   "example_sentence": "私は朝早く起きます。",
+   "example_phrase_meaning": "early morning",
+   "example_meaning": "I get up early.",
+   "example_phrase_reading": "Hayai jikan",
+   "example_sentence_reading": "Watashi wa asa hayaku okimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/early-ex.mp3",
+    "she": "vocab/audio/ja/she/early-ex.mp3"
+   },
+   "example_phrase_kana": "はやいじかん",
+   "example_sentence_kana": "わたしはあさはやくおきます。",
+   "review": false
+  },
+  {
+   "id": "ja-late",
+   "concept": "late",
+   "text": "遅い",
+   "speak": "おそい",
+   "reading": "osoi",
+   "meaning": "late",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/late.mp3",
+    "she": "vocab/audio/ja/she/late.mp3"
+   },
+   "image": "vocab/img/late.jpg",
+   "emoji": "🏃",
+   "kana": "おそい",
+   "example_phrase": "遅い時間",
+   "example_sentence": "バスが遅いです。",
+   "example_phrase_meaning": "late at night",
+   "example_meaning": "The bus is late.",
+   "example_phrase_reading": "Osoi jikan",
+   "example_sentence_reading": "Basu ga osoi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/late-ex.mp3",
+    "she": "vocab/audio/ja/she/late-ex.mp3"
+   },
+   "example_phrase_kana": "おそいじかん",
+   "example_sentence_kana": "バスがおそいです。",
+   "review": false
+  },
+  {
+   "id": "ja-always",
+   "concept": "always",
+   "text": "いつも",
+   "speak": "いつも",
+   "reading": "itsumo",
+   "meaning": "always",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/always.mp3",
+    "she": "vocab/audio/ja/she/always.mp3"
+   },
+   "image": "vocab/img/always.jpg",
+   "emoji": "♾️",
+   "kana": "いつも",
+   "example_phrase": "いつも元気",
+   "example_sentence": "彼女はいつも元気です。",
+   "example_phrase_meaning": "always happy",
+   "example_meaning": "She is always happy.",
+   "example_phrase_reading": "Itsumo genki",
+   "example_sentence_reading": "Kanojo wa itsumo genki desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/always-ex.mp3",
+    "she": "vocab/audio/ja/she/always-ex.mp3"
+   },
+   "example_phrase_kana": "いつもげんき",
+   "example_sentence_kana": "かのじょはいつもげんきです。",
+   "review": false
+  },
+  {
+   "id": "ja-sometimes",
+   "concept": "sometimes",
+   "text": "時々",
+   "speak": "ときどき",
+   "reading": "tokidoki",
+   "meaning": "sometimes",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/sometimes.mp3",
+    "she": "vocab/audio/ja/she/sometimes.mp3"
+   },
+   "image": "vocab/img/sometimes.jpg",
+   "emoji": "🌦️",
+   "kana": "ときどき",
+   "example_phrase": "時々雨",
+   "example_sentence": "時々家で料理します。",
+   "example_phrase_meaning": "sometimes late",
+   "example_meaning": "Sometimes I cook at home.",
+   "example_phrase_reading": "Tokidoki ame",
+   "example_sentence_reading": "Tokidoki ie de ryōri shimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/sometimes-ex.mp3",
+    "she": "vocab/audio/ja/she/sometimes-ex.mp3"
+   },
+   "example_phrase_kana": "ときどきあめ",
+   "example_sentence_kana": "ときどきいえでりょうりします。",
+   "review": false
+  },
+  {
+   "id": "ja-often",
+   "concept": "often",
+   "text": "よく",
+   "speak": "よく",
+   "reading": "yoku",
+   "meaning": "often",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/often.mp3",
+    "she": "vocab/audio/ja/she/often.mp3"
+   },
+   "image": "vocab/img/often.jpg",
+   "emoji": "🔁",
+   "kana": "よく",
+   "example_phrase": "よく行く",
+   "example_sentence": "よくコーヒーを飲みます。",
+   "example_phrase_meaning": "often go",
+   "example_meaning": "I often drink coffee.",
+   "example_phrase_reading": "Yoku iku",
+   "example_sentence_reading": "Yoku kōhī o nomimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/often-ex.mp3",
+    "she": "vocab/audio/ja/she/often-ex.mp3"
+   },
+   "example_phrase_kana": "よくいく",
+   "example_sentence_kana": "よくコーヒーをのみます。",
+   "review": false
+  },
+  {
+   "id": "ja-later",
+   "concept": "later",
+   "text": "後で",
+   "speak": "あとで",
+   "reading": "atode",
+   "meaning": "later",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/later.mp3",
+    "she": "vocab/audio/ja/she/later.mp3"
+   },
+   "image": "vocab/img/later.jpg",
+   "emoji": "⏳",
+   "kana": "あとで",
+   "example_phrase": "また後で",
+   "example_sentence": "後で電話します。",
+   "example_phrase_meaning": "see you later",
+   "example_meaning": "I will call you later.",
+   "example_phrase_reading": "Mata atode",
+   "example_sentence_reading": "Atode denwa shimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/later-ex.mp3",
+    "she": "vocab/audio/ja/she/later-ex.mp3"
+   },
+   "example_phrase_kana": "またあとで",
+   "example_sentence_kana": "あとででんわします。",
+   "review": false
+  },
+  {
+   "id": "ja-calendar",
+   "concept": "calendar",
+   "text": "カレンダー",
+   "speak": "カレンダー",
+   "reading": "karendā",
+   "meaning": "calendar",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/calendar.mp3",
+    "she": "vocab/audio/ja/she/calendar.mp3"
+   },
+   "image": "vocab/img/calendar.jpg",
+   "emoji": "📆",
+   "kana": "カレンダー",
+   "example_phrase": "新しいカレンダー",
+   "example_sentence": "カレンダーは壁にあります。",
+   "example_phrase_meaning": "a new calendar",
+   "example_meaning": "The calendar is on the wall.",
+   "example_phrase_reading": "Atarashii karendā",
+   "example_sentence_reading": "Karendā wa kabe ni arimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/calendar-ex.mp3",
+    "she": "vocab/audio/ja/she/calendar-ex.mp3"
+   },
+   "example_phrase_kana": "あたらしいカレンダー",
+   "example_sentence_kana": "カレンダーはかべにあります。",
+   "review": false
+  },
+  {
+   "id": "ja-mother",
+   "concept": "mother",
+   "text": "お母さん",
+   "speak": "おかあさん",
+   "reading": "okāsan",
+   "meaning": "mother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/mother.mp3",
+    "she": "vocab/audio/ja/she/mother.mp3"
+   },
+   "image": "vocab/img/mother.jpg",
+   "emoji": "👩",
+   "kana": "おかあさん",
+   "legacy": true,
+   "example_phrase": "私のお母さん",
+   "example_sentence": "お母さんは先生です。",
+   "example_phrase_meaning": "my mother",
+   "example_meaning": "My mother is a teacher.",
+   "example_phrase_reading": "Watashi no okāsan",
+   "example_sentence_reading": "Okāsan wa sensei desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/mother-ex.mp3",
+    "she": "vocab/audio/ja/she/mother-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおかあさん",
+   "example_sentence_kana": "おかあさんはせんせいです。",
+   "review": false
+  },
+  {
+   "id": "ja-father",
+   "concept": "father",
+   "text": "お父さん",
+   "speak": "おとうさん",
+   "reading": "otōsan",
+   "meaning": "father",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/father.mp3",
+    "she": "vocab/audio/ja/she/father.mp3"
+   },
+   "image": "vocab/img/father.jpg",
+   "emoji": "👨",
+   "kana": "おとうさん",
+   "legacy": true,
+   "example_phrase": "私のお父さん",
+   "example_sentence": "お父さんが晩ご飯を作ります。",
+   "example_phrase_meaning": "my father",
+   "example_meaning": "My father cooks dinner.",
+   "example_phrase_reading": "Watashi no otōsan",
+   "example_sentence_reading": "Otōsan ga bangohan o tsukurimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/father-ex.mp3",
+    "she": "vocab/audio/ja/she/father-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおとうさん",
+   "example_sentence_kana": "おとうさんがばんごはんをつくります。",
+   "review": false
+  },
+  {
+   "id": "ja-parents",
+   "concept": "parents",
+   "text": "両親",
+   "speak": "りょうしん",
+   "reading": "ryōshin",
+   "meaning": "parents",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/parents.mp3",
+    "she": "vocab/audio/ja/she/parents.mp3"
+   },
+   "image": "vocab/img/parents.jpg",
+   "emoji": "👪",
+   "kana": "りょうしん",
+   "example_phrase": "私の両親",
+   "example_sentence": "両親はフエに住んでいます。",
+   "example_phrase_meaning": "my parents",
+   "example_meaning": "My parents live in Hue.",
+   "example_phrase_reading": "Watashi no ryōshin",
+   "example_sentence_reading": "Ryōshin wa fue ni sunde imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/parents-ex.mp3",
+    "she": "vocab/audio/ja/she/parents-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのりょうしん",
+   "example_sentence_kana": "りょうしんはフエにすんでいます。",
+   "review": false
+  },
+  {
+   "id": "ja-older_brother",
+   "concept": "older_brother",
+   "text": "お兄さん",
+   "speak": "おにいさん",
+   "reading": "oniisan",
+   "meaning": "older brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/older_brother.mp3",
+    "she": "vocab/audio/ja/she/older_brother.mp3"
+   },
+   "image": "vocab/img/older_brother.jpg",
+   "emoji": "👦",
+   "kana": "おにいさん",
+   "example_phrase": "私のお兄さん",
+   "example_sentence": "兄は背が高いです。",
+   "example_phrase_meaning": "my older brother",
+   "example_meaning": "My older brother is tall.",
+   "example_phrase_reading": "Watashi no oniisan",
+   "example_sentence_reading": "Ani wa se ga takai desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/older_brother-ex.mp3",
+    "she": "vocab/audio/ja/she/older_brother-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおにいさん",
+   "example_sentence_kana": "あにはせがたかいです。",
+   "review": false
+  },
+  {
+   "id": "ja-older_sister",
+   "concept": "older_sister",
+   "text": "お姉さん",
+   "speak": "おねえさん",
+   "reading": "onēsan",
+   "meaning": "older sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/older_sister.mp3",
+    "she": "vocab/audio/ja/she/older_sister.mp3"
+   },
+   "image": "vocab/img/older_sister.jpg",
+   "emoji": "👧",
+   "kana": "おねえさん",
+   "example_phrase": "私のお姉さん",
+   "example_sentence": "姉は音楽が好きです。",
+   "example_phrase_meaning": "my older sister",
+   "example_meaning": "My older sister likes music.",
+   "example_phrase_reading": "Watashi no onēsan",
+   "example_sentence_reading": "Ane wa ongaku ga suki desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/older_sister-ex.mp3",
+    "she": "vocab/audio/ja/she/older_sister-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおねえさん",
+   "example_sentence_kana": "あねはおんがくがすきです。",
+   "review": false
+  },
+  {
+   "id": "ja-younger_brother",
+   "concept": "younger_brother",
+   "text": "弟",
+   "speak": "おとうと",
+   "reading": "otōto",
+   "meaning": "younger brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/younger_brother.mp3",
+    "she": "vocab/audio/ja/she/younger_brother.mp3"
+   },
+   "image": "vocab/img/younger_brother.jpg",
+   "emoji": "👦",
+   "kana": "おとうと",
+   "example_phrase": "私の弟",
+   "example_sentence": "弟は五歳です。",
+   "example_phrase_meaning": "my little brother",
+   "example_meaning": "My little brother is five years old.",
+   "example_phrase_reading": "Watashi no otōto",
+   "example_sentence_reading": "Otōto wa gosai desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/younger_brother-ex.mp3",
+    "she": "vocab/audio/ja/she/younger_brother-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおとうと",
+   "example_sentence_kana": "おとうとはごさいです。",
+   "review": false
+  },
+  {
+   "id": "ja-younger_sister",
+   "concept": "younger_sister",
+   "text": "妹",
+   "speak": "いもうと",
+   "reading": "imōto",
+   "meaning": "younger sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/younger_sister.mp3",
+    "she": "vocab/audio/ja/she/younger_sister.mp3"
+   },
+   "image": "vocab/img/younger_sister.jpg",
+   "emoji": "👧",
+   "kana": "いもうと",
+   "example_phrase": "私の妹",
+   "example_sentence": "妹は猫が大好きです。",
+   "example_phrase_meaning": "my little sister",
+   "example_meaning": "My little sister loves cats.",
+   "example_phrase_reading": "Watashi no imōto",
+   "example_sentence_reading": "Imōto wa neko ga daisuki desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/younger_sister-ex.mp3",
+    "she": "vocab/audio/ja/she/younger_sister-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのいもうと",
+   "example_sentence_kana": "いもうとはねこがだいすきです。",
+   "review": false
+  },
+  {
+   "id": "ja-son",
+   "concept": "son",
+   "text": "息子",
+   "speak": "むすこ",
+   "reading": "musuko",
+   "meaning": "son",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/son.mp3",
+    "she": "vocab/audio/ja/she/son.mp3"
+   },
+   "image": "vocab/img/son.jpg",
+   "emoji": "👦",
+   "kana": "むすこ",
+   "example_phrase": "彼らの息子",
+   "example_sentence": "息子は医者です。",
+   "example_phrase_meaning": "their son",
+   "example_meaning": "Their son is a doctor.",
+   "example_phrase_reading": "Karera no musuko",
+   "example_sentence_reading": "Musuko wa isha desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/son-ex.mp3",
+    "she": "vocab/audio/ja/she/son-ex.mp3"
+   },
+   "example_phrase_kana": "かれらのむすこ",
+   "example_sentence_kana": "むすこはいしゃです。",
+   "review": false
+  },
+  {
+   "id": "ja-daughter",
+   "concept": "daughter",
+   "text": "娘",
+   "speak": "むすめ",
+   "reading": "musume",
+   "meaning": "daughter",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/daughter.mp3",
+    "she": "vocab/audio/ja/she/daughter.mp3"
+   },
+   "image": "vocab/img/daughter.jpg",
+   "emoji": "👧",
+   "kana": "むすめ",
+   "example_phrase": "彼女の娘",
+   "example_sentence": "娘はとても賢いです。",
+   "example_phrase_meaning": "her daughter",
+   "example_meaning": "Her daughter is very smart.",
+   "example_phrase_reading": "Kanojo no musume",
+   "example_sentence_reading": "Musume wa totemo kashikoi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/daughter-ex.mp3",
+    "she": "vocab/audio/ja/she/daughter-ex.mp3"
+   },
+   "example_phrase_kana": "かのじょのむすめ",
+   "example_sentence_kana": "むすめはとてもかしこいです。",
+   "review": false
+  },
+  {
+   "id": "ja-child",
+   "concept": "child",
+   "text": "子供",
+   "speak": "こども",
+   "reading": "kodomo",
+   "meaning": "child",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/child.mp3",
+    "she": "vocab/audio/ja/she/child.mp3"
+   },
+   "image": "vocab/img/child.jpg",
+   "emoji": "🧒",
+   "kana": "こども",
+   "example_phrase": "元気な子供",
+   "example_sentence": "子供が公園で遊んでいます。",
+   "example_phrase_meaning": "a happy child",
+   "example_meaning": "The child is playing in the park.",
+   "example_phrase_reading": "Genki na kodomo",
+   "example_sentence_reading": "Kodomo ga kōen de asonde imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/child-ex.mp3",
+    "she": "vocab/audio/ja/she/child-ex.mp3"
+   },
+   "example_phrase_kana": "げんきなこども",
+   "example_sentence_kana": "こどもがこうえんであそんでいます。",
+   "review": false
+  },
+  {
+   "id": "ja-baby",
+   "concept": "baby",
+   "text": "赤ちゃん",
+   "speak": "あかちゃん",
+   "reading": "akachan",
+   "meaning": "baby",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/baby.mp3",
+    "she": "vocab/audio/ja/she/baby.mp3"
+   },
+   "image": "vocab/img/baby.jpg",
+   "emoji": "👶",
+   "kana": "あかちゃん",
+   "example_phrase": "かわいい赤ちゃん",
+   "example_sentence": "赤ちゃんが寝ています。",
+   "example_phrase_meaning": "a cute baby",
+   "example_meaning": "The baby is sleeping.",
+   "example_phrase_reading": "Kawaii akachan",
+   "example_sentence_reading": "Akachan ga nete imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/baby-ex.mp3",
+    "she": "vocab/audio/ja/she/baby-ex.mp3"
+   },
+   "example_phrase_kana": "かわいいあかちゃん",
+   "example_sentence_kana": "あかちゃんがねています。",
+   "review": false
+  },
+  {
+   "id": "ja-grandmother",
+   "concept": "grandmother",
+   "text": "おばあさん",
+   "speak": "おばあさん",
+   "reading": "obāsan",
+   "meaning": "grandmother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/grandmother.mp3",
+    "she": "vocab/audio/ja/she/grandmother.mp3"
+   },
+   "image": "vocab/img/grandmother.jpg",
+   "emoji": "👵",
+   "kana": "おばあさん",
+   "example_phrase": "私のおばあさん",
+   "example_sentence": "祖母のスープはおいしいです。",
+   "example_phrase_meaning": "my grandmother",
+   "example_meaning": "My grandmother makes good soup.",
+   "example_phrase_reading": "Watashi no obāsan",
+   "example_sentence_reading": "Sobo no sūpu wa oishii desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/grandmother-ex.mp3",
+    "she": "vocab/audio/ja/she/grandmother-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおばあさん",
+   "example_sentence_kana": "そぼのスープはおいしいです。",
+   "review": false
+  },
+  {
+   "id": "ja-grandfather",
+   "concept": "grandfather",
+   "text": "おじいさん",
+   "speak": "おじいさん",
+   "reading": "ojiisan",
+   "meaning": "grandfather",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/grandfather.mp3",
+    "she": "vocab/audio/ja/she/grandfather.mp3"
+   },
+   "image": "vocab/img/grandfather.jpg",
+   "emoji": "👴",
+   "kana": "おじいさん",
+   "example_phrase": "私のおじいさん",
+   "example_sentence": "祖父は新聞を読みます。",
+   "example_phrase_meaning": "my grandfather",
+   "example_meaning": "My grandfather reads the newspaper.",
+   "example_phrase_reading": "Watashi no ojiisan",
+   "example_sentence_reading": "Sofu wa shinbun o yomimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/grandfather-ex.mp3",
+    "she": "vocab/audio/ja/she/grandfather-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおじいさん",
+   "example_sentence_kana": "そふはしんぶんをよみます。",
+   "review": false
+  },
+  {
+   "id": "ja-husband",
+   "concept": "husband",
+   "text": "夫",
+   "speak": "おっと",
+   "reading": "otto",
+   "meaning": "husband",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/husband.mp3",
+    "she": "vocab/audio/ja/she/husband.mp3"
+   },
+   "image": "vocab/img/husband.jpg",
+   "emoji": "🤵",
+   "kana": "おっと",
+   "example_phrase": "彼女の夫",
+   "example_sentence": "夫はやさしいです。",
+   "example_phrase_meaning": "her husband",
+   "example_meaning": "Her husband is kind.",
+   "example_phrase_reading": "Kanojo no otto",
+   "example_sentence_reading": "Otto wa yasashii desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/husband-ex.mp3",
+    "she": "vocab/audio/ja/she/husband-ex.mp3"
+   },
+   "example_phrase_kana": "かのじょのおっと",
+   "example_sentence_kana": "おっとはやさしいです。",
+   "review": false
+  },
+  {
+   "id": "ja-wife",
+   "concept": "wife",
+   "text": "妻",
+   "speak": "つま",
+   "reading": "tsuma",
+   "meaning": "wife",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/wife.mp3",
+    "she": "vocab/audio/ja/she/wife.mp3"
+   },
+   "image": "vocab/img/wife.jpg",
+   "emoji": "👰",
+   "kana": "つま",
+   "example_phrase": "彼の妻",
+   "example_sentence": "妻は看護師です。",
+   "example_phrase_meaning": "his wife",
+   "example_meaning": "His wife is a nurse.",
+   "example_phrase_reading": "Kare no tsuma",
+   "example_sentence_reading": "Tsuma wa kangoshi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/wife-ex.mp3",
+    "she": "vocab/audio/ja/she/wife-ex.mp3"
+   },
+   "example_phrase_kana": "かれのつま",
+   "example_sentence_kana": "つまはかんごしです。",
+   "review": false
+  },
+  {
+   "id": "ja-family",
+   "concept": "family",
+   "text": "家族",
+   "speak": "かぞく",
+   "reading": "kazoku",
+   "meaning": "family",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/family.mp3",
+    "she": "vocab/audio/ja/she/family.mp3"
+   },
+   "image": "vocab/img/family.jpg",
+   "emoji": "👨‍👩‍👧",
+   "kana": "かぞく",
+   "example_phrase": "私の家族",
+   "example_sentence": "私の家族は四人です。",
+   "example_phrase_meaning": "my family",
+   "example_meaning": "My family has four people.",
+   "example_phrase_reading": "Watashi no kazoku",
+   "example_sentence_reading": "Watashi no kazoku wa yonin desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/family-ex.mp3",
+    "she": "vocab/audio/ja/she/family-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのかぞく",
+   "example_sentence_kana": "わたしのかぞくはよにんです。",
+   "review": false
+  },
+  {
+   "id": "ja-uncle",
+   "concept": "uncle",
+   "text": "おじさん",
+   "speak": "おじさん",
+   "reading": "ojisan",
+   "meaning": "uncle",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/uncle.mp3",
+    "she": "vocab/audio/ja/she/uncle.mp3"
+   },
+   "image": "vocab/img/uncle.jpg",
+   "emoji": "👨",
+   "kana": "おじさん",
+   "example_phrase": "私のおじさん",
+   "example_sentence": "おじはダナンに住んでいます。",
+   "example_phrase_meaning": "my uncle",
+   "example_meaning": "My uncle lives in Da Nang.",
+   "example_phrase_reading": "Watashi no ojisan",
+   "example_sentence_reading": "Oji wa danan ni sunde imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/uncle-ex.mp3",
+    "she": "vocab/audio/ja/she/uncle-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおじさん",
+   "example_sentence_kana": "おじはダナンにすんでいます。",
+   "review": false
+  },
+  {
+   "id": "ja-aunt",
+   "concept": "aunt",
+   "text": "おばさん",
+   "speak": "おばさん",
+   "reading": "obasan",
+   "meaning": "aunt",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/aunt.mp3",
+    "she": "vocab/audio/ja/she/aunt.mp3"
+   },
+   "image": "vocab/img/aunt.jpg",
+   "emoji": "👩",
+   "kana": "おばさん",
+   "example_phrase": "私のおばさん",
+   "example_sentence": "おばがプレゼントをくれました。",
+   "example_phrase_meaning": "my aunt",
+   "example_meaning": "My aunt gave me a gift.",
+   "example_phrase_reading": "Watashi no obasan",
+   "example_sentence_reading": "Oba ga purezento o kuremashita.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/aunt-ex.mp3",
+    "she": "vocab/audio/ja/she/aunt-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのおばさん",
+   "example_sentence_kana": "おばがプレゼントをくれました。",
+   "review": false
+  },
+  {
+   "id": "ja-grandchild",
+   "concept": "grandchild",
+   "text": "孫",
+   "speak": "まご",
+   "reading": "mago",
+   "meaning": "grandchild",
+   "topic": "family",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/grandchild.mp3",
+    "she": "vocab/audio/ja/she/grandchild.mp3"
+   },
+   "image": "vocab/img/grandchild.jpg",
+   "emoji": "👶",
+   "kana": "まご",
+   "example_phrase": "かわいい孫",
+   "example_sentence": "祖母は孫と遊びます。",
+   "example_phrase_meaning": "her grandchild",
+   "example_meaning": "Grandma plays with her grandchild.",
+   "example_phrase_reading": "Kawaii mago",
+   "example_sentence_reading": "Sobo wa mago to asobimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/grandchild-ex.mp3",
+    "she": "vocab/audio/ja/she/grandchild-ex.mp3"
+   },
+   "example_phrase_kana": "かわいいまご",
+   "example_sentence_kana": "そぼはまごとあそびます。",
+   "review": false
+  },
+  {
+   "id": "ja-person",
+   "concept": "person",
+   "text": "人",
+   "speak": "ひと",
+   "reading": "hito",
+   "meaning": "person",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/person.mp3",
+    "she": "vocab/audio/ja/she/person.mp3"
+   },
+   "image": "vocab/img/person.jpg",
+   "emoji": "🧍",
+   "kana": "ひと",
+   "example_phrase": "やさしい人",
+   "example_sentence": "彼はやさしい人です。",
+   "example_phrase_meaning": "a kind person",
+   "example_meaning": "He is a kind person.",
+   "example_phrase_reading": "Yasashii hito",
+   "example_sentence_reading": "Kare wa yasashii hito desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/person-ex.mp3",
+    "she": "vocab/audio/ja/she/person-ex.mp3"
+   },
+   "example_phrase_kana": "やさしいひと",
+   "example_sentence_kana": "かれはやさしいひとです。",
+   "review": false
+  },
+  {
+   "id": "ja-man",
+   "concept": "man",
+   "text": "男の人",
+   "speak": "おとこのひと",
+   "reading": "otokonohito",
+   "meaning": "man",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/man.mp3",
+    "she": "vocab/audio/ja/she/man.mp3"
+   },
+   "image": "vocab/img/man.jpg",
+   "emoji": "👨",
+   "kana": "おとこのひと",
+   "example_phrase": "背の高い男の人",
+   "example_sentence": "あの男の人は私の先生です。",
+   "example_phrase_meaning": "a tall man",
+   "example_meaning": "That man is my teacher.",
+   "example_phrase_reading": "Se no takai otoko no hito",
+   "example_sentence_reading": "Ano otoko no hito wa watashi no sensei desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/man-ex.mp3",
+    "she": "vocab/audio/ja/she/man-ex.mp3"
+   },
+   "example_phrase_kana": "せのたかいおとこのひと",
+   "example_sentence_kana": "あのおとこのひとはわたしのせんせいです。",
+   "review": false
+  },
+  {
+   "id": "ja-woman",
+   "concept": "woman",
+   "text": "女の人",
+   "speak": "おんなのひと",
+   "reading": "onnanohito",
+   "meaning": "woman",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/woman.mp3",
+    "she": "vocab/audio/ja/she/woman.mp3"
+   },
+   "image": "vocab/img/woman.jpg",
+   "emoji": "👩",
+   "kana": "おんなのひと",
+   "example_phrase": "若い女の人",
+   "example_sentence": "女の人が本を読んでいます。",
+   "example_phrase_meaning": "a young woman",
+   "example_meaning": "The woman is reading a book.",
+   "example_phrase_reading": "Wakai onna no hito",
+   "example_sentence_reading": "Onna no hito ga hon o yonde imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/woman-ex.mp3",
+    "she": "vocab/audio/ja/she/woman-ex.mp3"
+   },
+   "example_phrase_kana": "わかいおんなのひと",
+   "example_sentence_kana": "おんなのひとがほんをよんでいます。",
+   "review": false
+  },
+  {
+   "id": "ja-boy",
+   "concept": "boy",
+   "text": "男の子",
+   "speak": "おとこのこ",
+   "reading": "otokonoko",
+   "meaning": "boy",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/boy.mp3",
+    "she": "vocab/audio/ja/she/boy.mp3"
+   },
+   "image": "vocab/img/boy.jpg",
+   "emoji": "👦",
+   "kana": "おとこのこ",
+   "example_phrase": "小さい男の子",
+   "example_sentence": "男の子が走っています。",
+   "example_phrase_meaning": "a little boy",
+   "example_meaning": "The boy is running.",
+   "example_phrase_reading": "Chiisai otoko no ko",
+   "example_sentence_reading": "Otoko no ko ga hashitte imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/boy-ex.mp3",
+    "she": "vocab/audio/ja/she/boy-ex.mp3"
+   },
+   "example_phrase_kana": "ちいさいおとこのこ",
+   "example_sentence_kana": "おとこのこがはしっています。",
+   "review": false
+  },
+  {
+   "id": "ja-girl",
+   "concept": "girl",
+   "text": "女の子",
+   "speak": "おんなのこ",
+   "reading": "onnanoko",
+   "meaning": "girl",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/girl.mp3",
+    "she": "vocab/audio/ja/she/girl.mp3"
+   },
+   "image": "vocab/img/girl.jpg",
+   "emoji": "👧",
+   "kana": "おんなのこ",
+   "example_phrase": "元気な女の子",
+   "example_sentence": "女の子は絵を描くのが好きです。",
+   "example_phrase_meaning": "a smart girl",
+   "example_meaning": "The girl likes to draw.",
+   "example_phrase_reading": "Genki na onna no ko",
+   "example_sentence_reading": "Onna no ko wa e o kaku no ga suki desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/girl-ex.mp3",
+    "she": "vocab/audio/ja/she/girl-ex.mp3"
+   },
+   "example_phrase_kana": "げんきなおんなのこ",
+   "example_sentence_kana": "おんなのこはえをかくのがすきです。",
+   "review": false
+  },
+  {
+   "id": "ja-friend",
+   "concept": "friend",
+   "text": "友達",
+   "speak": "ともだち",
+   "reading": "tomodachi",
+   "meaning": "friend",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/friend.mp3",
+    "she": "vocab/audio/ja/she/friend.mp3"
+   },
+   "image": "vocab/img/friend.jpg",
+   "emoji": "🧑‍🤝‍🧑",
+   "kana": "ともだち",
+   "example_phrase": "私の友達",
+   "example_sentence": "友達はこの近くに住んでいます。",
+   "example_phrase_meaning": "my best friend",
+   "example_meaning": "My friend lives near here.",
+   "example_phrase_reading": "Watashi no tomodachi",
+   "example_sentence_reading": "Tomodachi wa kono chikaku ni sunde imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/friend-ex.mp3",
+    "she": "vocab/audio/ja/she/friend-ex.mp3"
+   },
+   "example_phrase_kana": "わたしのともだち",
+   "example_sentence_kana": "ともだちはこのちかくにすんでいます。",
+   "review": false
+  },
+  {
+   "id": "ja-teacher",
+   "concept": "teacher",
+   "text": "先生",
+   "speak": "せんせい",
+   "reading": "sensei",
+   "meaning": "teacher",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/teacher.mp3",
+    "she": "vocab/audio/ja/she/teacher.mp3"
+   },
+   "image": "vocab/img/teacher.jpg",
+   "emoji": "🧑‍🏫",
+   "kana": "せんせい",
+   "example_phrase": "私たちの先生",
+   "example_sentence": "私たちの先生はとても面白いです。",
+   "example_phrase_meaning": "our teacher",
+   "example_meaning": "Our teacher is very funny.",
+   "example_phrase_reading": "Watashitachi no sensei",
+   "example_sentence_reading": "Watashitachi no sensei wa totemo omoshiroi desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/teacher-ex.mp3",
+    "she": "vocab/audio/ja/she/teacher-ex.mp3"
+   },
+   "example_phrase_kana": "わたしたちのせんせい",
+   "example_sentence_kana": "わたしたちのせんせいはとてもおもしろいです。",
+   "review": false
+  },
+  {
+   "id": "ja-student",
+   "concept": "student",
+   "text": "学生",
+   "speak": "がくせい",
+   "reading": "gakusei",
+   "meaning": "student",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/student.mp3",
+    "she": "vocab/audio/ja/she/student.mp3"
+   },
+   "image": "vocab/img/student.jpg",
+   "emoji": "🧑‍🎓",
+   "kana": "がくせい",
+   "example_phrase": "新しい学生",
+   "example_sentence": "私は学生です。",
+   "example_phrase_meaning": "a new student",
+   "example_meaning": "I am a student.",
+   "example_phrase_reading": "Atarashii gakusei",
+   "example_sentence_reading": "Watashi wa gakusei desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/student-ex.mp3",
+    "she": "vocab/audio/ja/she/student-ex.mp3"
+   },
+   "example_phrase_kana": "あたらしいがくせい",
+   "example_sentence_kana": "わたしはがくせいです。",
+   "review": false
+  },
+  {
+   "id": "ja-neighbor",
+   "concept": "neighbor",
+   "text": "近所の人",
+   "speak": "きんじょのひと",
+   "reading": "kinjonohito",
+   "meaning": "neighbor",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/neighbor.mp3",
+    "she": "vocab/audio/ja/she/neighbor.mp3"
+   },
+   "image": "vocab/img/neighbor.jpg",
+   "emoji": "🏘️",
+   "kana": "きんじょのひと",
+   "example_phrase": "近所の人たち",
+   "example_sentence": "近所の人は大きい犬を飼っています。",
+   "example_phrase_meaning": "my neighbor",
+   "example_meaning": "My neighbor has a big dog.",
+   "example_phrase_reading": "Kinjo no hitotachi",
+   "example_sentence_reading": "Kinjo no hito wa ōkii inu o katte imasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/neighbor-ex.mp3",
+    "she": "vocab/audio/ja/she/neighbor-ex.mp3"
+   },
+   "example_phrase_kana": "きんじょのひとたち",
+   "example_sentence_kana": "きんじょのひとはおおきいいぬをかっています。",
+   "review": false
+  },
+  {
+   "id": "ja-guest",
+   "concept": "guest",
+   "text": "お客さん",
+   "speak": "おきゃくさん",
+   "reading": "okyakusan",
+   "meaning": "guest",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/guest.mp3",
+    "she": "vocab/audio/ja/she/guest.mp3"
+   },
+   "image": "vocab/img/guest.jpg",
+   "emoji": "🛎️",
+   "kana": "おきゃくさん",
+   "example_phrase": "大切なお客さん",
+   "example_sentence": "今晩、お客さんが来ます。",
+   "example_phrase_meaning": "a special guest",
+   "example_meaning": "We have a guest tonight.",
+   "example_phrase_reading": "Taisetsu na okyakusan",
+   "example_sentence_reading": "Konban, okyakusan ga kimasu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/guest-ex.mp3",
+    "she": "vocab/audio/ja/she/guest-ex.mp3"
+   },
+   "example_phrase_kana": "たいせつなおきゃくさん",
+   "example_sentence_kana": "こんばん、おきゃくさんがきます。",
+   "review": false
+  },
+  {
+   "id": "ja-everyone",
+   "concept": "everyone",
+   "text": "みんな",
+   "speak": "みんな",
+   "reading": "minna",
+   "meaning": "everyone",
+   "topic": "people",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/everyone.mp3",
+    "she": "vocab/audio/ja/she/everyone.mp3"
+   },
+   "image": "vocab/img/everyone.jpg",
+   "emoji": "👥",
+   "kana": "みんな",
+   "example_phrase": "みんなで食べよう",
+   "example_sentence": "みんなアイスクリームが好きです。",
+   "example_phrase_meaning": "hello everyone",
+   "example_meaning": "Everyone likes ice cream.",
+   "example_phrase_reading": "Minna de tabeyō",
+   "example_sentence_reading": "Minna aisukurīmu ga suki desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/everyone-ex.mp3",
+    "she": "vocab/audio/ja/she/everyone-ex.mp3"
+   },
+   "example_phrase_kana": "みんなでたべよう",
+   "example_sentence_kana": "みんなアイスクリームがすきです。",
+   "review": false
+  },
+  {
+   "id": "ja-adult",
+   "concept": "adult",
+   "text": "大人",
+   "speak": "おとな",
+   "reading": "otona",
+   "meaning": "adult",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/adult.mp3",
+    "she": "vocab/audio/ja/she/adult.mp3"
+   },
+   "image": "vocab/img/adult.jpg",
+   "emoji": "🧑",
+   "kana": "おとな",
+   "example_phrase": "大人二人",
+   "example_sentence": "大人二人と子供一人です。",
+   "example_phrase_meaning": "two adults",
+   "example_meaning": "Two adults and one child, please.",
+   "example_phrase_reading": "Otona futari",
+   "example_sentence_reading": "Otona futari to kodomo hitori desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/adult-ex.mp3",
+    "she": "vocab/audio/ja/she/adult-ex.mp3"
+   },
+   "example_phrase_kana": "おとなふたり",
+   "example_sentence_kana": "おとなふたりとこどもひとりです。",
+   "review": false
+  },
+  {
+   "id": "ja-boyfriend",
+   "concept": "boyfriend",
+   "text": "彼氏",
+   "speak": "かれし",
+   "reading": "kareshi",
+   "meaning": "boyfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/boyfriend.mp3",
+    "she": "vocab/audio/ja/she/boyfriend.mp3"
+   },
+   "image": "vocab/img/boyfriend.jpg",
+   "emoji": "💑",
+   "kana": "かれし",
+   "example_phrase": "彼女の彼氏",
+   "example_sentence": "彼氏はスペイン人です。",
+   "example_phrase_meaning": "her boyfriend",
+   "example_meaning": "Her boyfriend is from Spain.",
+   "example_phrase_reading": "Kanojo no kareshi",
+   "example_sentence_reading": "Kareshi wa supeinjin desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/boyfriend-ex.mp3",
+    "she": "vocab/audio/ja/she/boyfriend-ex.mp3"
+   },
+   "example_phrase_kana": "かのじょのかれし",
+   "example_sentence_kana": "かれしはスペインじんです。",
+   "review": false
+  },
+  {
+   "id": "ja-girlfriend",
+   "concept": "girlfriend",
+   "text": "彼女",
+   "speak": "かのじょ",
+   "reading": "kanojo",
+   "meaning": "girlfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/girlfriend.mp3",
+    "she": "vocab/audio/ja/she/girlfriend.mp3"
+   },
+   "image": "vocab/img/girlfriend.jpg",
+   "emoji": "💑",
+   "kana": "かのじょ",
+   "example_phrase": "彼の彼女",
+   "example_sentence": "彼女は歌手です。",
+   "example_phrase_meaning": "his girlfriend",
+   "example_meaning": "His girlfriend is a singer.",
+   "example_phrase_reading": "Kare no kanojo",
+   "example_sentence_reading": "Kanojo wa kashu desu.",
+   "example_audio": {
+    "he": "vocab/audio/ja/he/girlfriend-ex.mp3",
+    "she": "vocab/audio/ja/she/girlfriend-ex.mp3"
+   },
+   "example_phrase_kana": "かれのかのじょ",
+   "example_sentence_kana": "かのじょはかしゅです。",
+   "review": false
+  },
+  {
+   "id": "ja-i",
+   "concept": "i",
+   "text": "私",
+   "speak": "わたし",
+   "reading": "watashi",
+   "meaning": "I",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/i.mp3",
+    "she": "vocab/audio/ja/she/i.mp3"
+   },
+   "image": "vocab/img/i.jpg",
+   "emoji": "🙋",
+   "kana": "わたし",
+   "review": false
+  },
+  {
+   "id": "ja-you",
+   "concept": "you",
+   "text": "あなた",
+   "speak": "あなた",
+   "reading": "anata",
+   "meaning": "you",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/you.mp3",
+    "she": "vocab/audio/ja/she/you.mp3"
+   },
+   "image": "vocab/img/you.jpg",
+   "emoji": "🫵",
+   "kana": "あなた",
+   "review": false
+  },
+  {
+   "id": "ja-he",
+   "concept": "he",
+   "text": "彼",
+   "speak": "かれ",
+   "reading": "kare",
+   "meaning": "he",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/he.mp3",
+    "she": "vocab/audio/ja/she/he.mp3"
+   },
+   "image": "vocab/img/he.jpg",
+   "emoji": "👨",
+   "kana": "かれ",
+   "review": false
+  },
+  {
+   "id": "ja-she",
+   "concept": "she",
+   "text": "彼女",
+   "speak": "かのじょ",
+   "reading": "kanojo",
+   "meaning": "she",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/she.mp3",
+    "she": "vocab/audio/ja/she/she.mp3"
+   },
+   "image": "vocab/img/she.jpg",
+   "emoji": "👩",
+   "kana": "かのじょ",
+   "review": false
+  },
+  {
+   "id": "ja-we",
+   "concept": "we",
+   "text": "私たち",
+   "speak": "わたしたち",
+   "reading": "watashitachi",
+   "meaning": "we",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/we.mp3",
+    "she": "vocab/audio/ja/she/we.mp3"
+   },
+   "image": "vocab/img/we.jpg",
+   "emoji": "👫",
+   "kana": "わたしたち",
+   "review": false
+  },
+  {
+   "id": "ja-they",
+   "concept": "they",
+   "text": "彼ら",
+   "speak": "かれら",
+   "reading": "karera",
+   "meaning": "they",
+   "topic": "pronouns",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/they.mp3",
+    "she": "vocab/audio/ja/she/they.mp3"
+   },
+   "image": "vocab/img/they.jpg",
+   "emoji": "👥",
+   "kana": "かれら",
+   "review": false
+  },
+  {
+   "id": "ja-this",
+   "concept": "this",
+   "text": "これ",
+   "speak": "これ",
+   "reading": "kore",
+   "meaning": "this",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/this.mp3",
+    "she": "vocab/audio/ja/she/this.mp3"
+   },
+   "image": "vocab/img/this.jpg",
+   "emoji": "👇",
+   "kana": "これ",
+   "review": false
+  },
+  {
+   "id": "ja-that",
+   "concept": "that",
+   "text": "あれ",
+   "speak": "あれ",
+   "reading": "are",
+   "meaning": "that",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/ja/he/that.mp3",
+    "she": "vocab/audio/ja/she/that.mp3"
+   },
+   "image": "vocab/img/that.jpg",
+   "emoji": "👉",
+   "kana": "あれ",
+   "review": false
+  },
+  {
+   "id": "ja-here",
+   "concept": "here",
+   "text": "ここ",
+   "speak": "ここ",
+   "reading": "koko",
+   "meaning": "here",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/here.mp3",
+    "she": "vocab/audio/ja/she/here.mp3"
+   },
+   "image": "vocab/img/here.jpg",
+   "emoji": "📍",
+   "kana": "ここ",
+   "review": false
+  },
+  {
+   "id": "ja-there",
+   "concept": "there",
+   "text": "そこ",
+   "speak": "そこ",
+   "reading": "soko",
+   "meaning": "there",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/ja/he/there.mp3",
+    "she": "vocab/audio/ja/she/there.mp3"
+   },
+   "image": "vocab/img/there.jpg",
+   "emoji": "🗺️",
+   "kana": "そこ",
+   "review": false
+  },
+  {
+   "id": "ja-what",
+   "concept": "what",
+   "text": "何",
+   "speak": "なに",
+   "reading": "nani",
+   "meaning": "what",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/what.mp3",
+    "she": "vocab/audio/ja/she/what.mp3"
+   },
+   "image": "vocab/img/what.jpg",
+   "emoji": "❓",
+   "kana": "なに",
+   "review": false
+  },
+  {
+   "id": "ja-who",
+   "concept": "who",
+   "text": "誰",
+   "speak": "だれ",
+   "reading": "dare",
+   "meaning": "who",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/who.mp3",
+    "she": "vocab/audio/ja/she/who.mp3"
+   },
+   "image": "vocab/img/who.jpg",
+   "emoji": "🕵️",
+   "kana": "だれ",
+   "review": false
+  },
+  {
+   "id": "ja-where",
+   "concept": "where",
+   "text": "どこ",
+   "speak": "どこ",
+   "reading": "doko",
+   "meaning": "where",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/where.mp3",
+    "she": "vocab/audio/ja/she/where.mp3"
+   },
+   "image": "vocab/img/where.jpg",
+   "emoji": "🧭",
+   "kana": "どこ",
+   "review": false
+  },
+  {
+   "id": "ja-when",
+   "concept": "when",
+   "text": "いつ",
+   "speak": "いつ",
+   "reading": "itsu",
+   "meaning": "when",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/when.mp3",
+    "she": "vocab/audio/ja/she/when.mp3"
+   },
+   "image": "vocab/img/when.jpg",
+   "emoji": "⏰",
+   "kana": "いつ",
+   "review": false
+  },
+  {
+   "id": "ja-why",
+   "concept": "why",
+   "text": "どうして",
+   "speak": "どうして",
+   "reading": "dōshite",
+   "meaning": "why",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/why.mp3",
+    "she": "vocab/audio/ja/she/why.mp3"
+   },
+   "image": "vocab/img/why.jpg",
+   "emoji": "🤔",
+   "kana": "どうして",
+   "review": false
+  },
+  {
+   "id": "ja-how",
+   "concept": "how",
+   "text": "どう",
+   "speak": "どう",
+   "reading": "dō",
+   "meaning": "how",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/how.mp3",
+    "she": "vocab/audio/ja/she/how.mp3"
+   },
+   "image": "vocab/img/how.jpg",
+   "emoji": "🛠️",
+   "kana": "どう",
+   "review": false
+  },
+  {
+   "id": "ja-how_much_price",
+   "concept": "how_much_price",
+   "text": "いくら",
+   "speak": "いくら",
+   "reading": "ikura",
+   "meaning": "how much (price)",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/how_much_price.mp3",
+    "she": "vocab/audio/ja/she/how_much_price.mp3"
+   },
+   "image": "vocab/img/how_much_price.jpg",
+   "emoji": "🏷️",
+   "kana": "いくら",
+   "review": false
+  },
+  {
+   "id": "ja-which",
+   "concept": "which",
+   "text": "どれ",
+   "speak": "どれ",
+   "reading": "dore",
+   "meaning": "which",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/which.mp3",
+    "she": "vocab/audio/ja/she/which.mp3"
+   },
+   "image": "vocab/img/which.jpg",
+   "emoji": "🔀",
+   "kana": "どれ",
+   "review": false
+  },
+  {
+   "id": "ja-how_many",
+   "concept": "how_many",
+   "text": "いくつ",
+   "speak": "いくつ",
+   "reading": "ikutsu",
+   "meaning": "how many",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/ja/he/how_many.mp3",
+    "she": "vocab/audio/ja/she/how_many.mp3"
+   },
+   "image": "vocab/img/how_many.jpg",
+   "emoji": "🔢",
+   "kana": "いくつ",
+   "review": false
+  },
+  {
+   "id": "ja-head",
+   "concept": "head",
+   "text": "頭",
+   "speak": "あたま",
+   "reading": "atama",
+   "meaning": "head",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/head.mp3",
+    "she": "vocab/audio/ja/she/head.mp3"
+   },
+   "image": "vocab/img/head.jpg",
+   "emoji": "🙂",
+   "kana": "あたま",
+   "review": false
+  },
+  {
+   "id": "ja-face",
+   "concept": "face",
+   "text": "顔",
+   "speak": "かお",
+   "reading": "kao",
+   "meaning": "face",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/face.mp3",
+    "she": "vocab/audio/ja/she/face.mp3"
+   },
+   "image": "vocab/img/face.jpg",
+   "emoji": "😊",
+   "kana": "かお",
+   "review": false
+  },
+  {
+   "id": "ja-eye",
+   "concept": "eye",
+   "text": "目",
+   "speak": "め",
+   "reading": "me",
+   "meaning": "eye",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/eye.mp3",
+    "she": "vocab/audio/ja/she/eye.mp3"
+   },
+   "image": "vocab/img/eye.jpg",
+   "emoji": "👁️",
+   "kana": "め",
+   "review": false
+  },
+  {
+   "id": "ja-ear",
+   "concept": "ear",
+   "text": "耳",
+   "speak": "みみ",
+   "reading": "mimi",
+   "meaning": "ear",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/ear.mp3",
+    "she": "vocab/audio/ja/she/ear.mp3"
+   },
+   "image": "vocab/img/ear.jpg",
+   "emoji": "👂",
+   "kana": "みみ",
+   "review": false
+  },
+  {
+   "id": "ja-nose",
+   "concept": "nose",
+   "text": "鼻",
+   "speak": "はな",
+   "reading": "hana",
+   "meaning": "nose",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/nose.mp3",
+    "she": "vocab/audio/ja/she/nose.mp3"
+   },
+   "image": "vocab/img/nose.jpg",
+   "emoji": "👃",
+   "kana": "はな",
+   "review": false
+  },
+  {
+   "id": "ja-mouth",
+   "concept": "mouth",
+   "text": "口",
+   "speak": "くち",
+   "reading": "kuchi",
+   "meaning": "mouth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/mouth.mp3",
+    "she": "vocab/audio/ja/she/mouth.mp3"
+   },
+   "image": "vocab/img/mouth.jpg",
+   "emoji": "👄",
+   "kana": "くち",
+   "review": false
+  },
+  {
+   "id": "ja-tooth",
+   "concept": "tooth",
+   "text": "歯",
+   "speak": "は",
+   "reading": "ha",
+   "meaning": "tooth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/tooth.mp3",
+    "she": "vocab/audio/ja/she/tooth.mp3"
+   },
+   "image": "vocab/img/tooth.jpg",
+   "emoji": "🦷",
+   "kana": "は",
+   "review": false
+  },
+  {
+   "id": "ja-hair",
+   "concept": "hair",
+   "text": "髪",
+   "speak": "かみ",
+   "reading": "kami",
+   "meaning": "hair",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/hair.mp3",
+    "she": "vocab/audio/ja/she/hair.mp3"
+   },
+   "image": "vocab/img/hair.jpg",
+   "emoji": "💇",
+   "kana": "かみ",
+   "review": false
+  },
+  {
+   "id": "ja-hand",
+   "concept": "hand",
+   "text": "手",
+   "speak": "て",
+   "reading": "te",
+   "meaning": "hand",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/hand.mp3",
+    "she": "vocab/audio/ja/she/hand.mp3"
+   },
+   "image": "vocab/img/hand.jpg",
+   "emoji": "✋",
+   "kana": "て",
+   "review": false
+  },
+  {
+   "id": "ja-arm",
+   "concept": "arm",
+   "text": "腕",
+   "speak": "うで",
+   "reading": "ude",
+   "meaning": "arm",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/arm.mp3",
+    "she": "vocab/audio/ja/she/arm.mp3"
+   },
+   "image": "vocab/img/arm.jpg",
+   "emoji": "💪",
+   "kana": "うで",
+   "review": false
+  },
+  {
+   "id": "ja-leg",
+   "concept": "leg",
+   "text": "足",
+   "speak": "あし",
+   "reading": "ashi",
+   "meaning": "leg",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/leg.mp3",
+    "she": "vocab/audio/ja/she/leg.mp3"
+   },
+   "image": "vocab/img/leg.jpg",
+   "emoji": "🦵",
+   "kana": "あし",
+   "review": false
+  },
+  {
+   "id": "ja-foot",
+   "concept": "foot",
+   "text": "足",
+   "speak": "あし",
+   "reading": "ashi",
+   "meaning": "foot",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/foot.mp3",
+    "she": "vocab/audio/ja/she/foot.mp3"
+   },
+   "image": "vocab/img/foot.jpg",
+   "emoji": "🦶",
+   "kana": "あし",
+   "review": false
+  },
+  {
+   "id": "ja-finger",
+   "concept": "finger",
+   "text": "指",
+   "speak": "ゆび",
+   "reading": "yubi",
+   "meaning": "finger",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/finger.mp3",
+    "she": "vocab/audio/ja/she/finger.mp3"
+   },
+   "image": "vocab/img/finger.jpg",
+   "emoji": "☝️",
+   "kana": "ゆび",
+   "review": false
+  },
+  {
+   "id": "ja-neck",
+   "concept": "neck",
+   "text": "首",
+   "speak": "くび",
+   "reading": "kubi",
+   "meaning": "neck",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/neck.mp3",
+    "she": "vocab/audio/ja/she/neck.mp3"
+   },
+   "image": "vocab/img/neck.jpg",
+   "emoji": "🦒",
+   "kana": "くび",
+   "review": false
+  },
+  {
+   "id": "ja-shoulder",
+   "concept": "shoulder",
+   "text": "肩",
+   "speak": "かた",
+   "reading": "kata",
+   "meaning": "shoulder",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/shoulder.mp3",
+    "she": "vocab/audio/ja/she/shoulder.mp3"
+   },
+   "image": "vocab/img/shoulder.jpg",
+   "emoji": "🤷",
+   "kana": "かた",
+   "review": false
+  },
+  {
+   "id": "ja-back_body",
+   "concept": "back_body",
+   "text": "背中",
+   "speak": "せなか",
+   "reading": "senaka",
+   "meaning": "back (body)",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/back_body.mp3",
+    "she": "vocab/audio/ja/she/back_body.mp3"
+   },
+   "image": "vocab/img/back_body.jpg",
+   "emoji": "🧍",
+   "kana": "せなか",
+   "review": false
+  },
+  {
+   "id": "ja-stomach",
+   "concept": "stomach",
+   "text": "お腹",
+   "speak": "おなか",
+   "reading": "onaka",
+   "meaning": "stomach",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/stomach.mp3",
+    "she": "vocab/audio/ja/she/stomach.mp3"
+   },
+   "image": "vocab/img/stomach.jpg",
+   "emoji": "🫃",
+   "kana": "おなか",
+   "review": false
+  },
+  {
+   "id": "ja-heart",
+   "concept": "heart",
+   "text": "心臓",
+   "speak": "しんぞう",
+   "reading": "shinzō",
+   "meaning": "heart",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/heart.mp3",
+    "she": "vocab/audio/ja/she/heart.mp3"
+   },
+   "image": "vocab/img/heart.jpg",
+   "emoji": "❤️",
+   "kana": "しんぞう",
+   "review": false
+  },
+  {
+   "id": "ja-knee",
+   "concept": "knee",
+   "text": "膝",
+   "speak": "ひざ",
+   "reading": "hiza",
+   "meaning": "knee",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/knee.mp3",
+    "she": "vocab/audio/ja/she/knee.mp3"
+   },
+   "image": "vocab/img/knee.jpg",
+   "emoji": "🦵",
+   "kana": "ひざ",
+   "review": false
+  },
+  {
+   "id": "ja-body",
+   "concept": "body",
+   "text": "体",
+   "speak": "からだ",
+   "reading": "karada",
+   "meaning": "body",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/body.mp3",
+    "she": "vocab/audio/ja/she/body.mp3"
+   },
+   "image": "vocab/img/body.jpg",
+   "emoji": "🧍",
+   "kana": "からだ",
+   "review": false
+  },
+  {
+   "id": "ja-skin",
+   "concept": "skin",
+   "text": "肌",
+   "speak": "はだ",
+   "reading": "hada",
+   "meaning": "skin",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/skin.mp3",
+    "she": "vocab/audio/ja/she/skin.mp3"
+   },
+   "image": "vocab/img/skin.jpg",
+   "emoji": "🖐️",
+   "kana": "はだ",
+   "review": false
+  },
+  {
+   "id": "ja-blood",
+   "concept": "blood",
+   "text": "血",
+   "speak": "ち",
+   "reading": "chi",
+   "meaning": "blood",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/blood.mp3",
+    "she": "vocab/audio/ja/she/blood.mp3"
+   },
+   "image": "vocab/img/blood.jpg",
+   "emoji": "🩸",
+   "kana": "ち",
+   "review": false
+  },
+  {
+   "id": "ja-tongue",
+   "concept": "tongue",
+   "text": "舌",
+   "speak": "した",
+   "reading": "shita",
+   "meaning": "tongue",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/tongue.mp3",
+    "she": "vocab/audio/ja/she/tongue.mp3"
+   },
+   "image": "vocab/img/tongue.jpg",
+   "emoji": "👅",
+   "kana": "した",
+   "review": false
+  },
+  {
+   "id": "ja-red",
+   "concept": "red",
+   "text": "赤",
+   "speak": "あか",
+   "reading": "aka",
+   "meaning": "red",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/red.mp3",
+    "she": "vocab/audio/ja/she/red.mp3"
+   },
+   "image": "vocab/img/red.jpg",
+   "emoji": "🔴",
+   "kana": "あか",
+   "review": false
+  },
+  {
+   "id": "ja-blue",
+   "concept": "blue",
+   "text": "青",
+   "speak": "あお",
+   "reading": "ao",
+   "meaning": "blue",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/blue.mp3",
+    "she": "vocab/audio/ja/she/blue.mp3"
+   },
+   "image": "vocab/img/blue.jpg",
+   "emoji": "🔵",
+   "kana": "あお",
+   "review": false
+  },
+  {
+   "id": "ja-yellow",
+   "concept": "yellow",
+   "text": "黄色",
+   "speak": "きいろ",
+   "reading": "kiiro",
+   "meaning": "yellow",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/yellow.mp3",
+    "she": "vocab/audio/ja/she/yellow.mp3"
+   },
+   "image": "vocab/img/yellow.jpg",
+   "emoji": "🟡",
+   "kana": "きいろ",
+   "review": false
+  },
+  {
+   "id": "ja-green",
+   "concept": "green",
+   "text": "緑",
+   "speak": "みどり",
+   "reading": "midori",
+   "meaning": "green",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/green.mp3",
+    "she": "vocab/audio/ja/she/green.mp3"
+   },
+   "image": "vocab/img/green.jpg",
+   "emoji": "🟢",
+   "kana": "みどり",
+   "review": false
+  },
+  {
+   "id": "ja-white",
+   "concept": "white",
+   "text": "白",
+   "speak": "しろ",
+   "reading": "shiro",
+   "meaning": "white",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/white.mp3",
+    "she": "vocab/audio/ja/she/white.mp3"
+   },
+   "image": "vocab/img/white.jpg",
+   "emoji": "⚪",
+   "kana": "しろ",
+   "review": false
+  },
+  {
+   "id": "ja-black",
+   "concept": "black",
+   "text": "黒",
+   "speak": "くろ",
+   "reading": "kuro",
+   "meaning": "black",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/black.mp3",
+    "she": "vocab/audio/ja/she/black.mp3"
+   },
+   "image": "vocab/img/black.jpg",
+   "emoji": "⚫",
+   "kana": "くろ",
+   "review": false
+  },
+  {
+   "id": "ja-orange_color",
+   "concept": "orange_color",
+   "text": "オレンジ色",
+   "speak": "オレンジいろ",
+   "reading": "orenjiiro",
+   "meaning": "orange (color)",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/orange_color.mp3",
+    "she": "vocab/audio/ja/she/orange_color.mp3"
+   },
+   "image": "vocab/img/orange_color.jpg",
+   "emoji": "🟠",
+   "kana": "オレンジいろ",
+   "review": false
+  },
+  {
+   "id": "ja-pink",
+   "concept": "pink",
+   "text": "ピンク",
+   "speak": "ピンク",
+   "reading": "pinku",
+   "meaning": "pink",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/pink.mp3",
+    "she": "vocab/audio/ja/she/pink.mp3"
+   },
+   "image": "vocab/img/pink.jpg",
+   "emoji": "🩷",
+   "kana": "ピンク",
+   "review": false
+  },
+  {
+   "id": "ja-purple",
+   "concept": "purple",
+   "text": "紫",
+   "speak": "むらさき",
+   "reading": "murasaki",
+   "meaning": "purple",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/purple.mp3",
+    "she": "vocab/audio/ja/she/purple.mp3"
+   },
+   "image": "vocab/img/purple.jpg",
+   "emoji": "🟣",
+   "kana": "むらさき",
+   "review": false
+  },
+  {
+   "id": "ja-brown",
+   "concept": "brown",
+   "text": "茶色",
+   "speak": "ちゃいろ",
+   "reading": "chairo",
+   "meaning": "brown",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/brown.mp3",
+    "she": "vocab/audio/ja/she/brown.mp3"
+   },
+   "image": "vocab/img/brown.jpg",
+   "emoji": "🟤",
+   "kana": "ちゃいろ",
+   "review": false
+  },
+  {
+   "id": "ja-gray",
+   "concept": "gray",
+   "text": "灰色",
+   "speak": "はいいろ",
+   "reading": "haiiro",
+   "meaning": "gray",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/gray.mp3",
+    "she": "vocab/audio/ja/she/gray.mp3"
+   },
+   "image": "vocab/img/gray.jpg",
+   "emoji": "🩶",
+   "kana": "はいいろ",
+   "review": false
+  },
+  {
+   "id": "ja-color",
+   "concept": "color",
+   "text": "色",
+   "speak": "いろ",
+   "reading": "iro",
+   "meaning": "color",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/color.mp3",
+    "she": "vocab/audio/ja/she/color.mp3"
+   },
+   "image": "vocab/img/color.jpg",
+   "emoji": "🎨",
+   "kana": "いろ",
+   "review": false
+  },
+  {
+   "id": "ja-rice",
+   "concept": "rice",
+   "text": "ごはん",
+   "speak": "ごはん",
+   "reading": "gohan",
+   "meaning": "rice / a meal",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/rice.mp3",
+    "she": "vocab/audio/ja/she/rice.mp3"
+   },
+   "image": "vocab/img/rice.jpg",
+   "emoji": "🍚",
+   "kana": "ごはん",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-water",
+   "concept": "water",
+   "text": "水",
+   "speak": "みず",
+   "reading": "mizu",
+   "meaning": "water",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/water.mp3",
+    "she": "vocab/audio/ja/she/water.mp3"
+   },
+   "image": "vocab/img/water.jpg",
+   "emoji": "💧",
+   "kana": "みず",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-pho",
+   "concept": "pho",
+   "text": "フォー",
+   "speak": "フォー",
+   "reading": "fō",
+   "meaning": "pho (noodle soup)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/pho.mp3",
+    "she": "vocab/audio/ja/she/pho.mp3"
+   },
+   "image": "vocab/img/pho.jpg",
+   "emoji": "🍜",
+   "kana": "フォー",
+   "review": false
+  },
+  {
+   "id": "ja-tea",
+   "concept": "tea",
+   "text": "お茶",
+   "speak": "おちゃ",
+   "reading": "ocha",
+   "meaning": "tea",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/tea.mp3",
+    "she": "vocab/audio/ja/she/tea.mp3"
+   },
+   "image": "vocab/img/tea.jpg",
+   "emoji": "🍵",
+   "kana": "おちゃ",
+   "review": false
+  },
+  {
+   "id": "ja-sushi",
+   "concept": "sushi",
+   "text": "すし",
+   "speak": "すし",
+   "reading": "sushi",
+   "meaning": "sushi",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/sushi.mp3",
+    "she": "vocab/audio/ja/she/sushi.mp3"
+   },
+   "image": "vocab/img/sushi.jpg",
+   "emoji": "🍣",
+   "kana": "すし",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-bread",
+   "concept": "bread",
+   "text": "パン",
+   "speak": "パン",
+   "reading": "pan",
+   "meaning": "bread",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/bread.mp3",
+    "she": "vocab/audio/ja/she/bread.mp3"
+   },
+   "image": "vocab/img/bread.jpg",
+   "emoji": "🍞",
+   "kana": "パン",
+   "review": false
+  },
+  {
+   "id": "ja-noodles",
+   "concept": "noodles",
+   "text": "麺",
+   "speak": "めん",
+   "reading": "men",
+   "meaning": "noodles",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/noodles.mp3",
+    "she": "vocab/audio/ja/she/noodles.mp3"
+   },
+   "image": "vocab/img/noodles.jpg",
+   "emoji": "🍜",
+   "kana": "めん",
+   "review": false
+  },
+  {
+   "id": "ja-meat",
+   "concept": "meat",
+   "text": "肉",
+   "speak": "にく",
+   "reading": "niku",
+   "meaning": "meat",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/meat.mp3",
+    "she": "vocab/audio/ja/she/meat.mp3"
+   },
+   "image": "vocab/img/meat.jpg",
+   "emoji": "🥩",
+   "kana": "にく",
+   "review": false
+  },
+  {
+   "id": "ja-chicken_meat",
+   "concept": "chicken_meat",
+   "text": "鶏肉",
+   "speak": "とりにく",
+   "reading": "toriniku",
+   "meaning": "chicken (meat)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/chicken_meat.mp3",
+    "she": "vocab/audio/ja/she/chicken_meat.mp3"
+   },
+   "image": "vocab/img/chicken_meat.jpg",
+   "emoji": "🍗",
+   "kana": "とりにく",
+   "review": false
+  },
+  {
+   "id": "ja-beef",
+   "concept": "beef",
+   "text": "牛肉",
+   "speak": "ぎゅうにく",
+   "reading": "gyūniku",
+   "meaning": "beef",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/beef.mp3",
+    "she": "vocab/audio/ja/she/beef.mp3"
+   },
+   "image": "vocab/img/beef.jpg",
+   "emoji": "🥩",
+   "kana": "ぎゅうにく",
+   "review": false
+  },
+  {
+   "id": "ja-pork",
+   "concept": "pork",
+   "text": "豚肉",
+   "speak": "ぶたにく",
+   "reading": "butaniku",
+   "meaning": "pork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/pork.mp3",
+    "she": "vocab/audio/ja/she/pork.mp3"
+   },
+   "image": "vocab/img/pork.jpg",
+   "emoji": "🥓",
+   "kana": "ぶたにく",
+   "review": false
+  },
+  {
+   "id": "ja-fish_food",
+   "concept": "fish_food",
+   "text": "魚",
+   "speak": "さかな",
+   "reading": "sakana",
+   "meaning": "fish (food)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/fish_food.mp3",
+    "she": "vocab/audio/ja/she/fish_food.mp3"
+   },
+   "image": "vocab/img/fish_food.jpg",
+   "emoji": "🐟",
+   "kana": "さかな",
+   "review": false
+  },
+  {
+   "id": "ja-egg",
+   "concept": "egg",
+   "text": "卵",
+   "speak": "たまご",
+   "reading": "tamago",
+   "meaning": "egg",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/egg.mp3",
+    "she": "vocab/audio/ja/she/egg.mp3"
+   },
+   "image": "vocab/img/egg.jpg",
+   "emoji": "🥚",
+   "kana": "たまご",
+   "review": false
+  },
+  {
+   "id": "ja-vegetable",
+   "concept": "vegetable",
+   "text": "野菜",
+   "speak": "やさい",
+   "reading": "yasai",
+   "meaning": "vegetable",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/vegetable.mp3",
+    "she": "vocab/audio/ja/she/vegetable.mp3"
+   },
+   "image": "vocab/img/vegetable.jpg",
+   "emoji": "🥦",
+   "kana": "やさい",
+   "review": false
+  },
+  {
+   "id": "ja-fruit",
+   "concept": "fruit",
+   "text": "果物",
+   "speak": "くだもの",
+   "reading": "kudamono",
+   "meaning": "fruit",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/fruit.mp3",
+    "she": "vocab/audio/ja/she/fruit.mp3"
+   },
+   "image": "vocab/img/fruit.jpg",
+   "emoji": "🍎",
+   "kana": "くだもの",
+   "review": false
+  },
+  {
+   "id": "ja-apple",
+   "concept": "apple",
+   "text": "りんご",
+   "speak": "りんご",
+   "reading": "ringo",
+   "meaning": "apple",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/apple.mp3",
+    "she": "vocab/audio/ja/she/apple.mp3"
+   },
+   "image": "vocab/img/apple.jpg",
+   "emoji": "🍎",
+   "kana": "りんご",
+   "review": false
+  },
+  {
+   "id": "ja-banana",
+   "concept": "banana",
+   "text": "バナナ",
+   "speak": "バナナ",
+   "reading": "banana",
+   "meaning": "banana",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/banana.mp3",
+    "she": "vocab/audio/ja/she/banana.mp3"
+   },
+   "image": "vocab/img/banana.jpg",
+   "emoji": "🍌",
+   "kana": "バナナ",
+   "review": false
+  },
+  {
+   "id": "ja-orange_fruit",
+   "concept": "orange_fruit",
+   "text": "オレンジ",
+   "speak": "オレンジ",
+   "reading": "orenji",
+   "meaning": "orange (fruit)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/orange_fruit.mp3",
+    "she": "vocab/audio/ja/she/orange_fruit.mp3"
+   },
+   "image": "vocab/img/orange_fruit.jpg",
+   "emoji": "🍊",
+   "kana": "オレンジ",
+   "review": false
+  },
+  {
+   "id": "ja-grape",
+   "concept": "grape",
+   "text": "ぶどう",
+   "speak": "ぶどう",
+   "reading": "budō",
+   "meaning": "grape",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/grape.mp3",
+    "she": "vocab/audio/ja/she/grape.mp3"
+   },
+   "image": "vocab/img/grape.jpg",
+   "emoji": "🍇",
+   "kana": "ぶどう",
+   "review": false
+  },
+  {
+   "id": "ja-watermelon",
+   "concept": "watermelon",
+   "text": "スイカ",
+   "speak": "スイカ",
+   "reading": "suika",
+   "meaning": "watermelon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/watermelon.mp3",
+    "she": "vocab/audio/ja/she/watermelon.mp3"
+   },
+   "image": "vocab/img/watermelon.jpg",
+   "emoji": "🍉",
+   "kana": "スイカ",
+   "review": false
+  },
+  {
+   "id": "ja-mango",
+   "concept": "mango",
+   "text": "マンゴー",
+   "speak": "マンゴー",
+   "reading": "mangō",
+   "meaning": "mango",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/mango.mp3",
+    "she": "vocab/audio/ja/she/mango.mp3"
+   },
+   "image": "vocab/img/mango.jpg",
+   "emoji": "🥭",
+   "kana": "マンゴー",
+   "review": false
+  },
+  {
+   "id": "ja-strawberry",
+   "concept": "strawberry",
+   "text": "いちご",
+   "speak": "いちご",
+   "reading": "ichigo",
+   "meaning": "strawberry",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/strawberry.mp3",
+    "she": "vocab/audio/ja/she/strawberry.mp3"
+   },
+   "image": "vocab/img/strawberry.jpg",
+   "emoji": "🍓",
+   "kana": "いちご",
+   "review": false
+  },
+  {
+   "id": "ja-lemon",
+   "concept": "lemon",
+   "text": "レモン",
+   "speak": "レモン",
+   "reading": "remon",
+   "meaning": "lemon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/lemon.mp3",
+    "she": "vocab/audio/ja/she/lemon.mp3"
+   },
+   "image": "vocab/img/lemon.jpg",
+   "emoji": "🍋",
+   "kana": "レモン",
+   "review": false
+  },
+  {
+   "id": "ja-tomato",
+   "concept": "tomato",
+   "text": "トマト",
+   "speak": "トマト",
+   "reading": "tomato",
+   "meaning": "tomato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/tomato.mp3",
+    "she": "vocab/audio/ja/she/tomato.mp3"
+   },
+   "image": "vocab/img/tomato.jpg",
+   "emoji": "🍅",
+   "kana": "トマト",
+   "review": false
+  },
+  {
+   "id": "ja-potato",
+   "concept": "potato",
+   "text": "じゃがいも",
+   "speak": "じゃがいも",
+   "reading": "jagaimo",
+   "meaning": "potato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/potato.mp3",
+    "she": "vocab/audio/ja/she/potato.mp3"
+   },
+   "image": "vocab/img/potato.jpg",
+   "emoji": "🥔",
+   "kana": "じゃがいも",
+   "review": false
+  },
+  {
+   "id": "ja-carrot",
+   "concept": "carrot",
+   "text": "にんじん",
+   "speak": "にんじん",
+   "reading": "ninjin",
+   "meaning": "carrot",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/carrot.mp3",
+    "she": "vocab/audio/ja/she/carrot.mp3"
+   },
+   "image": "vocab/img/carrot.jpg",
+   "emoji": "🥕",
+   "kana": "にんじん",
+   "review": false
+  },
+  {
+   "id": "ja-onion",
+   "concept": "onion",
+   "text": "玉ねぎ",
+   "speak": "たまねぎ",
+   "reading": "tamanegi",
+   "meaning": "onion",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/onion.mp3",
+    "she": "vocab/audio/ja/she/onion.mp3"
+   },
+   "image": "vocab/img/onion.jpg",
+   "emoji": "🧅",
+   "kana": "たまねぎ",
+   "review": false
+  },
+  {
+   "id": "ja-garlic",
+   "concept": "garlic",
+   "text": "にんにく",
+   "speak": "にんにく",
+   "reading": "ninniku",
+   "meaning": "garlic",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/garlic.mp3",
+    "she": "vocab/audio/ja/she/garlic.mp3"
+   },
+   "image": "vocab/img/garlic.jpg",
+   "emoji": "🧄",
+   "kana": "にんにく",
+   "review": false
+  },
+  {
+   "id": "ja-corn",
+   "concept": "corn",
+   "text": "とうもろこし",
+   "speak": "とうもろこし",
+   "reading": "tōmorokoshi",
+   "meaning": "corn",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/corn.mp3",
+    "she": "vocab/audio/ja/she/corn.mp3"
+   },
+   "image": "vocab/img/corn.jpg",
+   "emoji": "🌽",
+   "kana": "とうもろこし",
+   "review": false
+  },
+  {
+   "id": "ja-mushroom",
+   "concept": "mushroom",
+   "text": "きのこ",
+   "speak": "きのこ",
+   "reading": "kinoko",
+   "meaning": "mushroom",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/mushroom.mp3",
+    "she": "vocab/audio/ja/she/mushroom.mp3"
+   },
+   "image": "vocab/img/mushroom.jpg",
+   "emoji": "🍄",
+   "kana": "きのこ",
+   "review": false
+  },
+  {
+   "id": "ja-salt",
+   "concept": "salt",
+   "text": "塩",
+   "speak": "しお",
+   "reading": "shio",
+   "meaning": "salt",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/salt.mp3",
+    "she": "vocab/audio/ja/she/salt.mp3"
+   },
+   "image": "vocab/img/salt.jpg",
+   "emoji": "🧂",
+   "kana": "しお",
+   "review": false
+  },
+  {
+   "id": "ja-sugar",
+   "concept": "sugar",
+   "text": "砂糖",
+   "speak": "さとう",
+   "reading": "satō",
+   "meaning": "sugar",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/sugar.mp3",
+    "she": "vocab/audio/ja/she/sugar.mp3"
+   },
+   "image": "vocab/img/sugar.jpg",
+   "emoji": "🍬",
+   "kana": "さとう",
+   "review": false
+  },
+  {
+   "id": "ja-soup",
+   "concept": "soup",
+   "text": "スープ",
+   "speak": "スープ",
+   "reading": "sūpu",
+   "meaning": "soup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/soup.mp3",
+    "she": "vocab/audio/ja/she/soup.mp3"
+   },
+   "image": "vocab/img/soup.jpg",
+   "emoji": "🥣",
+   "kana": "スープ",
+   "review": false
+  },
+  {
+   "id": "ja-salad",
+   "concept": "salad",
+   "text": "サラダ",
+   "speak": "サラダ",
+   "reading": "sarada",
+   "meaning": "salad",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/salad.mp3",
+    "she": "vocab/audio/ja/she/salad.mp3"
+   },
+   "image": "vocab/img/salad.jpg",
+   "emoji": "🥗",
+   "kana": "サラダ",
+   "review": false
+  },
+  {
+   "id": "ja-cake",
+   "concept": "cake",
+   "text": "ケーキ",
+   "speak": "ケーキ",
+   "reading": "kēki",
+   "meaning": "cake",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/cake.mp3",
+    "she": "vocab/audio/ja/she/cake.mp3"
+   },
+   "image": "vocab/img/cake.jpg",
+   "emoji": "🍰",
+   "kana": "ケーキ",
+   "review": false
+  },
+  {
+   "id": "ja-candy",
+   "concept": "candy",
+   "text": "飴",
+   "speak": "あめ",
+   "reading": "ame",
+   "meaning": "candy",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/candy.mp3",
+    "she": "vocab/audio/ja/she/candy.mp3"
+   },
+   "image": "vocab/img/candy.jpg",
+   "emoji": "🍬",
+   "kana": "あめ",
+   "review": false
+  },
+  {
+   "id": "ja-chocolate",
+   "concept": "chocolate",
+   "text": "チョコレート",
+   "speak": "チョコレート",
+   "reading": "chokorēto",
+   "meaning": "chocolate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/chocolate.mp3",
+    "she": "vocab/audio/ja/she/chocolate.mp3"
+   },
+   "image": "vocab/img/chocolate.jpg",
+   "emoji": "🍫",
+   "kana": "チョコレート",
+   "review": false
+  },
+  {
+   "id": "ja-ice_cream",
+   "concept": "ice_cream",
+   "text": "アイスクリーム",
+   "speak": "アイスクリーム",
+   "reading": "aisukurīmu",
+   "meaning": "ice cream",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/ice_cream.mp3",
+    "she": "vocab/audio/ja/she/ice_cream.mp3"
+   },
+   "image": "vocab/img/ice_cream.jpg",
+   "emoji": "🍦",
+   "kana": "アイスクリーム",
+   "review": false
+  },
+  {
+   "id": "ja-cheese",
+   "concept": "cheese",
+   "text": "チーズ",
+   "speak": "チーズ",
+   "reading": "chīzu",
+   "meaning": "cheese",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/cheese.mp3",
+    "she": "vocab/audio/ja/she/cheese.mp3"
+   },
+   "image": "vocab/img/cheese.jpg",
+   "emoji": "🧀",
+   "kana": "チーズ",
+   "review": false
+  },
+  {
+   "id": "ja-butter",
+   "concept": "butter",
+   "text": "バター",
+   "speak": "バター",
+   "reading": "batā",
+   "meaning": "butter",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/butter.mp3",
+    "she": "vocab/audio/ja/she/butter.mp3"
+   },
+   "image": "vocab/img/butter.jpg",
+   "emoji": "🧈",
+   "kana": "バター",
+   "review": false
+  },
+  {
+   "id": "ja-milk",
+   "concept": "milk",
+   "text": "牛乳",
+   "speak": "ぎゅうにゅう",
+   "reading": "gyūnyū",
+   "meaning": "milk",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/milk.mp3",
+    "she": "vocab/audio/ja/she/milk.mp3"
+   },
+   "image": "vocab/img/milk.jpg",
+   "emoji": "🥛",
+   "kana": "ぎゅうにゅう",
+   "review": false
+  },
+  {
+   "id": "ja-coffee",
+   "concept": "coffee",
+   "text": "コーヒー",
+   "speak": "コーヒー",
+   "reading": "kōhī",
+   "meaning": "coffee",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/coffee.mp3",
+    "she": "vocab/audio/ja/she/coffee.mp3"
+   },
+   "image": "vocab/img/coffee.jpg",
+   "emoji": "☕",
+   "kana": "コーヒー",
+   "review": false
+  },
+  {
+   "id": "ja-juice",
+   "concept": "juice",
+   "text": "ジュース",
+   "speak": "ジュース",
+   "reading": "jūsu",
+   "meaning": "juice",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/juice.mp3",
+    "she": "vocab/audio/ja/she/juice.mp3"
+   },
+   "image": "vocab/img/juice.jpg",
+   "emoji": "🧃",
+   "kana": "ジュース",
+   "review": false
+  },
+  {
+   "id": "ja-beer",
+   "concept": "beer",
+   "text": "ビール",
+   "speak": "ビール",
+   "reading": "bīru",
+   "meaning": "beer",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/beer.mp3",
+    "she": "vocab/audio/ja/she/beer.mp3"
+   },
+   "image": "vocab/img/beer.jpg",
+   "emoji": "🍺",
+   "kana": "ビール",
+   "review": false
+  },
+  {
+   "id": "ja-wine",
+   "concept": "wine",
+   "text": "ワイン",
+   "speak": "ワイン",
+   "reading": "wain",
+   "meaning": "wine",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/wine.mp3",
+    "she": "vocab/audio/ja/she/wine.mp3"
+   },
+   "image": "vocab/img/wine.jpg",
+   "emoji": "🍷",
+   "kana": "ワイン",
+   "review": false
+  },
+  {
+   "id": "ja-breakfast",
+   "concept": "breakfast",
+   "text": "朝ご飯",
+   "speak": "あさごはん",
+   "reading": "asagohan",
+   "meaning": "breakfast",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/breakfast.mp3",
+    "she": "vocab/audio/ja/she/breakfast.mp3"
+   },
+   "image": "vocab/img/breakfast.jpg",
+   "emoji": "🍳",
+   "kana": "あさごはん",
+   "review": false
+  },
+  {
+   "id": "ja-lunch",
+   "concept": "lunch",
+   "text": "昼ご飯",
+   "speak": "ひるごはん",
+   "reading": "hirugohan",
+   "meaning": "lunch",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/lunch.mp3",
+    "she": "vocab/audio/ja/she/lunch.mp3"
+   },
+   "image": "vocab/img/lunch.jpg",
+   "emoji": "🍱",
+   "kana": "ひるごはん",
+   "review": false
+  },
+  {
+   "id": "ja-dinner",
+   "concept": "dinner",
+   "text": "晩ご飯",
+   "speak": "ばんごはん",
+   "reading": "bangohan",
+   "meaning": "dinner",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/dinner.mp3",
+    "she": "vocab/audio/ja/she/dinner.mp3"
+   },
+   "image": "vocab/img/dinner.jpg",
+   "emoji": "🍽️",
+   "kana": "ばんごはん",
+   "review": false
+  },
+  {
+   "id": "ja-food",
+   "concept": "food",
+   "text": "食べ物",
+   "speak": "たべもの",
+   "reading": "tabemono",
+   "meaning": "food",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/food.mp3",
+    "she": "vocab/audio/ja/she/food.mp3"
+   },
+   "image": "vocab/img/food.jpg",
+   "emoji": "🍲",
+   "kana": "たべもの",
+   "review": false
+  },
+  {
+   "id": "ja-dumpling",
+   "concept": "dumpling",
+   "text": "餃子",
+   "speak": "ぎょうざ",
+   "reading": "gyōza",
+   "meaning": "dumpling",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/dumpling.mp3",
+    "she": "vocab/audio/ja/she/dumpling.mp3"
+   },
+   "image": "vocab/img/dumpling.jpg",
+   "emoji": "🥟",
+   "kana": "ぎょうざ",
+   "review": false
+  },
+  {
+   "id": "ja-tofu",
+   "concept": "tofu",
+   "text": "豆腐",
+   "speak": "とうふ",
+   "reading": "tōfu",
+   "meaning": "tofu",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/tofu.mp3",
+    "she": "vocab/audio/ja/she/tofu.mp3"
+   },
+   "image": "vocab/img/tofu.jpg",
+   "emoji": "🍢",
+   "kana": "とうふ",
+   "review": false
+  },
+  {
+   "id": "ja-shrimp",
+   "concept": "shrimp",
+   "text": "えび",
+   "speak": "えび",
+   "reading": "ebi",
+   "meaning": "shrimp",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/shrimp.mp3",
+    "she": "vocab/audio/ja/she/shrimp.mp3"
+   },
+   "image": "vocab/img/shrimp.jpg",
+   "emoji": "🦐",
+   "kana": "えび",
+   "review": false
+  },
+  {
+   "id": "ja-chopsticks",
+   "concept": "chopsticks",
+   "text": "箸",
+   "speak": "はし",
+   "reading": "hashi",
+   "meaning": "chopsticks",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/chopsticks.mp3",
+    "she": "vocab/audio/ja/she/chopsticks.mp3"
+   },
+   "image": "vocab/img/chopsticks.jpg",
+   "emoji": "🥢",
+   "kana": "はし",
+   "review": false
+  },
+  {
+   "id": "ja-spoon",
+   "concept": "spoon",
+   "text": "スプーン",
+   "speak": "スプーン",
+   "reading": "supūn",
+   "meaning": "spoon",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/spoon.mp3",
+    "she": "vocab/audio/ja/she/spoon.mp3"
+   },
+   "image": "vocab/img/spoon.jpg",
+   "emoji": "🥄",
+   "kana": "スプーン",
+   "review": false
+  },
+  {
+   "id": "ja-fork",
+   "concept": "fork",
+   "text": "フォーク",
+   "speak": "フォーク",
+   "reading": "fōku",
+   "meaning": "fork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/fork.mp3",
+    "she": "vocab/audio/ja/she/fork.mp3"
+   },
+   "image": "vocab/img/fork.jpg",
+   "emoji": "🍴",
+   "kana": "フォーク",
+   "review": false
+  },
+  {
+   "id": "ja-knife",
+   "concept": "knife",
+   "text": "ナイフ",
+   "speak": "ナイフ",
+   "reading": "naifu",
+   "meaning": "knife",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/knife.mp3",
+    "she": "vocab/audio/ja/she/knife.mp3"
+   },
+   "image": "vocab/img/knife.jpg",
+   "emoji": "🔪",
+   "kana": "ナイフ",
+   "review": false
+  },
+  {
+   "id": "ja-bowl",
+   "concept": "bowl",
+   "text": "お椀",
+   "speak": "おわん",
+   "reading": "owan",
+   "meaning": "bowl",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/bowl.mp3",
+    "she": "vocab/audio/ja/she/bowl.mp3"
+   },
+   "image": "vocab/img/bowl.jpg",
+   "emoji": "🥣",
+   "kana": "おわん",
+   "review": false
+  },
+  {
+   "id": "ja-plate",
+   "concept": "plate",
+   "text": "皿",
+   "speak": "さら",
+   "reading": "sara",
+   "meaning": "plate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/plate.mp3",
+    "she": "vocab/audio/ja/she/plate.mp3"
+   },
+   "image": "vocab/img/plate.jpg",
+   "emoji": "🍽️",
+   "kana": "さら",
+   "review": false
+  },
+  {
+   "id": "ja-cup",
+   "concept": "cup",
+   "text": "コップ",
+   "speak": "コップ",
+   "reading": "koppu",
+   "meaning": "cup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/cup.mp3",
+    "she": "vocab/audio/ja/she/cup.mp3"
+   },
+   "image": "vocab/img/cup.jpg",
+   "emoji": "🥤",
+   "kana": "コップ",
+   "review": false
+  },
+  {
+   "id": "ja-bottle",
+   "concept": "bottle",
+   "text": "瓶",
+   "speak": "びん",
+   "reading": "bin",
+   "meaning": "bottle",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/ja/he/bottle.mp3",
+    "she": "vocab/audio/ja/she/bottle.mp3"
+   },
+   "image": "vocab/img/bottle.jpg",
+   "emoji": "🍾",
+   "kana": "びん",
+   "review": false
+  },
+  {
+   "id": "ja-eat",
+   "concept": "eat",
+   "text": "食べる",
+   "speak": "たべる",
+   "reading": "taberu",
+   "meaning": "to eat",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/eat.mp3",
+    "she": "vocab/audio/ja/she/eat.mp3"
+   },
+   "image": "vocab/img/eat.jpg",
+   "emoji": "🍽️",
+   "kana": "たべる",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-drink",
+   "concept": "drink",
+   "text": "飲む",
+   "speak": "のむ",
+   "reading": "nomu",
+   "meaning": "to drink",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/drink.mp3",
+    "she": "vocab/audio/ja/she/drink.mp3"
+   },
+   "image": "vocab/img/drink.jpg",
+   "emoji": "🥤",
+   "kana": "のむ",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-go",
+   "concept": "go",
+   "text": "行く",
+   "speak": "いく",
+   "reading": "iku",
+   "meaning": "to go",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/go.mp3",
+    "she": "vocab/audio/ja/she/go.mp3"
+   },
+   "image": "vocab/img/go.jpg",
+   "emoji": "🚶",
+   "kana": "いく",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-want",
+   "concept": "want",
+   "text": "欲しい",
+   "speak": "ほしい",
+   "reading": "hoshii",
+   "meaning": "to want (a thing)",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/want.mp3",
+    "she": "vocab/audio/ja/she/want.mp3"
+   },
+   "image": "vocab/img/want.jpg",
+   "emoji": "🤲",
+   "kana": "ほしい",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "ja-come",
+   "concept": "come",
+   "text": "来る",
+   "speak": "くる",
+   "reading": "kuru",
+   "meaning": "to come",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/come.mp3",
+    "she": "vocab/audio/ja/she/come.mp3"
+   },
+   "image": "vocab/img/come.jpg",
+   "emoji": "🫴",
+   "kana": "くる",
+   "review": false
+  },
+  {
+   "id": "ja-see",
+   "concept": "see",
+   "text": "見る",
+   "speak": "みる",
+   "reading": "miru",
+   "meaning": "to see",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/see.mp3",
+    "she": "vocab/audio/ja/she/see.mp3"
+   },
+   "image": "vocab/img/see.jpg",
+   "emoji": "👀",
+   "kana": "みる",
+   "review": false
+  },
+  {
+   "id": "ja-listen",
+   "concept": "listen",
+   "text": "聞く",
+   "speak": "きく",
+   "reading": "kiku",
+   "meaning": "to listen",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/listen.mp3",
+    "she": "vocab/audio/ja/she/listen.mp3"
+   },
+   "image": "vocab/img/listen.jpg",
+   "emoji": "👂",
+   "kana": "きく",
+   "review": false
+  },
+  {
+   "id": "ja-speak",
+   "concept": "speak",
+   "text": "話す",
+   "speak": "はなす",
+   "reading": "hanasu",
+   "meaning": "to speak",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/speak.mp3",
+    "she": "vocab/audio/ja/she/speak.mp3"
+   },
+   "image": "vocab/img/speak.jpg",
+   "emoji": "🗣️",
+   "kana": "はなす",
+   "review": false
+  },
+  {
+   "id": "ja-read",
+   "concept": "read",
+   "text": "読む",
+   "speak": "よむ",
+   "reading": "yomu",
+   "meaning": "to read",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/read.mp3",
+    "she": "vocab/audio/ja/she/read.mp3"
+   },
+   "image": "vocab/img/read.jpg",
+   "emoji": "📖",
+   "kana": "よむ",
+   "review": false
+  },
+  {
+   "id": "ja-write",
+   "concept": "write",
+   "text": "書く",
+   "speak": "かく",
+   "reading": "kaku",
+   "meaning": "to write",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/write.mp3",
+    "she": "vocab/audio/ja/she/write.mp3"
+   },
+   "image": "vocab/img/write.jpg",
+   "emoji": "✍️",
+   "kana": "かく",
+   "review": false
+  },
+  {
+   "id": "ja-sleep",
+   "concept": "sleep",
+   "text": "寝る",
+   "speak": "ねる",
+   "reading": "neru",
+   "meaning": "to sleep",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/sleep.mp3",
+    "she": "vocab/audio/ja/she/sleep.mp3"
+   },
+   "image": "vocab/img/sleep.jpg",
+   "emoji": "😴",
+   "kana": "ねる",
+   "review": false
+  },
+  {
+   "id": "ja-wake_up",
+   "concept": "wake_up",
+   "text": "起きる",
+   "speak": "おきる",
+   "reading": "okiru",
+   "meaning": "to wake up",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/wake_up.mp3",
+    "she": "vocab/audio/ja/she/wake_up.mp3"
+   },
+   "image": "vocab/img/wake_up.jpg",
+   "emoji": "⏰",
+   "kana": "おきる",
+   "review": false
+  },
+  {
+   "id": "ja-walk",
+   "concept": "walk",
+   "text": "歩く",
+   "speak": "あるく",
+   "reading": "aruku",
+   "meaning": "to walk",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/walk.mp3",
+    "she": "vocab/audio/ja/she/walk.mp3"
+   },
+   "image": "vocab/img/walk.jpg",
+   "emoji": "🚶",
+   "kana": "あるく",
+   "review": false
+  },
+  {
+   "id": "ja-run",
+   "concept": "run",
+   "text": "走る",
+   "speak": "はしる",
+   "reading": "hashiru",
+   "meaning": "to run",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/run.mp3",
+    "she": "vocab/audio/ja/she/run.mp3"
+   },
+   "image": "vocab/img/run.jpg",
+   "emoji": "🏃",
+   "kana": "はしる",
+   "review": false
+  },
+  {
+   "id": "ja-sit",
+   "concept": "sit",
+   "text": "座る",
+   "speak": "すわる",
+   "reading": "suwaru",
+   "meaning": "to sit",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/sit.mp3",
+    "she": "vocab/audio/ja/she/sit.mp3"
+   },
+   "image": "vocab/img/sit.jpg",
+   "emoji": "🪑",
+   "kana": "すわる",
+   "review": false
+  },
+  {
+   "id": "ja-stand",
+   "concept": "stand",
+   "text": "立つ",
+   "speak": "たつ",
+   "reading": "tatsu",
+   "meaning": "to stand",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/stand.mp3",
+    "she": "vocab/audio/ja/she/stand.mp3"
+   },
+   "image": "vocab/img/stand.jpg",
+   "emoji": "🧍",
+   "kana": "たつ",
+   "review": false
+  },
+  {
+   "id": "ja-buy",
+   "concept": "buy",
+   "text": "買う",
+   "speak": "かう",
+   "reading": "kau",
+   "meaning": "to buy",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/buy.mp3",
+    "she": "vocab/audio/ja/she/buy.mp3"
+   },
+   "image": "vocab/img/buy.jpg",
+   "emoji": "🛍️",
+   "kana": "かう",
+   "review": false
+  },
+  {
+   "id": "ja-sell",
+   "concept": "sell",
+   "text": "売る",
+   "speak": "うる",
+   "reading": "uru",
+   "meaning": "to sell",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/sell.mp3",
+    "she": "vocab/audio/ja/she/sell.mp3"
+   },
+   "image": "vocab/img/sell.jpg",
+   "emoji": "🏪",
+   "kana": "うる",
+   "review": false
+  },
+  {
+   "id": "ja-give",
+   "concept": "give",
+   "text": "あげる",
+   "speak": "あげる",
+   "reading": "ageru",
+   "meaning": "to give",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/give.mp3",
+    "she": "vocab/audio/ja/she/give.mp3"
+   },
+   "image": "vocab/img/give.jpg",
+   "emoji": "🎁",
+   "kana": "あげる",
+   "review": false
+  },
+  {
+   "id": "ja-take",
+   "concept": "take",
+   "text": "取る",
+   "speak": "とる",
+   "reading": "toru",
+   "meaning": "to take",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/take.mp3",
+    "she": "vocab/audio/ja/she/take.mp3"
+   },
+   "image": "vocab/img/take.jpg",
+   "emoji": "✊",
+   "kana": "とる",
+   "review": false
+  },
+  {
+   "id": "ja-make",
+   "concept": "make",
+   "text": "作る",
+   "speak": "つくる",
+   "reading": "tsukuru",
+   "meaning": "to make",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/make.mp3",
+    "she": "vocab/audio/ja/she/make.mp3"
+   },
+   "image": "vocab/img/make.jpg",
+   "emoji": "🔨",
+   "kana": "つくる",
+   "review": false
+  },
+  {
+   "id": "ja-work",
+   "concept": "work",
+   "text": "働く",
+   "speak": "はたらく",
+   "reading": "hataraku",
+   "meaning": "to work",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/work.mp3",
+    "she": "vocab/audio/ja/she/work.mp3"
+   },
+   "image": "vocab/img/work.jpg",
+   "emoji": "💼",
+   "kana": "はたらく",
+   "review": false
+  },
+  {
+   "id": "ja-study",
+   "concept": "study",
+   "text": "勉強する",
+   "speak": "べんきょうする",
+   "reading": "benkyōsuru",
+   "meaning": "to study",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/study.mp3",
+    "she": "vocab/audio/ja/she/study.mp3"
+   },
+   "image": "vocab/img/study.jpg",
+   "emoji": "📚",
+   "kana": "べんきょうする",
+   "review": false
+  },
+  {
+   "id": "ja-play",
+   "concept": "play",
+   "text": "遊ぶ",
+   "speak": "あそぶ",
+   "reading": "asobu",
+   "meaning": "to play",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/play.mp3",
+    "she": "vocab/audio/ja/she/play.mp3"
+   },
+   "image": "vocab/img/play.jpg",
+   "emoji": "⚽",
+   "kana": "あそぶ",
+   "review": false
+  },
+  {
+   "id": "ja-love",
+   "concept": "love",
+   "text": "愛する",
+   "speak": "あいする",
+   "reading": "aisuru",
+   "meaning": "to love",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/love.mp3",
+    "she": "vocab/audio/ja/she/love.mp3"
+   },
+   "image": "vocab/img/love.jpg",
+   "emoji": "❤️",
+   "kana": "あいする",
+   "review": false
+  },
+  {
+   "id": "ja-like",
+   "concept": "like",
+   "text": "好き",
+   "speak": "すき",
+   "reading": "suki",
+   "meaning": "to like",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/like.mp3",
+    "she": "vocab/audio/ja/she/like.mp3"
+   },
+   "image": "vocab/img/like.jpg",
+   "emoji": "👍",
+   "kana": "すき",
+   "review": false
+  },
+  {
+   "id": "ja-know",
+   "concept": "know",
+   "text": "知る",
+   "speak": "しる",
+   "reading": "shiru",
+   "meaning": "to know",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/know.mp3",
+    "she": "vocab/audio/ja/she/know.mp3"
+   },
+   "image": "vocab/img/know.jpg",
+   "emoji": "💡",
+   "kana": "しる",
+   "review": false
+  },
+  {
+   "id": "ja-think",
+   "concept": "think",
+   "text": "思う",
+   "speak": "おもう",
+   "reading": "omou",
+   "meaning": "to think",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/think.mp3",
+    "she": "vocab/audio/ja/she/think.mp3"
+   },
+   "image": "vocab/img/think.jpg",
+   "emoji": "💭",
+   "kana": "おもう",
+   "review": false
+  },
+  {
+   "id": "ja-understand",
+   "concept": "understand",
+   "text": "分かる",
+   "speak": "わかる",
+   "reading": "wakaru",
+   "meaning": "to understand",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/understand.mp3",
+    "she": "vocab/audio/ja/she/understand.mp3"
+   },
+   "image": "vocab/img/understand.jpg",
+   "emoji": "🤓",
+   "kana": "わかる",
+   "review": false
+  },
+  {
+   "id": "ja-open",
+   "concept": "open",
+   "text": "開ける",
+   "speak": "あける",
+   "reading": "akeru",
+   "meaning": "to open",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/open.mp3",
+    "she": "vocab/audio/ja/she/open.mp3"
+   },
+   "image": "vocab/img/open.jpg",
+   "emoji": "📂",
+   "kana": "あける",
+   "review": false
+  },
+  {
+   "id": "ja-close",
+   "concept": "close",
+   "text": "閉める",
+   "speak": "しめる",
+   "reading": "shimeru",
+   "meaning": "to close",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/close.mp3",
+    "she": "vocab/audio/ja/she/close.mp3"
+   },
+   "image": "vocab/img/close.jpg",
+   "emoji": "🚪",
+   "kana": "しめる",
+   "review": false
+  },
+  {
+   "id": "ja-cook",
+   "concept": "cook",
+   "text": "料理する",
+   "speak": "りょうりする",
+   "reading": "ryōrisuru",
+   "meaning": "to cook",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/cook.mp3",
+    "she": "vocab/audio/ja/she/cook.mp3"
+   },
+   "image": "vocab/img/cook.jpg",
+   "emoji": "🍳",
+   "kana": "りょうりする",
+   "review": false
+  },
+  {
+   "id": "ja-wash",
+   "concept": "wash",
+   "text": "洗う",
+   "speak": "あらう",
+   "reading": "arau",
+   "meaning": "to wash",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/wash.mp3",
+    "she": "vocab/audio/ja/she/wash.mp3"
+   },
+   "image": "vocab/img/wash.jpg",
+   "emoji": "🧼",
+   "kana": "あらう",
+   "review": false
+  },
+  {
+   "id": "ja-help",
+   "concept": "help",
+   "text": "助ける",
+   "speak": "たすける",
+   "reading": "tasukeru",
+   "meaning": "to help",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/help.mp3",
+    "she": "vocab/audio/ja/she/help.mp3"
+   },
+   "image": "vocab/img/help.jpg",
+   "emoji": "🆘",
+   "kana": "たすける",
+   "review": false
+  },
+  {
+   "id": "ja-wait",
+   "concept": "wait",
+   "text": "待つ",
+   "speak": "まつ",
+   "reading": "matsu",
+   "meaning": "to wait",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/wait.mp3",
+    "she": "vocab/audio/ja/she/wait.mp3"
+   },
+   "image": "vocab/img/wait.jpg",
+   "emoji": "⌛",
+   "kana": "まつ",
+   "review": false
+  },
+  {
+   "id": "ja-call_phone",
+   "concept": "call_phone",
+   "text": "電話する",
+   "speak": "でんわする",
+   "reading": "denwasuru",
+   "meaning": "to call (phone)",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/call_phone.mp3",
+    "she": "vocab/audio/ja/she/call_phone.mp3"
+   },
+   "image": "vocab/img/call_phone.jpg",
+   "emoji": "📞",
+   "kana": "でんわする",
+   "review": false
+  },
+  {
+   "id": "ja-ask",
+   "concept": "ask",
+   "text": "質問する",
+   "speak": "しつもんする",
+   "reading": "shitsumonsuru",
+   "meaning": "to ask",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/ask.mp3",
+    "she": "vocab/audio/ja/she/ask.mp3"
+   },
+   "image": "vocab/img/ask.jpg",
+   "emoji": "🙋",
+   "kana": "しつもんする",
+   "review": false
+  },
+  {
+   "id": "ja-answer",
+   "concept": "answer",
+   "text": "答える",
+   "speak": "こたえる",
+   "reading": "kotaeru",
+   "meaning": "to answer",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/answer.mp3",
+    "she": "vocab/audio/ja/she/answer.mp3"
+   },
+   "image": "vocab/img/answer.jpg",
+   "emoji": "💬",
+   "kana": "こたえる",
+   "review": false
+  },
+  {
+   "id": "ja-learn",
+   "concept": "learn",
+   "text": "習う",
+   "speak": "ならう",
+   "reading": "narau",
+   "meaning": "to learn",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/learn.mp3",
+    "she": "vocab/audio/ja/she/learn.mp3"
+   },
+   "image": "vocab/img/learn.jpg",
+   "emoji": "🎓",
+   "kana": "ならう",
+   "review": false
+  },
+  {
+   "id": "ja-teach",
+   "concept": "teach",
+   "text": "教える",
+   "speak": "おしえる",
+   "reading": "oshieru",
+   "meaning": "to teach",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/teach.mp3",
+    "she": "vocab/audio/ja/she/teach.mp3"
+   },
+   "image": "vocab/img/teach.jpg",
+   "emoji": "🧑‍🏫",
+   "kana": "おしえる",
+   "review": false
+  },
+  {
+   "id": "ja-swim",
+   "concept": "swim",
+   "text": "泳ぐ",
+   "speak": "およぐ",
+   "reading": "oyogu",
+   "meaning": "to swim",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/swim.mp3",
+    "she": "vocab/audio/ja/she/swim.mp3"
+   },
+   "image": "vocab/img/swim.jpg",
+   "emoji": "🏊",
+   "kana": "およぐ",
+   "review": false
+  },
+  {
+   "id": "ja-sing",
+   "concept": "sing",
+   "text": "歌う",
+   "speak": "うたう",
+   "reading": "utau",
+   "meaning": "to sing",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/sing.mp3",
+    "she": "vocab/audio/ja/she/sing.mp3"
+   },
+   "image": "vocab/img/sing.jpg",
+   "emoji": "🎤",
+   "kana": "うたう",
+   "review": false
+  },
+  {
+   "id": "ja-dance",
+   "concept": "dance",
+   "text": "踊る",
+   "speak": "おどる",
+   "reading": "odoru",
+   "meaning": "to dance",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/dance.mp3",
+    "she": "vocab/audio/ja/she/dance.mp3"
+   },
+   "image": "vocab/img/dance.jpg",
+   "emoji": "💃",
+   "kana": "おどる",
+   "review": false
+  },
+  {
+   "id": "ja-laugh",
+   "concept": "laugh",
+   "text": "笑う",
+   "speak": "わらう",
+   "reading": "warau",
+   "meaning": "to laugh",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/laugh.mp3",
+    "she": "vocab/audio/ja/she/laugh.mp3"
+   },
+   "image": "vocab/img/laugh.jpg",
+   "emoji": "😂",
+   "kana": "わらう",
+   "review": false
+  },
+  {
+   "id": "ja-cry",
+   "concept": "cry",
+   "text": "泣く",
+   "speak": "なく",
+   "reading": "naku",
+   "meaning": "to cry",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/cry.mp3",
+    "she": "vocab/audio/ja/she/cry.mp3"
+   },
+   "image": "vocab/img/cry.jpg",
+   "emoji": "😢",
+   "kana": "なく",
+   "review": false
+  },
+  {
+   "id": "ja-have",
+   "concept": "have",
+   "text": "持つ",
+   "speak": "もつ",
+   "reading": "motsu",
+   "meaning": "to have",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/have.mp3",
+    "she": "vocab/audio/ja/she/have.mp3"
+   },
+   "image": "vocab/img/have.jpg",
+   "emoji": "🤲",
+   "kana": "もつ",
+   "review": false
+  },
+  {
+   "id": "ja-need",
+   "concept": "need",
+   "text": "要る",
+   "speak": "いる",
+   "reading": "iru",
+   "meaning": "to need",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/need.mp3",
+    "she": "vocab/audio/ja/she/need.mp3"
+   },
+   "image": "vocab/img/need.jpg",
+   "emoji": "🙏",
+   "kana": "いる",
+   "review": false
+  },
+  {
+   "id": "ja-use",
+   "concept": "use",
+   "text": "使う",
+   "speak": "つかう",
+   "reading": "tsukau",
+   "meaning": "to use",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/use.mp3",
+    "she": "vocab/audio/ja/she/use.mp3"
+   },
+   "image": "vocab/img/use.jpg",
+   "emoji": "🔧",
+   "kana": "つかう",
+   "review": false
+  },
+  {
+   "id": "ja-find",
+   "concept": "find",
+   "text": "見つける",
+   "speak": "みつける",
+   "reading": "mitsukeru",
+   "meaning": "to find",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/find.mp3",
+    "she": "vocab/audio/ja/she/find.mp3"
+   },
+   "image": "vocab/img/find.jpg",
+   "emoji": "🔍",
+   "kana": "みつける",
+   "review": false
+  },
+  {
+   "id": "ja-look_for",
+   "concept": "look_for",
+   "text": "探す",
+   "speak": "さがす",
+   "reading": "sagasu",
+   "meaning": "to look for",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/look_for.mp3",
+    "she": "vocab/audio/ja/she/look_for.mp3"
+   },
+   "image": "vocab/img/look_for.jpg",
+   "emoji": "🔦",
+   "kana": "さがす",
+   "review": false
+  },
+  {
+   "id": "ja-live",
+   "concept": "live",
+   "text": "住む",
+   "speak": "すむ",
+   "reading": "sumu",
+   "meaning": "to live",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/live.mp3",
+    "she": "vocab/audio/ja/she/live.mp3"
+   },
+   "image": "vocab/img/live.jpg",
+   "emoji": "🏡",
+   "kana": "すむ",
+   "review": false
+  },
+  {
+   "id": "ja-drive",
+   "concept": "drive",
+   "text": "運転する",
+   "speak": "うんてんする",
+   "reading": "untensuru",
+   "meaning": "to drive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/drive.mp3",
+    "she": "vocab/audio/ja/she/drive.mp3"
+   },
+   "image": "vocab/img/drive.jpg",
+   "emoji": "🚗",
+   "kana": "うんてんする",
+   "review": false
+  },
+  {
+   "id": "ja-fly",
+   "concept": "fly",
+   "text": "飛ぶ",
+   "speak": "とぶ",
+   "reading": "tobu",
+   "meaning": "to fly",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/fly.mp3",
+    "she": "vocab/audio/ja/she/fly.mp3"
+   },
+   "image": "vocab/img/fly.jpg",
+   "emoji": "🕊️",
+   "kana": "とぶ",
+   "review": false
+  },
+  {
+   "id": "ja-come_back",
+   "concept": "come_back",
+   "text": "帰る",
+   "speak": "かえる",
+   "reading": "kaeru",
+   "meaning": "to come back",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/come_back.mp3",
+    "she": "vocab/audio/ja/she/come_back.mp3"
+   },
+   "image": "vocab/img/come_back.jpg",
+   "emoji": "🔙",
+   "kana": "かえる",
+   "review": false
+  },
+  {
+   "id": "ja-arrive",
+   "concept": "arrive",
+   "text": "着く",
+   "speak": "つく",
+   "reading": "tsuku",
+   "meaning": "to arrive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/arrive.mp3",
+    "she": "vocab/audio/ja/she/arrive.mp3"
+   },
+   "image": "vocab/img/arrive.jpg",
+   "emoji": "🛬",
+   "kana": "つく",
+   "review": false
+  },
+  {
+   "id": "ja-leave",
+   "concept": "leave",
+   "text": "出る",
+   "speak": "でる",
+   "reading": "deru",
+   "meaning": "to leave",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/leave.mp3",
+    "she": "vocab/audio/ja/she/leave.mp3"
+   },
+   "image": "vocab/img/leave.jpg",
+   "emoji": "🚪",
+   "kana": "でる",
+   "review": false
+  },
+  {
+   "id": "ja-start",
+   "concept": "start",
+   "text": "始める",
+   "speak": "はじめる",
+   "reading": "hajimeru",
+   "meaning": "to start",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/start.mp3",
+    "she": "vocab/audio/ja/she/start.mp3"
+   },
+   "image": "vocab/img/start.jpg",
+   "emoji": "🏁",
+   "kana": "はじめる",
+   "review": false
+  },
+  {
+   "id": "ja-finish",
+   "concept": "finish",
+   "text": "終わる",
+   "speak": "おわる",
+   "reading": "owaru",
+   "meaning": "to finish",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/finish.mp3",
+    "she": "vocab/audio/ja/she/finish.mp3"
+   },
+   "image": "vocab/img/finish.jpg",
+   "emoji": "🏆",
+   "kana": "おわる",
+   "review": false
+  },
+  {
+   "id": "ja-pay",
+   "concept": "pay",
+   "text": "払う",
+   "speak": "はらう",
+   "reading": "harau",
+   "meaning": "to pay",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/pay.mp3",
+    "she": "vocab/audio/ja/she/pay.mp3"
+   },
+   "image": "vocab/img/pay.jpg",
+   "emoji": "💳",
+   "kana": "はらう",
+   "review": false
+  },
+  {
+   "id": "ja-send",
+   "concept": "send",
+   "text": "送る",
+   "speak": "おくる",
+   "reading": "okuru",
+   "meaning": "to send",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/send.mp3",
+    "she": "vocab/audio/ja/she/send.mp3"
+   },
+   "image": "vocab/img/send.jpg",
+   "emoji": "📨",
+   "kana": "おくる",
+   "review": false
+  },
+  {
+   "id": "ja-meet",
+   "concept": "meet",
+   "text": "会う",
+   "speak": "あう",
+   "reading": "au",
+   "meaning": "to meet",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/meet.mp3",
+    "she": "vocab/audio/ja/she/meet.mp3"
+   },
+   "image": "vocab/img/meet.jpg",
+   "emoji": "🤝",
+   "kana": "あう",
+   "review": false
+  },
+  {
+   "id": "ja-remember",
+   "concept": "remember",
+   "text": "覚える",
+   "speak": "おぼえる",
+   "reading": "oboeru",
+   "meaning": "to remember",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/remember.mp3",
+    "she": "vocab/audio/ja/she/remember.mp3"
+   },
+   "image": "vocab/img/remember.jpg",
+   "emoji": "🧠",
+   "kana": "おぼえる",
+   "review": false
+  },
+  {
+   "id": "ja-forget",
+   "concept": "forget",
+   "text": "忘れる",
+   "speak": "わすれる",
+   "reading": "wasureru",
+   "meaning": "to forget",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/forget.mp3",
+    "she": "vocab/audio/ja/she/forget.mp3"
+   },
+   "image": "vocab/img/forget.jpg",
+   "emoji": "❓",
+   "kana": "わすれる",
+   "review": false
+  },
+  {
+   "id": "ja-clean",
+   "concept": "clean",
+   "text": "掃除する",
+   "speak": "そうじする",
+   "reading": "sōjisuru",
+   "meaning": "to clean",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/clean.mp3",
+    "she": "vocab/audio/ja/she/clean.mp3"
+   },
+   "image": "vocab/img/clean.jpg",
+   "emoji": "🧹",
+   "kana": "そうじする",
+   "review": false
+  },
+  {
+   "id": "ja-draw",
+   "concept": "draw",
+   "text": "描く",
+   "speak": "かく",
+   "reading": "kaku",
+   "meaning": "to draw",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/draw.mp3",
+    "she": "vocab/audio/ja/she/draw.mp3"
+   },
+   "image": "vocab/img/draw.jpg",
+   "emoji": "🖍️",
+   "kana": "かく",
+   "review": false
+  },
+  {
+   "id": "ja-jump",
+   "concept": "jump",
+   "text": "ジャンプする",
+   "speak": "ジャンプする",
+   "reading": "janpusuru",
+   "meaning": "to jump",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/jump.mp3",
+    "she": "vocab/audio/ja/she/jump.mp3"
+   },
+   "image": "vocab/img/jump.jpg",
+   "emoji": "🦘",
+   "kana": "ジャンプする",
+   "review": false
+  },
+  {
+   "id": "ja-throw",
+   "concept": "throw",
+   "text": "投げる",
+   "speak": "なげる",
+   "reading": "nageru",
+   "meaning": "to throw",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/throw.mp3",
+    "she": "vocab/audio/ja/she/throw.mp3"
+   },
+   "image": "vocab/img/throw.jpg",
+   "emoji": "🥏",
+   "kana": "なげる",
+   "review": false
+  },
+  {
+   "id": "ja-push",
+   "concept": "push",
+   "text": "押す",
+   "speak": "おす",
+   "reading": "osu",
+   "meaning": "to push",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/push.mp3",
+    "she": "vocab/audio/ja/she/push.mp3"
+   },
+   "image": "vocab/img/push.jpg",
+   "emoji": "🫸",
+   "kana": "おす",
+   "review": false
+  },
+  {
+   "id": "ja-pull",
+   "concept": "pull",
+   "text": "引く",
+   "speak": "ひく",
+   "reading": "hiku",
+   "meaning": "to pull",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/pull.mp3",
+    "she": "vocab/audio/ja/she/pull.mp3"
+   },
+   "image": "vocab/img/pull.jpg",
+   "emoji": "🪢",
+   "kana": "ひく",
+   "review": false
+  },
+  {
+   "id": "ja-cut",
+   "concept": "cut",
+   "text": "切る",
+   "speak": "きる",
+   "reading": "kiru",
+   "meaning": "to cut",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/ja/he/cut.mp3",
+    "she": "vocab/audio/ja/she/cut.mp3"
+   },
+   "image": "vocab/img/cut.jpg",
+   "emoji": "✂️",
+   "kana": "きる",
+   "review": false
+  },
+  {
+   "id": "ja-big",
+   "concept": "big",
+   "text": "大きい",
+   "speak": "おおきい",
+   "reading": "ōkii",
+   "meaning": "big",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/big.mp3",
+    "she": "vocab/audio/ja/she/big.mp3"
+   },
+   "image": "vocab/img/big.jpg",
+   "emoji": "🐘",
+   "kana": "おおきい",
+   "review": false
+  },
+  {
+   "id": "ja-small",
+   "concept": "small",
+   "text": "小さい",
+   "speak": "ちいさい",
+   "reading": "chiisai",
+   "meaning": "small",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/small.mp3",
+    "she": "vocab/audio/ja/she/small.mp3"
+   },
+   "image": "vocab/img/small.jpg",
+   "emoji": "🐭",
+   "kana": "ちいさい",
+   "review": false
+  },
+  {
+   "id": "ja-hot",
+   "concept": "hot",
+   "text": "暑い",
+   "speak": "あつい",
+   "reading": "atsui",
+   "meaning": "hot",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/hot.mp3",
+    "she": "vocab/audio/ja/she/hot.mp3"
+   },
+   "image": "vocab/img/hot.jpg",
+   "emoji": "🔥",
+   "kana": "あつい",
+   "review": false
+  },
+  {
+   "id": "ja-cold",
+   "concept": "cold",
+   "text": "寒い",
+   "speak": "さむい",
+   "reading": "samui",
+   "meaning": "cold",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/cold.mp3",
+    "she": "vocab/audio/ja/she/cold.mp3"
+   },
+   "image": "vocab/img/cold.jpg",
+   "emoji": "🥶",
+   "kana": "さむい",
+   "review": false
+  },
+  {
+   "id": "ja-good",
+   "concept": "good",
+   "text": "いい",
+   "speak": "いい",
+   "reading": "ii",
+   "meaning": "good",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/good.mp3",
+    "she": "vocab/audio/ja/she/good.mp3"
+   },
+   "image": "vocab/img/good.jpg",
+   "emoji": "👍",
+   "kana": "いい",
+   "review": false
+  },
+  {
+   "id": "ja-bad",
+   "concept": "bad",
+   "text": "悪い",
+   "speak": "わるい",
+   "reading": "warui",
+   "meaning": "bad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/bad.mp3",
+    "she": "vocab/audio/ja/she/bad.mp3"
+   },
+   "image": "vocab/img/bad.jpg",
+   "emoji": "👎",
+   "kana": "わるい",
+   "review": false
+  },
+  {
+   "id": "ja-new",
+   "concept": "new",
+   "text": "新しい",
+   "speak": "あたらしい",
+   "reading": "atarashii",
+   "meaning": "new",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/new.mp3",
+    "she": "vocab/audio/ja/she/new.mp3"
+   },
+   "image": "vocab/img/new.jpg",
+   "emoji": "✨",
+   "kana": "あたらしい",
+   "review": false
+  },
+  {
+   "id": "ja-old_thing",
+   "concept": "old_thing",
+   "text": "古い",
+   "speak": "ふるい",
+   "reading": "furui",
+   "meaning": "old (thing)",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/old_thing.mp3",
+    "she": "vocab/audio/ja/she/old_thing.mp3"
+   },
+   "image": "vocab/img/old_thing.jpg",
+   "emoji": "🏚️",
+   "kana": "ふるい",
+   "review": false
+  },
+  {
+   "id": "ja-young",
+   "concept": "young",
+   "text": "若い",
+   "speak": "わかい",
+   "reading": "wakai",
+   "meaning": "young",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/young.mp3",
+    "she": "vocab/audio/ja/she/young.mp3"
+   },
+   "image": "vocab/img/young.jpg",
+   "emoji": "🧒",
+   "kana": "わかい",
+   "review": false
+  },
+  {
+   "id": "ja-old_age",
+   "concept": "old_age",
+   "text": "年寄り",
+   "speak": "としより",
+   "reading": "toshiyori",
+   "meaning": "old (age)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/old_age.mp3",
+    "she": "vocab/audio/ja/she/old_age.mp3"
+   },
+   "image": "vocab/img/old_age.jpg",
+   "emoji": "👴",
+   "kana": "としより",
+   "review": false
+  },
+  {
+   "id": "ja-beautiful",
+   "concept": "beautiful",
+   "text": "きれい",
+   "speak": "きれい",
+   "reading": "kirei",
+   "meaning": "beautiful",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/beautiful.mp3",
+    "she": "vocab/audio/ja/she/beautiful.mp3"
+   },
+   "image": "vocab/img/beautiful.jpg",
+   "emoji": "🌺",
+   "kana": "きれい",
+   "review": false
+  },
+  {
+   "id": "ja-delicious",
+   "concept": "delicious",
+   "text": "美味しい",
+   "speak": "おいしい",
+   "reading": "oishii",
+   "meaning": "delicious",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/delicious.mp3",
+    "she": "vocab/audio/ja/she/delicious.mp3"
+   },
+   "image": "vocab/img/delicious.jpg",
+   "emoji": "😋",
+   "kana": "おいしい",
+   "review": false
+  },
+  {
+   "id": "ja-happy",
+   "concept": "happy",
+   "text": "嬉しい",
+   "speak": "うれしい",
+   "reading": "ureshii",
+   "meaning": "happy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/happy.mp3",
+    "she": "vocab/audio/ja/she/happy.mp3"
+   },
+   "image": "vocab/img/happy.jpg",
+   "emoji": "😄",
+   "kana": "うれしい",
+   "review": false
+  },
+  {
+   "id": "ja-sad",
+   "concept": "sad",
+   "text": "悲しい",
+   "speak": "かなしい",
+   "reading": "kanashii",
+   "meaning": "sad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/sad.mp3",
+    "she": "vocab/audio/ja/she/sad.mp3"
+   },
+   "image": "vocab/img/sad.jpg",
+   "emoji": "😢",
+   "kana": "かなしい",
+   "review": false
+  },
+  {
+   "id": "ja-tired",
+   "concept": "tired",
+   "text": "疲れた",
+   "speak": "つかれた",
+   "reading": "tsukareta",
+   "meaning": "tired",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/tired.mp3",
+    "she": "vocab/audio/ja/she/tired.mp3"
+   },
+   "image": "vocab/img/tired.jpg",
+   "emoji": "😩",
+   "kana": "つかれた",
+   "review": false
+  },
+  {
+   "id": "ja-hungry",
+   "concept": "hungry",
+   "text": "お腹が空いた",
+   "speak": "おなかがすいた",
+   "reading": "onakagasuita",
+   "meaning": "hungry",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/hungry.mp3",
+    "she": "vocab/audio/ja/she/hungry.mp3"
+   },
+   "image": "vocab/img/hungry.jpg",
+   "emoji": "🤤",
+   "kana": "おなかがすいた",
+   "review": false
+  },
+  {
+   "id": "ja-thirsty",
+   "concept": "thirsty",
+   "text": "喉が渇いた",
+   "speak": "のどがかわいた",
+   "reading": "nodogakawaita",
+   "meaning": "thirsty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/thirsty.mp3",
+    "she": "vocab/audio/ja/she/thirsty.mp3"
+   },
+   "image": "vocab/img/thirsty.jpg",
+   "emoji": "🥵",
+   "kana": "のどがかわいた",
+   "review": false
+  },
+  {
+   "id": "ja-fast",
+   "concept": "fast",
+   "text": "速い",
+   "speak": "はやい",
+   "reading": "hayai",
+   "meaning": "fast",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/fast.mp3",
+    "she": "vocab/audio/ja/she/fast.mp3"
+   },
+   "image": "vocab/img/fast.jpg",
+   "emoji": "🐇",
+   "kana": "はやい",
+   "review": false
+  },
+  {
+   "id": "ja-slow",
+   "concept": "slow",
+   "text": "遅い",
+   "speak": "おそい",
+   "reading": "osoi",
+   "meaning": "slow",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/slow.mp3",
+    "she": "vocab/audio/ja/she/slow.mp3"
+   },
+   "image": "vocab/img/slow.jpg",
+   "emoji": "🐢",
+   "kana": "おそい",
+   "review": false
+  },
+  {
+   "id": "ja-long",
+   "concept": "long",
+   "text": "長い",
+   "speak": "ながい",
+   "reading": "nagai",
+   "meaning": "long",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/long.mp3",
+    "she": "vocab/audio/ja/she/long.mp3"
+   },
+   "image": "vocab/img/long.jpg",
+   "emoji": "🐍",
+   "kana": "ながい",
+   "review": false
+  },
+  {
+   "id": "ja-short",
+   "concept": "short",
+   "text": "短い",
+   "speak": "みじかい",
+   "reading": "mijikai",
+   "meaning": "short",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/short.mp3",
+    "she": "vocab/audio/ja/she/short.mp3"
+   },
+   "image": "vocab/img/short.jpg",
+   "emoji": "✏️",
+   "kana": "みじかい",
+   "review": false
+  },
+  {
+   "id": "ja-tall",
+   "concept": "tall",
+   "text": "高い",
+   "speak": "たかい",
+   "reading": "takai",
+   "meaning": "tall",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/tall.mp3",
+    "she": "vocab/audio/ja/she/tall.mp3"
+   },
+   "image": "vocab/img/tall.jpg",
+   "emoji": "🦒",
+   "kana": "たかい",
+   "review": false
+  },
+  {
+   "id": "ja-expensive",
+   "concept": "expensive",
+   "text": "高い",
+   "speak": "たかい",
+   "reading": "takai",
+   "meaning": "expensive",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/expensive.mp3",
+    "she": "vocab/audio/ja/she/expensive.mp3"
+   },
+   "image": "vocab/img/expensive.jpg",
+   "emoji": "💎",
+   "kana": "たかい",
+   "review": false
+  },
+  {
+   "id": "ja-cheap",
+   "concept": "cheap",
+   "text": "安い",
+   "speak": "やすい",
+   "reading": "yasui",
+   "meaning": "cheap",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/cheap.mp3",
+    "she": "vocab/audio/ja/she/cheap.mp3"
+   },
+   "image": "vocab/img/cheap.jpg",
+   "emoji": "🪙",
+   "kana": "やすい",
+   "review": false
+  },
+  {
+   "id": "ja-many",
+   "concept": "many",
+   "text": "多い",
+   "speak": "おおい",
+   "reading": "ōi",
+   "meaning": "many",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/many.mp3",
+    "she": "vocab/audio/ja/she/many.mp3"
+   },
+   "image": "vocab/img/many.jpg",
+   "emoji": "🎈",
+   "kana": "おおい",
+   "review": false
+  },
+  {
+   "id": "ja-few",
+   "concept": "few",
+   "text": "少ない",
+   "speak": "すくない",
+   "reading": "sukunai",
+   "meaning": "few",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/few.mp3",
+    "she": "vocab/audio/ja/she/few.mp3"
+   },
+   "image": "vocab/img/few.jpg",
+   "emoji": "🎈",
+   "kana": "すくない",
+   "review": false
+  },
+  {
+   "id": "ja-easy",
+   "concept": "easy",
+   "text": "簡単",
+   "speak": "かんたん",
+   "reading": "kantan",
+   "meaning": "easy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/easy.mp3",
+    "she": "vocab/audio/ja/she/easy.mp3"
+   },
+   "image": "vocab/img/easy.jpg",
+   "emoji": "😌",
+   "kana": "かんたん",
+   "review": false
+  },
+  {
+   "id": "ja-difficult",
+   "concept": "difficult",
+   "text": "難しい",
+   "speak": "むずかしい",
+   "reading": "muzukashii",
+   "meaning": "difficult",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/difficult.mp3",
+    "she": "vocab/audio/ja/she/difficult.mp3"
+   },
+   "image": "vocab/img/difficult.jpg",
+   "emoji": "😣",
+   "kana": "むずかしい",
+   "review": false
+  },
+  {
+   "id": "ja-heavy",
+   "concept": "heavy",
+   "text": "重い",
+   "speak": "おもい",
+   "reading": "omoi",
+   "meaning": "heavy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/heavy.mp3",
+    "she": "vocab/audio/ja/she/heavy.mp3"
+   },
+   "image": "vocab/img/heavy.jpg",
+   "emoji": "🏋️",
+   "kana": "おもい",
+   "review": false
+  },
+  {
+   "id": "ja-light_weight",
+   "concept": "light_weight",
+   "text": "軽い",
+   "speak": "かるい",
+   "reading": "karui",
+   "meaning": "light (weight)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/light_weight.mp3",
+    "she": "vocab/audio/ja/she/light_weight.mp3"
+   },
+   "image": "vocab/img/light_weight.jpg",
+   "emoji": "🪶",
+   "kana": "かるい",
+   "review": false
+  },
+  {
+   "id": "ja-clean_adj",
+   "concept": "clean_adj",
+   "text": "清潔",
+   "speak": "せいけつ",
+   "reading": "seiketsu",
+   "meaning": "clean (adj)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/clean_adj.mp3",
+    "she": "vocab/audio/ja/she/clean_adj.mp3"
+   },
+   "image": "vocab/img/clean_adj.jpg",
+   "emoji": "✨",
+   "kana": "せいけつ",
+   "review": false
+  },
+  {
+   "id": "ja-dirty",
+   "concept": "dirty",
+   "text": "汚い",
+   "speak": "きたない",
+   "reading": "kitanai",
+   "meaning": "dirty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/dirty.mp3",
+    "she": "vocab/audio/ja/she/dirty.mp3"
+   },
+   "image": "vocab/img/dirty.jpg",
+   "emoji": "💩",
+   "kana": "きたない",
+   "review": false
+  },
+  {
+   "id": "ja-busy",
+   "concept": "busy",
+   "text": "忙しい",
+   "speak": "いそがしい",
+   "reading": "isogashii",
+   "meaning": "busy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/busy.mp3",
+    "she": "vocab/audio/ja/she/busy.mp3"
+   },
+   "image": "vocab/img/busy.jpg",
+   "emoji": "🤹",
+   "kana": "いそがしい",
+   "review": false
+  },
+  {
+   "id": "ja-correct",
+   "concept": "correct",
+   "text": "正しい",
+   "speak": "ただしい",
+   "reading": "tadashii",
+   "meaning": "correct",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/correct.mp3",
+    "she": "vocab/audio/ja/she/correct.mp3"
+   },
+   "image": "vocab/img/correct.jpg",
+   "emoji": "✅",
+   "kana": "ただしい",
+   "review": false
+  },
+  {
+   "id": "ja-wrong",
+   "concept": "wrong",
+   "text": "間違い",
+   "speak": "まちがい",
+   "reading": "machigai",
+   "meaning": "wrong",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/wrong.mp3",
+    "she": "vocab/audio/ja/she/wrong.mp3"
+   },
+   "image": "vocab/img/wrong.jpg",
+   "emoji": "❌",
+   "kana": "まちがい",
+   "review": false
+  },
+  {
+   "id": "ja-same",
+   "concept": "same",
+   "text": "同じ",
+   "speak": "おなじ",
+   "reading": "onaji",
+   "meaning": "same",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/same.mp3",
+    "she": "vocab/audio/ja/she/same.mp3"
+   },
+   "image": "vocab/img/same.jpg",
+   "emoji": "🟰",
+   "kana": "おなじ",
+   "review": false
+  },
+  {
+   "id": "ja-different",
+   "concept": "different",
+   "text": "違う",
+   "speak": "ちがう",
+   "reading": "chigau",
+   "meaning": "different",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/different.mp3",
+    "she": "vocab/audio/ja/she/different.mp3"
+   },
+   "image": "vocab/img/different.jpg",
+   "emoji": "🔀",
+   "kana": "ちがう",
+   "review": false
+  },
+  {
+   "id": "ja-strong",
+   "concept": "strong",
+   "text": "強い",
+   "speak": "つよい",
+   "reading": "tsuyoi",
+   "meaning": "strong",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/strong.mp3",
+    "she": "vocab/audio/ja/she/strong.mp3"
+   },
+   "image": "vocab/img/strong.jpg",
+   "emoji": "💪",
+   "kana": "つよい",
+   "review": false
+  },
+  {
+   "id": "ja-weak",
+   "concept": "weak",
+   "text": "弱い",
+   "speak": "よわい",
+   "reading": "yowai",
+   "meaning": "weak",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/weak.mp3",
+    "she": "vocab/audio/ja/she/weak.mp3"
+   },
+   "image": "vocab/img/weak.jpg",
+   "emoji": "🥀",
+   "kana": "よわい",
+   "review": false
+  },
+  {
+   "id": "ja-fun",
+   "concept": "fun",
+   "text": "楽しい",
+   "speak": "たのしい",
+   "reading": "tanoshii",
+   "meaning": "fun",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/fun.mp3",
+    "she": "vocab/audio/ja/she/fun.mp3"
+   },
+   "image": "vocab/img/fun.jpg",
+   "emoji": "🎢",
+   "kana": "たのしい",
+   "review": false
+  },
+  {
+   "id": "ja-interesting",
+   "concept": "interesting",
+   "text": "面白い",
+   "speak": "おもしろい",
+   "reading": "omoshiroi",
+   "meaning": "interesting",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/interesting.mp3",
+    "she": "vocab/audio/ja/she/interesting.mp3"
+   },
+   "image": "vocab/img/interesting.jpg",
+   "emoji": "🧐",
+   "kana": "おもしろい",
+   "review": false
+  },
+  {
+   "id": "ja-cute",
+   "concept": "cute",
+   "text": "かわいい",
+   "speak": "かわいい",
+   "reading": "kawaii",
+   "meaning": "cute",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/cute.mp3",
+    "she": "vocab/audio/ja/she/cute.mp3"
+   },
+   "image": "vocab/img/cute.jpg",
+   "emoji": "🐱",
+   "kana": "かわいい",
+   "review": false
+  },
+  {
+   "id": "ja-quiet",
+   "concept": "quiet",
+   "text": "静か",
+   "speak": "しずか",
+   "reading": "shizuka",
+   "meaning": "quiet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/quiet.mp3",
+    "she": "vocab/audio/ja/she/quiet.mp3"
+   },
+   "image": "vocab/img/quiet.jpg",
+   "emoji": "🤫",
+   "kana": "しずか",
+   "review": false
+  },
+  {
+   "id": "ja-noisy",
+   "concept": "noisy",
+   "text": "うるさい",
+   "speak": "うるさい",
+   "reading": "urusai",
+   "meaning": "noisy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/noisy.mp3",
+    "she": "vocab/audio/ja/she/noisy.mp3"
+   },
+   "image": "vocab/img/noisy.jpg",
+   "emoji": "📢",
+   "kana": "うるさい",
+   "review": false
+  },
+  {
+   "id": "ja-near",
+   "concept": "near",
+   "text": "近い",
+   "speak": "ちかい",
+   "reading": "chikai",
+   "meaning": "near",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/near.mp3",
+    "she": "vocab/audio/ja/she/near.mp3"
+   },
+   "image": "vocab/img/near.jpg",
+   "emoji": "📍",
+   "kana": "ちかい",
+   "review": false
+  },
+  {
+   "id": "ja-far",
+   "concept": "far",
+   "text": "遠い",
+   "speak": "とおい",
+   "reading": "tōi",
+   "meaning": "far",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/far.mp3",
+    "she": "vocab/audio/ja/she/far.mp3"
+   },
+   "image": "vocab/img/far.jpg",
+   "emoji": "🏔️",
+   "kana": "とおい",
+   "review": false
+  },
+  {
+   "id": "ja-sweet",
+   "concept": "sweet",
+   "text": "甘い",
+   "speak": "あまい",
+   "reading": "amai",
+   "meaning": "sweet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/sweet.mp3",
+    "she": "vocab/audio/ja/she/sweet.mp3"
+   },
+   "image": "vocab/img/sweet.jpg",
+   "emoji": "🍭",
+   "kana": "あまい",
+   "review": false
+  },
+  {
+   "id": "ja-spicy",
+   "concept": "spicy",
+   "text": "辛い",
+   "speak": "からい",
+   "reading": "karai",
+   "meaning": "spicy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/spicy.mp3",
+    "she": "vocab/audio/ja/she/spicy.mp3"
+   },
+   "image": "vocab/img/spicy.jpg",
+   "emoji": "🌶️",
+   "kana": "からい",
+   "review": false
+  },
+  {
+   "id": "ja-sour",
+   "concept": "sour",
+   "text": "酸っぱい",
+   "speak": "すっぱい",
+   "reading": "suppai",
+   "meaning": "sour",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/sour.mp3",
+    "she": "vocab/audio/ja/she/sour.mp3"
+   },
+   "image": "vocab/img/sour.jpg",
+   "emoji": "🍋",
+   "kana": "すっぱい",
+   "review": false
+  },
+  {
+   "id": "ja-salty",
+   "concept": "salty",
+   "text": "しょっぱい",
+   "speak": "しょっぱい",
+   "reading": "shoppai",
+   "meaning": "salty",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/ja/he/salty.mp3",
+    "she": "vocab/audio/ja/she/salty.mp3"
+   },
+   "image": "vocab/img/salty.jpg",
+   "emoji": "🧂",
+   "kana": "しょっぱい",
+   "review": false
+  }
+ ]
+}

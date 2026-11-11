@@ -1,0 +1,7313 @@
+{
+ "lang": "zh",
+ "name": "Mandarin Chinese",
+ "speech": "zh-CN",
+ "topics": [
+  {
+   "id": "greetings",
+   "label": "Greetings"
+  },
+  {
+   "id": "numbers",
+   "label": "Numbers"
+  },
+  {
+   "id": "time",
+   "label": "Time & Calendar"
+  },
+  {
+   "id": "family",
+   "label": "Family"
+  },
+  {
+   "id": "people",
+   "label": "People"
+  },
+  {
+   "id": "pronouns",
+   "label": "Pronouns & Pointing"
+  },
+  {
+   "id": "questions",
+   "label": "Question Words"
+  },
+  {
+   "id": "body",
+   "label": "Body"
+  },
+  {
+   "id": "colors",
+   "label": "Colors"
+  },
+  {
+   "id": "food",
+   "label": "Food & Drink"
+  },
+  {
+   "id": "verbs",
+   "label": "Common Verbs"
+  },
+  {
+   "id": "adjectives",
+   "label": "Describing Words"
+  }
+ ],
+ "tiers": [
+  {
+   "id": 1,
+   "label": "Beginner"
+  },
+  {
+   "id": 2,
+   "label": "Elementary"
+  },
+  {
+   "id": 3,
+   "label": "Pre-intermediate"
+  },
+  {
+   "id": 4,
+   "label": "Intermediate"
+  },
+  {
+   "id": 5,
+   "label": "Upper-intermediate"
+  }
+ ],
+ "pageSize": 24,
+ "count": 341,
+ "words": [
+  {
+   "id": "zh-hello",
+   "concept": "hello",
+   "text": "你好",
+   "speak": "你好",
+   "reading": "nǐ hǎo",
+   "meaning": "hello",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/hello.mp3",
+    "she": "vocab/audio/zh/she/hello.mp3"
+   },
+   "image": "vocab/img/hello.jpg",
+   "emoji": "👋",
+   "legacy": true,
+   "example_phrase": "老师好",
+   "example_sentence": "你好，我叫小兰。",
+   "example_phrase_meaning": "hello, teacher",
+   "example_meaning": "Hello, my name is Lan.",
+   "example_phrase_reading": "Lǎoshī hǎo",
+   "example_sentence_reading": "Nǐhǎo, wǒ jiào xiǎo lán.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/hello-ex.mp3",
+    "she": "vocab/audio/zh/she/hello-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-thank_you",
+   "concept": "thank_you",
+   "text": "谢谢",
+   "speak": "谢谢",
+   "reading": "xièxie",
+   "meaning": "thank you",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/zh/he/thank_you.mp3",
+    "she": "vocab/audio/zh/she/thank_you.mp3"
+   },
+   "image": "vocab/img/thank_you.jpg",
+   "emoji": "🙏",
+   "legacy": true,
+   "example_phrase": "非常谢谢",
+   "example_sentence": "谢谢你的茶。",
+   "example_phrase_meaning": "thank you very much",
+   "example_meaning": "Thank you for the tea.",
+   "example_phrase_reading": "Fēicháng xièxie",
+   "example_sentence_reading": "Xièxie nǐ de chá.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/thank_you-ex.mp3",
+    "she": "vocab/audio/zh/she/thank_you-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-sorry",
+   "concept": "sorry",
+   "text": "对不起",
+   "speak": "对不起",
+   "reading": "duìbuqǐ",
+   "meaning": "sorry",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/zh/he/sorry.mp3",
+    "she": "vocab/audio/zh/she/sorry.mp3"
+   },
+   "image": "vocab/img/sorry.jpg",
+   "emoji": "🙇",
+   "legacy": true,
+   "example_phrase": "真对不起",
+   "example_sentence": "对不起，我来晚了。",
+   "example_phrase_meaning": "I'm very sorry",
+   "example_meaning": "Sorry, I am late.",
+   "example_phrase_reading": "Zhēn duìbuqǐ",
+   "example_sentence_reading": "Duìbuqǐ, wǒ lái wǎn le.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/sorry-ex.mp3",
+    "she": "vocab/audio/zh/she/sorry-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-yes",
+   "concept": "yes",
+   "text": "是",
+   "speak": "是",
+   "reading": "shì",
+   "meaning": "yes / to be",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/yes.mp3",
+    "she": "vocab/audio/zh/she/yes.mp3"
+   },
+   "image": "vocab/img/yes.jpg",
+   "emoji": "👍",
+   "legacy": true,
+   "example_phrase": "是的",
+   "example_sentence": "是，我是学生。",
+   "example_phrase_meaning": "yes, please",
+   "example_meaning": "Yes, I am a student.",
+   "example_phrase_reading": "Shìde",
+   "example_sentence_reading": "Shì, wǒ shì xuésheng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/yes-ex.mp3",
+    "she": "vocab/audio/zh/she/yes-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-no",
+   "concept": "no",
+   "text": "不",
+   "speak": "不",
+   "reading": "bù",
+   "meaning": "no / not",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/no.mp3",
+    "she": "vocab/audio/zh/she/no.mp3"
+   },
+   "image": "vocab/img/no.jpg",
+   "emoji": "🙅",
+   "legacy": true,
+   "example_phrase": "不，谢谢",
+   "example_sentence": "不，我不要咖啡。",
+   "example_phrase_meaning": "no, thank you",
+   "example_meaning": "No, I don't want coffee.",
+   "example_phrase_reading": "Bù, xièxie",
+   "example_sentence_reading": "Bù, wǒ bùyào kāfēi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/no-ex.mp3",
+    "she": "vocab/audio/zh/she/no-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-goodbye",
+   "concept": "goodbye",
+   "text": "再见",
+   "speak": "再见",
+   "reading": "zàijiàn",
+   "meaning": "goodbye",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/goodbye.mp3",
+    "she": "vocab/audio/zh/she/goodbye.mp3"
+   },
+   "image": "vocab/img/goodbye.jpg",
+   "emoji": "👋",
+   "example_phrase": "大家再见",
+   "example_sentence": "再见，明天见。",
+   "example_phrase_meaning": "goodbye, everyone",
+   "example_meaning": "Goodbye, see you tomorrow.",
+   "example_phrase_reading": "Dàjiā zàijiàn",
+   "example_sentence_reading": "Zàijiàn, míngtiānjiàn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/goodbye-ex.mp3",
+    "she": "vocab/audio/zh/she/goodbye-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-good_morning",
+   "concept": "good_morning",
+   "text": "早上好",
+   "speak": "早上好",
+   "reading": "zǎoshanghǎo",
+   "meaning": "good morning",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/zh/he/good_morning.mp3",
+    "she": "vocab/audio/zh/she/good_morning.mp3"
+   },
+   "image": "vocab/img/good_morning.jpg",
+   "emoji": "🌅",
+   "example_phrase": "妈妈早上好",
+   "example_sentence": "早上好，你睡得好吗？",
+   "example_phrase_meaning": "good morning, mom",
+   "example_meaning": "Good morning, did you sleep well?",
+   "example_phrase_reading": "Māma zǎoshanghǎo",
+   "example_sentence_reading": "Zǎoshanghǎo, nǐ shuì dé hǎo ma?",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/good_morning-ex.mp3",
+    "she": "vocab/audio/zh/she/good_morning-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-good_night",
+   "concept": "good_night",
+   "text": "晚安",
+   "speak": "晚安",
+   "reading": "wǎn'ān",
+   "meaning": "good night",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/zh/he/good_night.mp3",
+    "she": "vocab/audio/zh/she/good_night.mp3"
+   },
+   "image": "vocab/img/good_night.jpg",
+   "emoji": "🌙",
+   "example_phrase": "爸爸晚安",
+   "example_sentence": "晚安，好好睡。",
+   "example_phrase_meaning": "good night, dad",
+   "example_meaning": "Good night, sleep well.",
+   "example_phrase_reading": "Bàba wǎn'ān",
+   "example_sentence_reading": "Wǎn'ān, hǎohǎo shuì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/good_night-ex.mp3",
+    "she": "vocab/audio/zh/she/good_night-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-please",
+   "concept": "please",
+   "text": "请",
+   "speak": "请",
+   "reading": "qǐng",
+   "meaning": "please",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/please.mp3",
+    "she": "vocab/audio/zh/she/please.mp3"
+   },
+   "image": "vocab/img/please.jpg",
+   "emoji": "🥺",
+   "example_phrase": "请喝水",
+   "example_sentence": "请坐。",
+   "example_phrase_meaning": "water, please",
+   "example_meaning": "Please sit down.",
+   "example_phrase_reading": "Qǐng hē shuǐ",
+   "example_sentence_reading": "Qǐngzuò.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/please-ex.mp3",
+    "she": "vocab/audio/zh/she/please-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-youre_welcome",
+   "concept": "youre_welcome",
+   "text": "不客气",
+   "speak": "不客气",
+   "reading": "bùkèqi",
+   "meaning": "you're welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/zh/he/youre_welcome.mp3",
+    "she": "vocab/audio/zh/she/youre_welcome.mp3"
+   },
+   "image": "vocab/img/youre_welcome.jpg",
+   "emoji": "😊",
+   "example_phrase": "不客气，朋友",
+   "example_sentence": "不客气，很容易。",
+   "example_phrase_meaning": "you're welcome, friend",
+   "example_meaning": "You're welcome, it was easy.",
+   "example_phrase_reading": "Bùkèqi, péngyou",
+   "example_sentence_reading": "Bùkèqi, hěn róngyì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/youre_welcome-ex.mp3",
+    "she": "vocab/audio/zh/she/youre_welcome-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-welcome",
+   "concept": "welcome",
+   "text": "欢迎",
+   "speak": "欢迎",
+   "reading": "huānyíng",
+   "meaning": "welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/welcome.mp3",
+    "she": "vocab/audio/zh/she/welcome.mp3"
+   },
+   "image": "vocab/img/welcome.jpg",
+   "emoji": "🤗",
+   "example_phrase": "欢迎回家",
+   "example_sentence": "欢迎来我家！",
+   "example_phrase_meaning": "welcome home",
+   "example_meaning": "Welcome to my house!",
+   "example_phrase_reading": "Huānyíng huíjiā",
+   "example_sentence_reading": "Huānyíng lái wǒ jiā!",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/welcome-ex.mp3",
+    "she": "vocab/audio/zh/she/welcome-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-okay",
+   "concept": "okay",
+   "text": "好的",
+   "speak": "好的",
+   "reading": "hǎode",
+   "meaning": "okay",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/okay.mp3",
+    "she": "vocab/audio/zh/she/okay.mp3"
+   },
+   "image": "vocab/img/okay.jpg",
+   "emoji": "👌",
+   "example_phrase": "好的，走吧",
+   "example_sentence": "好的，我明白了。",
+   "example_phrase_meaning": "okay, let's go",
+   "example_meaning": "Okay, I understand.",
+   "example_phrase_reading": "Hǎo de, zǒu ba",
+   "example_sentence_reading": "Hǎo de, wǒ míngbai le.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/okay-ex.mp3",
+    "she": "vocab/audio/zh/she/okay-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-nice_to_meet_you",
+   "concept": "nice_to_meet_you",
+   "text": "很高兴认识你",
+   "speak": "很高兴认识你",
+   "reading": "hěn gāoxìng rènshi nǐ",
+   "meaning": "nice to meet you",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/zh/he/nice_to_meet_you.mp3",
+    "she": "vocab/audio/zh/she/nice_to_meet_you.mp3"
+   },
+   "image": "vocab/img/nice_to_meet_you.jpg",
+   "emoji": "🤝",
+   "example_phrase": "我也很高兴认识你",
+   "example_sentence": "很高兴认识你，我是小明。",
+   "example_phrase_meaning": "nice to meet you too",
+   "example_meaning": "Nice to meet you, I'm Minh.",
+   "example_phrase_reading": "Wǒ yě hěn gāoxìng rènshi nǐ",
+   "example_sentence_reading": "Hěn gāoxìng rènshi nǐ, wǒ shì xiǎo míng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/nice_to_meet_you-ex.mp3",
+    "she": "vocab/audio/zh/she/nice_to_meet_you-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-congratulations",
+   "concept": "congratulations",
+   "text": "恭喜",
+   "speak": "恭喜",
+   "reading": "gōngxǐ",
+   "meaning": "congratulations",
+   "topic": "greetings",
+   "tier": 3,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/zh/he/congratulations.mp3",
+    "she": "vocab/audio/zh/she/congratulations.mp3"
+   },
+   "image": "vocab/img/congratulations.jpg",
+   "emoji": "🎉",
+   "example_phrase": "恭喜你",
+   "example_sentence": "恭喜你找到新工作！",
+   "example_phrase_meaning": "congratulations to you",
+   "example_meaning": "Congratulations on your new job!",
+   "example_phrase_reading": "Gōngxǐ nǐ",
+   "example_sentence_reading": "Gōngxǐ nǐ zhǎodào xīn gōngzuò!",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/congratulations-ex.mp3",
+    "she": "vocab/audio/zh/she/congratulations-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-name",
+   "concept": "name",
+   "text": "名字",
+   "speak": "名字",
+   "reading": "míngzi",
+   "meaning": "name",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/name.mp3",
+    "she": "vocab/audio/zh/she/name.mp3"
+   },
+   "image": "vocab/img/name.jpg",
+   "emoji": "📛",
+   "example_phrase": "我的名字",
+   "example_sentence": "你叫什么名字？",
+   "example_phrase_meaning": "my name",
+   "example_meaning": "What is your name?",
+   "example_phrase_reading": "Wǒ de míngzi",
+   "example_sentence_reading": "Nǐ jiào shénme míngzi?",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/name-ex.mp3",
+    "she": "vocab/audio/zh/she/name-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-one",
+   "concept": "one",
+   "text": "一",
+   "speak": "一",
+   "reading": "yī",
+   "meaning": "one",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/one.mp3",
+    "she": "vocab/audio/zh/she/one.mp3"
+   },
+   "image": "vocab/img/one.jpg",
+   "emoji": "1️⃣",
+   "legacy": true,
+   "example_phrase": "一个苹果",
+   "example_sentence": "我有一只猫。",
+   "example_phrase_meaning": "one apple",
+   "example_meaning": "I have one cat.",
+   "example_phrase_reading": "Yīge píngguǒ",
+   "example_sentence_reading": "Wǒ yǒu yī zhī māo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/one-ex.mp3",
+    "she": "vocab/audio/zh/she/one-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-two",
+   "concept": "two",
+   "text": "二",
+   "speak": "二",
+   "reading": "èr",
+   "meaning": "two",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/two.mp3",
+    "she": "vocab/audio/zh/she/two.mp3"
+   },
+   "image": "vocab/img/two.jpg",
+   "emoji": "2️⃣",
+   "legacy": true,
+   "example_phrase": "两个杯子",
+   "example_sentence": "我有两个哥哥。",
+   "example_phrase_meaning": "two cups",
+   "example_meaning": "I have two brothers.",
+   "example_phrase_reading": "Liǎng gè bēizi",
+   "example_sentence_reading": "Wǒ yǒu liǎng gè gēge.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/two-ex.mp3",
+    "she": "vocab/audio/zh/she/two-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-three",
+   "concept": "three",
+   "text": "三",
+   "speak": "三",
+   "reading": "sān",
+   "meaning": "three",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/three.mp3",
+    "she": "vocab/audio/zh/she/three.mp3"
+   },
+   "image": "vocab/img/three.jpg",
+   "emoji": "3️⃣",
+   "legacy": true,
+   "example_phrase": "三本书",
+   "example_sentence": "桌子上有三本书。",
+   "example_phrase_meaning": "three books",
+   "example_meaning": "There are three books on the table.",
+   "example_phrase_reading": "Sān běn shū",
+   "example_sentence_reading": "Zhuōzi shàng yǒu sān běn shū.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/three-ex.mp3",
+    "she": "vocab/audio/zh/she/three-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-four",
+   "concept": "four",
+   "text": "四",
+   "speak": "四",
+   "reading": "sì",
+   "meaning": "four",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/four.mp3",
+    "she": "vocab/audio/zh/she/four.mp3"
+   },
+   "image": "vocab/img/four.jpg",
+   "emoji": "4️⃣",
+   "legacy": true,
+   "example_phrase": "四个季节",
+   "example_sentence": "一年有四个季节。",
+   "example_phrase_meaning": "four seasons",
+   "example_meaning": "A year has four seasons.",
+   "example_phrase_reading": "Sì gè jìjié",
+   "example_sentence_reading": "Yī nián yǒu sì gè jìjié.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/four-ex.mp3",
+    "she": "vocab/audio/zh/she/four-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-five",
+   "concept": "five",
+   "text": "五",
+   "speak": "五",
+   "reading": "wǔ",
+   "meaning": "five",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/five.mp3",
+    "she": "vocab/audio/zh/she/five.mp3"
+   },
+   "image": "vocab/img/five.jpg",
+   "emoji": "5️⃣",
+   "legacy": true,
+   "example_phrase": "五个手指",
+   "example_sentence": "我的手有五个手指。",
+   "example_phrase_meaning": "five fingers",
+   "example_meaning": "My hand has five fingers.",
+   "example_phrase_reading": "Wǔ gè shǒuzhǐ",
+   "example_sentence_reading": "Wǒ de shǒu yǒu wǔ gè shǒuzhǐ.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/five-ex.mp3",
+    "she": "vocab/audio/zh/she/five-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-six",
+   "concept": "six",
+   "text": "六",
+   "speak": "六",
+   "reading": "liù",
+   "meaning": "six",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/six.mp3",
+    "she": "vocab/audio/zh/she/six.mp3"
+   },
+   "image": "vocab/img/six.jpg",
+   "emoji": "6️⃣",
+   "legacy": true,
+   "example_phrase": "六个鸡蛋",
+   "example_sentence": "请买六个鸡蛋。",
+   "example_phrase_meaning": "six eggs",
+   "example_meaning": "Please buy six eggs.",
+   "example_phrase_reading": "Liù gè jīdàn",
+   "example_sentence_reading": "Qǐng mǎi liù gè jīdàn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/six-ex.mp3",
+    "she": "vocab/audio/zh/she/six-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-seven",
+   "concept": "seven",
+   "text": "七",
+   "speak": "七",
+   "reading": "qī",
+   "meaning": "seven",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/seven.mp3",
+    "she": "vocab/audio/zh/she/seven.mp3"
+   },
+   "image": "vocab/img/seven.jpg",
+   "emoji": "7️⃣",
+   "legacy": true,
+   "example_phrase": "七天",
+   "example_sentence": "一个星期有七天。",
+   "example_phrase_meaning": "seven days",
+   "example_meaning": "A week has seven days.",
+   "example_phrase_reading": "Qī tiān",
+   "example_sentence_reading": "Yīge xīngqī yǒu qī tiān.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/seven-ex.mp3",
+    "she": "vocab/audio/zh/she/seven-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-eight",
+   "concept": "eight",
+   "text": "八",
+   "speak": "八",
+   "reading": "bā",
+   "meaning": "eight",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/eight.mp3",
+    "she": "vocab/audio/zh/she/eight.mp3"
+   },
+   "image": "vocab/img/eight.jpg",
+   "emoji": "8️⃣",
+   "legacy": true,
+   "example_phrase": "八点",
+   "example_sentence": "我八点起床。",
+   "example_phrase_meaning": "eight o'clock",
+   "example_meaning": "I get up at eight o'clock.",
+   "example_phrase_reading": "Bā diǎn",
+   "example_sentence_reading": "Wǒ bā diǎn qǐchuáng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/eight-ex.mp3",
+    "she": "vocab/audio/zh/she/eight-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-nine",
+   "concept": "nine",
+   "text": "九",
+   "speak": "九",
+   "reading": "jiǔ",
+   "meaning": "nine",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/nine.mp3",
+    "she": "vocab/audio/zh/she/nine.mp3"
+   },
+   "image": "vocab/img/nine.jpg",
+   "emoji": "9️⃣",
+   "legacy": true,
+   "example_phrase": "九只猫",
+   "example_sentence": "我奶奶有九只猫。",
+   "example_phrase_meaning": "nine cats",
+   "example_meaning": "My grandmother has nine cats.",
+   "example_phrase_reading": "Jiǔ zhǐ māo",
+   "example_sentence_reading": "Wǒ nǎinai yǒu jiǔ zhǐ māo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/nine-ex.mp3",
+    "she": "vocab/audio/zh/she/nine-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-ten",
+   "concept": "ten",
+   "text": "十",
+   "speak": "十",
+   "reading": "shí",
+   "meaning": "ten",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/ten.mp3",
+    "she": "vocab/audio/zh/she/ten.mp3"
+   },
+   "image": "vocab/img/ten.jpg",
+   "emoji": "🔟",
+   "legacy": true,
+   "example_phrase": "十个苹果",
+   "example_sentence": "桌子上有十个苹果。",
+   "example_phrase_meaning": "ten apples",
+   "example_meaning": "There are ten apples on the table.",
+   "example_phrase_reading": "Shí gè píngguǒ",
+   "example_sentence_reading": "Zhuōzi shàng yǒu shí gè píngguǒ.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/ten-ex.mp3",
+    "she": "vocab/audio/zh/she/ten-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-zero",
+   "concept": "zero",
+   "text": "零",
+   "speak": "零",
+   "reading": "líng",
+   "meaning": "zero",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/zero.mp3",
+    "she": "vocab/audio/zh/she/zero.mp3"
+   },
+   "image": "vocab/img/zero.jpg",
+   "emoji": "0️⃣",
+   "example_phrase": "零分",
+   "example_sentence": "我考了零分。",
+   "example_phrase_meaning": "zero points",
+   "example_meaning": "I got zero points.",
+   "example_phrase_reading": "Líng fēn",
+   "example_sentence_reading": "Wǒ kǎo le líng fēn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/zero-ex.mp3",
+    "she": "vocab/audio/zh/she/zero-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-eleven",
+   "concept": "eleven",
+   "text": "十一",
+   "speak": "十一",
+   "reading": "shíyī",
+   "meaning": "eleven",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/eleven.mp3",
+    "she": "vocab/audio/zh/she/eleven.mp3"
+   },
+   "image": "vocab/img/eleven.jpg",
+   "emoji": "🔢",
+   "example_phrase": "十一个球员",
+   "example_sentence": "一个足球队有十一个球员。",
+   "example_phrase_meaning": "eleven players",
+   "example_meaning": "A soccer team has eleven players.",
+   "example_phrase_reading": "Shíyī gè qiúyuán",
+   "example_sentence_reading": "Yīge zúqiúduì yǒu shíyī gè qiúyuán.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/eleven-ex.mp3",
+    "she": "vocab/audio/zh/she/eleven-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-twelve",
+   "concept": "twelve",
+   "text": "十二",
+   "speak": "十二",
+   "reading": "shí'èr",
+   "meaning": "twelve",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/twelve.mp3",
+    "she": "vocab/audio/zh/she/twelve.mp3"
+   },
+   "image": "vocab/img/twelve.jpg",
+   "emoji": "🥚",
+   "example_phrase": "十二个月",
+   "example_sentence": "一年有十二个月。",
+   "example_phrase_meaning": "twelve months",
+   "example_meaning": "A year has twelve months.",
+   "example_phrase_reading": "Shí'èr gè yuè",
+   "example_sentence_reading": "Yī nián yǒu shí'èr gè yuè.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/twelve-ex.mp3",
+    "she": "vocab/audio/zh/she/twelve-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-twenty",
+   "concept": "twenty",
+   "text": "二十",
+   "speak": "二十",
+   "reading": "èrshí",
+   "meaning": "twenty",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/twenty.mp3",
+    "she": "vocab/audio/zh/she/twenty.mp3"
+   },
+   "image": "vocab/img/twenty.jpg",
+   "emoji": "🔢",
+   "example_phrase": "二十岁",
+   "example_sentence": "我姐姐二十岁。",
+   "example_phrase_meaning": "twenty years old",
+   "example_meaning": "My sister is twenty years old.",
+   "example_phrase_reading": "Èrshí suì",
+   "example_sentence_reading": "Wǒ jiějie èrshí suì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/twenty-ex.mp3",
+    "she": "vocab/audio/zh/she/twenty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-thirty",
+   "concept": "thirty",
+   "text": "三十",
+   "speak": "三十",
+   "reading": "sānshí",
+   "meaning": "thirty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/thirty.mp3",
+    "she": "vocab/audio/zh/she/thirty.mp3"
+   },
+   "image": "vocab/img/thirty.jpg",
+   "emoji": "🔢",
+   "example_phrase": "三十分钟",
+   "example_sentence": "公共汽车三十分钟后到。",
+   "example_phrase_meaning": "thirty minutes",
+   "example_meaning": "The bus comes in thirty minutes.",
+   "example_phrase_reading": "Sānshí fēnzhōng",
+   "example_sentence_reading": "Gōnggòngqìchē sānshí fēnzhōng hòu dào.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/thirty-ex.mp3",
+    "she": "vocab/audio/zh/she/thirty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-fifty",
+   "concept": "fifty",
+   "text": "五十",
+   "speak": "五十",
+   "reading": "wǔshí",
+   "meaning": "fifty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/fifty.mp3",
+    "she": "vocab/audio/zh/she/fifty.mp3"
+   },
+   "image": "vocab/img/fifty.jpg",
+   "emoji": "🔢",
+   "example_phrase": "五十个人",
+   "example_sentence": "五十个人来了派对。",
+   "example_phrase_meaning": "fifty people",
+   "example_meaning": "Fifty people came to the party.",
+   "example_phrase_reading": "Wǔshí gèrén",
+   "example_sentence_reading": "Wǔshí gèrén lái le pàiduì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/fifty-ex.mp3",
+    "she": "vocab/audio/zh/she/fifty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-hundred",
+   "concept": "hundred",
+   "text": "一百",
+   "speak": "一百",
+   "reading": "yībǎi",
+   "meaning": "hundred",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/hundred.mp3",
+    "she": "vocab/audio/zh/she/hundred.mp3"
+   },
+   "image": "vocab/img/hundred.jpg",
+   "emoji": "💯",
+   "example_phrase": "一百块",
+   "example_sentence": "这个包一百块。",
+   "example_phrase_meaning": "one hundred dollars",
+   "example_meaning": "This bag costs one hundred dollars.",
+   "example_phrase_reading": "Yì bǎi kuài",
+   "example_sentence_reading": "Zhège bāo yì bǎi kuài.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/hundred-ex.mp3",
+    "she": "vocab/audio/zh/she/hundred-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-thousand",
+   "concept": "thousand",
+   "text": "一千",
+   "speak": "一千",
+   "reading": "yīqiān",
+   "meaning": "thousand",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/thousand.mp3",
+    "she": "vocab/audio/zh/she/thousand.mp3"
+   },
+   "image": "vocab/img/thousand.jpg",
+   "emoji": "🔢",
+   "example_phrase": "一千颗星星",
+   "example_sentence": "我能看到一千颗星星。",
+   "example_phrase_meaning": "a thousand stars",
+   "example_meaning": "I can see a thousand stars.",
+   "example_phrase_reading": "Yī qiān kē xīngxing",
+   "example_sentence_reading": "Wǒ néng kàndào yī qiān kē xīngxing.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/thousand-ex.mp3",
+    "she": "vocab/audio/zh/she/thousand-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-million",
+   "concept": "million",
+   "text": "一百万",
+   "speak": "一百万",
+   "reading": "yībǎiwàn",
+   "meaning": "million",
+   "topic": "numbers",
+   "tier": 4,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/zh/he/million.mp3",
+    "she": "vocab/audio/zh/she/million.mp3"
+   },
+   "image": "vocab/img/million.jpg",
+   "emoji": "💰",
+   "example_phrase": "一百万人",
+   "example_sentence": "一百万人住在这个城市。",
+   "example_phrase_meaning": "a million people",
+   "example_meaning": "A million people live in this city.",
+   "example_phrase_reading": "Yì bǎiwàn rén",
+   "example_sentence_reading": "Yì bǎiwàn rén zhù zài zhège chéngshì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/million-ex.mp3",
+    "she": "vocab/audio/zh/she/million-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-first",
+   "concept": "first",
+   "text": "第一",
+   "speak": "第一",
+   "reading": "dìyī",
+   "meaning": "first",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/first.mp3",
+    "she": "vocab/audio/zh/she/first.mp3"
+   },
+   "image": "vocab/img/first.jpg",
+   "emoji": "🥇",
+   "example_phrase": "第一天",
+   "example_sentence": "今天是我上学的第一天。",
+   "example_phrase_meaning": "the first day",
+   "example_meaning": "Today is my first day at school.",
+   "example_phrase_reading": "Dìyī tiān",
+   "example_sentence_reading": "Jīntiān shì wǒ shàngxué de dìyī tiān.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/first-ex.mp3",
+    "she": "vocab/audio/zh/she/first-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-last",
+   "concept": "last",
+   "text": "最后",
+   "speak": "最后",
+   "reading": "zuìhòu",
+   "meaning": "last",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/last.mp3",
+    "she": "vocab/audio/zh/she/last.mp3"
+   },
+   "image": "vocab/img/last.jpg",
+   "emoji": "🏁",
+   "example_phrase": "最后一班车",
+   "example_sentence": "这是最后一班车。",
+   "example_phrase_meaning": "the last train",
+   "example_meaning": "This is the last train.",
+   "example_phrase_reading": "Zuìhòu yī bānchē",
+   "example_sentence_reading": "Zhè shì zuìhòu yī bānchē.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/last-ex.mp3",
+    "she": "vocab/audio/zh/she/last-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-half",
+   "concept": "half",
+   "text": "一半",
+   "speak": "一半",
+   "reading": "yībàn",
+   "meaning": "half",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/half.mp3",
+    "she": "vocab/audio/zh/she/half.mp3"
+   },
+   "image": "vocab/img/half.jpg",
+   "emoji": "🌓",
+   "example_phrase": "一半苹果",
+   "example_sentence": "我吃了一半苹果。",
+   "example_phrase_meaning": "half an apple",
+   "example_meaning": "I ate half an apple.",
+   "example_phrase_reading": "Yībàn píngguǒ",
+   "example_sentence_reading": "Wǒ chī le yībàn píngguǒ.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/half-ex.mp3",
+    "she": "vocab/audio/zh/she/half-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-number",
+   "concept": "number",
+   "text": "数字",
+   "speak": "数字",
+   "reading": "shùzì",
+   "meaning": "number",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/number.mp3",
+    "she": "vocab/audio/zh/she/number.mp3"
+   },
+   "image": "vocab/img/number.jpg",
+   "emoji": "🔢",
+   "example_phrase": "电话号码",
+   "example_sentence": "你的电话号码是多少？",
+   "example_phrase_meaning": "phone number",
+   "example_meaning": "What is your phone number?",
+   "example_phrase_reading": "Diànhuà hàomǎ",
+   "example_sentence_reading": "Nǐ de diànhuà hàomǎ shì duōshǎo?",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/number-ex.mp3",
+    "she": "vocab/audio/zh/she/number-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-day",
+   "concept": "day",
+   "text": "天",
+   "speak": "天",
+   "reading": "tiān",
+   "meaning": "day",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/day.mp3",
+    "she": "vocab/audio/zh/she/day.mp3"
+   },
+   "image": "vocab/img/day.jpg",
+   "emoji": "📅",
+   "example_phrase": "每天",
+   "example_sentence": "我每天喝茶。",
+   "example_phrase_meaning": "every day",
+   "example_meaning": "I drink tea every day.",
+   "example_phrase_reading": "Měitiān",
+   "example_sentence_reading": "Wǒ měitiān hēchá.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/day-ex.mp3",
+    "she": "vocab/audio/zh/she/day-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-week",
+   "concept": "week",
+   "text": "星期",
+   "speak": "星期",
+   "reading": "xīngqī",
+   "meaning": "week",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/week.mp3",
+    "she": "vocab/audio/zh/she/week.mp3"
+   },
+   "image": "vocab/img/week.jpg",
+   "emoji": "🗓️",
+   "example_phrase": "下个星期",
+   "example_sentence": "我下个星期去河内。",
+   "example_phrase_meaning": "next week",
+   "example_meaning": "I will go to Hanoi next week.",
+   "example_phrase_reading": "Xiàgèxīngqī",
+   "example_sentence_reading": "Wǒ xiàgèxīngqī qù hénèi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/week-ex.mp3",
+    "she": "vocab/audio/zh/she/week-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-month",
+   "concept": "month",
+   "text": "月",
+   "speak": "月",
+   "reading": "yuè",
+   "meaning": "month",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/month.mp3",
+    "she": "vocab/audio/zh/she/month.mp3"
+   },
+   "image": "vocab/img/month.jpg",
+   "emoji": "🗓️",
+   "example_phrase": "这个月",
+   "example_sentence": "这个月很忙。",
+   "example_phrase_meaning": "this month",
+   "example_meaning": "This month is very busy.",
+   "example_phrase_reading": "Zhège yuè",
+   "example_sentence_reading": "Zhège yuè hěn máng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/month-ex.mp3",
+    "she": "vocab/audio/zh/she/month-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-year",
+   "concept": "year",
+   "text": "年",
+   "speak": "年",
+   "reading": "nián",
+   "meaning": "year",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/year.mp3",
+    "she": "vocab/audio/zh/she/year.mp3"
+   },
+   "image": "vocab/img/year.jpg",
+   "emoji": "🎆",
+   "example_phrase": "去年",
+   "example_sentence": "我去年住在东京。",
+   "example_phrase_meaning": "last year",
+   "example_meaning": "Last year I lived in Tokyo.",
+   "example_phrase_reading": "Qùnián",
+   "example_sentence_reading": "Wǒqù nián zhù zài dōngjīng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/year-ex.mp3",
+    "she": "vocab/audio/zh/she/year-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-today",
+   "concept": "today",
+   "text": "今天",
+   "speak": "今天",
+   "reading": "jīntiān",
+   "meaning": "today",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/today.mp3",
+    "she": "vocab/audio/zh/she/today.mp3"
+   },
+   "image": "vocab/img/today.jpg",
+   "emoji": "📍",
+   "example_phrase": "今天的天气",
+   "example_sentence": "今天星期一。",
+   "example_phrase_meaning": "today's weather",
+   "example_meaning": "Today is Monday.",
+   "example_phrase_reading": "Jīntiān de tiānqì",
+   "example_sentence_reading": "Jīntiān xīngqīyī.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/today-ex.mp3",
+    "she": "vocab/audio/zh/she/today-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-tomorrow",
+   "concept": "tomorrow",
+   "text": "明天",
+   "speak": "明天",
+   "reading": "míngtiān",
+   "meaning": "tomorrow",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/tomorrow.mp3",
+    "she": "vocab/audio/zh/she/tomorrow.mp3"
+   },
+   "image": "vocab/img/tomorrow.jpg",
+   "emoji": "➡️",
+   "example_phrase": "明天见",
+   "example_sentence": "明天我有考试。",
+   "example_phrase_meaning": "see you tomorrow",
+   "example_meaning": "Tomorrow I have a test.",
+   "example_phrase_reading": "Míngtiānjiàn",
+   "example_sentence_reading": "Míngtiān wǒ yǒu kǎoshì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/tomorrow-ex.mp3",
+    "she": "vocab/audio/zh/she/tomorrow-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-yesterday",
+   "concept": "yesterday",
+   "text": "昨天",
+   "speak": "昨天",
+   "reading": "zuótiān",
+   "meaning": "yesterday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/yesterday.mp3",
+    "she": "vocab/audio/zh/she/yesterday.mp3"
+   },
+   "image": "vocab/img/yesterday.jpg",
+   "emoji": "⬅️",
+   "example_phrase": "昨天早上",
+   "example_sentence": "昨天下雨了。",
+   "example_phrase_meaning": "yesterday morning",
+   "example_meaning": "Yesterday it rained.",
+   "example_phrase_reading": "Zuótiān zǎoshang",
+   "example_sentence_reading": "Zuótiān xiàyǔ le.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/yesterday-ex.mp3",
+    "she": "vocab/audio/zh/she/yesterday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-now",
+   "concept": "now",
+   "text": "现在",
+   "speak": "现在",
+   "reading": "xiànzài",
+   "meaning": "now",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/now.mp3",
+    "she": "vocab/audio/zh/she/now.mp3"
+   },
+   "image": "vocab/img/now.jpg",
+   "emoji": "⏱️",
+   "example_phrase": "马上",
+   "example_sentence": "我现在很忙。",
+   "example_phrase_meaning": "right now",
+   "example_meaning": "I am busy now.",
+   "example_phrase_reading": "Mǎshàng",
+   "example_sentence_reading": "Wǒ xiànzài hěn máng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/now-ex.mp3",
+    "she": "vocab/audio/zh/she/now-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-morning",
+   "concept": "morning",
+   "text": "早上",
+   "speak": "早上",
+   "reading": "zǎoshang",
+   "meaning": "morning",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/morning.mp3",
+    "she": "vocab/audio/zh/she/morning.mp3"
+   },
+   "image": "vocab/img/morning.jpg",
+   "emoji": "🌅",
+   "example_phrase": "每天早上",
+   "example_sentence": "我每天早上跑步。",
+   "example_phrase_meaning": "every morning",
+   "example_meaning": "I run every morning.",
+   "example_phrase_reading": "Měitiān zǎoshang",
+   "example_sentence_reading": "Wǒ měitiān zǎoshang pǎobù.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/morning-ex.mp3",
+    "she": "vocab/audio/zh/she/morning-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-afternoon",
+   "concept": "afternoon",
+   "text": "下午",
+   "speak": "下午",
+   "reading": "xiàwǔ",
+   "meaning": "afternoon",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/afternoon.mp3",
+    "she": "vocab/audio/zh/she/afternoon.mp3"
+   },
+   "image": "vocab/img/afternoon.jpg",
+   "emoji": "🌤️",
+   "example_phrase": "今天下午",
+   "example_sentence": "今天下午我要学习。",
+   "example_phrase_meaning": "this afternoon",
+   "example_meaning": "This afternoon I will study.",
+   "example_phrase_reading": "Jīntiān xiàwǔ",
+   "example_sentence_reading": "Jīntiān xiàwǔ wǒ yào xuéxí.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/afternoon-ex.mp3",
+    "she": "vocab/audio/zh/she/afternoon-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-night",
+   "concept": "night",
+   "text": "晚上",
+   "speak": "晚上",
+   "reading": "wǎnshang",
+   "meaning": "night",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/night.mp3",
+    "she": "vocab/audio/zh/she/night.mp3"
+   },
+   "image": "vocab/img/night.jpg",
+   "emoji": "🌃",
+   "example_phrase": "昨天晚上",
+   "example_sentence": "昨天晚上我睡得很好。",
+   "example_phrase_meaning": "last night",
+   "example_meaning": "Last night I slept well.",
+   "example_phrase_reading": "Zuótiān wǎnshang",
+   "example_sentence_reading": "Zuótiān wǎnshang wǒ shuì dehěn hǎo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/night-ex.mp3",
+    "she": "vocab/audio/zh/she/night-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-hour",
+   "concept": "hour",
+   "text": "小时",
+   "speak": "小时",
+   "reading": "xiǎoshí",
+   "meaning": "hour",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/hour.mp3",
+    "she": "vocab/audio/zh/she/hour.mp3"
+   },
+   "image": "vocab/img/hour.jpg",
+   "emoji": "⏳",
+   "example_phrase": "一个小时",
+   "example_sentence": "我学习一个小时。",
+   "example_phrase_meaning": "one hour",
+   "example_meaning": "I study for one hour.",
+   "example_phrase_reading": "Yīge xiǎoshí",
+   "example_sentence_reading": "Wǒ xuéxí yīge xiǎoshí.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/hour-ex.mp3",
+    "she": "vocab/audio/zh/she/hour-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-minute",
+   "concept": "minute",
+   "text": "分钟",
+   "speak": "分钟",
+   "reading": "fēnzhōng",
+   "meaning": "minute",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/minute.mp3",
+    "she": "vocab/audio/zh/she/minute.mp3"
+   },
+   "image": "vocab/img/minute.jpg",
+   "emoji": "⏲️",
+   "example_phrase": "五分钟",
+   "example_sentence": "请等五分钟。",
+   "example_phrase_meaning": "five minutes",
+   "example_meaning": "Please wait five minutes.",
+   "example_phrase_reading": "Wǔ fēnzhōng",
+   "example_sentence_reading": "Qǐng děng wǔ fēnzhōng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/minute-ex.mp3",
+    "she": "vocab/audio/zh/she/minute-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-second_time",
+   "concept": "second_time",
+   "text": "秒",
+   "speak": "秒",
+   "reading": "miǎo",
+   "meaning": "second (time)",
+   "topic": "time",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/second_time.mp3",
+    "she": "vocab/audio/zh/she/second_time.mp3"
+   },
+   "image": "vocab/img/second_time.jpg",
+   "emoji": "⏱️",
+   "example_phrase": "十秒",
+   "example_sentence": "等十秒。",
+   "example_phrase_meaning": "ten seconds",
+   "example_meaning": "Wait ten seconds.",
+   "example_phrase_reading": "Shí miǎo",
+   "example_sentence_reading": "Děng shí miǎo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/second_time-ex.mp3",
+    "she": "vocab/audio/zh/she/second_time-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-time",
+   "concept": "time",
+   "text": "时间",
+   "speak": "时间",
+   "reading": "shíjiān",
+   "meaning": "time",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/time.mp3",
+    "she": "vocab/audio/zh/she/time.mp3"
+   },
+   "image": "vocab/img/time.jpg",
+   "emoji": "🕰️",
+   "example_phrase": "空闲时间",
+   "example_sentence": "今天我没有时间。",
+   "example_phrase_meaning": "free time",
+   "example_meaning": "I have no time today.",
+   "example_phrase_reading": "Kòngxián shíjiān",
+   "example_sentence_reading": "Jīntiān wǒ méiyǒu shíjiān.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/time-ex.mp3",
+    "she": "vocab/audio/zh/she/time-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-clock",
+   "concept": "clock",
+   "text": "钟",
+   "speak": "钟",
+   "reading": "zhōng",
+   "meaning": "clock",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/clock.mp3",
+    "she": "vocab/audio/zh/she/clock.mp3"
+   },
+   "image": "vocab/img/clock.jpg",
+   "emoji": "🕰️",
+   "example_phrase": "大钟",
+   "example_sentence": "钟在墙上。",
+   "example_phrase_meaning": "a big clock",
+   "example_meaning": "The clock is on the wall.",
+   "example_phrase_reading": "Dà zhōng",
+   "example_sentence_reading": "Zhōng zài qiáng shàng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/clock-ex.mp3",
+    "she": "vocab/audio/zh/she/clock-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-monday",
+   "concept": "monday",
+   "text": "星期一",
+   "speak": "星期一",
+   "reading": "xīngqīyī",
+   "meaning": "Monday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/monday.mp3",
+    "she": "vocab/audio/zh/she/monday.mp3"
+   },
+   "image": "vocab/img/monday.jpg",
+   "emoji": "📅",
+   "example_phrase": "下个星期一",
+   "example_sentence": "我星期一工作。",
+   "example_phrase_meaning": "next Monday",
+   "example_meaning": "I work on Monday.",
+   "example_phrase_reading": "Xiàgèxīngqī yī",
+   "example_sentence_reading": "Wǒ xīngqīyī gōngzuò.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/monday-ex.mp3",
+    "she": "vocab/audio/zh/she/monday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-tuesday",
+   "concept": "tuesday",
+   "text": "星期二",
+   "speak": "星期二",
+   "reading": "xīngqī'èr",
+   "meaning": "Tuesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/tuesday.mp3",
+    "she": "vocab/audio/zh/she/tuesday.mp3"
+   },
+   "image": "vocab/img/tuesday.jpg",
+   "emoji": "📅",
+   "example_phrase": "每个星期二",
+   "example_sentence": "我每个星期二游泳。",
+   "example_phrase_meaning": "every Tuesday",
+   "example_meaning": "I swim every Tuesday.",
+   "example_phrase_reading": "Měige xīngqī'èr",
+   "example_sentence_reading": "Wǒ měige xīngqī'èr yóuyǒng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/tuesday-ex.mp3",
+    "she": "vocab/audio/zh/she/tuesday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-wednesday",
+   "concept": "wednesday",
+   "text": "星期三",
+   "speak": "星期三",
+   "reading": "xīngqīsān",
+   "meaning": "Wednesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/wednesday.mp3",
+    "she": "vocab/audio/zh/she/wednesday.mp3"
+   },
+   "image": "vocab/img/wednesday.jpg",
+   "emoji": "📅",
+   "example_phrase": "星期三",
+   "example_sentence": "我们星期三有课。",
+   "example_phrase_meaning": "on Wednesday",
+   "example_meaning": "We have class on Wednesday.",
+   "example_phrase_reading": "Xīngqīsān",
+   "example_sentence_reading": "Wǒmen xīngqīsān yǒu kè.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/wednesday-ex.mp3",
+    "she": "vocab/audio/zh/she/wednesday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-thursday",
+   "concept": "thursday",
+   "text": "星期四",
+   "speak": "星期四",
+   "reading": "xīngqīsì",
+   "meaning": "Thursday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/thursday.mp3",
+    "she": "vocab/audio/zh/she/thursday.mp3"
+   },
+   "image": "vocab/img/thursday.jpg",
+   "emoji": "📅",
+   "example_phrase": "星期四晚上",
+   "example_sentence": "我星期四见朋友。",
+   "example_phrase_meaning": "Thursday evening",
+   "example_meaning": "I see my friend on Thursday.",
+   "example_phrase_reading": "Xīngqīsì wǎnshang",
+   "example_sentence_reading": "Wǒ xīngqīsì jiàn péngyou.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/thursday-ex.mp3",
+    "she": "vocab/audio/zh/she/thursday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-friday",
+   "concept": "friday",
+   "text": "星期五",
+   "speak": "星期五",
+   "reading": "xīngqīwǔ",
+   "meaning": "Friday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/friday.mp3",
+    "she": "vocab/audio/zh/she/friday.mp3"
+   },
+   "image": "vocab/img/friday.jpg",
+   "emoji": "📅",
+   "example_phrase": "星期五晚上",
+   "example_sentence": "星期五是我最喜欢的一天。",
+   "example_phrase_meaning": "Friday night",
+   "example_meaning": "Friday is my favorite day.",
+   "example_phrase_reading": "Xīngqīwǔ wǎnshang",
+   "example_sentence_reading": "Xīngqīwǔ shì wǒ zuì xǐhuan de yī tiān.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/friday-ex.mp3",
+    "she": "vocab/audio/zh/she/friday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-saturday",
+   "concept": "saturday",
+   "text": "星期六",
+   "speak": "星期六",
+   "reading": "xīngqīliù",
+   "meaning": "Saturday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/saturday.mp3",
+    "she": "vocab/audio/zh/she/saturday.mp3"
+   },
+   "image": "vocab/img/saturday.jpg",
+   "emoji": "📅",
+   "example_phrase": "这个星期六",
+   "example_sentence": "这个星期六我去买东西。",
+   "example_phrase_meaning": "this Saturday",
+   "example_meaning": "This Saturday I will go shopping.",
+   "example_phrase_reading": "Zhège xīngqīliù",
+   "example_sentence_reading": "Zhège xīngqīliù wǒqù mǎidōngxi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/saturday-ex.mp3",
+    "she": "vocab/audio/zh/she/saturday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-sunday",
+   "concept": "sunday",
+   "text": "星期天",
+   "speak": "星期天",
+   "reading": "xīngqītiān",
+   "meaning": "Sunday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/sunday.mp3",
+    "she": "vocab/audio/zh/she/sunday.mp3"
+   },
+   "image": "vocab/img/sunday.jpg",
+   "emoji": "📅",
+   "example_phrase": "星期天",
+   "example_sentence": "星期天我在家休息。",
+   "example_phrase_meaning": "on Sunday",
+   "example_meaning": "On Sunday I rest at home.",
+   "example_phrase_reading": "Xīngqītiān",
+   "example_sentence_reading": "Xīngqītiān wǒ zàijiā xiūxi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/sunday-ex.mp3",
+    "she": "vocab/audio/zh/she/sunday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-weekend",
+   "concept": "weekend",
+   "text": "周末",
+   "speak": "周末",
+   "reading": "zhōumò",
+   "meaning": "weekend",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/weekend.mp3",
+    "she": "vocab/audio/zh/she/weekend.mp3"
+   },
+   "image": "vocab/img/weekend.jpg",
+   "emoji": "🏖️",
+   "example_phrase": "这个周末",
+   "example_sentence": "这个周末你做什么？",
+   "example_phrase_meaning": "this weekend",
+   "example_meaning": "What will you do this weekend?",
+   "example_phrase_reading": "Zhège zhōumò",
+   "example_sentence_reading": "Zhège zhōumò nǐ zuò shénme?",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/weekend-ex.mp3",
+    "she": "vocab/audio/zh/she/weekend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-spring",
+   "concept": "spring",
+   "text": "春天",
+   "speak": "春天",
+   "reading": "chūntiān",
+   "meaning": "spring",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/spring.mp3",
+    "she": "vocab/audio/zh/she/spring.mp3"
+   },
+   "image": "vocab/img/spring.jpg",
+   "emoji": "🌸",
+   "example_phrase": "春天的花",
+   "example_sentence": "春天花开了。",
+   "example_phrase_meaning": "in spring",
+   "example_meaning": "Flowers bloom in spring.",
+   "example_phrase_reading": "Chūntiān de huā",
+   "example_sentence_reading": "Chūntiān huā kāi le.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/spring-ex.mp3",
+    "she": "vocab/audio/zh/she/spring-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-summer",
+   "concept": "summer",
+   "text": "夏天",
+   "speak": "夏天",
+   "reading": "xiàtiān",
+   "meaning": "summer",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/summer.mp3",
+    "she": "vocab/audio/zh/she/summer.mp3"
+   },
+   "image": "vocab/img/summer.jpg",
+   "emoji": "☀️",
+   "example_phrase": "暑假",
+   "example_sentence": "夏天很热。",
+   "example_phrase_meaning": "summer vacation",
+   "example_meaning": "Summer is very hot.",
+   "example_phrase_reading": "Shǔjià",
+   "example_sentence_reading": "Xiàtiān hěn rè.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/summer-ex.mp3",
+    "she": "vocab/audio/zh/she/summer-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-autumn",
+   "concept": "autumn",
+   "text": "秋天",
+   "speak": "秋天",
+   "reading": "qiūtiān",
+   "meaning": "autumn",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/autumn.mp3",
+    "she": "vocab/audio/zh/she/autumn.mp3"
+   },
+   "image": "vocab/img/autumn.jpg",
+   "emoji": "🍂",
+   "example_phrase": "秋天的叶子",
+   "example_sentence": "秋天叶子变红了。",
+   "example_phrase_meaning": "autumn leaves",
+   "example_meaning": "In autumn the leaves turn red.",
+   "example_phrase_reading": "Qiūtiān de yèzi",
+   "example_sentence_reading": "Qiūtiān yèzi biànhóng le.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/autumn-ex.mp3",
+    "she": "vocab/audio/zh/she/autumn-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-winter",
+   "concept": "winter",
+   "text": "冬天",
+   "speak": "冬天",
+   "reading": "dōngtiān",
+   "meaning": "winter",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/winter.mp3",
+    "she": "vocab/audio/zh/she/winter.mp3"
+   },
+   "image": "vocab/img/winter.jpg",
+   "emoji": "❄️",
+   "example_phrase": "冷的冬天",
+   "example_sentence": "冬天下雪。",
+   "example_phrase_meaning": "cold winter",
+   "example_meaning": "It snows in winter.",
+   "example_phrase_reading": "Lěng de dōngtiān",
+   "example_sentence_reading": "Dōngtiān xiàxuě.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/winter-ex.mp3",
+    "she": "vocab/audio/zh/she/winter-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-birthday",
+   "concept": "birthday",
+   "text": "生日",
+   "speak": "生日",
+   "reading": "shēngrì",
+   "meaning": "birthday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/birthday.mp3",
+    "she": "vocab/audio/zh/she/birthday.mp3"
+   },
+   "image": "vocab/img/birthday.jpg",
+   "emoji": "🎂",
+   "example_phrase": "生日快乐",
+   "example_sentence": "今天是我的生日。",
+   "example_phrase_meaning": "happy birthday",
+   "example_meaning": "Today is my birthday.",
+   "example_phrase_reading": "Shēngrìkuàilè",
+   "example_sentence_reading": "Jīntiān shì wǒ de shēngrì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/birthday-ex.mp3",
+    "she": "vocab/audio/zh/she/birthday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-early",
+   "concept": "early",
+   "text": "早",
+   "speak": "早",
+   "reading": "zǎo",
+   "meaning": "early",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/early.mp3",
+    "she": "vocab/audio/zh/she/early.mp3"
+   },
+   "image": "vocab/img/early.jpg",
+   "emoji": "🐓",
+   "example_phrase": "早上很早",
+   "example_sentence": "我起得很早。",
+   "example_phrase_meaning": "early morning",
+   "example_meaning": "I get up early.",
+   "example_phrase_reading": "Zǎoshang hěn zǎo",
+   "example_sentence_reading": "Wǒ qǐ dehěn zǎo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/early-ex.mp3",
+    "she": "vocab/audio/zh/she/early-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-late",
+   "concept": "late",
+   "text": "晚",
+   "speak": "晚",
+   "reading": "wǎn",
+   "meaning": "late",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/late.mp3",
+    "she": "vocab/audio/zh/she/late.mp3"
+   },
+   "image": "vocab/img/late.jpg",
+   "emoji": "🏃",
+   "example_phrase": "很晚",
+   "example_sentence": "公共汽车来晚了。",
+   "example_phrase_meaning": "late at night",
+   "example_meaning": "The bus is late.",
+   "example_phrase_reading": "Hěn wǎn",
+   "example_sentence_reading": "Gōnggòngqìchē lái wǎn le.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/late-ex.mp3",
+    "she": "vocab/audio/zh/she/late-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-always",
+   "concept": "always",
+   "text": "总是",
+   "speak": "总是",
+   "reading": "zǒngshì",
+   "meaning": "always",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/always.mp3",
+    "she": "vocab/audio/zh/she/always.mp3"
+   },
+   "image": "vocab/img/always.jpg",
+   "emoji": "♾️",
+   "example_phrase": "总是很开心",
+   "example_sentence": "她总是很开心。",
+   "example_phrase_meaning": "always happy",
+   "example_meaning": "She is always happy.",
+   "example_phrase_reading": "Zǒngshì hěn kāixīn",
+   "example_sentence_reading": "Tā zǒngshì hěn kāixīn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/always-ex.mp3",
+    "she": "vocab/audio/zh/she/always-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-sometimes",
+   "concept": "sometimes",
+   "text": "有时候",
+   "speak": "有时候",
+   "reading": "yǒushíhou",
+   "meaning": "sometimes",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/sometimes.mp3",
+    "she": "vocab/audio/zh/she/sometimes.mp3"
+   },
+   "image": "vocab/img/sometimes.jpg",
+   "emoji": "🌦️",
+   "example_phrase": "有时候迟到",
+   "example_sentence": "我有时候在家做饭。",
+   "example_phrase_meaning": "sometimes late",
+   "example_meaning": "Sometimes I cook at home.",
+   "example_phrase_reading": "Yǒushíhou chídào",
+   "example_sentence_reading": "Wǒ yǒushíhou zàijiā zuòfàn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/sometimes-ex.mp3",
+    "she": "vocab/audio/zh/she/sometimes-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-often",
+   "concept": "often",
+   "text": "经常",
+   "speak": "经常",
+   "reading": "jīngcháng",
+   "meaning": "often",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/often.mp3",
+    "she": "vocab/audio/zh/she/often.mp3"
+   },
+   "image": "vocab/img/often.jpg",
+   "emoji": "🔁",
+   "example_phrase": "经常去",
+   "example_sentence": "我经常喝咖啡。",
+   "example_phrase_meaning": "often go",
+   "example_meaning": "I often drink coffee.",
+   "example_phrase_reading": "Jīngcháng qù",
+   "example_sentence_reading": "Wǒ jīngcháng hē kāfēi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/often-ex.mp3",
+    "she": "vocab/audio/zh/she/often-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-later",
+   "concept": "later",
+   "text": "以后",
+   "speak": "以后",
+   "reading": "yǐhòu",
+   "meaning": "later",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/later.mp3",
+    "she": "vocab/audio/zh/she/later.mp3"
+   },
+   "image": "vocab/img/later.jpg",
+   "emoji": "⏳",
+   "example_phrase": "以后再说",
+   "example_sentence": "我以后给你打电话。",
+   "example_phrase_meaning": "see you later",
+   "example_meaning": "I will call you later.",
+   "example_phrase_reading": "Yǐhòu zàishuō",
+   "example_sentence_reading": "Wǒ yǐhòu gěi nǐ dǎdiànhuà.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/later-ex.mp3",
+    "she": "vocab/audio/zh/she/later-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-calendar",
+   "concept": "calendar",
+   "text": "日历",
+   "speak": "日历",
+   "reading": "rìlì",
+   "meaning": "calendar",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/calendar.mp3",
+    "she": "vocab/audio/zh/she/calendar.mp3"
+   },
+   "image": "vocab/img/calendar.jpg",
+   "emoji": "📆",
+   "example_phrase": "新日历",
+   "example_sentence": "日历在墙上。",
+   "example_phrase_meaning": "a new calendar",
+   "example_meaning": "The calendar is on the wall.",
+   "example_phrase_reading": "Xīn rìlì",
+   "example_sentence_reading": "Rìlì zài qiáng shàng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/calendar-ex.mp3",
+    "she": "vocab/audio/zh/she/calendar-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-mother",
+   "concept": "mother",
+   "text": "妈妈",
+   "speak": "妈妈",
+   "reading": "māma",
+   "meaning": "mom",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/mother.mp3",
+    "she": "vocab/audio/zh/she/mother.mp3"
+   },
+   "image": "vocab/img/mother.jpg",
+   "emoji": "👩",
+   "legacy": true,
+   "example_phrase": "我的妈妈",
+   "example_sentence": "我妈妈是老师。",
+   "example_phrase_meaning": "my mother",
+   "example_meaning": "My mother is a teacher.",
+   "example_phrase_reading": "Wǒ de māma",
+   "example_sentence_reading": "Wǒ māma shì lǎoshī.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/mother-ex.mp3",
+    "she": "vocab/audio/zh/she/mother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-father",
+   "concept": "father",
+   "text": "爸爸",
+   "speak": "爸爸",
+   "reading": "bàba",
+   "meaning": "dad",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/father.mp3",
+    "she": "vocab/audio/zh/she/father.mp3"
+   },
+   "image": "vocab/img/father.jpg",
+   "emoji": "👨",
+   "legacy": true,
+   "example_phrase": "我的爸爸",
+   "example_sentence": "我爸爸做晚饭。",
+   "example_phrase_meaning": "my father",
+   "example_meaning": "My father cooks dinner.",
+   "example_phrase_reading": "Wǒ de bàba",
+   "example_sentence_reading": "Wǒ bàba zuò wǎnfàn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/father-ex.mp3",
+    "she": "vocab/audio/zh/she/father-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-parents",
+   "concept": "parents",
+   "text": "父母",
+   "speak": "父母",
+   "reading": "fùmǔ",
+   "meaning": "parents",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/parents.mp3",
+    "she": "vocab/audio/zh/she/parents.mp3"
+   },
+   "image": "vocab/img/parents.jpg",
+   "emoji": "👪",
+   "example_phrase": "我的父母",
+   "example_sentence": "我父母住在顺化。",
+   "example_phrase_meaning": "my parents",
+   "example_meaning": "My parents live in Hue.",
+   "example_phrase_reading": "Wǒ de fùmǔ",
+   "example_sentence_reading": "Wǒ fùmǔ zhù zài shùnhuà.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/parents-ex.mp3",
+    "she": "vocab/audio/zh/she/parents-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-older_brother",
+   "concept": "older_brother",
+   "text": "哥哥",
+   "speak": "哥哥",
+   "reading": "gēge",
+   "meaning": "older brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/older_brother.mp3",
+    "she": "vocab/audio/zh/she/older_brother.mp3"
+   },
+   "image": "vocab/img/older_brother.jpg",
+   "emoji": "👦",
+   "example_phrase": "我的哥哥",
+   "example_sentence": "我哥哥很高。",
+   "example_phrase_meaning": "my older brother",
+   "example_meaning": "My older brother is tall.",
+   "example_phrase_reading": "Wǒ dīgē gē",
+   "example_sentence_reading": "Wǒ gēge hěn gāo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/older_brother-ex.mp3",
+    "she": "vocab/audio/zh/she/older_brother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-older_sister",
+   "concept": "older_sister",
+   "text": "姐姐",
+   "speak": "姐姐",
+   "reading": "jiějie",
+   "meaning": "older sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/older_sister.mp3",
+    "she": "vocab/audio/zh/she/older_sister.mp3"
+   },
+   "image": "vocab/img/older_sister.jpg",
+   "emoji": "👧",
+   "example_phrase": "我的姐姐",
+   "example_sentence": "我姐姐喜欢音乐。",
+   "example_phrase_meaning": "my older sister",
+   "example_meaning": "My older sister likes music.",
+   "example_phrase_reading": "Wǒ dījiě jiě",
+   "example_sentence_reading": "Wǒ jiějie xǐhuan yīnyuè.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/older_sister-ex.mp3",
+    "she": "vocab/audio/zh/she/older_sister-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-younger_brother",
+   "concept": "younger_brother",
+   "text": "弟弟",
+   "speak": "弟弟",
+   "reading": "dìdi",
+   "meaning": "younger brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/younger_brother.mp3",
+    "she": "vocab/audio/zh/she/younger_brother.mp3"
+   },
+   "image": "vocab/img/younger_brother.jpg",
+   "emoji": "👦",
+   "example_phrase": "我的弟弟",
+   "example_sentence": "我弟弟五岁。",
+   "example_phrase_meaning": "my little brother",
+   "example_meaning": "My little brother is five years old.",
+   "example_phrase_reading": "Wǒ de dìdi",
+   "example_sentence_reading": "Wǒ dìdi wǔ suì.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/younger_brother-ex.mp3",
+    "she": "vocab/audio/zh/she/younger_brother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-younger_sister",
+   "concept": "younger_sister",
+   "text": "妹妹",
+   "speak": "妹妹",
+   "reading": "mèimei",
+   "meaning": "younger sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/younger_sister.mp3",
+    "she": "vocab/audio/zh/she/younger_sister.mp3"
+   },
+   "image": "vocab/img/younger_sister.jpg",
+   "emoji": "👧",
+   "example_phrase": "我的妹妹",
+   "example_sentence": "我妹妹很喜欢猫。",
+   "example_phrase_meaning": "my little sister",
+   "example_meaning": "My little sister loves cats.",
+   "example_phrase_reading": "Wǒ de mèimei",
+   "example_sentence_reading": "Wǒ mèimei hěn xǐhuan māo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/younger_sister-ex.mp3",
+    "she": "vocab/audio/zh/she/younger_sister-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-son",
+   "concept": "son",
+   "text": "儿子",
+   "speak": "儿子",
+   "reading": "érzi",
+   "meaning": "son",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/son.mp3",
+    "she": "vocab/audio/zh/she/son.mp3"
+   },
+   "image": "vocab/img/son.jpg",
+   "emoji": "👦",
+   "example_phrase": "他们的儿子",
+   "example_sentence": "他们的儿子是医生。",
+   "example_phrase_meaning": "their son",
+   "example_meaning": "Their son is a doctor.",
+   "example_phrase_reading": "Tāmen de érzi",
+   "example_sentence_reading": "Tāmen de érzi shì yīshēng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/son-ex.mp3",
+    "she": "vocab/audio/zh/she/son-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-daughter",
+   "concept": "daughter",
+   "text": "女儿",
+   "speak": "女儿",
+   "reading": "nǚ'ér",
+   "meaning": "daughter",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/daughter.mp3",
+    "she": "vocab/audio/zh/she/daughter.mp3"
+   },
+   "image": "vocab/img/daughter.jpg",
+   "emoji": "👧",
+   "example_phrase": "她的女儿",
+   "example_sentence": "她的女儿很聪明。",
+   "example_phrase_meaning": "her daughter",
+   "example_meaning": "Her daughter is very smart.",
+   "example_phrase_reading": "Tā de nǚ'ér",
+   "example_sentence_reading": "Tā de nǚ'ér hěn cōngming.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/daughter-ex.mp3",
+    "she": "vocab/audio/zh/she/daughter-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-child",
+   "concept": "child",
+   "text": "孩子",
+   "speak": "孩子",
+   "reading": "háizi",
+   "meaning": "child",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/child.mp3",
+    "she": "vocab/audio/zh/she/child.mp3"
+   },
+   "image": "vocab/img/child.jpg",
+   "emoji": "🧒",
+   "example_phrase": "快乐的孩子",
+   "example_sentence": "孩子在公园里玩。",
+   "example_phrase_meaning": "a happy child",
+   "example_meaning": "The child is playing in the park.",
+   "example_phrase_reading": "Kuàilè de háizi",
+   "example_sentence_reading": "Háizi zài gōngyuán lǐ wán.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/child-ex.mp3",
+    "she": "vocab/audio/zh/she/child-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-baby",
+   "concept": "baby",
+   "text": "宝宝",
+   "speak": "宝宝",
+   "reading": "bǎobao",
+   "meaning": "baby",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/baby.mp3",
+    "she": "vocab/audio/zh/she/baby.mp3"
+   },
+   "image": "vocab/img/baby.jpg",
+   "emoji": "👶",
+   "example_phrase": "可爱的宝宝",
+   "example_sentence": "宝宝在睡觉。",
+   "example_phrase_meaning": "a cute baby",
+   "example_meaning": "The baby is sleeping.",
+   "example_phrase_reading": "Kě'ài de bǎobao",
+   "example_sentence_reading": "Bǎobao zài shuìjiào.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/baby-ex.mp3",
+    "she": "vocab/audio/zh/she/baby-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-grandmother",
+   "concept": "grandmother",
+   "text": "奶奶",
+   "speak": "奶奶",
+   "reading": "nǎinai",
+   "meaning": "grandmother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/grandmother.mp3",
+    "she": "vocab/audio/zh/she/grandmother.mp3"
+   },
+   "image": "vocab/img/grandmother.jpg",
+   "emoji": "👵",
+   "example_phrase": "我的奶奶",
+   "example_sentence": "我奶奶做的汤很好喝。",
+   "example_phrase_meaning": "my grandmother",
+   "example_meaning": "My grandmother makes good soup.",
+   "example_phrase_reading": "Wǒ de nǎinai",
+   "example_sentence_reading": "Wǒ nǎinai zuò de tāng hěn hǎohē.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/grandmother-ex.mp3",
+    "she": "vocab/audio/zh/she/grandmother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-grandfather",
+   "concept": "grandfather",
+   "text": "爷爷",
+   "speak": "爷爷",
+   "reading": "yéye",
+   "meaning": "grandfather",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/grandfather.mp3",
+    "she": "vocab/audio/zh/she/grandfather.mp3"
+   },
+   "image": "vocab/img/grandfather.jpg",
+   "emoji": "👴",
+   "example_phrase": "我的爷爷",
+   "example_sentence": "我爷爷看报纸。",
+   "example_phrase_meaning": "my grandfather",
+   "example_meaning": "My grandfather reads the newspaper.",
+   "example_phrase_reading": "Wǒ de yéye",
+   "example_sentence_reading": "Wǒ yéye kàn bàozhǐ.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/grandfather-ex.mp3",
+    "she": "vocab/audio/zh/she/grandfather-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-husband",
+   "concept": "husband",
+   "text": "丈夫",
+   "speak": "丈夫",
+   "reading": "zhàngfu",
+   "meaning": "husband",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/husband.mp3",
+    "she": "vocab/audio/zh/she/husband.mp3"
+   },
+   "image": "vocab/img/husband.jpg",
+   "emoji": "🤵",
+   "example_phrase": "她的丈夫",
+   "example_sentence": "她的丈夫很好。",
+   "example_phrase_meaning": "her husband",
+   "example_meaning": "Her husband is kind.",
+   "example_phrase_reading": "Tā de zhàngfu",
+   "example_sentence_reading": "Tā de zhàngfu hěn hǎo.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/husband-ex.mp3",
+    "she": "vocab/audio/zh/she/husband-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-wife",
+   "concept": "wife",
+   "text": "妻子",
+   "speak": "妻子",
+   "reading": "qīzǐ",
+   "meaning": "wife",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/wife.mp3",
+    "she": "vocab/audio/zh/she/wife.mp3"
+   },
+   "image": "vocab/img/wife.jpg",
+   "emoji": "👰",
+   "example_phrase": "他的妻子",
+   "example_sentence": "他的妻子是护士。",
+   "example_phrase_meaning": "his wife",
+   "example_meaning": "His wife is a nurse.",
+   "example_phrase_reading": "Tā de qīzǐ",
+   "example_sentence_reading": "Tā de qīzǐ shì hùshi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/wife-ex.mp3",
+    "she": "vocab/audio/zh/she/wife-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-family",
+   "concept": "family",
+   "text": "家人",
+   "speak": "家人",
+   "reading": "jiārén",
+   "meaning": "family",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/family.mp3",
+    "she": "vocab/audio/zh/she/family.mp3"
+   },
+   "image": "vocab/img/family.jpg",
+   "emoji": "👨‍👩‍👧",
+   "example_phrase": "我的家人",
+   "example_sentence": "我家有四口人。",
+   "example_phrase_meaning": "my family",
+   "example_meaning": "My family has four people.",
+   "example_phrase_reading": "Wǒ de jiārén",
+   "example_sentence_reading": "Wǒ jiā yǒu sì kǒu rén.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/family-ex.mp3",
+    "she": "vocab/audio/zh/she/family-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-uncle",
+   "concept": "uncle",
+   "text": "叔叔",
+   "speak": "叔叔",
+   "reading": "shūshu",
+   "meaning": "uncle",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/uncle.mp3",
+    "she": "vocab/audio/zh/she/uncle.mp3"
+   },
+   "image": "vocab/img/uncle.jpg",
+   "emoji": "👨",
+   "example_phrase": "我的叔叔",
+   "example_sentence": "我叔叔住在岘港。",
+   "example_phrase_meaning": "my uncle",
+   "example_meaning": "My uncle lives in Da Nang.",
+   "example_phrase_reading": "Wǒ de shūshu",
+   "example_sentence_reading": "Wǒ shūshu zhù zài xiàngǎng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/uncle-ex.mp3",
+    "she": "vocab/audio/zh/she/uncle-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-aunt",
+   "concept": "aunt",
+   "text": "阿姨",
+   "speak": "阿姨",
+   "reading": "āyí",
+   "meaning": "aunt",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/aunt.mp3",
+    "she": "vocab/audio/zh/she/aunt.mp3"
+   },
+   "image": "vocab/img/aunt.jpg",
+   "emoji": "👩",
+   "example_phrase": "我的阿姨",
+   "example_sentence": "阿姨送给我一个礼物。",
+   "example_phrase_meaning": "my aunt",
+   "example_meaning": "My aunt gave me a gift.",
+   "example_phrase_reading": "Wǒ de āyí",
+   "example_sentence_reading": "Āyí sònggěi wǒ yīge lǐwù.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/aunt-ex.mp3",
+    "she": "vocab/audio/zh/she/aunt-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-grandchild",
+   "concept": "grandchild",
+   "text": "孙子",
+   "speak": "孙子",
+   "reading": "sūnzi",
+   "meaning": "grandchild",
+   "topic": "family",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/grandchild.mp3",
+    "she": "vocab/audio/zh/she/grandchild.mp3"
+   },
+   "image": "vocab/img/grandchild.jpg",
+   "emoji": "👶",
+   "example_phrase": "她的孙子",
+   "example_sentence": "奶奶和孙子一起玩。",
+   "example_phrase_meaning": "her grandchild",
+   "example_meaning": "Grandma plays with her grandchild.",
+   "example_phrase_reading": "Tā de sūnzi",
+   "example_sentence_reading": "Nǎinai hé sūnzi yīqǐ wán.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/grandchild-ex.mp3",
+    "she": "vocab/audio/zh/she/grandchild-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-person",
+   "concept": "person",
+   "text": "人",
+   "speak": "人",
+   "reading": "rén",
+   "meaning": "person",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/person.mp3",
+    "she": "vocab/audio/zh/she/person.mp3"
+   },
+   "image": "vocab/img/person.jpg",
+   "emoji": "🧍",
+   "example_phrase": "一个好人",
+   "example_sentence": "他是一个好人。",
+   "example_phrase_meaning": "a kind person",
+   "example_meaning": "He is a kind person.",
+   "example_phrase_reading": "Yīge hǎorén",
+   "example_sentence_reading": "Tā shì yīge hǎorén.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/person-ex.mp3",
+    "she": "vocab/audio/zh/she/person-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-man",
+   "concept": "man",
+   "text": "男人",
+   "speak": "男人",
+   "reading": "nánrén",
+   "meaning": "man",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/man.mp3",
+    "she": "vocab/audio/zh/she/man.mp3"
+   },
+   "image": "vocab/img/man.jpg",
+   "emoji": "👨",
+   "example_phrase": "高个子男人",
+   "example_sentence": "那个男人是我的老师。",
+   "example_phrase_meaning": "a tall man",
+   "example_meaning": "That man is my teacher.",
+   "example_phrase_reading": "Gāogèzi nánrén",
+   "example_sentence_reading": "Nàge nánrén shì wǒ de lǎoshī.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/man-ex.mp3",
+    "she": "vocab/audio/zh/she/man-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-woman",
+   "concept": "woman",
+   "text": "女人",
+   "speak": "女人",
+   "reading": "nǚrén",
+   "meaning": "woman",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/woman.mp3",
+    "she": "vocab/audio/zh/she/woman.mp3"
+   },
+   "image": "vocab/img/woman.jpg",
+   "emoji": "👩",
+   "example_phrase": "年轻的女人",
+   "example_sentence": "那个女人在看书。",
+   "example_phrase_meaning": "a young woman",
+   "example_meaning": "The woman is reading a book.",
+   "example_phrase_reading": "Niánqīng de nǚrén",
+   "example_sentence_reading": "Nàge nǚrén zài kànshū.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/woman-ex.mp3",
+    "she": "vocab/audio/zh/she/woman-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-boy",
+   "concept": "boy",
+   "text": "男孩",
+   "speak": "男孩",
+   "reading": "nánhái",
+   "meaning": "boy",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/boy.mp3",
+    "she": "vocab/audio/zh/she/boy.mp3"
+   },
+   "image": "vocab/img/boy.jpg",
+   "emoji": "👦",
+   "example_phrase": "小男孩",
+   "example_sentence": "男孩在跑步。",
+   "example_phrase_meaning": "a little boy",
+   "example_meaning": "The boy is running.",
+   "example_phrase_reading": "Xiǎo nánhái",
+   "example_sentence_reading": "Nánhái zài pǎobù.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/boy-ex.mp3",
+    "she": "vocab/audio/zh/she/boy-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-girl",
+   "concept": "girl",
+   "text": "女孩",
+   "speak": "女孩",
+   "reading": "nǚhái",
+   "meaning": "girl",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/girl.mp3",
+    "she": "vocab/audio/zh/she/girl.mp3"
+   },
+   "image": "vocab/img/girl.jpg",
+   "emoji": "👧",
+   "example_phrase": "聪明的女孩",
+   "example_sentence": "这个女孩喜欢画画。",
+   "example_phrase_meaning": "a smart girl",
+   "example_meaning": "The girl likes to draw.",
+   "example_phrase_reading": "Cōngming de nǚhái",
+   "example_sentence_reading": "Zhège nǚhái xǐhuan huàhuà.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/girl-ex.mp3",
+    "she": "vocab/audio/zh/she/girl-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-friend",
+   "concept": "friend",
+   "text": "朋友",
+   "speak": "朋友",
+   "reading": "péngyou",
+   "meaning": "friend",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/friend.mp3",
+    "she": "vocab/audio/zh/she/friend.mp3"
+   },
+   "image": "vocab/img/friend.jpg",
+   "emoji": "🧑‍🤝‍🧑",
+   "example_phrase": "我最好的朋友",
+   "example_sentence": "我的朋友住在附近。",
+   "example_phrase_meaning": "my best friend",
+   "example_meaning": "My friend lives near here.",
+   "example_phrase_reading": "Wǒ zuìhǎo de péngyou",
+   "example_sentence_reading": "Wǒ de péngyou zhù zài fùjìn.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/friend-ex.mp3",
+    "she": "vocab/audio/zh/she/friend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-teacher",
+   "concept": "teacher",
+   "text": "老师",
+   "speak": "老师",
+   "reading": "lǎoshī",
+   "meaning": "teacher",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/teacher.mp3",
+    "she": "vocab/audio/zh/she/teacher.mp3"
+   },
+   "image": "vocab/img/teacher.jpg",
+   "emoji": "🧑‍🏫",
+   "example_phrase": "我们的老师",
+   "example_sentence": "我们的老师很有意思。",
+   "example_phrase_meaning": "our teacher",
+   "example_meaning": "Our teacher is very funny.",
+   "example_phrase_reading": "Wǒmen de lǎoshī",
+   "example_sentence_reading": "Wǒmen de lǎoshī hěn yǒuyìsi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/teacher-ex.mp3",
+    "she": "vocab/audio/zh/she/teacher-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-student",
+   "concept": "student",
+   "text": "学生",
+   "speak": "学生",
+   "reading": "xuésheng",
+   "meaning": "student",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/student.mp3",
+    "she": "vocab/audio/zh/she/student.mp3"
+   },
+   "image": "vocab/img/student.jpg",
+   "emoji": "🧑‍🎓",
+   "example_phrase": "新学生",
+   "example_sentence": "我是学生。",
+   "example_phrase_meaning": "a new student",
+   "example_meaning": "I am a student.",
+   "example_phrase_reading": "Xīn xuésheng",
+   "example_sentence_reading": "Wǒ shì xuésheng.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/student-ex.mp3",
+    "she": "vocab/audio/zh/she/student-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-neighbor",
+   "concept": "neighbor",
+   "text": "邻居",
+   "speak": "邻居",
+   "reading": "línjū",
+   "meaning": "neighbor",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/neighbor.mp3",
+    "she": "vocab/audio/zh/she/neighbor.mp3"
+   },
+   "image": "vocab/img/neighbor.jpg",
+   "emoji": "🏘️",
+   "example_phrase": "我的邻居",
+   "example_sentence": "我的邻居有一只大狗。",
+   "example_phrase_meaning": "my neighbor",
+   "example_meaning": "My neighbor has a big dog.",
+   "example_phrase_reading": "Wǒ de línjū",
+   "example_sentence_reading": "Wǒ de línjū yǒu yī zhī dà gǒu.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/neighbor-ex.mp3",
+    "she": "vocab/audio/zh/she/neighbor-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-guest",
+   "concept": "guest",
+   "text": "客人",
+   "speak": "客人",
+   "reading": "kèrén",
+   "meaning": "guest",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/guest.mp3",
+    "she": "vocab/audio/zh/she/guest.mp3"
+   },
+   "image": "vocab/img/guest.jpg",
+   "emoji": "🛎️",
+   "example_phrase": "特别的客人",
+   "example_sentence": "今天晚上我们家有客人。",
+   "example_phrase_meaning": "a special guest",
+   "example_meaning": "We have a guest tonight.",
+   "example_phrase_reading": "Tèbié de kèrén",
+   "example_sentence_reading": "Jīntiān wǎnshang wǒmen jiā yǒu kèrén.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/guest-ex.mp3",
+    "she": "vocab/audio/zh/she/guest-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-everyone",
+   "concept": "everyone",
+   "text": "大家",
+   "speak": "大家",
+   "reading": "dàjiā",
+   "meaning": "everyone",
+   "topic": "people",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/everyone.mp3",
+    "she": "vocab/audio/zh/she/everyone.mp3"
+   },
+   "image": "vocab/img/everyone.jpg",
+   "emoji": "👥",
+   "example_phrase": "大家好",
+   "example_sentence": "大家都喜欢冰淇淋。",
+   "example_phrase_meaning": "hello everyone",
+   "example_meaning": "Everyone likes ice cream.",
+   "example_phrase_reading": "Dàjiā hǎo",
+   "example_sentence_reading": "Dàjiā dōu xǐhuan bīngqílín.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/everyone-ex.mp3",
+    "she": "vocab/audio/zh/she/everyone-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-adult",
+   "concept": "adult",
+   "text": "大人",
+   "speak": "大人",
+   "reading": "dàren",
+   "meaning": "adult",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/adult.mp3",
+    "she": "vocab/audio/zh/she/adult.mp3"
+   },
+   "image": "vocab/img/adult.jpg",
+   "emoji": "🧑",
+   "example_phrase": "两个大人",
+   "example_sentence": "两个大人，一个孩子。",
+   "example_phrase_meaning": "two adults",
+   "example_meaning": "Two adults and one child, please.",
+   "example_phrase_reading": "Liǎng gè dàren",
+   "example_sentence_reading": "Liǎng gè dàren, yīge háizi.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/adult-ex.mp3",
+    "she": "vocab/audio/zh/she/adult-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-boyfriend",
+   "concept": "boyfriend",
+   "text": "男朋友",
+   "speak": "男朋友",
+   "reading": "nánpéngyou",
+   "meaning": "boyfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/boyfriend.mp3",
+    "she": "vocab/audio/zh/she/boyfriend.mp3"
+   },
+   "image": "vocab/img/boyfriend.jpg",
+   "emoji": "💑",
+   "example_phrase": "她的男朋友",
+   "example_sentence": "她的男朋友是西班牙人。",
+   "example_phrase_meaning": "her boyfriend",
+   "example_meaning": "Her boyfriend is from Spain.",
+   "example_phrase_reading": "Tā de nánpéngyou",
+   "example_sentence_reading": "Tā de nánpéngyou shì xībānyárén.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/boyfriend-ex.mp3",
+    "she": "vocab/audio/zh/she/boyfriend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-girlfriend",
+   "concept": "girlfriend",
+   "text": "女朋友",
+   "speak": "女朋友",
+   "reading": "nǚpéngyou",
+   "meaning": "girlfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/girlfriend.mp3",
+    "she": "vocab/audio/zh/she/girlfriend.mp3"
+   },
+   "image": "vocab/img/girlfriend.jpg",
+   "emoji": "💑",
+   "example_phrase": "他的女朋友",
+   "example_sentence": "他的女朋友是歌手。",
+   "example_phrase_meaning": "his girlfriend",
+   "example_meaning": "His girlfriend is a singer.",
+   "example_phrase_reading": "Tā de nǚpéngyou",
+   "example_sentence_reading": "Tā de nǚpéngyou shì gēshǒu.",
+   "example_audio": {
+    "he": "vocab/audio/zh/he/girlfriend-ex.mp3",
+    "she": "vocab/audio/zh/she/girlfriend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "zh-i",
+   "concept": "i",
+   "text": "我",
+   "speak": "我",
+   "reading": "wǒ",
+   "meaning": "I",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/i.mp3",
+    "she": "vocab/audio/zh/she/i.mp3"
+   },
+   "image": "vocab/img/i.jpg",
+   "emoji": "🙋",
+   "review": false
+  },
+  {
+   "id": "zh-you",
+   "concept": "you",
+   "text": "你",
+   "speak": "你",
+   "reading": "nǐ",
+   "meaning": "you",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/you.mp3",
+    "she": "vocab/audio/zh/she/you.mp3"
+   },
+   "image": "vocab/img/you.jpg",
+   "emoji": "🫵",
+   "review": false
+  },
+  {
+   "id": "zh-he",
+   "concept": "he",
+   "text": "他",
+   "speak": "他",
+   "reading": "tā",
+   "meaning": "he",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/he.mp3",
+    "she": "vocab/audio/zh/she/he.mp3"
+   },
+   "image": "vocab/img/he.jpg",
+   "emoji": "👨",
+   "review": false
+  },
+  {
+   "id": "zh-she",
+   "concept": "she",
+   "text": "她",
+   "speak": "她",
+   "reading": "tā",
+   "meaning": "she",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/she.mp3",
+    "she": "vocab/audio/zh/she/she.mp3"
+   },
+   "image": "vocab/img/she.jpg",
+   "emoji": "👩",
+   "review": false
+  },
+  {
+   "id": "zh-we",
+   "concept": "we",
+   "text": "我们",
+   "speak": "我们",
+   "reading": "wǒmen",
+   "meaning": "we",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/we.mp3",
+    "she": "vocab/audio/zh/she/we.mp3"
+   },
+   "image": "vocab/img/we.jpg",
+   "emoji": "👫",
+   "review": false
+  },
+  {
+   "id": "zh-they",
+   "concept": "they",
+   "text": "他们",
+   "speak": "他们",
+   "reading": "tāmen",
+   "meaning": "they",
+   "topic": "pronouns",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/they.mp3",
+    "she": "vocab/audio/zh/she/they.mp3"
+   },
+   "image": "vocab/img/they.jpg",
+   "emoji": "👥",
+   "review": false
+  },
+  {
+   "id": "zh-this",
+   "concept": "this",
+   "text": "这个",
+   "speak": "这个",
+   "reading": "zhège",
+   "meaning": "this",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/this.mp3",
+    "she": "vocab/audio/zh/she/this.mp3"
+   },
+   "image": "vocab/img/this.jpg",
+   "emoji": "👇",
+   "review": false
+  },
+  {
+   "id": "zh-that",
+   "concept": "that",
+   "text": "那个",
+   "speak": "那个",
+   "reading": "nàge",
+   "meaning": "that",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/zh/he/that.mp3",
+    "she": "vocab/audio/zh/she/that.mp3"
+   },
+   "image": "vocab/img/that.jpg",
+   "emoji": "👉",
+   "review": false
+  },
+  {
+   "id": "zh-here",
+   "concept": "here",
+   "text": "这里",
+   "speak": "这里",
+   "reading": "zhèlǐ",
+   "meaning": "here",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/here.mp3",
+    "she": "vocab/audio/zh/she/here.mp3"
+   },
+   "image": "vocab/img/here.jpg",
+   "emoji": "📍",
+   "review": false
+  },
+  {
+   "id": "zh-there",
+   "concept": "there",
+   "text": "那里",
+   "speak": "那里",
+   "reading": "nàli",
+   "meaning": "there",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/zh/he/there.mp3",
+    "she": "vocab/audio/zh/she/there.mp3"
+   },
+   "image": "vocab/img/there.jpg",
+   "emoji": "🗺️",
+   "review": false
+  },
+  {
+   "id": "zh-what",
+   "concept": "what",
+   "text": "什么",
+   "speak": "什么",
+   "reading": "shénme",
+   "meaning": "what",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/what.mp3",
+    "she": "vocab/audio/zh/she/what.mp3"
+   },
+   "image": "vocab/img/what.jpg",
+   "emoji": "❓",
+   "review": false
+  },
+  {
+   "id": "zh-who",
+   "concept": "who",
+   "text": "谁",
+   "speak": "谁",
+   "reading": "shéi",
+   "meaning": "who",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/who.mp3",
+    "she": "vocab/audio/zh/she/who.mp3"
+   },
+   "image": "vocab/img/who.jpg",
+   "emoji": "🕵️",
+   "review": false
+  },
+  {
+   "id": "zh-where",
+   "concept": "where",
+   "text": "哪里",
+   "speak": "哪里",
+   "reading": "nǎlǐ",
+   "meaning": "where",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/where.mp3",
+    "she": "vocab/audio/zh/she/where.mp3"
+   },
+   "image": "vocab/img/where.jpg",
+   "emoji": "🧭",
+   "review": false
+  },
+  {
+   "id": "zh-when",
+   "concept": "when",
+   "text": "什么时候",
+   "speak": "什么时候",
+   "reading": "shénmeshíhou",
+   "meaning": "when",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/when.mp3",
+    "she": "vocab/audio/zh/she/when.mp3"
+   },
+   "image": "vocab/img/when.jpg",
+   "emoji": "⏰",
+   "review": false
+  },
+  {
+   "id": "zh-why",
+   "concept": "why",
+   "text": "为什么",
+   "speak": "为什么",
+   "reading": "wèishénme",
+   "meaning": "why",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/why.mp3",
+    "she": "vocab/audio/zh/she/why.mp3"
+   },
+   "image": "vocab/img/why.jpg",
+   "emoji": "🤔",
+   "review": false
+  },
+  {
+   "id": "zh-how",
+   "concept": "how",
+   "text": "怎么",
+   "speak": "怎么",
+   "reading": "zěnme",
+   "meaning": "how",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/how.mp3",
+    "she": "vocab/audio/zh/she/how.mp3"
+   },
+   "image": "vocab/img/how.jpg",
+   "emoji": "🛠️",
+   "review": false
+  },
+  {
+   "id": "zh-how_much_price",
+   "concept": "how_much_price",
+   "text": "多少钱",
+   "speak": "多少钱",
+   "reading": "duōshǎoqián",
+   "meaning": "how much (price)",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/how_much_price.mp3",
+    "she": "vocab/audio/zh/she/how_much_price.mp3"
+   },
+   "image": "vocab/img/how_much_price.jpg",
+   "emoji": "🏷️",
+   "review": false
+  },
+  {
+   "id": "zh-which",
+   "concept": "which",
+   "text": "哪个",
+   "speak": "哪个",
+   "reading": "nǎge",
+   "meaning": "which",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/which.mp3",
+    "she": "vocab/audio/zh/she/which.mp3"
+   },
+   "image": "vocab/img/which.jpg",
+   "emoji": "🔀",
+   "review": false
+  },
+  {
+   "id": "zh-how_many",
+   "concept": "how_many",
+   "text": "几个",
+   "speak": "几个",
+   "reading": "jǐge",
+   "meaning": "how many",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/zh/he/how_many.mp3",
+    "she": "vocab/audio/zh/she/how_many.mp3"
+   },
+   "image": "vocab/img/how_many.jpg",
+   "emoji": "🔢",
+   "review": false
+  },
+  {
+   "id": "zh-head",
+   "concept": "head",
+   "text": "头",
+   "speak": "头",
+   "reading": "tóu",
+   "meaning": "head",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/head.mp3",
+    "she": "vocab/audio/zh/she/head.mp3"
+   },
+   "image": "vocab/img/head.jpg",
+   "emoji": "🙂",
+   "review": false
+  },
+  {
+   "id": "zh-face",
+   "concept": "face",
+   "text": "脸",
+   "speak": "脸",
+   "reading": "liǎn",
+   "meaning": "face",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/face.mp3",
+    "she": "vocab/audio/zh/she/face.mp3"
+   },
+   "image": "vocab/img/face.jpg",
+   "emoji": "😊",
+   "review": false
+  },
+  {
+   "id": "zh-eye",
+   "concept": "eye",
+   "text": "眼睛",
+   "speak": "眼睛",
+   "reading": "yǎnjing",
+   "meaning": "eye",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/eye.mp3",
+    "she": "vocab/audio/zh/she/eye.mp3"
+   },
+   "image": "vocab/img/eye.jpg",
+   "emoji": "👁️",
+   "review": false
+  },
+  {
+   "id": "zh-ear",
+   "concept": "ear",
+   "text": "耳朵",
+   "speak": "耳朵",
+   "reading": "ěrduo",
+   "meaning": "ear",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/ear.mp3",
+    "she": "vocab/audio/zh/she/ear.mp3"
+   },
+   "image": "vocab/img/ear.jpg",
+   "emoji": "👂",
+   "review": false
+  },
+  {
+   "id": "zh-nose",
+   "concept": "nose",
+   "text": "鼻子",
+   "speak": "鼻子",
+   "reading": "bízi",
+   "meaning": "nose",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/nose.mp3",
+    "she": "vocab/audio/zh/she/nose.mp3"
+   },
+   "image": "vocab/img/nose.jpg",
+   "emoji": "👃",
+   "review": false
+  },
+  {
+   "id": "zh-mouth",
+   "concept": "mouth",
+   "text": "嘴",
+   "speak": "嘴",
+   "reading": "zuǐ",
+   "meaning": "mouth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/mouth.mp3",
+    "she": "vocab/audio/zh/she/mouth.mp3"
+   },
+   "image": "vocab/img/mouth.jpg",
+   "emoji": "👄",
+   "review": false
+  },
+  {
+   "id": "zh-tooth",
+   "concept": "tooth",
+   "text": "牙齿",
+   "speak": "牙齿",
+   "reading": "yáchǐ",
+   "meaning": "tooth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/tooth.mp3",
+    "she": "vocab/audio/zh/she/tooth.mp3"
+   },
+   "image": "vocab/img/tooth.jpg",
+   "emoji": "🦷",
+   "review": false
+  },
+  {
+   "id": "zh-hair",
+   "concept": "hair",
+   "text": "头发",
+   "speak": "头发",
+   "reading": "tóufa",
+   "meaning": "hair",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/hair.mp3",
+    "she": "vocab/audio/zh/she/hair.mp3"
+   },
+   "image": "vocab/img/hair.jpg",
+   "emoji": "💇",
+   "review": false
+  },
+  {
+   "id": "zh-hand",
+   "concept": "hand",
+   "text": "手",
+   "speak": "手",
+   "reading": "shǒu",
+   "meaning": "hand",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/hand.mp3",
+    "she": "vocab/audio/zh/she/hand.mp3"
+   },
+   "image": "vocab/img/hand.jpg",
+   "emoji": "✋",
+   "review": false
+  },
+  {
+   "id": "zh-arm",
+   "concept": "arm",
+   "text": "胳膊",
+   "speak": "胳膊",
+   "reading": "gēbo",
+   "meaning": "arm",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/arm.mp3",
+    "she": "vocab/audio/zh/she/arm.mp3"
+   },
+   "image": "vocab/img/arm.jpg",
+   "emoji": "💪",
+   "review": false
+  },
+  {
+   "id": "zh-leg",
+   "concept": "leg",
+   "text": "腿",
+   "speak": "腿",
+   "reading": "tuǐ",
+   "meaning": "leg",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/leg.mp3",
+    "she": "vocab/audio/zh/she/leg.mp3"
+   },
+   "image": "vocab/img/leg.jpg",
+   "emoji": "🦵",
+   "review": false
+  },
+  {
+   "id": "zh-foot",
+   "concept": "foot",
+   "text": "脚",
+   "speak": "脚",
+   "reading": "jiǎo",
+   "meaning": "foot",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/foot.mp3",
+    "she": "vocab/audio/zh/she/foot.mp3"
+   },
+   "image": "vocab/img/foot.jpg",
+   "emoji": "🦶",
+   "review": false
+  },
+  {
+   "id": "zh-finger",
+   "concept": "finger",
+   "text": "手指",
+   "speak": "手指",
+   "reading": "shǒuzhǐ",
+   "meaning": "finger",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/finger.mp3",
+    "she": "vocab/audio/zh/she/finger.mp3"
+   },
+   "image": "vocab/img/finger.jpg",
+   "emoji": "☝️",
+   "review": false
+  },
+  {
+   "id": "zh-neck",
+   "concept": "neck",
+   "text": "脖子",
+   "speak": "脖子",
+   "reading": "bózi",
+   "meaning": "neck",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/neck.mp3",
+    "she": "vocab/audio/zh/she/neck.mp3"
+   },
+   "image": "vocab/img/neck.jpg",
+   "emoji": "🦒",
+   "review": false
+  },
+  {
+   "id": "zh-shoulder",
+   "concept": "shoulder",
+   "text": "肩膀",
+   "speak": "肩膀",
+   "reading": "jiānbǎng",
+   "meaning": "shoulder",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/shoulder.mp3",
+    "she": "vocab/audio/zh/she/shoulder.mp3"
+   },
+   "image": "vocab/img/shoulder.jpg",
+   "emoji": "🤷",
+   "review": false
+  },
+  {
+   "id": "zh-back_body",
+   "concept": "back_body",
+   "text": "后背",
+   "speak": "后背",
+   "reading": "hòubèi",
+   "meaning": "back (body)",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/back_body.mp3",
+    "she": "vocab/audio/zh/she/back_body.mp3"
+   },
+   "image": "vocab/img/back_body.jpg",
+   "emoji": "🧍",
+   "review": false
+  },
+  {
+   "id": "zh-stomach",
+   "concept": "stomach",
+   "text": "肚子",
+   "speak": "肚子",
+   "reading": "dùzi",
+   "meaning": "stomach",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/stomach.mp3",
+    "she": "vocab/audio/zh/she/stomach.mp3"
+   },
+   "image": "vocab/img/stomach.jpg",
+   "emoji": "🫃",
+   "review": false
+  },
+  {
+   "id": "zh-heart",
+   "concept": "heart",
+   "text": "心脏",
+   "speak": "心脏",
+   "reading": "xīnzàng",
+   "meaning": "heart",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/heart.mp3",
+    "she": "vocab/audio/zh/she/heart.mp3"
+   },
+   "image": "vocab/img/heart.jpg",
+   "emoji": "❤️",
+   "review": false
+  },
+  {
+   "id": "zh-knee",
+   "concept": "knee",
+   "text": "膝盖",
+   "speak": "膝盖",
+   "reading": "xīgài",
+   "meaning": "knee",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/knee.mp3",
+    "she": "vocab/audio/zh/she/knee.mp3"
+   },
+   "image": "vocab/img/knee.jpg",
+   "emoji": "🦵",
+   "review": false
+  },
+  {
+   "id": "zh-body",
+   "concept": "body",
+   "text": "身体",
+   "speak": "身体",
+   "reading": "shēntǐ",
+   "meaning": "body",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/body.mp3",
+    "she": "vocab/audio/zh/she/body.mp3"
+   },
+   "image": "vocab/img/body.jpg",
+   "emoji": "🧍",
+   "review": false
+  },
+  {
+   "id": "zh-skin",
+   "concept": "skin",
+   "text": "皮肤",
+   "speak": "皮肤",
+   "reading": "pífū",
+   "meaning": "skin",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/skin.mp3",
+    "she": "vocab/audio/zh/she/skin.mp3"
+   },
+   "image": "vocab/img/skin.jpg",
+   "emoji": "🖐️",
+   "review": false
+  },
+  {
+   "id": "zh-blood",
+   "concept": "blood",
+   "text": "血",
+   "speak": "血",
+   "reading": "xuè",
+   "meaning": "blood",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/blood.mp3",
+    "she": "vocab/audio/zh/she/blood.mp3"
+   },
+   "image": "vocab/img/blood.jpg",
+   "emoji": "🩸",
+   "review": false
+  },
+  {
+   "id": "zh-tongue",
+   "concept": "tongue",
+   "text": "舌头",
+   "speak": "舌头",
+   "reading": "shétou",
+   "meaning": "tongue",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/tongue.mp3",
+    "she": "vocab/audio/zh/she/tongue.mp3"
+   },
+   "image": "vocab/img/tongue.jpg",
+   "emoji": "👅",
+   "review": false
+  },
+  {
+   "id": "zh-red",
+   "concept": "red",
+   "text": "红色",
+   "speak": "红色",
+   "reading": "hóngsè",
+   "meaning": "red",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/red.mp3",
+    "she": "vocab/audio/zh/she/red.mp3"
+   },
+   "image": "vocab/img/red.jpg",
+   "emoji": "🔴",
+   "review": false
+  },
+  {
+   "id": "zh-blue",
+   "concept": "blue",
+   "text": "蓝色",
+   "speak": "蓝色",
+   "reading": "lánsè",
+   "meaning": "blue",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/blue.mp3",
+    "she": "vocab/audio/zh/she/blue.mp3"
+   },
+   "image": "vocab/img/blue.jpg",
+   "emoji": "🔵",
+   "review": false
+  },
+  {
+   "id": "zh-yellow",
+   "concept": "yellow",
+   "text": "黄色",
+   "speak": "黄色",
+   "reading": "huángsè",
+   "meaning": "yellow",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/yellow.mp3",
+    "she": "vocab/audio/zh/she/yellow.mp3"
+   },
+   "image": "vocab/img/yellow.jpg",
+   "emoji": "🟡",
+   "review": false
+  },
+  {
+   "id": "zh-green",
+   "concept": "green",
+   "text": "绿色",
+   "speak": "绿色",
+   "reading": "lǜsè",
+   "meaning": "green",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/green.mp3",
+    "she": "vocab/audio/zh/she/green.mp3"
+   },
+   "image": "vocab/img/green.jpg",
+   "emoji": "🟢",
+   "review": false
+  },
+  {
+   "id": "zh-white",
+   "concept": "white",
+   "text": "白色",
+   "speak": "白色",
+   "reading": "báisè",
+   "meaning": "white",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/white.mp3",
+    "she": "vocab/audio/zh/she/white.mp3"
+   },
+   "image": "vocab/img/white.jpg",
+   "emoji": "⚪",
+   "review": false
+  },
+  {
+   "id": "zh-black",
+   "concept": "black",
+   "text": "黑色",
+   "speak": "黑色",
+   "reading": "hēisè",
+   "meaning": "black",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/black.mp3",
+    "she": "vocab/audio/zh/she/black.mp3"
+   },
+   "image": "vocab/img/black.jpg",
+   "emoji": "⚫",
+   "review": false
+  },
+  {
+   "id": "zh-orange_color",
+   "concept": "orange_color",
+   "text": "橙色",
+   "speak": "橙色",
+   "reading": "chéngsè",
+   "meaning": "orange (color)",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/orange_color.mp3",
+    "she": "vocab/audio/zh/she/orange_color.mp3"
+   },
+   "image": "vocab/img/orange_color.jpg",
+   "emoji": "🟠",
+   "review": false
+  },
+  {
+   "id": "zh-pink",
+   "concept": "pink",
+   "text": "粉色",
+   "speak": "粉色",
+   "reading": "fěnsè",
+   "meaning": "pink",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/pink.mp3",
+    "she": "vocab/audio/zh/she/pink.mp3"
+   },
+   "image": "vocab/img/pink.jpg",
+   "emoji": "🩷",
+   "review": false
+  },
+  {
+   "id": "zh-purple",
+   "concept": "purple",
+   "text": "紫色",
+   "speak": "紫色",
+   "reading": "zǐsè",
+   "meaning": "purple",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/purple.mp3",
+    "she": "vocab/audio/zh/she/purple.mp3"
+   },
+   "image": "vocab/img/purple.jpg",
+   "emoji": "🟣",
+   "review": false
+  },
+  {
+   "id": "zh-brown",
+   "concept": "brown",
+   "text": "棕色",
+   "speak": "棕色",
+   "reading": "zōngsè",
+   "meaning": "brown",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/brown.mp3",
+    "she": "vocab/audio/zh/she/brown.mp3"
+   },
+   "image": "vocab/img/brown.jpg",
+   "emoji": "🟤",
+   "review": false
+  },
+  {
+   "id": "zh-gray",
+   "concept": "gray",
+   "text": "灰色",
+   "speak": "灰色",
+   "reading": "huīsè",
+   "meaning": "gray",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/gray.mp3",
+    "she": "vocab/audio/zh/she/gray.mp3"
+   },
+   "image": "vocab/img/gray.jpg",
+   "emoji": "🩶",
+   "review": false
+  },
+  {
+   "id": "zh-color",
+   "concept": "color",
+   "text": "颜色",
+   "speak": "颜色",
+   "reading": "yánsè",
+   "meaning": "color",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/color.mp3",
+    "she": "vocab/audio/zh/she/color.mp3"
+   },
+   "image": "vocab/img/color.jpg",
+   "emoji": "🎨",
+   "review": false
+  },
+  {
+   "id": "zh-rice",
+   "concept": "rice",
+   "text": "米饭",
+   "speak": "米饭",
+   "reading": "mǐfàn",
+   "meaning": "cooked rice",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/rice.mp3",
+    "she": "vocab/audio/zh/she/rice.mp3"
+   },
+   "image": "vocab/img/rice.jpg",
+   "emoji": "🍚",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-water",
+   "concept": "water",
+   "text": "水",
+   "speak": "水",
+   "reading": "shuǐ",
+   "meaning": "water",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/water.mp3",
+    "she": "vocab/audio/zh/she/water.mp3"
+   },
+   "image": "vocab/img/water.jpg",
+   "emoji": "💧",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-pho",
+   "concept": "pho",
+   "text": "河粉",
+   "speak": "河粉",
+   "reading": "héfěn",
+   "meaning": "pho (noodle soup)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/pho.mp3",
+    "she": "vocab/audio/zh/she/pho.mp3"
+   },
+   "image": "vocab/img/pho.jpg",
+   "emoji": "🍜",
+   "review": false
+  },
+  {
+   "id": "zh-tea",
+   "concept": "tea",
+   "text": "茶",
+   "speak": "茶",
+   "reading": "chá",
+   "meaning": "tea",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/tea.mp3",
+    "she": "vocab/audio/zh/she/tea.mp3"
+   },
+   "image": "vocab/img/tea.jpg",
+   "emoji": "🍵",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-sushi",
+   "concept": "sushi",
+   "text": "寿司",
+   "speak": "寿司",
+   "reading": "shòusī",
+   "meaning": "sushi",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/sushi.mp3",
+    "she": "vocab/audio/zh/she/sushi.mp3"
+   },
+   "image": "vocab/img/sushi.jpg",
+   "emoji": "🍣",
+   "review": false
+  },
+  {
+   "id": "zh-bread",
+   "concept": "bread",
+   "text": "面包",
+   "speak": "面包",
+   "reading": "miànbāo",
+   "meaning": "bread",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/bread.mp3",
+    "she": "vocab/audio/zh/she/bread.mp3"
+   },
+   "image": "vocab/img/bread.jpg",
+   "emoji": "🍞",
+   "review": false
+  },
+  {
+   "id": "zh-noodles",
+   "concept": "noodles",
+   "text": "面条",
+   "speak": "面条",
+   "reading": "miàntiáo",
+   "meaning": "noodles",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/noodles.mp3",
+    "she": "vocab/audio/zh/she/noodles.mp3"
+   },
+   "image": "vocab/img/noodles.jpg",
+   "emoji": "🍜",
+   "review": false
+  },
+  {
+   "id": "zh-meat",
+   "concept": "meat",
+   "text": "肉",
+   "speak": "肉",
+   "reading": "ròu",
+   "meaning": "meat",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/meat.mp3",
+    "she": "vocab/audio/zh/she/meat.mp3"
+   },
+   "image": "vocab/img/meat.jpg",
+   "emoji": "🥩",
+   "review": false
+  },
+  {
+   "id": "zh-chicken_meat",
+   "concept": "chicken_meat",
+   "text": "鸡肉",
+   "speak": "鸡肉",
+   "reading": "jīròu",
+   "meaning": "chicken (meat)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/chicken_meat.mp3",
+    "she": "vocab/audio/zh/she/chicken_meat.mp3"
+   },
+   "image": "vocab/img/chicken_meat.jpg",
+   "emoji": "🍗",
+   "review": false
+  },
+  {
+   "id": "zh-beef",
+   "concept": "beef",
+   "text": "牛肉",
+   "speak": "牛肉",
+   "reading": "niúròu",
+   "meaning": "beef",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/beef.mp3",
+    "she": "vocab/audio/zh/she/beef.mp3"
+   },
+   "image": "vocab/img/beef.jpg",
+   "emoji": "🥩",
+   "review": false
+  },
+  {
+   "id": "zh-pork",
+   "concept": "pork",
+   "text": "猪肉",
+   "speak": "猪肉",
+   "reading": "zhūròu",
+   "meaning": "pork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/pork.mp3",
+    "she": "vocab/audio/zh/she/pork.mp3"
+   },
+   "image": "vocab/img/pork.jpg",
+   "emoji": "🥓",
+   "review": false
+  },
+  {
+   "id": "zh-fish_food",
+   "concept": "fish_food",
+   "text": "鱼",
+   "speak": "鱼",
+   "reading": "yú",
+   "meaning": "fish (food)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/fish_food.mp3",
+    "she": "vocab/audio/zh/she/fish_food.mp3"
+   },
+   "image": "vocab/img/fish_food.jpg",
+   "emoji": "🐟",
+   "review": false
+  },
+  {
+   "id": "zh-egg",
+   "concept": "egg",
+   "text": "鸡蛋",
+   "speak": "鸡蛋",
+   "reading": "jīdàn",
+   "meaning": "egg",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/egg.mp3",
+    "she": "vocab/audio/zh/she/egg.mp3"
+   },
+   "image": "vocab/img/egg.jpg",
+   "emoji": "🥚",
+   "review": false
+  },
+  {
+   "id": "zh-vegetable",
+   "concept": "vegetable",
+   "text": "蔬菜",
+   "speak": "蔬菜",
+   "reading": "shūcài",
+   "meaning": "vegetable",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/vegetable.mp3",
+    "she": "vocab/audio/zh/she/vegetable.mp3"
+   },
+   "image": "vocab/img/vegetable.jpg",
+   "emoji": "🥦",
+   "review": false
+  },
+  {
+   "id": "zh-fruit",
+   "concept": "fruit",
+   "text": "水果",
+   "speak": "水果",
+   "reading": "shuǐguǒ",
+   "meaning": "fruit",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/fruit.mp3",
+    "she": "vocab/audio/zh/she/fruit.mp3"
+   },
+   "image": "vocab/img/fruit.jpg",
+   "emoji": "🍎",
+   "review": false
+  },
+  {
+   "id": "zh-apple",
+   "concept": "apple",
+   "text": "苹果",
+   "speak": "苹果",
+   "reading": "píngguǒ",
+   "meaning": "apple",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/apple.mp3",
+    "she": "vocab/audio/zh/she/apple.mp3"
+   },
+   "image": "vocab/img/apple.jpg",
+   "emoji": "🍎",
+   "review": false
+  },
+  {
+   "id": "zh-banana",
+   "concept": "banana",
+   "text": "香蕉",
+   "speak": "香蕉",
+   "reading": "xiāngjiāo",
+   "meaning": "banana",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/banana.mp3",
+    "she": "vocab/audio/zh/she/banana.mp3"
+   },
+   "image": "vocab/img/banana.jpg",
+   "emoji": "🍌",
+   "review": false
+  },
+  {
+   "id": "zh-orange_fruit",
+   "concept": "orange_fruit",
+   "text": "橙子",
+   "speak": "橙子",
+   "reading": "chéngzi",
+   "meaning": "orange (fruit)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/orange_fruit.mp3",
+    "she": "vocab/audio/zh/she/orange_fruit.mp3"
+   },
+   "image": "vocab/img/orange_fruit.jpg",
+   "emoji": "🍊",
+   "review": false
+  },
+  {
+   "id": "zh-grape",
+   "concept": "grape",
+   "text": "葡萄",
+   "speak": "葡萄",
+   "reading": "pútao",
+   "meaning": "grape",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/grape.mp3",
+    "she": "vocab/audio/zh/she/grape.mp3"
+   },
+   "image": "vocab/img/grape.jpg",
+   "emoji": "🍇",
+   "review": false
+  },
+  {
+   "id": "zh-watermelon",
+   "concept": "watermelon",
+   "text": "西瓜",
+   "speak": "西瓜",
+   "reading": "xīguā",
+   "meaning": "watermelon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/watermelon.mp3",
+    "she": "vocab/audio/zh/she/watermelon.mp3"
+   },
+   "image": "vocab/img/watermelon.jpg",
+   "emoji": "🍉",
+   "review": false
+  },
+  {
+   "id": "zh-mango",
+   "concept": "mango",
+   "text": "芒果",
+   "speak": "芒果",
+   "reading": "mángguǒ",
+   "meaning": "mango",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/mango.mp3",
+    "she": "vocab/audio/zh/she/mango.mp3"
+   },
+   "image": "vocab/img/mango.jpg",
+   "emoji": "🥭",
+   "review": false
+  },
+  {
+   "id": "zh-strawberry",
+   "concept": "strawberry",
+   "text": "草莓",
+   "speak": "草莓",
+   "reading": "cǎoméi",
+   "meaning": "strawberry",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/strawberry.mp3",
+    "she": "vocab/audio/zh/she/strawberry.mp3"
+   },
+   "image": "vocab/img/strawberry.jpg",
+   "emoji": "🍓",
+   "review": false
+  },
+  {
+   "id": "zh-lemon",
+   "concept": "lemon",
+   "text": "柠檬",
+   "speak": "柠檬",
+   "reading": "níngméng",
+   "meaning": "lemon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/lemon.mp3",
+    "she": "vocab/audio/zh/she/lemon.mp3"
+   },
+   "image": "vocab/img/lemon.jpg",
+   "emoji": "🍋",
+   "review": false
+  },
+  {
+   "id": "zh-tomato",
+   "concept": "tomato",
+   "text": "西红柿",
+   "speak": "西红柿",
+   "reading": "xīhóngshì",
+   "meaning": "tomato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/tomato.mp3",
+    "she": "vocab/audio/zh/she/tomato.mp3"
+   },
+   "image": "vocab/img/tomato.jpg",
+   "emoji": "🍅",
+   "review": false
+  },
+  {
+   "id": "zh-potato",
+   "concept": "potato",
+   "text": "土豆",
+   "speak": "土豆",
+   "reading": "tǔdòu",
+   "meaning": "potato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/potato.mp3",
+    "she": "vocab/audio/zh/she/potato.mp3"
+   },
+   "image": "vocab/img/potato.jpg",
+   "emoji": "🥔",
+   "review": false
+  },
+  {
+   "id": "zh-carrot",
+   "concept": "carrot",
+   "text": "胡萝卜",
+   "speak": "胡萝卜",
+   "reading": "húluóbo",
+   "meaning": "carrot",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/carrot.mp3",
+    "she": "vocab/audio/zh/she/carrot.mp3"
+   },
+   "image": "vocab/img/carrot.jpg",
+   "emoji": "🥕",
+   "review": false
+  },
+  {
+   "id": "zh-onion",
+   "concept": "onion",
+   "text": "洋葱",
+   "speak": "洋葱",
+   "reading": "yángcōng",
+   "meaning": "onion",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/onion.mp3",
+    "she": "vocab/audio/zh/she/onion.mp3"
+   },
+   "image": "vocab/img/onion.jpg",
+   "emoji": "🧅",
+   "review": false
+  },
+  {
+   "id": "zh-garlic",
+   "concept": "garlic",
+   "text": "大蒜",
+   "speak": "大蒜",
+   "reading": "dàsuàn",
+   "meaning": "garlic",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/garlic.mp3",
+    "she": "vocab/audio/zh/she/garlic.mp3"
+   },
+   "image": "vocab/img/garlic.jpg",
+   "emoji": "🧄",
+   "review": false
+  },
+  {
+   "id": "zh-corn",
+   "concept": "corn",
+   "text": "玉米",
+   "speak": "玉米",
+   "reading": "yùmǐ",
+   "meaning": "corn",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/corn.mp3",
+    "she": "vocab/audio/zh/she/corn.mp3"
+   },
+   "image": "vocab/img/corn.jpg",
+   "emoji": "🌽",
+   "review": false
+  },
+  {
+   "id": "zh-mushroom",
+   "concept": "mushroom",
+   "text": "蘑菇",
+   "speak": "蘑菇",
+   "reading": "mógu",
+   "meaning": "mushroom",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/mushroom.mp3",
+    "she": "vocab/audio/zh/she/mushroom.mp3"
+   },
+   "image": "vocab/img/mushroom.jpg",
+   "emoji": "🍄",
+   "review": false
+  },
+  {
+   "id": "zh-salt",
+   "concept": "salt",
+   "text": "盐",
+   "speak": "盐",
+   "reading": "yán",
+   "meaning": "salt",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/salt.mp3",
+    "she": "vocab/audio/zh/she/salt.mp3"
+   },
+   "image": "vocab/img/salt.jpg",
+   "emoji": "🧂",
+   "review": false
+  },
+  {
+   "id": "zh-sugar",
+   "concept": "sugar",
+   "text": "糖",
+   "speak": "糖",
+   "reading": "táng",
+   "meaning": "sugar",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/sugar.mp3",
+    "she": "vocab/audio/zh/she/sugar.mp3"
+   },
+   "image": "vocab/img/sugar.jpg",
+   "emoji": "🍬",
+   "review": false
+  },
+  {
+   "id": "zh-soup",
+   "concept": "soup",
+   "text": "汤",
+   "speak": "汤",
+   "reading": "tāng",
+   "meaning": "soup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/soup.mp3",
+    "she": "vocab/audio/zh/she/soup.mp3"
+   },
+   "image": "vocab/img/soup.jpg",
+   "emoji": "🥣",
+   "review": false
+  },
+  {
+   "id": "zh-salad",
+   "concept": "salad",
+   "text": "沙拉",
+   "speak": "沙拉",
+   "reading": "shālā",
+   "meaning": "salad",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/salad.mp3",
+    "she": "vocab/audio/zh/she/salad.mp3"
+   },
+   "image": "vocab/img/salad.jpg",
+   "emoji": "🥗",
+   "review": false
+  },
+  {
+   "id": "zh-cake",
+   "concept": "cake",
+   "text": "蛋糕",
+   "speak": "蛋糕",
+   "reading": "dàngāo",
+   "meaning": "cake",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/cake.mp3",
+    "she": "vocab/audio/zh/she/cake.mp3"
+   },
+   "image": "vocab/img/cake.jpg",
+   "emoji": "🍰",
+   "review": false
+  },
+  {
+   "id": "zh-candy",
+   "concept": "candy",
+   "text": "糖果",
+   "speak": "糖果",
+   "reading": "tángguǒ",
+   "meaning": "candy",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/candy.mp3",
+    "she": "vocab/audio/zh/she/candy.mp3"
+   },
+   "image": "vocab/img/candy.jpg",
+   "emoji": "🍬",
+   "review": false
+  },
+  {
+   "id": "zh-chocolate",
+   "concept": "chocolate",
+   "text": "巧克力",
+   "speak": "巧克力",
+   "reading": "qiǎokèlì",
+   "meaning": "chocolate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/chocolate.mp3",
+    "she": "vocab/audio/zh/she/chocolate.mp3"
+   },
+   "image": "vocab/img/chocolate.jpg",
+   "emoji": "🍫",
+   "review": false
+  },
+  {
+   "id": "zh-ice_cream",
+   "concept": "ice_cream",
+   "text": "冰淇淋",
+   "speak": "冰淇淋",
+   "reading": "bīngqílín",
+   "meaning": "ice cream",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/ice_cream.mp3",
+    "she": "vocab/audio/zh/she/ice_cream.mp3"
+   },
+   "image": "vocab/img/ice_cream.jpg",
+   "emoji": "🍦",
+   "review": false
+  },
+  {
+   "id": "zh-cheese",
+   "concept": "cheese",
+   "text": "奶酪",
+   "speak": "奶酪",
+   "reading": "nǎilào",
+   "meaning": "cheese",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/cheese.mp3",
+    "she": "vocab/audio/zh/she/cheese.mp3"
+   },
+   "image": "vocab/img/cheese.jpg",
+   "emoji": "🧀",
+   "review": false
+  },
+  {
+   "id": "zh-butter",
+   "concept": "butter",
+   "text": "黄油",
+   "speak": "黄油",
+   "reading": "huángyóu",
+   "meaning": "butter",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/butter.mp3",
+    "she": "vocab/audio/zh/she/butter.mp3"
+   },
+   "image": "vocab/img/butter.jpg",
+   "emoji": "🧈",
+   "review": false
+  },
+  {
+   "id": "zh-milk",
+   "concept": "milk",
+   "text": "牛奶",
+   "speak": "牛奶",
+   "reading": "niúnǎi",
+   "meaning": "milk",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/milk.mp3",
+    "she": "vocab/audio/zh/she/milk.mp3"
+   },
+   "image": "vocab/img/milk.jpg",
+   "emoji": "🥛",
+   "review": false
+  },
+  {
+   "id": "zh-coffee",
+   "concept": "coffee",
+   "text": "咖啡",
+   "speak": "咖啡",
+   "reading": "kāfēi",
+   "meaning": "coffee",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/coffee.mp3",
+    "she": "vocab/audio/zh/she/coffee.mp3"
+   },
+   "image": "vocab/img/coffee.jpg",
+   "emoji": "☕",
+   "review": false
+  },
+  {
+   "id": "zh-juice",
+   "concept": "juice",
+   "text": "果汁",
+   "speak": "果汁",
+   "reading": "guǒzhī",
+   "meaning": "juice",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/juice.mp3",
+    "she": "vocab/audio/zh/she/juice.mp3"
+   },
+   "image": "vocab/img/juice.jpg",
+   "emoji": "🧃",
+   "review": false
+  },
+  {
+   "id": "zh-beer",
+   "concept": "beer",
+   "text": "啤酒",
+   "speak": "啤酒",
+   "reading": "píjiǔ",
+   "meaning": "beer",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/beer.mp3",
+    "she": "vocab/audio/zh/she/beer.mp3"
+   },
+   "image": "vocab/img/beer.jpg",
+   "emoji": "🍺",
+   "review": false
+  },
+  {
+   "id": "zh-wine",
+   "concept": "wine",
+   "text": "葡萄酒",
+   "speak": "葡萄酒",
+   "reading": "pútaojiǔ",
+   "meaning": "wine",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/wine.mp3",
+    "she": "vocab/audio/zh/she/wine.mp3"
+   },
+   "image": "vocab/img/wine.jpg",
+   "emoji": "🍷",
+   "review": false
+  },
+  {
+   "id": "zh-breakfast",
+   "concept": "breakfast",
+   "text": "早饭",
+   "speak": "早饭",
+   "reading": "zǎofàn",
+   "meaning": "breakfast",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/breakfast.mp3",
+    "she": "vocab/audio/zh/she/breakfast.mp3"
+   },
+   "image": "vocab/img/breakfast.jpg",
+   "emoji": "🍳",
+   "review": false
+  },
+  {
+   "id": "zh-lunch",
+   "concept": "lunch",
+   "text": "午饭",
+   "speak": "午饭",
+   "reading": "wǔfàn",
+   "meaning": "lunch",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/lunch.mp3",
+    "she": "vocab/audio/zh/she/lunch.mp3"
+   },
+   "image": "vocab/img/lunch.jpg",
+   "emoji": "🍱",
+   "review": false
+  },
+  {
+   "id": "zh-dinner",
+   "concept": "dinner",
+   "text": "晚饭",
+   "speak": "晚饭",
+   "reading": "wǎnfàn",
+   "meaning": "dinner",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/dinner.mp3",
+    "she": "vocab/audio/zh/she/dinner.mp3"
+   },
+   "image": "vocab/img/dinner.jpg",
+   "emoji": "🍽️",
+   "review": false
+  },
+  {
+   "id": "zh-food",
+   "concept": "food",
+   "text": "食物",
+   "speak": "食物",
+   "reading": "shíwù",
+   "meaning": "food",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/food.mp3",
+    "she": "vocab/audio/zh/she/food.mp3"
+   },
+   "image": "vocab/img/food.jpg",
+   "emoji": "🍲",
+   "review": false
+  },
+  {
+   "id": "zh-dumpling",
+   "concept": "dumpling",
+   "text": "饺子",
+   "speak": "饺子",
+   "reading": "jiǎozi",
+   "meaning": "dumpling",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/dumpling.mp3",
+    "she": "vocab/audio/zh/she/dumpling.mp3"
+   },
+   "image": "vocab/img/dumpling.jpg",
+   "emoji": "🥟",
+   "review": false
+  },
+  {
+   "id": "zh-tofu",
+   "concept": "tofu",
+   "text": "豆腐",
+   "speak": "豆腐",
+   "reading": "dòufu",
+   "meaning": "tofu",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/tofu.mp3",
+    "she": "vocab/audio/zh/she/tofu.mp3"
+   },
+   "image": "vocab/img/tofu.jpg",
+   "emoji": "🍢",
+   "review": false
+  },
+  {
+   "id": "zh-shrimp",
+   "concept": "shrimp",
+   "text": "虾",
+   "speak": "虾",
+   "reading": "xiā",
+   "meaning": "shrimp",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/shrimp.mp3",
+    "she": "vocab/audio/zh/she/shrimp.mp3"
+   },
+   "image": "vocab/img/shrimp.jpg",
+   "emoji": "🦐",
+   "review": false
+  },
+  {
+   "id": "zh-chopsticks",
+   "concept": "chopsticks",
+   "text": "筷子",
+   "speak": "筷子",
+   "reading": "kuàizi",
+   "meaning": "chopsticks",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/chopsticks.mp3",
+    "she": "vocab/audio/zh/she/chopsticks.mp3"
+   },
+   "image": "vocab/img/chopsticks.jpg",
+   "emoji": "🥢",
+   "review": false
+  },
+  {
+   "id": "zh-spoon",
+   "concept": "spoon",
+   "text": "勺子",
+   "speak": "勺子",
+   "reading": "sháozi",
+   "meaning": "spoon",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/spoon.mp3",
+    "she": "vocab/audio/zh/she/spoon.mp3"
+   },
+   "image": "vocab/img/spoon.jpg",
+   "emoji": "🥄",
+   "review": false
+  },
+  {
+   "id": "zh-fork",
+   "concept": "fork",
+   "text": "叉子",
+   "speak": "叉子",
+   "reading": "chāzi",
+   "meaning": "fork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/fork.mp3",
+    "she": "vocab/audio/zh/she/fork.mp3"
+   },
+   "image": "vocab/img/fork.jpg",
+   "emoji": "🍴",
+   "review": false
+  },
+  {
+   "id": "zh-knife",
+   "concept": "knife",
+   "text": "刀",
+   "speak": "刀",
+   "reading": "dāo",
+   "meaning": "knife",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/knife.mp3",
+    "she": "vocab/audio/zh/she/knife.mp3"
+   },
+   "image": "vocab/img/knife.jpg",
+   "emoji": "🔪",
+   "review": false
+  },
+  {
+   "id": "zh-bowl",
+   "concept": "bowl",
+   "text": "碗",
+   "speak": "碗",
+   "reading": "wǎn",
+   "meaning": "bowl",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/bowl.mp3",
+    "she": "vocab/audio/zh/she/bowl.mp3"
+   },
+   "image": "vocab/img/bowl.jpg",
+   "emoji": "🥣",
+   "review": false
+  },
+  {
+   "id": "zh-plate",
+   "concept": "plate",
+   "text": "盘子",
+   "speak": "盘子",
+   "reading": "pánzi",
+   "meaning": "plate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/plate.mp3",
+    "she": "vocab/audio/zh/she/plate.mp3"
+   },
+   "image": "vocab/img/plate.jpg",
+   "emoji": "🍽️",
+   "review": false
+  },
+  {
+   "id": "zh-cup",
+   "concept": "cup",
+   "text": "杯子",
+   "speak": "杯子",
+   "reading": "bēizi",
+   "meaning": "cup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/cup.mp3",
+    "she": "vocab/audio/zh/she/cup.mp3"
+   },
+   "image": "vocab/img/cup.jpg",
+   "emoji": "🥤",
+   "review": false
+  },
+  {
+   "id": "zh-bottle",
+   "concept": "bottle",
+   "text": "瓶子",
+   "speak": "瓶子",
+   "reading": "píngzi",
+   "meaning": "bottle",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/zh/he/bottle.mp3",
+    "she": "vocab/audio/zh/she/bottle.mp3"
+   },
+   "image": "vocab/img/bottle.jpg",
+   "emoji": "🍾",
+   "review": false
+  },
+  {
+   "id": "zh-eat",
+   "concept": "eat",
+   "text": "吃",
+   "speak": "吃",
+   "reading": "chī",
+   "meaning": "to eat",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/eat.mp3",
+    "she": "vocab/audio/zh/she/eat.mp3"
+   },
+   "image": "vocab/img/eat.jpg",
+   "emoji": "🍽️",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-drink",
+   "concept": "drink",
+   "text": "喝",
+   "speak": "喝",
+   "reading": "hē",
+   "meaning": "to drink",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/drink.mp3",
+    "she": "vocab/audio/zh/she/drink.mp3"
+   },
+   "image": "vocab/img/drink.jpg",
+   "emoji": "🥤",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-go",
+   "concept": "go",
+   "text": "去",
+   "speak": "去",
+   "reading": "qù",
+   "meaning": "to go",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/go.mp3",
+    "she": "vocab/audio/zh/she/go.mp3"
+   },
+   "image": "vocab/img/go.jpg",
+   "emoji": "🚶",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-want",
+   "concept": "want",
+   "text": "要",
+   "speak": "要",
+   "reading": "yào",
+   "meaning": "to want",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/want.mp3",
+    "she": "vocab/audio/zh/she/want.mp3"
+   },
+   "image": "vocab/img/want.jpg",
+   "emoji": "🤲",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "zh-come",
+   "concept": "come",
+   "text": "来",
+   "speak": "来",
+   "reading": "lái",
+   "meaning": "to come",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/come.mp3",
+    "she": "vocab/audio/zh/she/come.mp3"
+   },
+   "image": "vocab/img/come.jpg",
+   "emoji": "🫴",
+   "review": false
+  },
+  {
+   "id": "zh-see",
+   "concept": "see",
+   "text": "看",
+   "speak": "看",
+   "reading": "kān",
+   "meaning": "to see",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/see.mp3",
+    "she": "vocab/audio/zh/she/see.mp3"
+   },
+   "image": "vocab/img/see.jpg",
+   "emoji": "👀",
+   "review": false
+  },
+  {
+   "id": "zh-listen",
+   "concept": "listen",
+   "text": "听",
+   "speak": "听",
+   "reading": "tīng",
+   "meaning": "to listen",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/listen.mp3",
+    "she": "vocab/audio/zh/she/listen.mp3"
+   },
+   "image": "vocab/img/listen.jpg",
+   "emoji": "👂",
+   "review": false
+  },
+  {
+   "id": "zh-speak",
+   "concept": "speak",
+   "text": "说",
+   "speak": "说",
+   "reading": "shuō",
+   "meaning": "to speak",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/speak.mp3",
+    "she": "vocab/audio/zh/she/speak.mp3"
+   },
+   "image": "vocab/img/speak.jpg",
+   "emoji": "🗣️",
+   "review": false
+  },
+  {
+   "id": "zh-read",
+   "concept": "read",
+   "text": "读",
+   "speak": "读",
+   "reading": "dú",
+   "meaning": "to read",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/read.mp3",
+    "she": "vocab/audio/zh/she/read.mp3"
+   },
+   "image": "vocab/img/read.jpg",
+   "emoji": "📖",
+   "review": false
+  },
+  {
+   "id": "zh-write",
+   "concept": "write",
+   "text": "写",
+   "speak": "写",
+   "reading": "xiě",
+   "meaning": "to write",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/write.mp3",
+    "she": "vocab/audio/zh/she/write.mp3"
+   },
+   "image": "vocab/img/write.jpg",
+   "emoji": "✍️",
+   "review": false
+  },
+  {
+   "id": "zh-sleep",
+   "concept": "sleep",
+   "text": "睡觉",
+   "speak": "睡觉",
+   "reading": "shuìjiào",
+   "meaning": "to sleep",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/sleep.mp3",
+    "she": "vocab/audio/zh/she/sleep.mp3"
+   },
+   "image": "vocab/img/sleep.jpg",
+   "emoji": "😴",
+   "review": false
+  },
+  {
+   "id": "zh-wake_up",
+   "concept": "wake_up",
+   "text": "起床",
+   "speak": "起床",
+   "reading": "qǐchuáng",
+   "meaning": "to wake up",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/wake_up.mp3",
+    "she": "vocab/audio/zh/she/wake_up.mp3"
+   },
+   "image": "vocab/img/wake_up.jpg",
+   "emoji": "⏰",
+   "review": false
+  },
+  {
+   "id": "zh-walk",
+   "concept": "walk",
+   "text": "走路",
+   "speak": "走路",
+   "reading": "zǒulù",
+   "meaning": "to walk",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/walk.mp3",
+    "she": "vocab/audio/zh/she/walk.mp3"
+   },
+   "image": "vocab/img/walk.jpg",
+   "emoji": "🚶",
+   "review": false
+  },
+  {
+   "id": "zh-run",
+   "concept": "run",
+   "text": "跑",
+   "speak": "跑",
+   "reading": "pǎo",
+   "meaning": "to run",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/run.mp3",
+    "she": "vocab/audio/zh/she/run.mp3"
+   },
+   "image": "vocab/img/run.jpg",
+   "emoji": "🏃",
+   "review": false
+  },
+  {
+   "id": "zh-sit",
+   "concept": "sit",
+   "text": "坐",
+   "speak": "坐",
+   "reading": "zuò",
+   "meaning": "to sit",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/sit.mp3",
+    "she": "vocab/audio/zh/she/sit.mp3"
+   },
+   "image": "vocab/img/sit.jpg",
+   "emoji": "🪑",
+   "review": false
+  },
+  {
+   "id": "zh-stand",
+   "concept": "stand",
+   "text": "站",
+   "speak": "站",
+   "reading": "zhàn",
+   "meaning": "to stand",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/stand.mp3",
+    "she": "vocab/audio/zh/she/stand.mp3"
+   },
+   "image": "vocab/img/stand.jpg",
+   "emoji": "🧍",
+   "review": false
+  },
+  {
+   "id": "zh-buy",
+   "concept": "buy",
+   "text": "买",
+   "speak": "买",
+   "reading": "mǎi",
+   "meaning": "to buy",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/buy.mp3",
+    "she": "vocab/audio/zh/she/buy.mp3"
+   },
+   "image": "vocab/img/buy.jpg",
+   "emoji": "🛍️",
+   "review": false
+  },
+  {
+   "id": "zh-sell",
+   "concept": "sell",
+   "text": "卖",
+   "speak": "卖",
+   "reading": "mài",
+   "meaning": "to sell",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/sell.mp3",
+    "she": "vocab/audio/zh/she/sell.mp3"
+   },
+   "image": "vocab/img/sell.jpg",
+   "emoji": "🏪",
+   "review": false
+  },
+  {
+   "id": "zh-give",
+   "concept": "give",
+   "text": "给",
+   "speak": "给",
+   "reading": "gěi",
+   "meaning": "to give",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/give.mp3",
+    "she": "vocab/audio/zh/she/give.mp3"
+   },
+   "image": "vocab/img/give.jpg",
+   "emoji": "🎁",
+   "review": false
+  },
+  {
+   "id": "zh-take",
+   "concept": "take",
+   "text": "拿",
+   "speak": "拿",
+   "reading": "ná",
+   "meaning": "to take",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/take.mp3",
+    "she": "vocab/audio/zh/she/take.mp3"
+   },
+   "image": "vocab/img/take.jpg",
+   "emoji": "✊",
+   "review": false
+  },
+  {
+   "id": "zh-make",
+   "concept": "make",
+   "text": "做",
+   "speak": "做",
+   "reading": "zuò",
+   "meaning": "to make",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/make.mp3",
+    "she": "vocab/audio/zh/she/make.mp3"
+   },
+   "image": "vocab/img/make.jpg",
+   "emoji": "🔨",
+   "review": false
+  },
+  {
+   "id": "zh-work",
+   "concept": "work",
+   "text": "工作",
+   "speak": "工作",
+   "reading": "gōngzuò",
+   "meaning": "to work",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/work.mp3",
+    "she": "vocab/audio/zh/she/work.mp3"
+   },
+   "image": "vocab/img/work.jpg",
+   "emoji": "💼",
+   "review": false
+  },
+  {
+   "id": "zh-study",
+   "concept": "study",
+   "text": "学习",
+   "speak": "学习",
+   "reading": "xuéxí",
+   "meaning": "to study",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/study.mp3",
+    "she": "vocab/audio/zh/she/study.mp3"
+   },
+   "image": "vocab/img/study.jpg",
+   "emoji": "📚",
+   "review": false
+  },
+  {
+   "id": "zh-play",
+   "concept": "play",
+   "text": "玩",
+   "speak": "玩",
+   "reading": "wán",
+   "meaning": "to play",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/play.mp3",
+    "she": "vocab/audio/zh/she/play.mp3"
+   },
+   "image": "vocab/img/play.jpg",
+   "emoji": "⚽",
+   "review": false
+  },
+  {
+   "id": "zh-love",
+   "concept": "love",
+   "text": "爱",
+   "speak": "爱",
+   "reading": "ài",
+   "meaning": "to love",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/love.mp3",
+    "she": "vocab/audio/zh/she/love.mp3"
+   },
+   "image": "vocab/img/love.jpg",
+   "emoji": "❤️",
+   "review": false
+  },
+  {
+   "id": "zh-like",
+   "concept": "like",
+   "text": "喜欢",
+   "speak": "喜欢",
+   "reading": "xǐhuan",
+   "meaning": "to like",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/like.mp3",
+    "she": "vocab/audio/zh/she/like.mp3"
+   },
+   "image": "vocab/img/like.jpg",
+   "emoji": "👍",
+   "review": false
+  },
+  {
+   "id": "zh-know",
+   "concept": "know",
+   "text": "知道",
+   "speak": "知道",
+   "reading": "zhīdào",
+   "meaning": "to know",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/know.mp3",
+    "she": "vocab/audio/zh/she/know.mp3"
+   },
+   "image": "vocab/img/know.jpg",
+   "emoji": "💡",
+   "review": false
+  },
+  {
+   "id": "zh-think",
+   "concept": "think",
+   "text": "想",
+   "speak": "想",
+   "reading": "xiǎng",
+   "meaning": "to think",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/think.mp3",
+    "she": "vocab/audio/zh/she/think.mp3"
+   },
+   "image": "vocab/img/think.jpg",
+   "emoji": "💭",
+   "review": false
+  },
+  {
+   "id": "zh-understand",
+   "concept": "understand",
+   "text": "懂",
+   "speak": "懂",
+   "reading": "dǒng",
+   "meaning": "to understand",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/understand.mp3",
+    "she": "vocab/audio/zh/she/understand.mp3"
+   },
+   "image": "vocab/img/understand.jpg",
+   "emoji": "🤓",
+   "review": false
+  },
+  {
+   "id": "zh-open",
+   "concept": "open",
+   "text": "开",
+   "speak": "开",
+   "reading": "kāi",
+   "meaning": "to open",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/open.mp3",
+    "she": "vocab/audio/zh/she/open.mp3"
+   },
+   "image": "vocab/img/open.jpg",
+   "emoji": "📂",
+   "review": false
+  },
+  {
+   "id": "zh-close",
+   "concept": "close",
+   "text": "关",
+   "speak": "关",
+   "reading": "guān",
+   "meaning": "to close",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/close.mp3",
+    "she": "vocab/audio/zh/she/close.mp3"
+   },
+   "image": "vocab/img/close.jpg",
+   "emoji": "🚪",
+   "review": false
+  },
+  {
+   "id": "zh-cook",
+   "concept": "cook",
+   "text": "做饭",
+   "speak": "做饭",
+   "reading": "zuòfàn",
+   "meaning": "to cook",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/cook.mp3",
+    "she": "vocab/audio/zh/she/cook.mp3"
+   },
+   "image": "vocab/img/cook.jpg",
+   "emoji": "🍳",
+   "review": false
+  },
+  {
+   "id": "zh-wash",
+   "concept": "wash",
+   "text": "洗",
+   "speak": "洗",
+   "reading": "xǐ",
+   "meaning": "to wash",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/wash.mp3",
+    "she": "vocab/audio/zh/she/wash.mp3"
+   },
+   "image": "vocab/img/wash.jpg",
+   "emoji": "🧼",
+   "review": false
+  },
+  {
+   "id": "zh-help",
+   "concept": "help",
+   "text": "帮助",
+   "speak": "帮助",
+   "reading": "bāngzhù",
+   "meaning": "to help",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/help.mp3",
+    "she": "vocab/audio/zh/she/help.mp3"
+   },
+   "image": "vocab/img/help.jpg",
+   "emoji": "🆘",
+   "review": false
+  },
+  {
+   "id": "zh-wait",
+   "concept": "wait",
+   "text": "等",
+   "speak": "等",
+   "reading": "děng",
+   "meaning": "to wait",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/wait.mp3",
+    "she": "vocab/audio/zh/she/wait.mp3"
+   },
+   "image": "vocab/img/wait.jpg",
+   "emoji": "⌛",
+   "review": false
+  },
+  {
+   "id": "zh-call_phone",
+   "concept": "call_phone",
+   "text": "打电话",
+   "speak": "打电话",
+   "reading": "dǎdiànhuà",
+   "meaning": "to call (phone)",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/call_phone.mp3",
+    "she": "vocab/audio/zh/she/call_phone.mp3"
+   },
+   "image": "vocab/img/call_phone.jpg",
+   "emoji": "📞",
+   "review": false
+  },
+  {
+   "id": "zh-ask",
+   "concept": "ask",
+   "text": "问",
+   "speak": "问",
+   "reading": "wèn",
+   "meaning": "to ask",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/ask.mp3",
+    "she": "vocab/audio/zh/she/ask.mp3"
+   },
+   "image": "vocab/img/ask.jpg",
+   "emoji": "🙋",
+   "review": false
+  },
+  {
+   "id": "zh-answer",
+   "concept": "answer",
+   "text": "回答",
+   "speak": "回答",
+   "reading": "huídá",
+   "meaning": "to answer",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/answer.mp3",
+    "she": "vocab/audio/zh/she/answer.mp3"
+   },
+   "image": "vocab/img/answer.jpg",
+   "emoji": "💬",
+   "review": false
+  },
+  {
+   "id": "zh-learn",
+   "concept": "learn",
+   "text": "学",
+   "speak": "学",
+   "reading": "xué",
+   "meaning": "to learn",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/learn.mp3",
+    "she": "vocab/audio/zh/she/learn.mp3"
+   },
+   "image": "vocab/img/learn.jpg",
+   "emoji": "🎓",
+   "review": false
+  },
+  {
+   "id": "zh-teach",
+   "concept": "teach",
+   "text": "教",
+   "speak": "教",
+   "reading": "jiāo",
+   "meaning": "to teach",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/teach.mp3",
+    "she": "vocab/audio/zh/she/teach.mp3"
+   },
+   "image": "vocab/img/teach.jpg",
+   "emoji": "🧑‍🏫",
+   "review": false
+  },
+  {
+   "id": "zh-swim",
+   "concept": "swim",
+   "text": "游泳",
+   "speak": "游泳",
+   "reading": "yóuyǒng",
+   "meaning": "to swim",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/swim.mp3",
+    "she": "vocab/audio/zh/she/swim.mp3"
+   },
+   "image": "vocab/img/swim.jpg",
+   "emoji": "🏊",
+   "review": false
+  },
+  {
+   "id": "zh-sing",
+   "concept": "sing",
+   "text": "唱歌",
+   "speak": "唱歌",
+   "reading": "chànggē",
+   "meaning": "to sing",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/sing.mp3",
+    "she": "vocab/audio/zh/she/sing.mp3"
+   },
+   "image": "vocab/img/sing.jpg",
+   "emoji": "🎤",
+   "review": false
+  },
+  {
+   "id": "zh-dance",
+   "concept": "dance",
+   "text": "跳舞",
+   "speak": "跳舞",
+   "reading": "tiàowǔ",
+   "meaning": "to dance",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/dance.mp3",
+    "she": "vocab/audio/zh/she/dance.mp3"
+   },
+   "image": "vocab/img/dance.jpg",
+   "emoji": "💃",
+   "review": false
+  },
+  {
+   "id": "zh-laugh",
+   "concept": "laugh",
+   "text": "笑",
+   "speak": "笑",
+   "reading": "xiào",
+   "meaning": "to laugh",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/laugh.mp3",
+    "she": "vocab/audio/zh/she/laugh.mp3"
+   },
+   "image": "vocab/img/laugh.jpg",
+   "emoji": "😂",
+   "review": false
+  },
+  {
+   "id": "zh-cry",
+   "concept": "cry",
+   "text": "哭",
+   "speak": "哭",
+   "reading": "kū",
+   "meaning": "to cry",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/cry.mp3",
+    "she": "vocab/audio/zh/she/cry.mp3"
+   },
+   "image": "vocab/img/cry.jpg",
+   "emoji": "😢",
+   "review": false
+  },
+  {
+   "id": "zh-have",
+   "concept": "have",
+   "text": "有",
+   "speak": "有",
+   "reading": "yǒu",
+   "meaning": "to have",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/have.mp3",
+    "she": "vocab/audio/zh/she/have.mp3"
+   },
+   "image": "vocab/img/have.jpg",
+   "emoji": "🤲",
+   "review": false
+  },
+  {
+   "id": "zh-need",
+   "concept": "need",
+   "text": "需要",
+   "speak": "需要",
+   "reading": "xūyào",
+   "meaning": "to need",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/need.mp3",
+    "she": "vocab/audio/zh/she/need.mp3"
+   },
+   "image": "vocab/img/need.jpg",
+   "emoji": "🙏",
+   "review": false
+  },
+  {
+   "id": "zh-use",
+   "concept": "use",
+   "text": "用",
+   "speak": "用",
+   "reading": "yòng",
+   "meaning": "to use",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/use.mp3",
+    "she": "vocab/audio/zh/she/use.mp3"
+   },
+   "image": "vocab/img/use.jpg",
+   "emoji": "🔧",
+   "review": false
+  },
+  {
+   "id": "zh-find",
+   "concept": "find",
+   "text": "找到",
+   "speak": "找到",
+   "reading": "zhǎodào",
+   "meaning": "to find",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/find.mp3",
+    "she": "vocab/audio/zh/she/find.mp3"
+   },
+   "image": "vocab/img/find.jpg",
+   "emoji": "🔍",
+   "review": false
+  },
+  {
+   "id": "zh-look_for",
+   "concept": "look_for",
+   "text": "找",
+   "speak": "找",
+   "reading": "zhǎo",
+   "meaning": "to look for",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/look_for.mp3",
+    "she": "vocab/audio/zh/she/look_for.mp3"
+   },
+   "image": "vocab/img/look_for.jpg",
+   "emoji": "🔦",
+   "review": false
+  },
+  {
+   "id": "zh-live",
+   "concept": "live",
+   "text": "住",
+   "speak": "住",
+   "reading": "zhù",
+   "meaning": "to live",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/live.mp3",
+    "she": "vocab/audio/zh/she/live.mp3"
+   },
+   "image": "vocab/img/live.jpg",
+   "emoji": "🏡",
+   "review": false
+  },
+  {
+   "id": "zh-drive",
+   "concept": "drive",
+   "text": "开车",
+   "speak": "开车",
+   "reading": "kāichē",
+   "meaning": "to drive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/drive.mp3",
+    "she": "vocab/audio/zh/she/drive.mp3"
+   },
+   "image": "vocab/img/drive.jpg",
+   "emoji": "🚗",
+   "review": false
+  },
+  {
+   "id": "zh-fly",
+   "concept": "fly",
+   "text": "飞",
+   "speak": "飞",
+   "reading": "fēi",
+   "meaning": "to fly",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/fly.mp3",
+    "she": "vocab/audio/zh/she/fly.mp3"
+   },
+   "image": "vocab/img/fly.jpg",
+   "emoji": "🕊️",
+   "review": false
+  },
+  {
+   "id": "zh-come_back",
+   "concept": "come_back",
+   "text": "回来",
+   "speak": "回来",
+   "reading": "huílai",
+   "meaning": "to come back",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/come_back.mp3",
+    "she": "vocab/audio/zh/she/come_back.mp3"
+   },
+   "image": "vocab/img/come_back.jpg",
+   "emoji": "🔙",
+   "review": false
+  },
+  {
+   "id": "zh-arrive",
+   "concept": "arrive",
+   "text": "到达",
+   "speak": "到达",
+   "reading": "dàodá",
+   "meaning": "to arrive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/arrive.mp3",
+    "she": "vocab/audio/zh/she/arrive.mp3"
+   },
+   "image": "vocab/img/arrive.jpg",
+   "emoji": "🛬",
+   "review": false
+  },
+  {
+   "id": "zh-leave",
+   "concept": "leave",
+   "text": "离开",
+   "speak": "离开",
+   "reading": "líkāi",
+   "meaning": "to leave",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/leave.mp3",
+    "she": "vocab/audio/zh/she/leave.mp3"
+   },
+   "image": "vocab/img/leave.jpg",
+   "emoji": "🚪",
+   "review": false
+  },
+  {
+   "id": "zh-start",
+   "concept": "start",
+   "text": "开始",
+   "speak": "开始",
+   "reading": "kāishǐ",
+   "meaning": "to start",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/start.mp3",
+    "she": "vocab/audio/zh/she/start.mp3"
+   },
+   "image": "vocab/img/start.jpg",
+   "emoji": "🏁",
+   "review": false
+  },
+  {
+   "id": "zh-finish",
+   "concept": "finish",
+   "text": "结束",
+   "speak": "结束",
+   "reading": "jiéshù",
+   "meaning": "to finish",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/finish.mp3",
+    "she": "vocab/audio/zh/she/finish.mp3"
+   },
+   "image": "vocab/img/finish.jpg",
+   "emoji": "🏆",
+   "review": false
+  },
+  {
+   "id": "zh-pay",
+   "concept": "pay",
+   "text": "付钱",
+   "speak": "付钱",
+   "reading": "fùqián",
+   "meaning": "to pay",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/pay.mp3",
+    "she": "vocab/audio/zh/she/pay.mp3"
+   },
+   "image": "vocab/img/pay.jpg",
+   "emoji": "💳",
+   "review": false
+  },
+  {
+   "id": "zh-send",
+   "concept": "send",
+   "text": "寄",
+   "speak": "寄",
+   "reading": "jì",
+   "meaning": "to send",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/send.mp3",
+    "she": "vocab/audio/zh/she/send.mp3"
+   },
+   "image": "vocab/img/send.jpg",
+   "emoji": "📨",
+   "review": false
+  },
+  {
+   "id": "zh-meet",
+   "concept": "meet",
+   "text": "见面",
+   "speak": "见面",
+   "reading": "jiànmiàn",
+   "meaning": "to meet",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/meet.mp3",
+    "she": "vocab/audio/zh/she/meet.mp3"
+   },
+   "image": "vocab/img/meet.jpg",
+   "emoji": "🤝",
+   "review": false
+  },
+  {
+   "id": "zh-remember",
+   "concept": "remember",
+   "text": "记得",
+   "speak": "记得",
+   "reading": "jìde",
+   "meaning": "to remember",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/remember.mp3",
+    "she": "vocab/audio/zh/she/remember.mp3"
+   },
+   "image": "vocab/img/remember.jpg",
+   "emoji": "🧠",
+   "review": false
+  },
+  {
+   "id": "zh-forget",
+   "concept": "forget",
+   "text": "忘记",
+   "speak": "忘记",
+   "reading": "wàngjì",
+   "meaning": "to forget",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/forget.mp3",
+    "she": "vocab/audio/zh/she/forget.mp3"
+   },
+   "image": "vocab/img/forget.jpg",
+   "emoji": "❓",
+   "review": false
+  },
+  {
+   "id": "zh-clean",
+   "concept": "clean",
+   "text": "打扫",
+   "speak": "打扫",
+   "reading": "dǎsǎo",
+   "meaning": "to clean",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/clean.mp3",
+    "she": "vocab/audio/zh/she/clean.mp3"
+   },
+   "image": "vocab/img/clean.jpg",
+   "emoji": "🧹",
+   "review": false
+  },
+  {
+   "id": "zh-draw",
+   "concept": "draw",
+   "text": "画",
+   "speak": "画",
+   "reading": "huà",
+   "meaning": "to draw",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/draw.mp3",
+    "she": "vocab/audio/zh/she/draw.mp3"
+   },
+   "image": "vocab/img/draw.jpg",
+   "emoji": "🖍️",
+   "review": false
+  },
+  {
+   "id": "zh-jump",
+   "concept": "jump",
+   "text": "跳",
+   "speak": "跳",
+   "reading": "tiào",
+   "meaning": "to jump",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/jump.mp3",
+    "she": "vocab/audio/zh/she/jump.mp3"
+   },
+   "image": "vocab/img/jump.jpg",
+   "emoji": "🦘",
+   "review": false
+  },
+  {
+   "id": "zh-throw",
+   "concept": "throw",
+   "text": "扔",
+   "speak": "扔",
+   "reading": "rēng",
+   "meaning": "to throw",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/throw.mp3",
+    "she": "vocab/audio/zh/she/throw.mp3"
+   },
+   "image": "vocab/img/throw.jpg",
+   "emoji": "🥏",
+   "review": false
+  },
+  {
+   "id": "zh-push",
+   "concept": "push",
+   "text": "推",
+   "speak": "推",
+   "reading": "tuī",
+   "meaning": "to push",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/push.mp3",
+    "she": "vocab/audio/zh/she/push.mp3"
+   },
+   "image": "vocab/img/push.jpg",
+   "emoji": "🫸",
+   "review": false
+  },
+  {
+   "id": "zh-pull",
+   "concept": "pull",
+   "text": "拉",
+   "speak": "拉",
+   "reading": "lā",
+   "meaning": "to pull",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/pull.mp3",
+    "she": "vocab/audio/zh/she/pull.mp3"
+   },
+   "image": "vocab/img/pull.jpg",
+   "emoji": "🪢",
+   "review": false
+  },
+  {
+   "id": "zh-cut",
+   "concept": "cut",
+   "text": "切",
+   "speak": "切",
+   "reading": "qiē",
+   "meaning": "to cut",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/zh/he/cut.mp3",
+    "she": "vocab/audio/zh/she/cut.mp3"
+   },
+   "image": "vocab/img/cut.jpg",
+   "emoji": "✂️",
+   "review": false
+  },
+  {
+   "id": "zh-big",
+   "concept": "big",
+   "text": "大",
+   "speak": "大",
+   "reading": "dà",
+   "meaning": "big",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/big.mp3",
+    "she": "vocab/audio/zh/she/big.mp3"
+   },
+   "image": "vocab/img/big.jpg",
+   "emoji": "🐘",
+   "review": false
+  },
+  {
+   "id": "zh-small",
+   "concept": "small",
+   "text": "小",
+   "speak": "小",
+   "reading": "xiǎo",
+   "meaning": "small",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/small.mp3",
+    "she": "vocab/audio/zh/she/small.mp3"
+   },
+   "image": "vocab/img/small.jpg",
+   "emoji": "🐭",
+   "review": false
+  },
+  {
+   "id": "zh-hot",
+   "concept": "hot",
+   "text": "热",
+   "speak": "热",
+   "reading": "rè",
+   "meaning": "hot",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/hot.mp3",
+    "she": "vocab/audio/zh/she/hot.mp3"
+   },
+   "image": "vocab/img/hot.jpg",
+   "emoji": "🔥",
+   "review": false
+  },
+  {
+   "id": "zh-cold",
+   "concept": "cold",
+   "text": "冷",
+   "speak": "冷",
+   "reading": "lěng",
+   "meaning": "cold",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/cold.mp3",
+    "she": "vocab/audio/zh/she/cold.mp3"
+   },
+   "image": "vocab/img/cold.jpg",
+   "emoji": "🥶",
+   "review": false
+  },
+  {
+   "id": "zh-good",
+   "concept": "good",
+   "text": "好",
+   "speak": "好",
+   "reading": "hǎo",
+   "meaning": "good",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/good.mp3",
+    "she": "vocab/audio/zh/she/good.mp3"
+   },
+   "image": "vocab/img/good.jpg",
+   "emoji": "👍",
+   "review": false
+  },
+  {
+   "id": "zh-bad",
+   "concept": "bad",
+   "text": "坏",
+   "speak": "坏",
+   "reading": "huài",
+   "meaning": "bad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/bad.mp3",
+    "she": "vocab/audio/zh/she/bad.mp3"
+   },
+   "image": "vocab/img/bad.jpg",
+   "emoji": "👎",
+   "review": false
+  },
+  {
+   "id": "zh-new",
+   "concept": "new",
+   "text": "新",
+   "speak": "新",
+   "reading": "xīn",
+   "meaning": "new",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/new.mp3",
+    "she": "vocab/audio/zh/she/new.mp3"
+   },
+   "image": "vocab/img/new.jpg",
+   "emoji": "✨",
+   "review": false
+  },
+  {
+   "id": "zh-old_thing",
+   "concept": "old_thing",
+   "text": "旧",
+   "speak": "旧",
+   "reading": "jiù",
+   "meaning": "old (thing)",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/old_thing.mp3",
+    "she": "vocab/audio/zh/she/old_thing.mp3"
+   },
+   "image": "vocab/img/old_thing.jpg",
+   "emoji": "🏚️",
+   "review": false
+  },
+  {
+   "id": "zh-young",
+   "concept": "young",
+   "text": "年轻",
+   "speak": "年轻",
+   "reading": "niánqīng",
+   "meaning": "young",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/young.mp3",
+    "she": "vocab/audio/zh/she/young.mp3"
+   },
+   "image": "vocab/img/young.jpg",
+   "emoji": "🧒",
+   "review": false
+  },
+  {
+   "id": "zh-old_age",
+   "concept": "old_age",
+   "text": "老",
+   "speak": "老",
+   "reading": "lǎo",
+   "meaning": "old (age)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/old_age.mp3",
+    "she": "vocab/audio/zh/she/old_age.mp3"
+   },
+   "image": "vocab/img/old_age.jpg",
+   "emoji": "👴",
+   "review": false
+  },
+  {
+   "id": "zh-beautiful",
+   "concept": "beautiful",
+   "text": "漂亮",
+   "speak": "漂亮",
+   "reading": "piàoliang",
+   "meaning": "beautiful",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/beautiful.mp3",
+    "she": "vocab/audio/zh/she/beautiful.mp3"
+   },
+   "image": "vocab/img/beautiful.jpg",
+   "emoji": "🌺",
+   "review": false
+  },
+  {
+   "id": "zh-delicious",
+   "concept": "delicious",
+   "text": "好吃",
+   "speak": "好吃",
+   "reading": "hǎochī",
+   "meaning": "delicious",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/delicious.mp3",
+    "she": "vocab/audio/zh/she/delicious.mp3"
+   },
+   "image": "vocab/img/delicious.jpg",
+   "emoji": "😋",
+   "review": false
+  },
+  {
+   "id": "zh-happy",
+   "concept": "happy",
+   "text": "高兴",
+   "speak": "高兴",
+   "reading": "gāoxìng",
+   "meaning": "happy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/happy.mp3",
+    "she": "vocab/audio/zh/she/happy.mp3"
+   },
+   "image": "vocab/img/happy.jpg",
+   "emoji": "😄",
+   "review": false
+  },
+  {
+   "id": "zh-sad",
+   "concept": "sad",
+   "text": "难过",
+   "speak": "难过",
+   "reading": "nánguò",
+   "meaning": "sad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/sad.mp3",
+    "she": "vocab/audio/zh/she/sad.mp3"
+   },
+   "image": "vocab/img/sad.jpg",
+   "emoji": "😢",
+   "review": false
+  },
+  {
+   "id": "zh-tired",
+   "concept": "tired",
+   "text": "累",
+   "speak": "累",
+   "reading": "lèi",
+   "meaning": "tired",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/tired.mp3",
+    "she": "vocab/audio/zh/she/tired.mp3"
+   },
+   "image": "vocab/img/tired.jpg",
+   "emoji": "😩",
+   "review": false
+  },
+  {
+   "id": "zh-hungry",
+   "concept": "hungry",
+   "text": "饿",
+   "speak": "饿",
+   "reading": "è",
+   "meaning": "hungry",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/hungry.mp3",
+    "she": "vocab/audio/zh/she/hungry.mp3"
+   },
+   "image": "vocab/img/hungry.jpg",
+   "emoji": "🤤",
+   "review": false
+  },
+  {
+   "id": "zh-thirsty",
+   "concept": "thirsty",
+   "text": "渴",
+   "speak": "渴",
+   "reading": "kě",
+   "meaning": "thirsty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/thirsty.mp3",
+    "she": "vocab/audio/zh/she/thirsty.mp3"
+   },
+   "image": "vocab/img/thirsty.jpg",
+   "emoji": "🥵",
+   "review": false
+  },
+  {
+   "id": "zh-fast",
+   "concept": "fast",
+   "text": "快",
+   "speak": "快",
+   "reading": "kuài",
+   "meaning": "fast",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/fast.mp3",
+    "she": "vocab/audio/zh/she/fast.mp3"
+   },
+   "image": "vocab/img/fast.jpg",
+   "emoji": "🐇",
+   "review": false
+  },
+  {
+   "id": "zh-slow",
+   "concept": "slow",
+   "text": "慢",
+   "speak": "慢",
+   "reading": "màn",
+   "meaning": "slow",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/slow.mp3",
+    "she": "vocab/audio/zh/she/slow.mp3"
+   },
+   "image": "vocab/img/slow.jpg",
+   "emoji": "🐢",
+   "review": false
+  },
+  {
+   "id": "zh-long",
+   "concept": "long",
+   "text": "长",
+   "speak": "长",
+   "reading": "cháng",
+   "meaning": "long",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/long.mp3",
+    "she": "vocab/audio/zh/she/long.mp3"
+   },
+   "image": "vocab/img/long.jpg",
+   "emoji": "🐍",
+   "review": false
+  },
+  {
+   "id": "zh-short",
+   "concept": "short",
+   "text": "短",
+   "speak": "短",
+   "reading": "duǎn",
+   "meaning": "short",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/short.mp3",
+    "she": "vocab/audio/zh/she/short.mp3"
+   },
+   "image": "vocab/img/short.jpg",
+   "emoji": "✏️",
+   "review": false
+  },
+  {
+   "id": "zh-tall",
+   "concept": "tall",
+   "text": "高",
+   "speak": "高",
+   "reading": "gāo",
+   "meaning": "tall",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/tall.mp3",
+    "she": "vocab/audio/zh/she/tall.mp3"
+   },
+   "image": "vocab/img/tall.jpg",
+   "emoji": "🦒",
+   "review": false
+  },
+  {
+   "id": "zh-expensive",
+   "concept": "expensive",
+   "text": "贵",
+   "speak": "贵",
+   "reading": "guì",
+   "meaning": "expensive",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/expensive.mp3",
+    "she": "vocab/audio/zh/she/expensive.mp3"
+   },
+   "image": "vocab/img/expensive.jpg",
+   "emoji": "💎",
+   "review": false
+  },
+  {
+   "id": "zh-cheap",
+   "concept": "cheap",
+   "text": "便宜",
+   "speak": "便宜",
+   "reading": "piányi",
+   "meaning": "cheap",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/cheap.mp3",
+    "she": "vocab/audio/zh/she/cheap.mp3"
+   },
+   "image": "vocab/img/cheap.jpg",
+   "emoji": "🪙",
+   "review": false
+  },
+  {
+   "id": "zh-many",
+   "concept": "many",
+   "text": "多",
+   "speak": "多",
+   "reading": "duō",
+   "meaning": "many",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/many.mp3",
+    "she": "vocab/audio/zh/she/many.mp3"
+   },
+   "image": "vocab/img/many.jpg",
+   "emoji": "🎈",
+   "review": false
+  },
+  {
+   "id": "zh-few",
+   "concept": "few",
+   "text": "少",
+   "speak": "少",
+   "reading": "shǎo",
+   "meaning": "few",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/few.mp3",
+    "she": "vocab/audio/zh/she/few.mp3"
+   },
+   "image": "vocab/img/few.jpg",
+   "emoji": "🎈",
+   "review": false
+  },
+  {
+   "id": "zh-easy",
+   "concept": "easy",
+   "text": "容易",
+   "speak": "容易",
+   "reading": "róngyì",
+   "meaning": "easy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/easy.mp3",
+    "she": "vocab/audio/zh/she/easy.mp3"
+   },
+   "image": "vocab/img/easy.jpg",
+   "emoji": "😌",
+   "review": false
+  },
+  {
+   "id": "zh-difficult",
+   "concept": "difficult",
+   "text": "难",
+   "speak": "难",
+   "reading": "nán",
+   "meaning": "difficult",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/difficult.mp3",
+    "she": "vocab/audio/zh/she/difficult.mp3"
+   },
+   "image": "vocab/img/difficult.jpg",
+   "emoji": "😣",
+   "review": false
+  },
+  {
+   "id": "zh-heavy",
+   "concept": "heavy",
+   "text": "重",
+   "speak": "重",
+   "reading": "zhòng",
+   "meaning": "heavy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/heavy.mp3",
+    "she": "vocab/audio/zh/she/heavy.mp3"
+   },
+   "image": "vocab/img/heavy.jpg",
+   "emoji": "🏋️",
+   "review": false
+  },
+  {
+   "id": "zh-light_weight",
+   "concept": "light_weight",
+   "text": "轻",
+   "speak": "轻",
+   "reading": "qīng",
+   "meaning": "light (weight)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/light_weight.mp3",
+    "she": "vocab/audio/zh/she/light_weight.mp3"
+   },
+   "image": "vocab/img/light_weight.jpg",
+   "emoji": "🪶",
+   "review": false
+  },
+  {
+   "id": "zh-clean_adj",
+   "concept": "clean_adj",
+   "text": "干净",
+   "speak": "干净",
+   "reading": "gānjìng",
+   "meaning": "clean (adj)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/clean_adj.mp3",
+    "she": "vocab/audio/zh/she/clean_adj.mp3"
+   },
+   "image": "vocab/img/clean_adj.jpg",
+   "emoji": "✨",
+   "review": false
+  },
+  {
+   "id": "zh-dirty",
+   "concept": "dirty",
+   "text": "脏",
+   "speak": "脏",
+   "reading": "zāng",
+   "meaning": "dirty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/dirty.mp3",
+    "she": "vocab/audio/zh/she/dirty.mp3"
+   },
+   "image": "vocab/img/dirty.jpg",
+   "emoji": "💩",
+   "review": false
+  },
+  {
+   "id": "zh-busy",
+   "concept": "busy",
+   "text": "忙",
+   "speak": "忙",
+   "reading": "máng",
+   "meaning": "busy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/busy.mp3",
+    "she": "vocab/audio/zh/she/busy.mp3"
+   },
+   "image": "vocab/img/busy.jpg",
+   "emoji": "🤹",
+   "review": false
+  },
+  {
+   "id": "zh-correct",
+   "concept": "correct",
+   "text": "对",
+   "speak": "对",
+   "reading": "duì",
+   "meaning": "correct",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/correct.mp3",
+    "she": "vocab/audio/zh/she/correct.mp3"
+   },
+   "image": "vocab/img/correct.jpg",
+   "emoji": "✅",
+   "review": false
+  },
+  {
+   "id": "zh-wrong",
+   "concept": "wrong",
+   "text": "错",
+   "speak": "错",
+   "reading": "cuò",
+   "meaning": "wrong",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/wrong.mp3",
+    "she": "vocab/audio/zh/she/wrong.mp3"
+   },
+   "image": "vocab/img/wrong.jpg",
+   "emoji": "❌",
+   "review": false
+  },
+  {
+   "id": "zh-same",
+   "concept": "same",
+   "text": "一样",
+   "speak": "一样",
+   "reading": "yīyàng",
+   "meaning": "same",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/same.mp3",
+    "she": "vocab/audio/zh/she/same.mp3"
+   },
+   "image": "vocab/img/same.jpg",
+   "emoji": "🟰",
+   "review": false
+  },
+  {
+   "id": "zh-different",
+   "concept": "different",
+   "text": "不同",
+   "speak": "不同",
+   "reading": "bùtóng",
+   "meaning": "different",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/different.mp3",
+    "she": "vocab/audio/zh/she/different.mp3"
+   },
+   "image": "vocab/img/different.jpg",
+   "emoji": "🔀",
+   "review": false
+  },
+  {
+   "id": "zh-strong",
+   "concept": "strong",
+   "text": "强",
+   "speak": "强",
+   "reading": "qiáng",
+   "meaning": "strong",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/strong.mp3",
+    "she": "vocab/audio/zh/she/strong.mp3"
+   },
+   "image": "vocab/img/strong.jpg",
+   "emoji": "💪",
+   "review": false
+  },
+  {
+   "id": "zh-weak",
+   "concept": "weak",
+   "text": "弱",
+   "speak": "弱",
+   "reading": "ruò",
+   "meaning": "weak",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/weak.mp3",
+    "she": "vocab/audio/zh/she/weak.mp3"
+   },
+   "image": "vocab/img/weak.jpg",
+   "emoji": "🥀",
+   "review": false
+  },
+  {
+   "id": "zh-fun",
+   "concept": "fun",
+   "text": "好玩",
+   "speak": "好玩",
+   "reading": "hǎowán",
+   "meaning": "fun",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/fun.mp3",
+    "she": "vocab/audio/zh/she/fun.mp3"
+   },
+   "image": "vocab/img/fun.jpg",
+   "emoji": "🎢",
+   "review": false
+  },
+  {
+   "id": "zh-interesting",
+   "concept": "interesting",
+   "text": "有意思",
+   "speak": "有意思",
+   "reading": "yǒuyìsi",
+   "meaning": "interesting",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/interesting.mp3",
+    "she": "vocab/audio/zh/she/interesting.mp3"
+   },
+   "image": "vocab/img/interesting.jpg",
+   "emoji": "🧐",
+   "review": false
+  },
+  {
+   "id": "zh-cute",
+   "concept": "cute",
+   "text": "可爱",
+   "speak": "可爱",
+   "reading": "kě'ài",
+   "meaning": "cute",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/cute.mp3",
+    "she": "vocab/audio/zh/she/cute.mp3"
+   },
+   "image": "vocab/img/cute.jpg",
+   "emoji": "🐱",
+   "review": false
+  },
+  {
+   "id": "zh-quiet",
+   "concept": "quiet",
+   "text": "安静",
+   "speak": "安静",
+   "reading": "ānjìng",
+   "meaning": "quiet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/quiet.mp3",
+    "she": "vocab/audio/zh/she/quiet.mp3"
+   },
+   "image": "vocab/img/quiet.jpg",
+   "emoji": "🤫",
+   "review": false
+  },
+  {
+   "id": "zh-noisy",
+   "concept": "noisy",
+   "text": "吵",
+   "speak": "吵",
+   "reading": "chǎo",
+   "meaning": "noisy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/noisy.mp3",
+    "she": "vocab/audio/zh/she/noisy.mp3"
+   },
+   "image": "vocab/img/noisy.jpg",
+   "emoji": "📢",
+   "review": false
+  },
+  {
+   "id": "zh-near",
+   "concept": "near",
+   "text": "近",
+   "speak": "近",
+   "reading": "jìn",
+   "meaning": "near",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/near.mp3",
+    "she": "vocab/audio/zh/she/near.mp3"
+   },
+   "image": "vocab/img/near.jpg",
+   "emoji": "📍",
+   "review": false
+  },
+  {
+   "id": "zh-far",
+   "concept": "far",
+   "text": "远",
+   "speak": "远",
+   "reading": "yuǎn",
+   "meaning": "far",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/far.mp3",
+    "she": "vocab/audio/zh/she/far.mp3"
+   },
+   "image": "vocab/img/far.jpg",
+   "emoji": "🏔️",
+   "review": false
+  },
+  {
+   "id": "zh-sweet",
+   "concept": "sweet",
+   "text": "甜",
+   "speak": "甜",
+   "reading": "tián",
+   "meaning": "sweet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/sweet.mp3",
+    "she": "vocab/audio/zh/she/sweet.mp3"
+   },
+   "image": "vocab/img/sweet.jpg",
+   "emoji": "🍭",
+   "review": false
+  },
+  {
+   "id": "zh-spicy",
+   "concept": "spicy",
+   "text": "辣",
+   "speak": "辣",
+   "reading": "là",
+   "meaning": "spicy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/spicy.mp3",
+    "she": "vocab/audio/zh/she/spicy.mp3"
+   },
+   "image": "vocab/img/spicy.jpg",
+   "emoji": "🌶️",
+   "review": false
+  },
+  {
+   "id": "zh-sour",
+   "concept": "sour",
+   "text": "酸",
+   "speak": "酸",
+   "reading": "suān",
+   "meaning": "sour",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/sour.mp3",
+    "she": "vocab/audio/zh/she/sour.mp3"
+   },
+   "image": "vocab/img/sour.jpg",
+   "emoji": "🍋",
+   "review": false
+  },
+  {
+   "id": "zh-salty",
+   "concept": "salty",
+   "text": "咸",
+   "speak": "咸",
+   "reading": "xián",
+   "meaning": "salty",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/zh/he/salty.mp3",
+    "she": "vocab/audio/zh/she/salty.mp3"
+   },
+   "image": "vocab/img/salty.jpg",
+   "emoji": "🧂",
+   "review": false
+  }
+ ]
+}

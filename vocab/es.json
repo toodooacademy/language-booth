@@ -1,0 +1,7944 @@
+{
+ "lang": "es",
+ "name": "Spanish",
+ "speech": "es-ES",
+ "topics": [
+  {
+   "id": "greetings",
+   "label": "Greetings"
+  },
+  {
+   "id": "numbers",
+   "label": "Numbers"
+  },
+  {
+   "id": "time",
+   "label": "Time & Calendar"
+  },
+  {
+   "id": "family",
+   "label": "Family"
+  },
+  {
+   "id": "people",
+   "label": "People"
+  },
+  {
+   "id": "pronouns",
+   "label": "Pronouns & Pointing"
+  },
+  {
+   "id": "questions",
+   "label": "Question Words"
+  },
+  {
+   "id": "body",
+   "label": "Body"
+  },
+  {
+   "id": "colors",
+   "label": "Colors"
+  },
+  {
+   "id": "food",
+   "label": "Food & Drink"
+  },
+  {
+   "id": "verbs",
+   "label": "Common Verbs"
+  },
+  {
+   "id": "adjectives",
+   "label": "Describing Words"
+  }
+ ],
+ "tiers": [
+  {
+   "id": 1,
+   "label": "Beginner"
+  },
+  {
+   "id": 2,
+   "label": "Elementary"
+  },
+  {
+   "id": 3,
+   "label": "Pre-intermediate"
+  },
+  {
+   "id": 4,
+   "label": "Intermediate"
+  },
+  {
+   "id": 5,
+   "label": "Upper-intermediate"
+  }
+ ],
+ "pageSize": 24,
+ "count": 341,
+ "words": [
+  {
+   "id": "es-hello",
+   "concept": "hello",
+   "text": "hola",
+   "speak": "hola",
+   "reading": "",
+   "meaning": "hello",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/hello.mp3",
+    "she": "vocab/audio/es/she/hello.mp3"
+   },
+   "image": "vocab/img/hello.jpg",
+   "emoji": "👋",
+   "display": "hola",
+   "legacy": true,
+   "example_phrase": "hola, profesor",
+   "example_sentence": "Hola, me llamo Lan.",
+   "example_phrase_meaning": "hello, teacher",
+   "example_meaning": "Hello, my name is Lan.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/hello-ex.mp3",
+    "she": "vocab/audio/es/she/hello-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-thank_you",
+   "concept": "thank_you",
+   "text": "gracias",
+   "speak": "gracias",
+   "reading": "",
+   "meaning": "thank you",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/es/he/thank_you.mp3",
+    "she": "vocab/audio/es/she/thank_you.mp3"
+   },
+   "image": "vocab/img/thank_you.jpg",
+   "emoji": "🙏",
+   "display": "gracias",
+   "legacy": true,
+   "example_phrase": "muchas gracias",
+   "example_sentence": "Gracias por el té.",
+   "example_phrase_meaning": "thank you very much",
+   "example_meaning": "Thank you for the tea.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/thank_you-ex.mp3",
+    "she": "vocab/audio/es/she/thank_you-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-sorry",
+   "concept": "sorry",
+   "text": "lo siento",
+   "speak": "lo siento",
+   "reading": "",
+   "meaning": "sorry",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/es/he/sorry.mp3",
+    "she": "vocab/audio/es/she/sorry.mp3"
+   },
+   "image": "vocab/img/sorry.jpg",
+   "emoji": "🙇",
+   "display": "lo siento",
+   "legacy": true,
+   "example_phrase": "lo siento mucho",
+   "example_sentence": "Lo siento, llego tarde.",
+   "example_phrase_meaning": "I'm very sorry",
+   "example_meaning": "Sorry, I am late.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/sorry-ex.mp3",
+    "she": "vocab/audio/es/she/sorry-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-yes",
+   "concept": "yes",
+   "text": "sí",
+   "speak": "sí",
+   "reading": "",
+   "meaning": "yes",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/yes.mp3",
+    "she": "vocab/audio/es/she/yes.mp3"
+   },
+   "image": "vocab/img/yes.jpg",
+   "emoji": "👍",
+   "display": "sí",
+   "legacy": true,
+   "example_phrase": "sí, por favor",
+   "example_sentence": "Sí, soy estudiante.",
+   "example_phrase_meaning": "yes, please",
+   "example_meaning": "Yes, I am a student.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/yes-ex.mp3",
+    "she": "vocab/audio/es/she/yes-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-no",
+   "concept": "no",
+   "text": "no",
+   "speak": "no",
+   "reading": "",
+   "meaning": "no",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/no.mp3",
+    "she": "vocab/audio/es/she/no.mp3"
+   },
+   "image": "vocab/img/no.jpg",
+   "emoji": "🙅",
+   "display": "no",
+   "legacy": true,
+   "example_phrase": "no, gracias",
+   "example_sentence": "No, no quiero café.",
+   "example_phrase_meaning": "no, thank you",
+   "example_meaning": "No, I don't want coffee.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/no-ex.mp3",
+    "she": "vocab/audio/es/she/no-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-goodbye",
+   "concept": "goodbye",
+   "text": "adiós",
+   "speak": "adiós",
+   "reading": "",
+   "meaning": "goodbye",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/goodbye.mp3",
+    "she": "vocab/audio/es/she/goodbye.mp3"
+   },
+   "image": "vocab/img/goodbye.jpg",
+   "emoji": "👋",
+   "display": "adiós",
+   "example_phrase": "adiós a todos",
+   "example_sentence": "Adiós, hasta mañana.",
+   "example_phrase_meaning": "goodbye, everyone",
+   "example_meaning": "Goodbye, see you tomorrow.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/goodbye-ex.mp3",
+    "she": "vocab/audio/es/she/goodbye-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-good_morning",
+   "concept": "good_morning",
+   "text": "buenos días",
+   "speak": "buenos días",
+   "reading": "",
+   "meaning": "good morning",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/es/he/good_morning.mp3",
+    "she": "vocab/audio/es/she/good_morning.mp3"
+   },
+   "image": "vocab/img/good_morning.jpg",
+   "emoji": "🌅",
+   "display": "buenos días",
+   "example_phrase": "buenos días, mamá",
+   "example_sentence": "Buenos días, ¿dormiste bien?",
+   "example_phrase_meaning": "good morning, mom",
+   "example_meaning": "Good morning, did you sleep well?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/good_morning-ex.mp3",
+    "she": "vocab/audio/es/she/good_morning-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-good_night",
+   "concept": "good_night",
+   "text": "buenas noches",
+   "speak": "buenas noches",
+   "reading": "",
+   "meaning": "good night",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/es/he/good_night.mp3",
+    "she": "vocab/audio/es/she/good_night.mp3"
+   },
+   "image": "vocab/img/good_night.jpg",
+   "emoji": "🌙",
+   "display": "buenas noches",
+   "example_phrase": "buenas noches, papá",
+   "example_sentence": "Buenas noches, que duermas bien.",
+   "example_phrase_meaning": "good night, dad",
+   "example_meaning": "Good night, sleep well.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/good_night-ex.mp3",
+    "she": "vocab/audio/es/she/good_night-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-please",
+   "concept": "please",
+   "text": "por favor",
+   "speak": "por favor",
+   "reading": "",
+   "meaning": "please",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/please.mp3",
+    "she": "vocab/audio/es/she/please.mp3"
+   },
+   "image": "vocab/img/please.jpg",
+   "emoji": "🥺",
+   "display": "por favor",
+   "example_phrase": "agua, por favor",
+   "example_sentence": "Siéntate, por favor.",
+   "example_phrase_meaning": "water, please",
+   "example_meaning": "Please sit down.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/please-ex.mp3",
+    "she": "vocab/audio/es/she/please-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-youre_welcome",
+   "concept": "youre_welcome",
+   "text": "de nada",
+   "speak": "de nada",
+   "reading": "",
+   "meaning": "you're welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/es/he/youre_welcome.mp3",
+    "she": "vocab/audio/es/she/youre_welcome.mp3"
+   },
+   "image": "vocab/img/youre_welcome.jpg",
+   "emoji": "😊",
+   "display": "de nada",
+   "example_phrase": "de nada, amigo",
+   "example_sentence": "De nada, fue fácil.",
+   "example_phrase_meaning": "you're welcome, friend",
+   "example_meaning": "You're welcome, it was easy.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/youre_welcome-ex.mp3",
+    "she": "vocab/audio/es/she/youre_welcome-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-welcome",
+   "concept": "welcome",
+   "text": "bienvenido",
+   "speak": "bienvenido",
+   "reading": "",
+   "meaning": "welcome",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/welcome.mp3",
+    "she": "vocab/audio/es/she/welcome.mp3"
+   },
+   "image": "vocab/img/welcome.jpg",
+   "emoji": "🤗",
+   "display": "bienvenido",
+   "example_phrase": "bienvenido a casa",
+   "example_sentence": "¡Bienvenido a mi casa!",
+   "example_phrase_meaning": "welcome home",
+   "example_meaning": "Welcome to my house!",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/welcome-ex.mp3",
+    "she": "vocab/audio/es/she/welcome-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-okay",
+   "concept": "okay",
+   "text": "vale",
+   "speak": "vale",
+   "reading": "",
+   "meaning": "okay",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/okay.mp3",
+    "she": "vocab/audio/es/she/okay.mp3"
+   },
+   "image": "vocab/img/okay.jpg",
+   "emoji": "👌",
+   "display": "vale",
+   "example_phrase": "vale, vamos",
+   "example_sentence": "Vale, lo entiendo.",
+   "example_phrase_meaning": "okay, let's go",
+   "example_meaning": "Okay, I understand.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/okay-ex.mp3",
+    "she": "vocab/audio/es/she/okay-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-nice_to_meet_you",
+   "concept": "nice_to_meet_you",
+   "text": "mucho gusto",
+   "speak": "mucho gusto",
+   "reading": "",
+   "meaning": "nice to meet you",
+   "topic": "greetings",
+   "tier": 2,
+   "pos": "phr",
+   "audio": {
+    "he": "vocab/audio/es/he/nice_to_meet_you.mp3",
+    "she": "vocab/audio/es/she/nice_to_meet_you.mp3"
+   },
+   "image": "vocab/img/nice_to_meet_you.jpg",
+   "emoji": "🤝",
+   "display": "mucho gusto",
+   "example_phrase": "mucho gusto, señora",
+   "example_sentence": "Mucho gusto, soy Minh.",
+   "example_phrase_meaning": "nice to meet you too",
+   "example_meaning": "Nice to meet you, I'm Minh.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/nice_to_meet_you-ex.mp3",
+    "she": "vocab/audio/es/she/nice_to_meet_you-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-congratulations",
+   "concept": "congratulations",
+   "text": "felicidades",
+   "speak": "felicidades",
+   "reading": "",
+   "meaning": "congratulations",
+   "topic": "greetings",
+   "tier": 3,
+   "pos": "interj",
+   "audio": {
+    "he": "vocab/audio/es/he/congratulations.mp3",
+    "she": "vocab/audio/es/she/congratulations.mp3"
+   },
+   "image": "vocab/img/congratulations.jpg",
+   "emoji": "🎉",
+   "display": "felicidades",
+   "example_phrase": "felicidades a ti",
+   "example_sentence": "¡Felicidades por tu nuevo trabajo!",
+   "example_phrase_meaning": "congratulations to you",
+   "example_meaning": "Congratulations on your new job!",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/congratulations-ex.mp3",
+    "she": "vocab/audio/es/she/congratulations-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-name",
+   "concept": "name",
+   "text": "nombre",
+   "speak": "el nombre",
+   "reading": "",
+   "meaning": "name",
+   "topic": "greetings",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/name.mp3",
+    "she": "vocab/audio/es/she/name.mp3"
+   },
+   "image": "vocab/img/name.jpg",
+   "emoji": "📛",
+   "display": "el nombre",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi nombre",
+   "example_sentence": "¿Cuál es tu nombre?",
+   "example_phrase_meaning": "my name",
+   "example_meaning": "What is your name?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/name-ex.mp3",
+    "she": "vocab/audio/es/she/name-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-one",
+   "concept": "one",
+   "text": "uno",
+   "speak": "uno",
+   "reading": "",
+   "meaning": "one",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/one.mp3",
+    "she": "vocab/audio/es/she/one.mp3"
+   },
+   "image": "vocab/img/one.jpg",
+   "emoji": "1️⃣",
+   "display": "uno",
+   "legacy": true,
+   "example_phrase": "una manzana",
+   "example_sentence": "Tengo un gato.",
+   "example_phrase_meaning": "one apple",
+   "example_meaning": "I have one cat.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/one-ex.mp3",
+    "she": "vocab/audio/es/she/one-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-two",
+   "concept": "two",
+   "text": "dos",
+   "speak": "dos",
+   "reading": "",
+   "meaning": "two",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/two.mp3",
+    "she": "vocab/audio/es/she/two.mp3"
+   },
+   "image": "vocab/img/two.jpg",
+   "emoji": "2️⃣",
+   "display": "dos",
+   "legacy": true,
+   "example_phrase": "dos tazas",
+   "example_sentence": "Tengo dos hermanos.",
+   "example_phrase_meaning": "two cups",
+   "example_meaning": "I have two brothers.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/two-ex.mp3",
+    "she": "vocab/audio/es/she/two-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-three",
+   "concept": "three",
+   "text": "tres",
+   "speak": "tres",
+   "reading": "",
+   "meaning": "three",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/three.mp3",
+    "she": "vocab/audio/es/she/three.mp3"
+   },
+   "image": "vocab/img/three.jpg",
+   "emoji": "3️⃣",
+   "display": "tres",
+   "legacy": true,
+   "example_phrase": "tres libros",
+   "example_sentence": "Hay tres libros en la mesa.",
+   "example_phrase_meaning": "three books",
+   "example_meaning": "There are three books on the table.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/three-ex.mp3",
+    "she": "vocab/audio/es/she/three-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-four",
+   "concept": "four",
+   "text": "cuatro",
+   "speak": "cuatro",
+   "reading": "",
+   "meaning": "four",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/four.mp3",
+    "she": "vocab/audio/es/she/four.mp3"
+   },
+   "image": "vocab/img/four.jpg",
+   "emoji": "4️⃣",
+   "display": "cuatro",
+   "legacy": true,
+   "example_phrase": "cuatro estaciones",
+   "example_sentence": "Un año tiene cuatro estaciones.",
+   "example_phrase_meaning": "four seasons",
+   "example_meaning": "A year has four seasons.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/four-ex.mp3",
+    "she": "vocab/audio/es/she/four-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-five",
+   "concept": "five",
+   "text": "cinco",
+   "speak": "cinco",
+   "reading": "",
+   "meaning": "five",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/five.mp3",
+    "she": "vocab/audio/es/she/five.mp3"
+   },
+   "image": "vocab/img/five.jpg",
+   "emoji": "5️⃣",
+   "display": "cinco",
+   "legacy": true,
+   "example_phrase": "cinco dedos",
+   "example_sentence": "Mi mano tiene cinco dedos.",
+   "example_phrase_meaning": "five fingers",
+   "example_meaning": "My hand has five fingers.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/five-ex.mp3",
+    "she": "vocab/audio/es/she/five-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-six",
+   "concept": "six",
+   "text": "seis",
+   "speak": "seis",
+   "reading": "",
+   "meaning": "six",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/six.mp3",
+    "she": "vocab/audio/es/she/six.mp3"
+   },
+   "image": "vocab/img/six.jpg",
+   "emoji": "6️⃣",
+   "display": "seis",
+   "legacy": true,
+   "example_phrase": "seis huevos",
+   "example_sentence": "Compra seis huevos, por favor.",
+   "example_phrase_meaning": "six eggs",
+   "example_meaning": "Please buy six eggs.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/six-ex.mp3",
+    "she": "vocab/audio/es/she/six-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-seven",
+   "concept": "seven",
+   "text": "siete",
+   "speak": "siete",
+   "reading": "",
+   "meaning": "seven",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/seven.mp3",
+    "she": "vocab/audio/es/she/seven.mp3"
+   },
+   "image": "vocab/img/seven.jpg",
+   "emoji": "7️⃣",
+   "display": "siete",
+   "legacy": true,
+   "example_phrase": "siete días",
+   "example_sentence": "Una semana tiene siete días.",
+   "example_phrase_meaning": "seven days",
+   "example_meaning": "A week has seven days.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/seven-ex.mp3",
+    "she": "vocab/audio/es/she/seven-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-eight",
+   "concept": "eight",
+   "text": "ocho",
+   "speak": "ocho",
+   "reading": "",
+   "meaning": "eight",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/eight.mp3",
+    "she": "vocab/audio/es/she/eight.mp3"
+   },
+   "image": "vocab/img/eight.jpg",
+   "emoji": "8️⃣",
+   "display": "ocho",
+   "legacy": true,
+   "example_phrase": "las ocho",
+   "example_sentence": "Me levanto a las ocho.",
+   "example_phrase_meaning": "eight o'clock",
+   "example_meaning": "I get up at eight o'clock.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/eight-ex.mp3",
+    "she": "vocab/audio/es/she/eight-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-nine",
+   "concept": "nine",
+   "text": "nueve",
+   "speak": "nueve",
+   "reading": "",
+   "meaning": "nine",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/nine.mp3",
+    "she": "vocab/audio/es/she/nine.mp3"
+   },
+   "image": "vocab/img/nine.jpg",
+   "emoji": "9️⃣",
+   "display": "nueve",
+   "legacy": true,
+   "example_phrase": "nueve gatos",
+   "example_sentence": "Mi abuela tiene nueve gatos.",
+   "example_phrase_meaning": "nine cats",
+   "example_meaning": "My grandmother has nine cats.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/nine-ex.mp3",
+    "she": "vocab/audio/es/she/nine-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-ten",
+   "concept": "ten",
+   "text": "diez",
+   "speak": "diez",
+   "reading": "",
+   "meaning": "ten",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/ten.mp3",
+    "she": "vocab/audio/es/she/ten.mp3"
+   },
+   "image": "vocab/img/ten.jpg",
+   "emoji": "🔟",
+   "display": "diez",
+   "legacy": true,
+   "example_phrase": "diez manzanas",
+   "example_sentence": "Hay diez manzanas en la mesa.",
+   "example_phrase_meaning": "ten apples",
+   "example_meaning": "There are ten apples on the table.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/ten-ex.mp3",
+    "she": "vocab/audio/es/she/ten-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-zero",
+   "concept": "zero",
+   "text": "cero",
+   "speak": "cero",
+   "reading": "",
+   "meaning": "zero",
+   "topic": "numbers",
+   "tier": 1,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/zero.mp3",
+    "she": "vocab/audio/es/she/zero.mp3"
+   },
+   "image": "vocab/img/zero.jpg",
+   "emoji": "0️⃣",
+   "display": "cero",
+   "example_phrase": "cero puntos",
+   "example_sentence": "Saqué cero puntos.",
+   "example_phrase_meaning": "zero points",
+   "example_meaning": "I got zero points.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/zero-ex.mp3",
+    "she": "vocab/audio/es/she/zero-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-eleven",
+   "concept": "eleven",
+   "text": "once",
+   "speak": "once",
+   "reading": "",
+   "meaning": "eleven",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/eleven.mp3",
+    "she": "vocab/audio/es/she/eleven.mp3"
+   },
+   "image": "vocab/img/eleven.jpg",
+   "emoji": "🔢",
+   "display": "once",
+   "example_phrase": "once jugadores",
+   "example_sentence": "Un equipo de fútbol tiene once jugadores.",
+   "example_phrase_meaning": "eleven players",
+   "example_meaning": "A soccer team has eleven players.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/eleven-ex.mp3",
+    "she": "vocab/audio/es/she/eleven-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-twelve",
+   "concept": "twelve",
+   "text": "doce",
+   "speak": "doce",
+   "reading": "",
+   "meaning": "twelve",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/twelve.mp3",
+    "she": "vocab/audio/es/she/twelve.mp3"
+   },
+   "image": "vocab/img/twelve.jpg",
+   "emoji": "🥚",
+   "display": "doce",
+   "example_phrase": "doce meses",
+   "example_sentence": "Un año tiene doce meses.",
+   "example_phrase_meaning": "twelve months",
+   "example_meaning": "A year has twelve months.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/twelve-ex.mp3",
+    "she": "vocab/audio/es/she/twelve-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-twenty",
+   "concept": "twenty",
+   "text": "veinte",
+   "speak": "veinte",
+   "reading": "",
+   "meaning": "twenty",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/twenty.mp3",
+    "she": "vocab/audio/es/she/twenty.mp3"
+   },
+   "image": "vocab/img/twenty.jpg",
+   "emoji": "🔢",
+   "display": "veinte",
+   "example_phrase": "veinte años",
+   "example_sentence": "Mi hermana tiene veinte años.",
+   "example_phrase_meaning": "twenty years old",
+   "example_meaning": "My sister is twenty years old.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/twenty-ex.mp3",
+    "she": "vocab/audio/es/she/twenty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-thirty",
+   "concept": "thirty",
+   "text": "treinta",
+   "speak": "treinta",
+   "reading": "",
+   "meaning": "thirty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/thirty.mp3",
+    "she": "vocab/audio/es/she/thirty.mp3"
+   },
+   "image": "vocab/img/thirty.jpg",
+   "emoji": "🔢",
+   "display": "treinta",
+   "example_phrase": "treinta minutos",
+   "example_sentence": "El autobús llega en treinta minutos.",
+   "example_phrase_meaning": "thirty minutes",
+   "example_meaning": "The bus comes in thirty minutes.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/thirty-ex.mp3",
+    "she": "vocab/audio/es/she/thirty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-fifty",
+   "concept": "fifty",
+   "text": "cincuenta",
+   "speak": "cincuenta",
+   "reading": "",
+   "meaning": "fifty",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/fifty.mp3",
+    "she": "vocab/audio/es/she/fifty.mp3"
+   },
+   "image": "vocab/img/fifty.jpg",
+   "emoji": "🔢",
+   "display": "cincuenta",
+   "example_phrase": "cincuenta personas",
+   "example_sentence": "Cincuenta personas vinieron a la fiesta.",
+   "example_phrase_meaning": "fifty people",
+   "example_meaning": "Fifty people came to the party.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/fifty-ex.mp3",
+    "she": "vocab/audio/es/she/fifty-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-hundred",
+   "concept": "hundred",
+   "text": "cien",
+   "speak": "cien",
+   "reading": "",
+   "meaning": "hundred",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/hundred.mp3",
+    "she": "vocab/audio/es/she/hundred.mp3"
+   },
+   "image": "vocab/img/hundred.jpg",
+   "emoji": "💯",
+   "display": "cien",
+   "example_phrase": "cien dólares",
+   "example_sentence": "Este bolso cuesta cien dólares.",
+   "example_phrase_meaning": "one hundred dollars",
+   "example_meaning": "This bag costs one hundred dollars.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/hundred-ex.mp3",
+    "she": "vocab/audio/es/she/hundred-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-thousand",
+   "concept": "thousand",
+   "text": "mil",
+   "speak": "mil",
+   "reading": "",
+   "meaning": "thousand",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/thousand.mp3",
+    "she": "vocab/audio/es/she/thousand.mp3"
+   },
+   "image": "vocab/img/thousand.jpg",
+   "emoji": "🔢",
+   "display": "mil",
+   "example_phrase": "mil estrellas",
+   "example_sentence": "Puedo ver mil estrellas.",
+   "example_phrase_meaning": "a thousand stars",
+   "example_meaning": "I can see a thousand stars.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/thousand-ex.mp3",
+    "she": "vocab/audio/es/she/thousand-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-million",
+   "concept": "million",
+   "text": "un millón",
+   "speak": "un millón",
+   "reading": "",
+   "meaning": "million",
+   "topic": "numbers",
+   "tier": 4,
+   "pos": "num",
+   "audio": {
+    "he": "vocab/audio/es/he/million.mp3",
+    "she": "vocab/audio/es/she/million.mp3"
+   },
+   "image": "vocab/img/million.jpg",
+   "emoji": "💰",
+   "display": "un millón",
+   "example_phrase": "un millón de personas",
+   "example_sentence": "Un millón de personas vive en esta ciudad.",
+   "example_phrase_meaning": "a million people",
+   "example_meaning": "A million people live in this city.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/million-ex.mp3",
+    "she": "vocab/audio/es/she/million-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-first",
+   "concept": "first",
+   "text": "primero",
+   "speak": "primero",
+   "reading": "",
+   "meaning": "first",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/first.mp3",
+    "she": "vocab/audio/es/she/first.mp3"
+   },
+   "image": "vocab/img/first.jpg",
+   "emoji": "🥇",
+   "display": "primero",
+   "example_phrase": "el primer día",
+   "example_sentence": "Hoy es mi primer día en la escuela.",
+   "example_phrase_meaning": "the first day",
+   "example_meaning": "Today is my first day at school.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/first-ex.mp3",
+    "she": "vocab/audio/es/she/first-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-last",
+   "concept": "last",
+   "text": "último",
+   "speak": "último",
+   "reading": "",
+   "meaning": "last",
+   "topic": "numbers",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/last.mp3",
+    "she": "vocab/audio/es/she/last.mp3"
+   },
+   "image": "vocab/img/last.jpg",
+   "emoji": "🏁",
+   "display": "último",
+   "example_phrase": "el último tren",
+   "example_sentence": "Este es el último tren.",
+   "example_phrase_meaning": "the last train",
+   "example_meaning": "This is the last train.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/last-ex.mp3",
+    "she": "vocab/audio/es/she/last-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-half",
+   "concept": "half",
+   "text": "mitad",
+   "speak": "la mitad",
+   "reading": "",
+   "meaning": "half",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/half.mp3",
+    "she": "vocab/audio/es/she/half.mp3"
+   },
+   "image": "vocab/img/half.jpg",
+   "emoji": "🌓",
+   "display": "la mitad",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "media manzana",
+   "example_sentence": "Comí media manzana.",
+   "example_phrase_meaning": "half an apple",
+   "example_meaning": "I ate half an apple.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/half-ex.mp3",
+    "she": "vocab/audio/es/she/half-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-number",
+   "concept": "number",
+   "text": "número",
+   "speak": "el número",
+   "reading": "",
+   "meaning": "number",
+   "topic": "numbers",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/number.mp3",
+    "she": "vocab/audio/es/she/number.mp3"
+   },
+   "image": "vocab/img/number.jpg",
+   "emoji": "🔢",
+   "display": "el número",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "número de teléfono",
+   "example_sentence": "¿Cuál es tu número de teléfono?",
+   "example_phrase_meaning": "phone number",
+   "example_meaning": "What is your phone number?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/number-ex.mp3",
+    "she": "vocab/audio/es/she/number-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-day",
+   "concept": "day",
+   "text": "día",
+   "speak": "el día",
+   "reading": "",
+   "meaning": "day",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/day.mp3",
+    "she": "vocab/audio/es/she/day.mp3"
+   },
+   "image": "vocab/img/day.jpg",
+   "emoji": "📅",
+   "display": "el día",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "cada día",
+   "example_sentence": "Bebo té cada día.",
+   "example_phrase_meaning": "every day",
+   "example_meaning": "I drink tea every day.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/day-ex.mp3",
+    "she": "vocab/audio/es/she/day-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-week",
+   "concept": "week",
+   "text": "semana",
+   "speak": "la semana",
+   "reading": "",
+   "meaning": "week",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/week.mp3",
+    "she": "vocab/audio/es/she/week.mp3"
+   },
+   "image": "vocab/img/week.jpg",
+   "emoji": "🗓️",
+   "display": "la semana",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "la próxima semana",
+   "example_sentence": "Voy a Hanói la próxima semana.",
+   "example_phrase_meaning": "next week",
+   "example_meaning": "I will go to Hanoi next week.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/week-ex.mp3",
+    "she": "vocab/audio/es/she/week-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-month",
+   "concept": "month",
+   "text": "mes",
+   "speak": "el mes",
+   "reading": "",
+   "meaning": "month",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/month.mp3",
+    "she": "vocab/audio/es/she/month.mp3"
+   },
+   "image": "vocab/img/month.jpg",
+   "emoji": "🗓️",
+   "display": "el mes",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "este mes",
+   "example_sentence": "Este mes estoy muy ocupado.",
+   "example_phrase_meaning": "this month",
+   "example_meaning": "This month is very busy.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/month-ex.mp3",
+    "she": "vocab/audio/es/she/month-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-year",
+   "concept": "year",
+   "text": "año",
+   "speak": "el año",
+   "reading": "",
+   "meaning": "year",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/year.mp3",
+    "she": "vocab/audio/es/she/year.mp3"
+   },
+   "image": "vocab/img/year.jpg",
+   "emoji": "🎆",
+   "display": "el año",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "el año pasado",
+   "example_sentence": "El año pasado viví en Tokio.",
+   "example_phrase_meaning": "last year",
+   "example_meaning": "Last year I lived in Tokyo.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/year-ex.mp3",
+    "she": "vocab/audio/es/she/year-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-today",
+   "concept": "today",
+   "text": "hoy",
+   "speak": "hoy",
+   "reading": "",
+   "meaning": "today",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/today.mp3",
+    "she": "vocab/audio/es/she/today.mp3"
+   },
+   "image": "vocab/img/today.jpg",
+   "emoji": "📍",
+   "display": "hoy",
+   "example_phrase": "el tiempo de hoy",
+   "example_sentence": "Hoy es lunes.",
+   "example_phrase_meaning": "today's weather",
+   "example_meaning": "Today is Monday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/today-ex.mp3",
+    "she": "vocab/audio/es/she/today-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-tomorrow",
+   "concept": "tomorrow",
+   "text": "mañana",
+   "speak": "mañana",
+   "reading": "",
+   "meaning": "tomorrow",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/tomorrow.mp3",
+    "she": "vocab/audio/es/she/tomorrow.mp3"
+   },
+   "image": "vocab/img/tomorrow.jpg",
+   "emoji": "➡️",
+   "display": "mañana",
+   "example_phrase": "hasta mañana",
+   "example_sentence": "Mañana tengo un examen.",
+   "example_phrase_meaning": "see you tomorrow",
+   "example_meaning": "Tomorrow I have a test.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/tomorrow-ex.mp3",
+    "she": "vocab/audio/es/she/tomorrow-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-yesterday",
+   "concept": "yesterday",
+   "text": "ayer",
+   "speak": "ayer",
+   "reading": "",
+   "meaning": "yesterday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/yesterday.mp3",
+    "she": "vocab/audio/es/she/yesterday.mp3"
+   },
+   "image": "vocab/img/yesterday.jpg",
+   "emoji": "⬅️",
+   "display": "ayer",
+   "example_phrase": "ayer por la mañana",
+   "example_sentence": "Ayer llovió.",
+   "example_phrase_meaning": "yesterday morning",
+   "example_meaning": "Yesterday it rained.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/yesterday-ex.mp3",
+    "she": "vocab/audio/es/she/yesterday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-now",
+   "concept": "now",
+   "text": "ahora",
+   "speak": "ahora",
+   "reading": "",
+   "meaning": "now",
+   "topic": "time",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/now.mp3",
+    "she": "vocab/audio/es/she/now.mp3"
+   },
+   "image": "vocab/img/now.jpg",
+   "emoji": "⏱️",
+   "display": "ahora",
+   "example_phrase": "ahora mismo",
+   "example_sentence": "Ahora estoy ocupado.",
+   "example_phrase_meaning": "right now",
+   "example_meaning": "I am busy now.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/now-ex.mp3",
+    "she": "vocab/audio/es/she/now-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-morning",
+   "concept": "morning",
+   "text": "mañana",
+   "speak": "la mañana",
+   "reading": "",
+   "meaning": "morning",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/morning.mp3",
+    "she": "vocab/audio/es/she/morning.mp3"
+   },
+   "image": "vocab/img/morning.jpg",
+   "emoji": "🌅",
+   "display": "la mañana",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "cada mañana",
+   "example_sentence": "Corro cada mañana.",
+   "example_phrase_meaning": "every morning",
+   "example_meaning": "I run every morning.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/morning-ex.mp3",
+    "she": "vocab/audio/es/she/morning-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-afternoon",
+   "concept": "afternoon",
+   "text": "tarde",
+   "speak": "la tarde",
+   "reading": "",
+   "meaning": "afternoon",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/afternoon.mp3",
+    "she": "vocab/audio/es/she/afternoon.mp3"
+   },
+   "image": "vocab/img/afternoon.jpg",
+   "emoji": "🌤️",
+   "display": "la tarde",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "esta tarde",
+   "example_sentence": "Esta tarde voy a estudiar.",
+   "example_phrase_meaning": "this afternoon",
+   "example_meaning": "This afternoon I will study.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/afternoon-ex.mp3",
+    "she": "vocab/audio/es/she/afternoon-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-night",
+   "concept": "night",
+   "text": "noche",
+   "speak": "la noche",
+   "reading": "",
+   "meaning": "night",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/night.mp3",
+    "she": "vocab/audio/es/she/night.mp3"
+   },
+   "image": "vocab/img/night.jpg",
+   "emoji": "🌃",
+   "display": "la noche",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "anoche",
+   "example_sentence": "Anoche dormí bien.",
+   "example_phrase_meaning": "last night",
+   "example_meaning": "Last night I slept well.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/night-ex.mp3",
+    "she": "vocab/audio/es/she/night-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-hour",
+   "concept": "hour",
+   "text": "hora",
+   "speak": "la hora",
+   "reading": "",
+   "meaning": "hour",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/hour.mp3",
+    "she": "vocab/audio/es/she/hour.mp3"
+   },
+   "image": "vocab/img/hour.jpg",
+   "emoji": "⏳",
+   "display": "la hora",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "una hora",
+   "example_sentence": "Estudio una hora.",
+   "example_phrase_meaning": "one hour",
+   "example_meaning": "I study for one hour.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/hour-ex.mp3",
+    "she": "vocab/audio/es/she/hour-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-minute",
+   "concept": "minute",
+   "text": "minuto",
+   "speak": "el minuto",
+   "reading": "",
+   "meaning": "minute",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/minute.mp3",
+    "she": "vocab/audio/es/she/minute.mp3"
+   },
+   "image": "vocab/img/minute.jpg",
+   "emoji": "⏲️",
+   "display": "el minuto",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "cinco minutos",
+   "example_sentence": "Espera cinco minutos, por favor.",
+   "example_phrase_meaning": "five minutes",
+   "example_meaning": "Please wait five minutes.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/minute-ex.mp3",
+    "she": "vocab/audio/es/she/minute-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-second_time",
+   "concept": "second_time",
+   "text": "segundo",
+   "speak": "el segundo",
+   "reading": "",
+   "meaning": "second (time)",
+   "topic": "time",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/second_time.mp3",
+    "she": "vocab/audio/es/she/second_time.mp3"
+   },
+   "image": "vocab/img/second_time.jpg",
+   "emoji": "⏱️",
+   "display": "el segundo",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "diez segundos",
+   "example_sentence": "Espera diez segundos.",
+   "example_phrase_meaning": "ten seconds",
+   "example_meaning": "Wait ten seconds.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/second_time-ex.mp3",
+    "she": "vocab/audio/es/she/second_time-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-time",
+   "concept": "time",
+   "text": "tiempo",
+   "speak": "el tiempo",
+   "reading": "",
+   "meaning": "time",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/time.mp3",
+    "she": "vocab/audio/es/she/time.mp3"
+   },
+   "image": "vocab/img/time.jpg",
+   "emoji": "🕰️",
+   "display": "el tiempo",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "tiempo libre",
+   "example_sentence": "Hoy no tengo tiempo.",
+   "example_phrase_meaning": "free time",
+   "example_meaning": "I have no time today.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/time-ex.mp3",
+    "she": "vocab/audio/es/she/time-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-clock",
+   "concept": "clock",
+   "text": "reloj",
+   "speak": "el reloj",
+   "reading": "",
+   "meaning": "clock",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/clock.mp3",
+    "she": "vocab/audio/es/she/clock.mp3"
+   },
+   "image": "vocab/img/clock.jpg",
+   "emoji": "🕰️",
+   "display": "el reloj",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un reloj grande",
+   "example_sentence": "El reloj está en la pared.",
+   "example_phrase_meaning": "a big clock",
+   "example_meaning": "The clock is on the wall.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/clock-ex.mp3",
+    "she": "vocab/audio/es/she/clock-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-monday",
+   "concept": "monday",
+   "text": "lunes",
+   "speak": "el lunes",
+   "reading": "",
+   "meaning": "Monday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/monday.mp3",
+    "she": "vocab/audio/es/she/monday.mp3"
+   },
+   "image": "vocab/img/monday.jpg",
+   "emoji": "📅",
+   "display": "el lunes",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "el próximo lunes",
+   "example_sentence": "Trabajo el lunes.",
+   "example_phrase_meaning": "next Monday",
+   "example_meaning": "I work on Monday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/monday-ex.mp3",
+    "she": "vocab/audio/es/she/monday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-tuesday",
+   "concept": "tuesday",
+   "text": "martes",
+   "speak": "el martes",
+   "reading": "",
+   "meaning": "Tuesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/tuesday.mp3",
+    "she": "vocab/audio/es/she/tuesday.mp3"
+   },
+   "image": "vocab/img/tuesday.jpg",
+   "emoji": "📅",
+   "display": "el martes",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "cada martes",
+   "example_sentence": "Nado cada martes.",
+   "example_phrase_meaning": "every Tuesday",
+   "example_meaning": "I swim every Tuesday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/tuesday-ex.mp3",
+    "she": "vocab/audio/es/she/tuesday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-wednesday",
+   "concept": "wednesday",
+   "text": "miércoles",
+   "speak": "el miércoles",
+   "reading": "",
+   "meaning": "Wednesday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/wednesday.mp3",
+    "she": "vocab/audio/es/she/wednesday.mp3"
+   },
+   "image": "vocab/img/wednesday.jpg",
+   "emoji": "📅",
+   "display": "el miércoles",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "el miércoles",
+   "example_sentence": "Tenemos clase el miércoles.",
+   "example_phrase_meaning": "on Wednesday",
+   "example_meaning": "We have class on Wednesday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/wednesday-ex.mp3",
+    "she": "vocab/audio/es/she/wednesday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-thursday",
+   "concept": "thursday",
+   "text": "jueves",
+   "speak": "el jueves",
+   "reading": "",
+   "meaning": "Thursday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/thursday.mp3",
+    "she": "vocab/audio/es/she/thursday.mp3"
+   },
+   "image": "vocab/img/thursday.jpg",
+   "emoji": "📅",
+   "display": "el jueves",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "el jueves por la noche",
+   "example_sentence": "Veo a mi amigo el jueves.",
+   "example_phrase_meaning": "Thursday evening",
+   "example_meaning": "I see my friend on Thursday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/thursday-ex.mp3",
+    "she": "vocab/audio/es/she/thursday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-friday",
+   "concept": "friday",
+   "text": "viernes",
+   "speak": "el viernes",
+   "reading": "",
+   "meaning": "Friday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/friday.mp3",
+    "she": "vocab/audio/es/she/friday.mp3"
+   },
+   "image": "vocab/img/friday.jpg",
+   "emoji": "📅",
+   "display": "el viernes",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "el viernes por la noche",
+   "example_sentence": "El viernes es mi día favorito.",
+   "example_phrase_meaning": "Friday night",
+   "example_meaning": "Friday is my favorite day.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/friday-ex.mp3",
+    "she": "vocab/audio/es/she/friday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-saturday",
+   "concept": "saturday",
+   "text": "sábado",
+   "speak": "el sábado",
+   "reading": "",
+   "meaning": "Saturday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/saturday.mp3",
+    "she": "vocab/audio/es/she/saturday.mp3"
+   },
+   "image": "vocab/img/saturday.jpg",
+   "emoji": "📅",
+   "display": "el sábado",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "este sábado",
+   "example_sentence": "Este sábado voy de compras.",
+   "example_phrase_meaning": "this Saturday",
+   "example_meaning": "This Saturday I will go shopping.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/saturday-ex.mp3",
+    "she": "vocab/audio/es/she/saturday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-sunday",
+   "concept": "sunday",
+   "text": "domingo",
+   "speak": "el domingo",
+   "reading": "",
+   "meaning": "Sunday",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/sunday.mp3",
+    "she": "vocab/audio/es/she/sunday.mp3"
+   },
+   "image": "vocab/img/sunday.jpg",
+   "emoji": "📅",
+   "display": "el domingo",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "el domingo",
+   "example_sentence": "El domingo descanso en casa.",
+   "example_phrase_meaning": "on Sunday",
+   "example_meaning": "On Sunday I rest at home.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/sunday-ex.mp3",
+    "she": "vocab/audio/es/she/sunday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-weekend",
+   "concept": "weekend",
+   "text": "fin de semana",
+   "speak": "el fin de semana",
+   "reading": "",
+   "meaning": "weekend",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/weekend.mp3",
+    "she": "vocab/audio/es/she/weekend.mp3"
+   },
+   "image": "vocab/img/weekend.jpg",
+   "emoji": "🏖️",
+   "display": "el fin de semana",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "este fin de semana",
+   "example_sentence": "¿Qué vas a hacer este fin de semana?",
+   "example_phrase_meaning": "this weekend",
+   "example_meaning": "What will you do this weekend?",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/weekend-ex.mp3",
+    "she": "vocab/audio/es/she/weekend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-spring",
+   "concept": "spring",
+   "text": "primavera",
+   "speak": "la primavera",
+   "reading": "",
+   "meaning": "spring",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/spring.mp3",
+    "she": "vocab/audio/es/she/spring.mp3"
+   },
+   "image": "vocab/img/spring.jpg",
+   "emoji": "🌸",
+   "display": "la primavera",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "en primavera",
+   "example_sentence": "Las flores salen en primavera.",
+   "example_phrase_meaning": "in spring",
+   "example_meaning": "Flowers bloom in spring.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/spring-ex.mp3",
+    "she": "vocab/audio/es/she/spring-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-summer",
+   "concept": "summer",
+   "text": "verano",
+   "speak": "el verano",
+   "reading": "",
+   "meaning": "summer",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/summer.mp3",
+    "she": "vocab/audio/es/she/summer.mp3"
+   },
+   "image": "vocab/img/summer.jpg",
+   "emoji": "☀️",
+   "display": "el verano",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "las vacaciones de verano",
+   "example_sentence": "El verano es muy caluroso.",
+   "example_phrase_meaning": "summer vacation",
+   "example_meaning": "Summer is very hot.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/summer-ex.mp3",
+    "she": "vocab/audio/es/she/summer-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-autumn",
+   "concept": "autumn",
+   "text": "otoño",
+   "speak": "el otoño",
+   "reading": "",
+   "meaning": "autumn",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/autumn.mp3",
+    "she": "vocab/audio/es/she/autumn.mp3"
+   },
+   "image": "vocab/img/autumn.jpg",
+   "emoji": "🍂",
+   "display": "el otoño",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "las hojas de otoño",
+   "example_sentence": "En otoño las hojas se ponen rojas.",
+   "example_phrase_meaning": "autumn leaves",
+   "example_meaning": "In autumn the leaves turn red.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/autumn-ex.mp3",
+    "she": "vocab/audio/es/she/autumn-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-winter",
+   "concept": "winter",
+   "text": "invierno",
+   "speak": "el invierno",
+   "reading": "",
+   "meaning": "winter",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/winter.mp3",
+    "she": "vocab/audio/es/she/winter.mp3"
+   },
+   "image": "vocab/img/winter.jpg",
+   "emoji": "❄️",
+   "display": "el invierno",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un invierno frío",
+   "example_sentence": "En invierno nieva.",
+   "example_phrase_meaning": "cold winter",
+   "example_meaning": "It snows in winter.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/winter-ex.mp3",
+    "she": "vocab/audio/es/she/winter-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-birthday",
+   "concept": "birthday",
+   "text": "cumpleaños",
+   "speak": "el cumpleaños",
+   "reading": "",
+   "meaning": "birthday",
+   "topic": "time",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/birthday.mp3",
+    "she": "vocab/audio/es/she/birthday.mp3"
+   },
+   "image": "vocab/img/birthday.jpg",
+   "emoji": "🎂",
+   "display": "el cumpleaños",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "feliz cumpleaños",
+   "example_sentence": "Hoy es mi cumpleaños.",
+   "example_phrase_meaning": "happy birthday",
+   "example_meaning": "Today is my birthday.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/birthday-ex.mp3",
+    "she": "vocab/audio/es/she/birthday-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-early",
+   "concept": "early",
+   "text": "temprano",
+   "speak": "temprano",
+   "reading": "",
+   "meaning": "early",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/early.mp3",
+    "she": "vocab/audio/es/she/early.mp3"
+   },
+   "image": "vocab/img/early.jpg",
+   "emoji": "🐓",
+   "display": "temprano",
+   "example_phrase": "temprano por la mañana",
+   "example_sentence": "Me levanto temprano.",
+   "example_phrase_meaning": "early morning",
+   "example_meaning": "I get up early.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/early-ex.mp3",
+    "she": "vocab/audio/es/she/early-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-late",
+   "concept": "late",
+   "text": "tarde",
+   "speak": "tarde",
+   "reading": "",
+   "meaning": "late",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/late.mp3",
+    "she": "vocab/audio/es/she/late.mp3"
+   },
+   "image": "vocab/img/late.jpg",
+   "emoji": "🏃",
+   "display": "tarde",
+   "example_phrase": "tarde por la noche",
+   "example_sentence": "El autobús llega tarde.",
+   "example_phrase_meaning": "late at night",
+   "example_meaning": "The bus is late.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/late-ex.mp3",
+    "she": "vocab/audio/es/she/late-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-always",
+   "concept": "always",
+   "text": "siempre",
+   "speak": "siempre",
+   "reading": "",
+   "meaning": "always",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/always.mp3",
+    "she": "vocab/audio/es/she/always.mp3"
+   },
+   "image": "vocab/img/always.jpg",
+   "emoji": "♾️",
+   "display": "siempre",
+   "example_phrase": "siempre feliz",
+   "example_sentence": "Ella siempre está feliz.",
+   "example_phrase_meaning": "always happy",
+   "example_meaning": "She is always happy.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/always-ex.mp3",
+    "she": "vocab/audio/es/she/always-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-sometimes",
+   "concept": "sometimes",
+   "text": "a veces",
+   "speak": "a veces",
+   "reading": "",
+   "meaning": "sometimes",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/sometimes.mp3",
+    "she": "vocab/audio/es/she/sometimes.mp3"
+   },
+   "image": "vocab/img/sometimes.jpg",
+   "emoji": "🌦️",
+   "display": "a veces",
+   "example_phrase": "a veces tarde",
+   "example_sentence": "A veces cocino en casa.",
+   "example_phrase_meaning": "sometimes late",
+   "example_meaning": "Sometimes I cook at home.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/sometimes-ex.mp3",
+    "she": "vocab/audio/es/she/sometimes-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-often",
+   "concept": "often",
+   "text": "a menudo",
+   "speak": "a menudo",
+   "reading": "",
+   "meaning": "often",
+   "topic": "time",
+   "tier": 3,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/often.mp3",
+    "she": "vocab/audio/es/she/often.mp3"
+   },
+   "image": "vocab/img/often.jpg",
+   "emoji": "🔁",
+   "display": "a menudo",
+   "example_phrase": "a menudo voy",
+   "example_sentence": "Bebo café a menudo.",
+   "example_phrase_meaning": "often go",
+   "example_meaning": "I often drink coffee.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/often-ex.mp3",
+    "she": "vocab/audio/es/she/often-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-later",
+   "concept": "later",
+   "text": "después",
+   "speak": "después",
+   "reading": "",
+   "meaning": "later",
+   "topic": "time",
+   "tier": 2,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/later.mp3",
+    "she": "vocab/audio/es/she/later.mp3"
+   },
+   "image": "vocab/img/later.jpg",
+   "emoji": "⏳",
+   "display": "después",
+   "example_phrase": "hasta después",
+   "example_sentence": "Te llamo después.",
+   "example_phrase_meaning": "see you later",
+   "example_meaning": "I will call you later.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/later-ex.mp3",
+    "she": "vocab/audio/es/she/later-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-calendar",
+   "concept": "calendar",
+   "text": "calendario",
+   "speak": "el calendario",
+   "reading": "",
+   "meaning": "calendar",
+   "topic": "time",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/calendar.mp3",
+    "she": "vocab/audio/es/she/calendar.mp3"
+   },
+   "image": "vocab/img/calendar.jpg",
+   "emoji": "📆",
+   "display": "el calendario",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un calendario nuevo",
+   "example_sentence": "El calendario está en la pared.",
+   "example_phrase_meaning": "a new calendar",
+   "example_meaning": "The calendar is on the wall.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/calendar-ex.mp3",
+    "she": "vocab/audio/es/she/calendar-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-mother",
+   "concept": "mother",
+   "text": "madre",
+   "speak": "madre",
+   "reading": "",
+   "meaning": "mother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/mother.mp3",
+    "she": "vocab/audio/es/she/mother.mp3"
+   },
+   "image": "vocab/img/mother.jpg",
+   "emoji": "👩",
+   "display": "la madre",
+   "gender": "f",
+   "article": "la",
+   "legacy": true,
+   "example_phrase": "mi madre",
+   "example_sentence": "Mi madre es profesora.",
+   "example_phrase_meaning": "my mother",
+   "example_meaning": "My mother is a teacher.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/mother-ex.mp3",
+    "she": "vocab/audio/es/she/mother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-father",
+   "concept": "father",
+   "text": "padre",
+   "speak": "padre",
+   "reading": "",
+   "meaning": "father",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/father.mp3",
+    "she": "vocab/audio/es/she/father.mp3"
+   },
+   "image": "vocab/img/father.jpg",
+   "emoji": "👨",
+   "display": "el padre",
+   "gender": "m",
+   "article": "el",
+   "legacy": true,
+   "example_phrase": "mi padre",
+   "example_sentence": "Mi padre hace la cena.",
+   "example_phrase_meaning": "my father",
+   "example_meaning": "My father cooks dinner.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/father-ex.mp3",
+    "she": "vocab/audio/es/she/father-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-parents",
+   "concept": "parents",
+   "text": "padres",
+   "speak": "los padres",
+   "reading": "",
+   "meaning": "parents",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/parents.mp3",
+    "she": "vocab/audio/es/she/parents.mp3"
+   },
+   "image": "vocab/img/parents.jpg",
+   "emoji": "👪",
+   "display": "los padres",
+   "gender": "m",
+   "article": "los",
+   "example_phrase": "mis padres",
+   "example_sentence": "Mis padres viven en Hue.",
+   "example_phrase_meaning": "my parents",
+   "example_meaning": "My parents live in Hue.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/parents-ex.mp3",
+    "she": "vocab/audio/es/she/parents-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-older_brother",
+   "concept": "older_brother",
+   "text": "hermano mayor",
+   "speak": "el hermano mayor",
+   "reading": "",
+   "meaning": "older brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/older_brother.mp3",
+    "she": "vocab/audio/es/she/older_brother.mp3"
+   },
+   "image": "vocab/img/older_brother.jpg",
+   "emoji": "👦",
+   "display": "el hermano mayor",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi hermano mayor",
+   "example_sentence": "Mi hermano mayor es alto.",
+   "example_phrase_meaning": "my older brother",
+   "example_meaning": "My older brother is tall.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/older_brother-ex.mp3",
+    "she": "vocab/audio/es/she/older_brother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-older_sister",
+   "concept": "older_sister",
+   "text": "hermana mayor",
+   "speak": "la hermana mayor",
+   "reading": "",
+   "meaning": "older sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/older_sister.mp3",
+    "she": "vocab/audio/es/she/older_sister.mp3"
+   },
+   "image": "vocab/img/older_sister.jpg",
+   "emoji": "👧",
+   "display": "la hermana mayor",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "mi hermana mayor",
+   "example_sentence": "A mi hermana mayor le gusta la música.",
+   "example_phrase_meaning": "my older sister",
+   "example_meaning": "My older sister likes music.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/older_sister-ex.mp3",
+    "she": "vocab/audio/es/she/older_sister-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-younger_brother",
+   "concept": "younger_brother",
+   "text": "hermano menor",
+   "speak": "el hermano menor",
+   "reading": "",
+   "meaning": "younger brother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/younger_brother.mp3",
+    "she": "vocab/audio/es/she/younger_brother.mp3"
+   },
+   "image": "vocab/img/younger_brother.jpg",
+   "emoji": "👦",
+   "display": "el hermano menor",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi hermano menor",
+   "example_sentence": "Mi hermano menor tiene cinco años.",
+   "example_phrase_meaning": "my little brother",
+   "example_meaning": "My little brother is five years old.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/younger_brother-ex.mp3",
+    "she": "vocab/audio/es/she/younger_brother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-younger_sister",
+   "concept": "younger_sister",
+   "text": "hermana menor",
+   "speak": "la hermana menor",
+   "reading": "",
+   "meaning": "younger sister",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/younger_sister.mp3",
+    "she": "vocab/audio/es/she/younger_sister.mp3"
+   },
+   "image": "vocab/img/younger_sister.jpg",
+   "emoji": "👧",
+   "display": "la hermana menor",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "mi hermana menor",
+   "example_sentence": "A mi hermana menor le encantan los gatos.",
+   "example_phrase_meaning": "my little sister",
+   "example_meaning": "My little sister loves cats.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/younger_sister-ex.mp3",
+    "she": "vocab/audio/es/she/younger_sister-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-son",
+   "concept": "son",
+   "text": "hijo",
+   "speak": "el hijo",
+   "reading": "",
+   "meaning": "son",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/son.mp3",
+    "she": "vocab/audio/es/she/son.mp3"
+   },
+   "image": "vocab/img/son.jpg",
+   "emoji": "👦",
+   "display": "el hijo",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "su hijo",
+   "example_sentence": "Su hijo es médico.",
+   "example_phrase_meaning": "their son",
+   "example_meaning": "Their son is a doctor.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/son-ex.mp3",
+    "she": "vocab/audio/es/she/son-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-daughter",
+   "concept": "daughter",
+   "text": "hija",
+   "speak": "la hija",
+   "reading": "",
+   "meaning": "daughter",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/daughter.mp3",
+    "she": "vocab/audio/es/she/daughter.mp3"
+   },
+   "image": "vocab/img/daughter.jpg",
+   "emoji": "👧",
+   "display": "la hija",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "su hija",
+   "example_sentence": "Su hija es muy lista.",
+   "example_phrase_meaning": "her daughter",
+   "example_meaning": "Her daughter is very smart.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/daughter-ex.mp3",
+    "she": "vocab/audio/es/she/daughter-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-child",
+   "concept": "child",
+   "text": "niño",
+   "speak": "el niño",
+   "reading": "",
+   "meaning": "child",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/child.mp3",
+    "she": "vocab/audio/es/she/child.mp3"
+   },
+   "image": "vocab/img/child.jpg",
+   "emoji": "🧒",
+   "display": "el niño",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un niño feliz",
+   "example_sentence": "El niño juega en el parque.",
+   "example_phrase_meaning": "a happy child",
+   "example_meaning": "The child is playing in the park.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/child-ex.mp3",
+    "she": "vocab/audio/es/she/child-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-baby",
+   "concept": "baby",
+   "text": "bebé",
+   "speak": "el bebé",
+   "reading": "",
+   "meaning": "baby",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/baby.mp3",
+    "she": "vocab/audio/es/she/baby.mp3"
+   },
+   "image": "vocab/img/baby.jpg",
+   "emoji": "👶",
+   "display": "el bebé",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un bebé adorable",
+   "example_sentence": "El bebé está durmiendo.",
+   "example_phrase_meaning": "a cute baby",
+   "example_meaning": "The baby is sleeping.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/baby-ex.mp3",
+    "she": "vocab/audio/es/she/baby-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-grandmother",
+   "concept": "grandmother",
+   "text": "abuela",
+   "speak": "la abuela",
+   "reading": "",
+   "meaning": "grandmother",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/grandmother.mp3",
+    "she": "vocab/audio/es/she/grandmother.mp3"
+   },
+   "image": "vocab/img/grandmother.jpg",
+   "emoji": "👵",
+   "display": "la abuela",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "mi abuela",
+   "example_sentence": "Mi abuela hace una sopa muy rica.",
+   "example_phrase_meaning": "my grandmother",
+   "example_meaning": "My grandmother makes good soup.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/grandmother-ex.mp3",
+    "she": "vocab/audio/es/she/grandmother-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-grandfather",
+   "concept": "grandfather",
+   "text": "abuelo",
+   "speak": "el abuelo",
+   "reading": "",
+   "meaning": "grandfather",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/grandfather.mp3",
+    "she": "vocab/audio/es/she/grandfather.mp3"
+   },
+   "image": "vocab/img/grandfather.jpg",
+   "emoji": "👴",
+   "display": "el abuelo",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi abuelo",
+   "example_sentence": "Mi abuelo lee el periódico.",
+   "example_phrase_meaning": "my grandfather",
+   "example_meaning": "My grandfather reads the newspaper.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/grandfather-ex.mp3",
+    "she": "vocab/audio/es/she/grandfather-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-husband",
+   "concept": "husband",
+   "text": "marido",
+   "speak": "el marido",
+   "reading": "",
+   "meaning": "husband",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/husband.mp3",
+    "she": "vocab/audio/es/she/husband.mp3"
+   },
+   "image": "vocab/img/husband.jpg",
+   "emoji": "🤵",
+   "display": "el marido",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "su marido",
+   "example_sentence": "Su marido es amable.",
+   "example_phrase_meaning": "her husband",
+   "example_meaning": "Her husband is kind.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/husband-ex.mp3",
+    "she": "vocab/audio/es/she/husband-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-wife",
+   "concept": "wife",
+   "text": "esposa",
+   "speak": "la esposa",
+   "reading": "",
+   "meaning": "wife",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/wife.mp3",
+    "she": "vocab/audio/es/she/wife.mp3"
+   },
+   "image": "vocab/img/wife.jpg",
+   "emoji": "👰",
+   "display": "la esposa",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "su esposa",
+   "example_sentence": "Su esposa es enfermera.",
+   "example_phrase_meaning": "his wife",
+   "example_meaning": "His wife is a nurse.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/wife-ex.mp3",
+    "she": "vocab/audio/es/she/wife-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-family",
+   "concept": "family",
+   "text": "familia",
+   "speak": "la familia",
+   "reading": "",
+   "meaning": "family",
+   "topic": "family",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/family.mp3",
+    "she": "vocab/audio/es/she/family.mp3"
+   },
+   "image": "vocab/img/family.jpg",
+   "emoji": "👨‍👩‍👧",
+   "display": "la familia",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "mi familia",
+   "example_sentence": "Mi familia tiene cuatro personas.",
+   "example_phrase_meaning": "my family",
+   "example_meaning": "My family has four people.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/family-ex.mp3",
+    "she": "vocab/audio/es/she/family-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-uncle",
+   "concept": "uncle",
+   "text": "tío",
+   "speak": "el tío",
+   "reading": "",
+   "meaning": "uncle",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/uncle.mp3",
+    "she": "vocab/audio/es/she/uncle.mp3"
+   },
+   "image": "vocab/img/uncle.jpg",
+   "emoji": "👨",
+   "display": "el tío",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi tío",
+   "example_sentence": "Mi tío vive en Da Nang.",
+   "example_phrase_meaning": "my uncle",
+   "example_meaning": "My uncle lives in Da Nang.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/uncle-ex.mp3",
+    "she": "vocab/audio/es/she/uncle-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-aunt",
+   "concept": "aunt",
+   "text": "tía",
+   "speak": "la tía",
+   "reading": "",
+   "meaning": "aunt",
+   "topic": "family",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/aunt.mp3",
+    "she": "vocab/audio/es/she/aunt.mp3"
+   },
+   "image": "vocab/img/aunt.jpg",
+   "emoji": "👩",
+   "display": "la tía",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "mi tía",
+   "example_sentence": "Mi tía me dio un regalo.",
+   "example_phrase_meaning": "my aunt",
+   "example_meaning": "My aunt gave me a gift.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/aunt-ex.mp3",
+    "she": "vocab/audio/es/she/aunt-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-grandchild",
+   "concept": "grandchild",
+   "text": "nieto",
+   "speak": "el nieto",
+   "reading": "",
+   "meaning": "grandchild",
+   "topic": "family",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/grandchild.mp3",
+    "she": "vocab/audio/es/she/grandchild.mp3"
+   },
+   "image": "vocab/img/grandchild.jpg",
+   "emoji": "👶",
+   "display": "el nieto",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "su nieto",
+   "example_sentence": "La abuela juega con su nieto.",
+   "example_phrase_meaning": "her grandchild",
+   "example_meaning": "Grandma plays with her grandchild.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/grandchild-ex.mp3",
+    "she": "vocab/audio/es/she/grandchild-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-person",
+   "concept": "person",
+   "text": "persona",
+   "speak": "la persona",
+   "reading": "",
+   "meaning": "person",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/person.mp3",
+    "she": "vocab/audio/es/she/person.mp3"
+   },
+   "image": "vocab/img/person.jpg",
+   "emoji": "🧍",
+   "display": "la persona",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "una buena persona",
+   "example_sentence": "Él es una buena persona.",
+   "example_phrase_meaning": "a kind person",
+   "example_meaning": "He is a kind person.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/person-ex.mp3",
+    "she": "vocab/audio/es/she/person-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-man",
+   "concept": "man",
+   "text": "hombre",
+   "speak": "el hombre",
+   "reading": "",
+   "meaning": "man",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/man.mp3",
+    "she": "vocab/audio/es/she/man.mp3"
+   },
+   "image": "vocab/img/man.jpg",
+   "emoji": "👨",
+   "display": "el hombre",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un hombre alto",
+   "example_sentence": "Ese hombre es mi profesor.",
+   "example_phrase_meaning": "a tall man",
+   "example_meaning": "That man is my teacher.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/man-ex.mp3",
+    "she": "vocab/audio/es/she/man-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-woman",
+   "concept": "woman",
+   "text": "mujer",
+   "speak": "la mujer",
+   "reading": "",
+   "meaning": "woman",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/woman.mp3",
+    "she": "vocab/audio/es/she/woman.mp3"
+   },
+   "image": "vocab/img/woman.jpg",
+   "emoji": "👩",
+   "display": "la mujer",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "una mujer joven",
+   "example_sentence": "La mujer está leyendo un libro.",
+   "example_phrase_meaning": "a young woman",
+   "example_meaning": "The woman is reading a book.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/woman-ex.mp3",
+    "she": "vocab/audio/es/she/woman-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-boy",
+   "concept": "boy",
+   "text": "chico",
+   "speak": "el chico",
+   "reading": "",
+   "meaning": "boy",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/boy.mp3",
+    "she": "vocab/audio/es/she/boy.mp3"
+   },
+   "image": "vocab/img/boy.jpg",
+   "emoji": "👦",
+   "display": "el chico",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un chico pequeño",
+   "example_sentence": "El chico está corriendo.",
+   "example_phrase_meaning": "a little boy",
+   "example_meaning": "The boy is running.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/boy-ex.mp3",
+    "she": "vocab/audio/es/she/boy-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-girl",
+   "concept": "girl",
+   "text": "chica",
+   "speak": "la chica",
+   "reading": "",
+   "meaning": "girl",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/girl.mp3",
+    "she": "vocab/audio/es/she/girl.mp3"
+   },
+   "image": "vocab/img/girl.jpg",
+   "emoji": "👧",
+   "display": "la chica",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "una chica lista",
+   "example_sentence": "A la chica le gusta dibujar.",
+   "example_phrase_meaning": "a smart girl",
+   "example_meaning": "The girl likes to draw.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/girl-ex.mp3",
+    "she": "vocab/audio/es/she/girl-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-friend",
+   "concept": "friend",
+   "text": "amigo",
+   "speak": "el amigo",
+   "reading": "",
+   "meaning": "friend",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/friend.mp3",
+    "she": "vocab/audio/es/she/friend.mp3"
+   },
+   "image": "vocab/img/friend.jpg",
+   "emoji": "🧑‍🤝‍🧑",
+   "display": "el amigo",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi mejor amigo",
+   "example_sentence": "Mi amigo vive cerca de aquí.",
+   "example_phrase_meaning": "my best friend",
+   "example_meaning": "My friend lives near here.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/friend-ex.mp3",
+    "she": "vocab/audio/es/she/friend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-teacher",
+   "concept": "teacher",
+   "text": "profesor",
+   "speak": "el profesor",
+   "reading": "",
+   "meaning": "teacher",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/teacher.mp3",
+    "she": "vocab/audio/es/she/teacher.mp3"
+   },
+   "image": "vocab/img/teacher.jpg",
+   "emoji": "🧑‍🏫",
+   "display": "el profesor",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "nuestro profesor",
+   "example_sentence": "Nuestro profesor es muy divertido.",
+   "example_phrase_meaning": "our teacher",
+   "example_meaning": "Our teacher is very funny.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/teacher-ex.mp3",
+    "she": "vocab/audio/es/she/teacher-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-student",
+   "concept": "student",
+   "text": "estudiante",
+   "speak": "el estudiante",
+   "reading": "",
+   "meaning": "student",
+   "topic": "people",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/student.mp3",
+    "she": "vocab/audio/es/she/student.mp3"
+   },
+   "image": "vocab/img/student.jpg",
+   "emoji": "🧑‍🎓",
+   "display": "el estudiante",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un estudiante nuevo",
+   "example_sentence": "Soy estudiante.",
+   "example_phrase_meaning": "a new student",
+   "example_meaning": "I am a student.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/student-ex.mp3",
+    "she": "vocab/audio/es/she/student-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-neighbor",
+   "concept": "neighbor",
+   "text": "vecino",
+   "speak": "el vecino",
+   "reading": "",
+   "meaning": "neighbor",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/neighbor.mp3",
+    "she": "vocab/audio/es/she/neighbor.mp3"
+   },
+   "image": "vocab/img/neighbor.jpg",
+   "emoji": "🏘️",
+   "display": "el vecino",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "mi vecino",
+   "example_sentence": "Mi vecino tiene un perro grande.",
+   "example_phrase_meaning": "my neighbor",
+   "example_meaning": "My neighbor has a big dog.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/neighbor-ex.mp3",
+    "she": "vocab/audio/es/she/neighbor-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-guest",
+   "concept": "guest",
+   "text": "invitado",
+   "speak": "el invitado",
+   "reading": "",
+   "meaning": "guest",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/guest.mp3",
+    "she": "vocab/audio/es/she/guest.mp3"
+   },
+   "image": "vocab/img/guest.jpg",
+   "emoji": "🛎️",
+   "display": "el invitado",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "un invitado especial",
+   "example_sentence": "Esta noche tenemos un invitado.",
+   "example_phrase_meaning": "a special guest",
+   "example_meaning": "We have a guest tonight.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/guest-ex.mp3",
+    "she": "vocab/audio/es/she/guest-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-everyone",
+   "concept": "everyone",
+   "text": "todos",
+   "speak": "todos",
+   "reading": "",
+   "meaning": "everyone",
+   "topic": "people",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/everyone.mp3",
+    "she": "vocab/audio/es/she/everyone.mp3"
+   },
+   "image": "vocab/img/everyone.jpg",
+   "emoji": "👥",
+   "display": "todos",
+   "example_phrase": "hola a todos",
+   "example_sentence": "A todos les gusta el helado.",
+   "example_phrase_meaning": "hello everyone",
+   "example_meaning": "Everyone likes ice cream.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/everyone-ex.mp3",
+    "she": "vocab/audio/es/she/everyone-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-adult",
+   "concept": "adult",
+   "text": "adulto",
+   "speak": "el adulto",
+   "reading": "",
+   "meaning": "adult",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/adult.mp3",
+    "she": "vocab/audio/es/she/adult.mp3"
+   },
+   "image": "vocab/img/adult.jpg",
+   "emoji": "🧑",
+   "display": "el adulto",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "dos adultos",
+   "example_sentence": "Dos adultos y un niño, por favor.",
+   "example_phrase_meaning": "two adults",
+   "example_meaning": "Two adults and one child, please.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/adult-ex.mp3",
+    "she": "vocab/audio/es/she/adult-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-boyfriend",
+   "concept": "boyfriend",
+   "text": "novio",
+   "speak": "el novio",
+   "reading": "",
+   "meaning": "boyfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/boyfriend.mp3",
+    "she": "vocab/audio/es/she/boyfriend.mp3"
+   },
+   "image": "vocab/img/boyfriend.jpg",
+   "emoji": "💑",
+   "display": "el novio",
+   "gender": "m",
+   "article": "el",
+   "example_phrase": "su novio",
+   "example_sentence": "Su novio es de España.",
+   "example_phrase_meaning": "her boyfriend",
+   "example_meaning": "Her boyfriend is from Spain.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/boyfriend-ex.mp3",
+    "she": "vocab/audio/es/she/boyfriend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-girlfriend",
+   "concept": "girlfriend",
+   "text": "novia",
+   "speak": "la novia",
+   "reading": "",
+   "meaning": "girlfriend",
+   "topic": "people",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/girlfriend.mp3",
+    "she": "vocab/audio/es/she/girlfriend.mp3"
+   },
+   "image": "vocab/img/girlfriend.jpg",
+   "emoji": "💑",
+   "display": "la novia",
+   "gender": "f",
+   "article": "la",
+   "example_phrase": "su novia",
+   "example_sentence": "Su novia es cantante.",
+   "example_phrase_meaning": "his girlfriend",
+   "example_meaning": "His girlfriend is a singer.",
+   "example_phrase_reading": "",
+   "example_sentence_reading": "",
+   "example_audio": {
+    "he": "vocab/audio/es/he/girlfriend-ex.mp3",
+    "she": "vocab/audio/es/she/girlfriend-ex.mp3"
+   },
+   "review": false
+  },
+  {
+   "id": "es-i",
+   "concept": "i",
+   "text": "yo",
+   "speak": "yo",
+   "reading": "",
+   "meaning": "I",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/i.mp3",
+    "she": "vocab/audio/es/she/i.mp3"
+   },
+   "image": "vocab/img/i.jpg",
+   "emoji": "🙋",
+   "display": "yo",
+   "review": false
+  },
+  {
+   "id": "es-you",
+   "concept": "you",
+   "text": "tú",
+   "speak": "tú",
+   "reading": "",
+   "meaning": "you",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/you.mp3",
+    "she": "vocab/audio/es/she/you.mp3"
+   },
+   "image": "vocab/img/you.jpg",
+   "emoji": "🫵",
+   "display": "tú",
+   "review": false
+  },
+  {
+   "id": "es-he",
+   "concept": "he",
+   "text": "él",
+   "speak": "él",
+   "reading": "",
+   "meaning": "he",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/he.mp3",
+    "she": "vocab/audio/es/she/he.mp3"
+   },
+   "image": "vocab/img/he.jpg",
+   "emoji": "👨",
+   "display": "él",
+   "review": false
+  },
+  {
+   "id": "es-she",
+   "concept": "she",
+   "text": "ella",
+   "speak": "ella",
+   "reading": "",
+   "meaning": "she",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/she.mp3",
+    "she": "vocab/audio/es/she/she.mp3"
+   },
+   "image": "vocab/img/she.jpg",
+   "emoji": "👩",
+   "display": "ella",
+   "review": false
+  },
+  {
+   "id": "es-we",
+   "concept": "we",
+   "text": "nosotros",
+   "speak": "nosotros",
+   "reading": "",
+   "meaning": "we",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/we.mp3",
+    "she": "vocab/audio/es/she/we.mp3"
+   },
+   "image": "vocab/img/we.jpg",
+   "emoji": "👫",
+   "display": "nosotros",
+   "review": false
+  },
+  {
+   "id": "es-they",
+   "concept": "they",
+   "text": "ellos",
+   "speak": "ellos",
+   "reading": "",
+   "meaning": "they",
+   "topic": "pronouns",
+   "tier": 2,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/they.mp3",
+    "she": "vocab/audio/es/she/they.mp3"
+   },
+   "image": "vocab/img/they.jpg",
+   "emoji": "👥",
+   "display": "ellos",
+   "review": false
+  },
+  {
+   "id": "es-this",
+   "concept": "this",
+   "text": "esto",
+   "speak": "esto",
+   "reading": "",
+   "meaning": "this",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/this.mp3",
+    "she": "vocab/audio/es/she/this.mp3"
+   },
+   "image": "vocab/img/this.jpg",
+   "emoji": "👇",
+   "display": "esto",
+   "review": false
+  },
+  {
+   "id": "es-that",
+   "concept": "that",
+   "text": "eso",
+   "speak": "eso",
+   "reading": "",
+   "meaning": "that",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "pron",
+   "audio": {
+    "he": "vocab/audio/es/he/that.mp3",
+    "she": "vocab/audio/es/she/that.mp3"
+   },
+   "image": "vocab/img/that.jpg",
+   "emoji": "👉",
+   "display": "eso",
+   "review": false
+  },
+  {
+   "id": "es-here",
+   "concept": "here",
+   "text": "aquí",
+   "speak": "aquí",
+   "reading": "",
+   "meaning": "here",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/here.mp3",
+    "she": "vocab/audio/es/she/here.mp3"
+   },
+   "image": "vocab/img/here.jpg",
+   "emoji": "📍",
+   "display": "aquí",
+   "review": false
+  },
+  {
+   "id": "es-there",
+   "concept": "there",
+   "text": "allí",
+   "speak": "allí",
+   "reading": "",
+   "meaning": "there",
+   "topic": "pronouns",
+   "tier": 1,
+   "pos": "adv",
+   "audio": {
+    "he": "vocab/audio/es/he/there.mp3",
+    "she": "vocab/audio/es/she/there.mp3"
+   },
+   "image": "vocab/img/there.jpg",
+   "emoji": "🗺️",
+   "display": "allí",
+   "review": false
+  },
+  {
+   "id": "es-what",
+   "concept": "what",
+   "text": "qué",
+   "speak": "qué",
+   "reading": "",
+   "meaning": "what",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/what.mp3",
+    "she": "vocab/audio/es/she/what.mp3"
+   },
+   "image": "vocab/img/what.jpg",
+   "emoji": "❓",
+   "display": "qué",
+   "review": false
+  },
+  {
+   "id": "es-who",
+   "concept": "who",
+   "text": "quién",
+   "speak": "quién",
+   "reading": "",
+   "meaning": "who",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/who.mp3",
+    "she": "vocab/audio/es/she/who.mp3"
+   },
+   "image": "vocab/img/who.jpg",
+   "emoji": "🕵️",
+   "display": "quién",
+   "review": false
+  },
+  {
+   "id": "es-where",
+   "concept": "where",
+   "text": "dónde",
+   "speak": "dónde",
+   "reading": "",
+   "meaning": "where",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/where.mp3",
+    "she": "vocab/audio/es/she/where.mp3"
+   },
+   "image": "vocab/img/where.jpg",
+   "emoji": "🧭",
+   "display": "dónde",
+   "review": false
+  },
+  {
+   "id": "es-when",
+   "concept": "when",
+   "text": "cuándo",
+   "speak": "cuándo",
+   "reading": "",
+   "meaning": "when",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/when.mp3",
+    "she": "vocab/audio/es/she/when.mp3"
+   },
+   "image": "vocab/img/when.jpg",
+   "emoji": "⏰",
+   "display": "cuándo",
+   "review": false
+  },
+  {
+   "id": "es-why",
+   "concept": "why",
+   "text": "por qué",
+   "speak": "por qué",
+   "reading": "",
+   "meaning": "why",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/why.mp3",
+    "she": "vocab/audio/es/she/why.mp3"
+   },
+   "image": "vocab/img/why.jpg",
+   "emoji": "🤔",
+   "display": "por qué",
+   "review": false
+  },
+  {
+   "id": "es-how",
+   "concept": "how",
+   "text": "cómo",
+   "speak": "cómo",
+   "reading": "",
+   "meaning": "how",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/how.mp3",
+    "she": "vocab/audio/es/she/how.mp3"
+   },
+   "image": "vocab/img/how.jpg",
+   "emoji": "🛠️",
+   "display": "cómo",
+   "review": false
+  },
+  {
+   "id": "es-how_much_price",
+   "concept": "how_much_price",
+   "text": "cuánto",
+   "speak": "cuánto",
+   "reading": "",
+   "meaning": "how much (price)",
+   "topic": "questions",
+   "tier": 1,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/how_much_price.mp3",
+    "she": "vocab/audio/es/she/how_much_price.mp3"
+   },
+   "image": "vocab/img/how_much_price.jpg",
+   "emoji": "🏷️",
+   "display": "cuánto",
+   "review": false
+  },
+  {
+   "id": "es-which",
+   "concept": "which",
+   "text": "cuál",
+   "speak": "cuál",
+   "reading": "",
+   "meaning": "which",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/which.mp3",
+    "she": "vocab/audio/es/she/which.mp3"
+   },
+   "image": "vocab/img/which.jpg",
+   "emoji": "🔀",
+   "display": "cuál",
+   "review": false
+  },
+  {
+   "id": "es-how_many",
+   "concept": "how_many",
+   "text": "cuántos",
+   "speak": "cuántos",
+   "reading": "",
+   "meaning": "how many",
+   "topic": "questions",
+   "tier": 2,
+   "pos": "q",
+   "audio": {
+    "he": "vocab/audio/es/he/how_many.mp3",
+    "she": "vocab/audio/es/she/how_many.mp3"
+   },
+   "image": "vocab/img/how_many.jpg",
+   "emoji": "🔢",
+   "display": "cuántos",
+   "review": false
+  },
+  {
+   "id": "es-head",
+   "concept": "head",
+   "text": "cabeza",
+   "speak": "la cabeza",
+   "reading": "",
+   "meaning": "head",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/head.mp3",
+    "she": "vocab/audio/es/she/head.mp3"
+   },
+   "image": "vocab/img/head.jpg",
+   "emoji": "🙂",
+   "display": "la cabeza",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-face",
+   "concept": "face",
+   "text": "cara",
+   "speak": "la cara",
+   "reading": "",
+   "meaning": "face",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/face.mp3",
+    "she": "vocab/audio/es/she/face.mp3"
+   },
+   "image": "vocab/img/face.jpg",
+   "emoji": "😊",
+   "display": "la cara",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-eye",
+   "concept": "eye",
+   "text": "ojo",
+   "speak": "el ojo",
+   "reading": "",
+   "meaning": "eye",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/eye.mp3",
+    "she": "vocab/audio/es/she/eye.mp3"
+   },
+   "image": "vocab/img/eye.jpg",
+   "emoji": "👁️",
+   "display": "el ojo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-ear",
+   "concept": "ear",
+   "text": "oreja",
+   "speak": "la oreja",
+   "reading": "",
+   "meaning": "ear",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/ear.mp3",
+    "she": "vocab/audio/es/she/ear.mp3"
+   },
+   "image": "vocab/img/ear.jpg",
+   "emoji": "👂",
+   "display": "la oreja",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-nose",
+   "concept": "nose",
+   "text": "nariz",
+   "speak": "la nariz",
+   "reading": "",
+   "meaning": "nose",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/nose.mp3",
+    "she": "vocab/audio/es/she/nose.mp3"
+   },
+   "image": "vocab/img/nose.jpg",
+   "emoji": "👃",
+   "display": "la nariz",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-mouth",
+   "concept": "mouth",
+   "text": "boca",
+   "speak": "la boca",
+   "reading": "",
+   "meaning": "mouth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/mouth.mp3",
+    "she": "vocab/audio/es/she/mouth.mp3"
+   },
+   "image": "vocab/img/mouth.jpg",
+   "emoji": "👄",
+   "display": "la boca",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-tooth",
+   "concept": "tooth",
+   "text": "diente",
+   "speak": "el diente",
+   "reading": "",
+   "meaning": "tooth",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/tooth.mp3",
+    "she": "vocab/audio/es/she/tooth.mp3"
+   },
+   "image": "vocab/img/tooth.jpg",
+   "emoji": "🦷",
+   "display": "el diente",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-hair",
+   "concept": "hair",
+   "text": "pelo",
+   "speak": "el pelo",
+   "reading": "",
+   "meaning": "hair",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/hair.mp3",
+    "she": "vocab/audio/es/she/hair.mp3"
+   },
+   "image": "vocab/img/hair.jpg",
+   "emoji": "💇",
+   "display": "el pelo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-hand",
+   "concept": "hand",
+   "text": "mano",
+   "speak": "la mano",
+   "reading": "",
+   "meaning": "hand",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/hand.mp3",
+    "she": "vocab/audio/es/she/hand.mp3"
+   },
+   "image": "vocab/img/hand.jpg",
+   "emoji": "✋",
+   "display": "la mano",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-arm",
+   "concept": "arm",
+   "text": "brazo",
+   "speak": "el brazo",
+   "reading": "",
+   "meaning": "arm",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/arm.mp3",
+    "she": "vocab/audio/es/she/arm.mp3"
+   },
+   "image": "vocab/img/arm.jpg",
+   "emoji": "💪",
+   "display": "el brazo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-leg",
+   "concept": "leg",
+   "text": "pierna",
+   "speak": "la pierna",
+   "reading": "",
+   "meaning": "leg",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/leg.mp3",
+    "she": "vocab/audio/es/she/leg.mp3"
+   },
+   "image": "vocab/img/leg.jpg",
+   "emoji": "🦵",
+   "display": "la pierna",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-foot",
+   "concept": "foot",
+   "text": "pie",
+   "speak": "el pie",
+   "reading": "",
+   "meaning": "foot",
+   "topic": "body",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/foot.mp3",
+    "she": "vocab/audio/es/she/foot.mp3"
+   },
+   "image": "vocab/img/foot.jpg",
+   "emoji": "🦶",
+   "display": "el pie",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-finger",
+   "concept": "finger",
+   "text": "dedo",
+   "speak": "el dedo",
+   "reading": "",
+   "meaning": "finger",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/finger.mp3",
+    "she": "vocab/audio/es/she/finger.mp3"
+   },
+   "image": "vocab/img/finger.jpg",
+   "emoji": "☝️",
+   "display": "el dedo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-neck",
+   "concept": "neck",
+   "text": "cuello",
+   "speak": "el cuello",
+   "reading": "",
+   "meaning": "neck",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/neck.mp3",
+    "she": "vocab/audio/es/she/neck.mp3"
+   },
+   "image": "vocab/img/neck.jpg",
+   "emoji": "🦒",
+   "display": "el cuello",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-shoulder",
+   "concept": "shoulder",
+   "text": "hombro",
+   "speak": "el hombro",
+   "reading": "",
+   "meaning": "shoulder",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/shoulder.mp3",
+    "she": "vocab/audio/es/she/shoulder.mp3"
+   },
+   "image": "vocab/img/shoulder.jpg",
+   "emoji": "🤷",
+   "display": "el hombro",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-back_body",
+   "concept": "back_body",
+   "text": "espalda",
+   "speak": "la espalda",
+   "reading": "",
+   "meaning": "back (body)",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/back_body.mp3",
+    "she": "vocab/audio/es/she/back_body.mp3"
+   },
+   "image": "vocab/img/back_body.jpg",
+   "emoji": "🧍",
+   "display": "la espalda",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-stomach",
+   "concept": "stomach",
+   "text": "estómago",
+   "speak": "el estómago",
+   "reading": "",
+   "meaning": "stomach",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/stomach.mp3",
+    "she": "vocab/audio/es/she/stomach.mp3"
+   },
+   "image": "vocab/img/stomach.jpg",
+   "emoji": "🫃",
+   "display": "el estómago",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-heart",
+   "concept": "heart",
+   "text": "corazón",
+   "speak": "el corazón",
+   "reading": "",
+   "meaning": "heart",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/heart.mp3",
+    "she": "vocab/audio/es/she/heart.mp3"
+   },
+   "image": "vocab/img/heart.jpg",
+   "emoji": "❤️",
+   "display": "el corazón",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-knee",
+   "concept": "knee",
+   "text": "rodilla",
+   "speak": "la rodilla",
+   "reading": "",
+   "meaning": "knee",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/knee.mp3",
+    "she": "vocab/audio/es/she/knee.mp3"
+   },
+   "image": "vocab/img/knee.jpg",
+   "emoji": "🦵",
+   "display": "la rodilla",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-body",
+   "concept": "body",
+   "text": "cuerpo",
+   "speak": "el cuerpo",
+   "reading": "",
+   "meaning": "body",
+   "topic": "body",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/body.mp3",
+    "she": "vocab/audio/es/she/body.mp3"
+   },
+   "image": "vocab/img/body.jpg",
+   "emoji": "🧍",
+   "display": "el cuerpo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-skin",
+   "concept": "skin",
+   "text": "piel",
+   "speak": "la piel",
+   "reading": "",
+   "meaning": "skin",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/skin.mp3",
+    "she": "vocab/audio/es/she/skin.mp3"
+   },
+   "image": "vocab/img/skin.jpg",
+   "emoji": "🖐️",
+   "display": "la piel",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-blood",
+   "concept": "blood",
+   "text": "sangre",
+   "speak": "la sangre",
+   "reading": "",
+   "meaning": "blood",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/blood.mp3",
+    "she": "vocab/audio/es/she/blood.mp3"
+   },
+   "image": "vocab/img/blood.jpg",
+   "emoji": "🩸",
+   "display": "la sangre",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-tongue",
+   "concept": "tongue",
+   "text": "lengua",
+   "speak": "la lengua",
+   "reading": "",
+   "meaning": "tongue",
+   "topic": "body",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/tongue.mp3",
+    "she": "vocab/audio/es/she/tongue.mp3"
+   },
+   "image": "vocab/img/tongue.jpg",
+   "emoji": "👅",
+   "display": "la lengua",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-red",
+   "concept": "red",
+   "text": "rojo",
+   "speak": "rojo",
+   "reading": "",
+   "meaning": "red",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/red.mp3",
+    "she": "vocab/audio/es/she/red.mp3"
+   },
+   "image": "vocab/img/red.jpg",
+   "emoji": "🔴",
+   "display": "rojo",
+   "review": false
+  },
+  {
+   "id": "es-blue",
+   "concept": "blue",
+   "text": "azul",
+   "speak": "azul",
+   "reading": "",
+   "meaning": "blue",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/blue.mp3",
+    "she": "vocab/audio/es/she/blue.mp3"
+   },
+   "image": "vocab/img/blue.jpg",
+   "emoji": "🔵",
+   "display": "azul",
+   "review": false
+  },
+  {
+   "id": "es-yellow",
+   "concept": "yellow",
+   "text": "amarillo",
+   "speak": "amarillo",
+   "reading": "",
+   "meaning": "yellow",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/yellow.mp3",
+    "she": "vocab/audio/es/she/yellow.mp3"
+   },
+   "image": "vocab/img/yellow.jpg",
+   "emoji": "🟡",
+   "display": "amarillo",
+   "review": false
+  },
+  {
+   "id": "es-green",
+   "concept": "green",
+   "text": "verde",
+   "speak": "verde",
+   "reading": "",
+   "meaning": "green",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/green.mp3",
+    "she": "vocab/audio/es/she/green.mp3"
+   },
+   "image": "vocab/img/green.jpg",
+   "emoji": "🟢",
+   "display": "verde",
+   "review": false
+  },
+  {
+   "id": "es-white",
+   "concept": "white",
+   "text": "blanco",
+   "speak": "blanco",
+   "reading": "",
+   "meaning": "white",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/white.mp3",
+    "she": "vocab/audio/es/she/white.mp3"
+   },
+   "image": "vocab/img/white.jpg",
+   "emoji": "⚪",
+   "display": "blanco",
+   "review": false
+  },
+  {
+   "id": "es-black",
+   "concept": "black",
+   "text": "negro",
+   "speak": "negro",
+   "reading": "",
+   "meaning": "black",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/black.mp3",
+    "she": "vocab/audio/es/she/black.mp3"
+   },
+   "image": "vocab/img/black.jpg",
+   "emoji": "⚫",
+   "display": "negro",
+   "review": false
+  },
+  {
+   "id": "es-orange_color",
+   "concept": "orange_color",
+   "text": "naranja",
+   "speak": "naranja",
+   "reading": "",
+   "meaning": "orange (color)",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/orange_color.mp3",
+    "she": "vocab/audio/es/she/orange_color.mp3"
+   },
+   "image": "vocab/img/orange_color.jpg",
+   "emoji": "🟠",
+   "display": "naranja",
+   "review": false
+  },
+  {
+   "id": "es-pink",
+   "concept": "pink",
+   "text": "rosa",
+   "speak": "rosa",
+   "reading": "",
+   "meaning": "pink",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/pink.mp3",
+    "she": "vocab/audio/es/she/pink.mp3"
+   },
+   "image": "vocab/img/pink.jpg",
+   "emoji": "🩷",
+   "display": "rosa",
+   "review": false
+  },
+  {
+   "id": "es-purple",
+   "concept": "purple",
+   "text": "morado",
+   "speak": "morado",
+   "reading": "",
+   "meaning": "purple",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/purple.mp3",
+    "she": "vocab/audio/es/she/purple.mp3"
+   },
+   "image": "vocab/img/purple.jpg",
+   "emoji": "🟣",
+   "display": "morado",
+   "review": false
+  },
+  {
+   "id": "es-brown",
+   "concept": "brown",
+   "text": "marrón",
+   "speak": "marrón",
+   "reading": "",
+   "meaning": "brown",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/brown.mp3",
+    "she": "vocab/audio/es/she/brown.mp3"
+   },
+   "image": "vocab/img/brown.jpg",
+   "emoji": "🟤",
+   "display": "marrón",
+   "review": false
+  },
+  {
+   "id": "es-gray",
+   "concept": "gray",
+   "text": "gris",
+   "speak": "gris",
+   "reading": "",
+   "meaning": "gray",
+   "topic": "colors",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/gray.mp3",
+    "she": "vocab/audio/es/she/gray.mp3"
+   },
+   "image": "vocab/img/gray.jpg",
+   "emoji": "🩶",
+   "display": "gris",
+   "review": false
+  },
+  {
+   "id": "es-color",
+   "concept": "color",
+   "text": "color",
+   "speak": "el color",
+   "reading": "",
+   "meaning": "color",
+   "topic": "colors",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/color.mp3",
+    "she": "vocab/audio/es/she/color.mp3"
+   },
+   "image": "vocab/img/color.jpg",
+   "emoji": "🎨",
+   "display": "el color",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-rice",
+   "concept": "rice",
+   "text": "arroz",
+   "speak": "arroz",
+   "reading": "",
+   "meaning": "rice",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/rice.mp3",
+    "she": "vocab/audio/es/she/rice.mp3"
+   },
+   "image": "vocab/img/rice.jpg",
+   "emoji": "🍚",
+   "display": "el arroz",
+   "gender": "m",
+   "article": "el",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-water",
+   "concept": "water",
+   "text": "agua",
+   "speak": "agua",
+   "reading": "",
+   "meaning": "water",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/water.mp3",
+    "she": "vocab/audio/es/she/water.mp3"
+   },
+   "image": "vocab/img/water.jpg",
+   "emoji": "💧",
+   "display": "el agua",
+   "gender": "f",
+   "article": "el",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-pho",
+   "concept": "pho",
+   "text": "pho",
+   "speak": "el pho",
+   "reading": "",
+   "meaning": "pho (noodle soup)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/pho.mp3",
+    "she": "vocab/audio/es/she/pho.mp3"
+   },
+   "image": "vocab/img/pho.jpg",
+   "emoji": "🍜",
+   "display": "el pho",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-tea",
+   "concept": "tea",
+   "text": "té",
+   "speak": "el té",
+   "reading": "",
+   "meaning": "tea",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/tea.mp3",
+    "she": "vocab/audio/es/she/tea.mp3"
+   },
+   "image": "vocab/img/tea.jpg",
+   "emoji": "🍵",
+   "display": "el té",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-sushi",
+   "concept": "sushi",
+   "text": "sushi",
+   "speak": "el sushi",
+   "reading": "",
+   "meaning": "sushi",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/sushi.mp3",
+    "she": "vocab/audio/es/she/sushi.mp3"
+   },
+   "image": "vocab/img/sushi.jpg",
+   "emoji": "🍣",
+   "display": "el sushi",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-bread",
+   "concept": "bread",
+   "text": "pan",
+   "speak": "pan",
+   "reading": "",
+   "meaning": "bread",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/bread.mp3",
+    "she": "vocab/audio/es/she/bread.mp3"
+   },
+   "image": "vocab/img/bread.jpg",
+   "emoji": "🍞",
+   "display": "el pan",
+   "gender": "m",
+   "article": "el",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-noodles",
+   "concept": "noodles",
+   "text": "fideos",
+   "speak": "los fideos",
+   "reading": "",
+   "meaning": "noodles",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/noodles.mp3",
+    "she": "vocab/audio/es/she/noodles.mp3"
+   },
+   "image": "vocab/img/noodles.jpg",
+   "emoji": "🍜",
+   "display": "los fideos",
+   "gender": "m",
+   "article": "los",
+   "review": false
+  },
+  {
+   "id": "es-meat",
+   "concept": "meat",
+   "text": "carne",
+   "speak": "la carne",
+   "reading": "",
+   "meaning": "meat",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/meat.mp3",
+    "she": "vocab/audio/es/she/meat.mp3"
+   },
+   "image": "vocab/img/meat.jpg",
+   "emoji": "🥩",
+   "display": "la carne",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-chicken_meat",
+   "concept": "chicken_meat",
+   "text": "pollo",
+   "speak": "el pollo",
+   "reading": "",
+   "meaning": "chicken (meat)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/chicken_meat.mp3",
+    "she": "vocab/audio/es/she/chicken_meat.mp3"
+   },
+   "image": "vocab/img/chicken_meat.jpg",
+   "emoji": "🍗",
+   "display": "el pollo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-beef",
+   "concept": "beef",
+   "text": "ternera",
+   "speak": "la ternera",
+   "reading": "",
+   "meaning": "beef",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/beef.mp3",
+    "she": "vocab/audio/es/she/beef.mp3"
+   },
+   "image": "vocab/img/beef.jpg",
+   "emoji": "🥩",
+   "display": "la ternera",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-pork",
+   "concept": "pork",
+   "text": "cerdo",
+   "speak": "el cerdo",
+   "reading": "",
+   "meaning": "pork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/pork.mp3",
+    "she": "vocab/audio/es/she/pork.mp3"
+   },
+   "image": "vocab/img/pork.jpg",
+   "emoji": "🥓",
+   "display": "el cerdo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-fish_food",
+   "concept": "fish_food",
+   "text": "pescado",
+   "speak": "el pescado",
+   "reading": "",
+   "meaning": "fish (food)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/fish_food.mp3",
+    "she": "vocab/audio/es/she/fish_food.mp3"
+   },
+   "image": "vocab/img/fish_food.jpg",
+   "emoji": "🐟",
+   "display": "el pescado",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-egg",
+   "concept": "egg",
+   "text": "huevo",
+   "speak": "el huevo",
+   "reading": "",
+   "meaning": "egg",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/egg.mp3",
+    "she": "vocab/audio/es/she/egg.mp3"
+   },
+   "image": "vocab/img/egg.jpg",
+   "emoji": "🥚",
+   "display": "el huevo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-vegetable",
+   "concept": "vegetable",
+   "text": "verdura",
+   "speak": "la verdura",
+   "reading": "",
+   "meaning": "vegetable",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/vegetable.mp3",
+    "she": "vocab/audio/es/she/vegetable.mp3"
+   },
+   "image": "vocab/img/vegetable.jpg",
+   "emoji": "🥦",
+   "display": "la verdura",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-fruit",
+   "concept": "fruit",
+   "text": "fruta",
+   "speak": "la fruta",
+   "reading": "",
+   "meaning": "fruit",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/fruit.mp3",
+    "she": "vocab/audio/es/she/fruit.mp3"
+   },
+   "image": "vocab/img/fruit.jpg",
+   "emoji": "🍎",
+   "display": "la fruta",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-apple",
+   "concept": "apple",
+   "text": "manzana",
+   "speak": "la manzana",
+   "reading": "",
+   "meaning": "apple",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/apple.mp3",
+    "she": "vocab/audio/es/she/apple.mp3"
+   },
+   "image": "vocab/img/apple.jpg",
+   "emoji": "🍎",
+   "display": "la manzana",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-banana",
+   "concept": "banana",
+   "text": "plátano",
+   "speak": "el plátano",
+   "reading": "",
+   "meaning": "banana",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/banana.mp3",
+    "she": "vocab/audio/es/she/banana.mp3"
+   },
+   "image": "vocab/img/banana.jpg",
+   "emoji": "🍌",
+   "display": "el plátano",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-orange_fruit",
+   "concept": "orange_fruit",
+   "text": "naranja",
+   "speak": "la naranja",
+   "reading": "",
+   "meaning": "orange (fruit)",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/orange_fruit.mp3",
+    "she": "vocab/audio/es/she/orange_fruit.mp3"
+   },
+   "image": "vocab/img/orange_fruit.jpg",
+   "emoji": "🍊",
+   "display": "la naranja",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-grape",
+   "concept": "grape",
+   "text": "uva",
+   "speak": "la uva",
+   "reading": "",
+   "meaning": "grape",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/grape.mp3",
+    "she": "vocab/audio/es/she/grape.mp3"
+   },
+   "image": "vocab/img/grape.jpg",
+   "emoji": "🍇",
+   "display": "la uva",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-watermelon",
+   "concept": "watermelon",
+   "text": "sandía",
+   "speak": "la sandía",
+   "reading": "",
+   "meaning": "watermelon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/watermelon.mp3",
+    "she": "vocab/audio/es/she/watermelon.mp3"
+   },
+   "image": "vocab/img/watermelon.jpg",
+   "emoji": "🍉",
+   "display": "la sandía",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-mango",
+   "concept": "mango",
+   "text": "mango",
+   "speak": "el mango",
+   "reading": "",
+   "meaning": "mango",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/mango.mp3",
+    "she": "vocab/audio/es/she/mango.mp3"
+   },
+   "image": "vocab/img/mango.jpg",
+   "emoji": "🥭",
+   "display": "el mango",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-strawberry",
+   "concept": "strawberry",
+   "text": "fresa",
+   "speak": "la fresa",
+   "reading": "",
+   "meaning": "strawberry",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/strawberry.mp3",
+    "she": "vocab/audio/es/she/strawberry.mp3"
+   },
+   "image": "vocab/img/strawberry.jpg",
+   "emoji": "🍓",
+   "display": "la fresa",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-lemon",
+   "concept": "lemon",
+   "text": "limón",
+   "speak": "el limón",
+   "reading": "",
+   "meaning": "lemon",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/lemon.mp3",
+    "she": "vocab/audio/es/she/lemon.mp3"
+   },
+   "image": "vocab/img/lemon.jpg",
+   "emoji": "🍋",
+   "display": "el limón",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-tomato",
+   "concept": "tomato",
+   "text": "tomate",
+   "speak": "el tomate",
+   "reading": "",
+   "meaning": "tomato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/tomato.mp3",
+    "she": "vocab/audio/es/she/tomato.mp3"
+   },
+   "image": "vocab/img/tomato.jpg",
+   "emoji": "🍅",
+   "display": "el tomate",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-potato",
+   "concept": "potato",
+   "text": "patata",
+   "speak": "la patata",
+   "reading": "",
+   "meaning": "potato",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/potato.mp3",
+    "she": "vocab/audio/es/she/potato.mp3"
+   },
+   "image": "vocab/img/potato.jpg",
+   "emoji": "🥔",
+   "display": "la patata",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-carrot",
+   "concept": "carrot",
+   "text": "zanahoria",
+   "speak": "la zanahoria",
+   "reading": "",
+   "meaning": "carrot",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/carrot.mp3",
+    "she": "vocab/audio/es/she/carrot.mp3"
+   },
+   "image": "vocab/img/carrot.jpg",
+   "emoji": "🥕",
+   "display": "la zanahoria",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-onion",
+   "concept": "onion",
+   "text": "cebolla",
+   "speak": "la cebolla",
+   "reading": "",
+   "meaning": "onion",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/onion.mp3",
+    "she": "vocab/audio/es/she/onion.mp3"
+   },
+   "image": "vocab/img/onion.jpg",
+   "emoji": "🧅",
+   "display": "la cebolla",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-garlic",
+   "concept": "garlic",
+   "text": "ajo",
+   "speak": "el ajo",
+   "reading": "",
+   "meaning": "garlic",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/garlic.mp3",
+    "she": "vocab/audio/es/she/garlic.mp3"
+   },
+   "image": "vocab/img/garlic.jpg",
+   "emoji": "🧄",
+   "display": "el ajo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-corn",
+   "concept": "corn",
+   "text": "maíz",
+   "speak": "el maíz",
+   "reading": "",
+   "meaning": "corn",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/corn.mp3",
+    "she": "vocab/audio/es/she/corn.mp3"
+   },
+   "image": "vocab/img/corn.jpg",
+   "emoji": "🌽",
+   "display": "el maíz",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-mushroom",
+   "concept": "mushroom",
+   "text": "champiñón",
+   "speak": "el champiñón",
+   "reading": "",
+   "meaning": "mushroom",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/mushroom.mp3",
+    "she": "vocab/audio/es/she/mushroom.mp3"
+   },
+   "image": "vocab/img/mushroom.jpg",
+   "emoji": "🍄",
+   "display": "el champiñón",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-salt",
+   "concept": "salt",
+   "text": "sal",
+   "speak": "la sal",
+   "reading": "",
+   "meaning": "salt",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/salt.mp3",
+    "she": "vocab/audio/es/she/salt.mp3"
+   },
+   "image": "vocab/img/salt.jpg",
+   "emoji": "🧂",
+   "display": "la sal",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-sugar",
+   "concept": "sugar",
+   "text": "azúcar",
+   "speak": "el azúcar",
+   "reading": "",
+   "meaning": "sugar",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/sugar.mp3",
+    "she": "vocab/audio/es/she/sugar.mp3"
+   },
+   "image": "vocab/img/sugar.jpg",
+   "emoji": "🍬",
+   "display": "el azúcar",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-soup",
+   "concept": "soup",
+   "text": "sopa",
+   "speak": "la sopa",
+   "reading": "",
+   "meaning": "soup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/soup.mp3",
+    "she": "vocab/audio/es/she/soup.mp3"
+   },
+   "image": "vocab/img/soup.jpg",
+   "emoji": "🥣",
+   "display": "la sopa",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-salad",
+   "concept": "salad",
+   "text": "ensalada",
+   "speak": "la ensalada",
+   "reading": "",
+   "meaning": "salad",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/salad.mp3",
+    "she": "vocab/audio/es/she/salad.mp3"
+   },
+   "image": "vocab/img/salad.jpg",
+   "emoji": "🥗",
+   "display": "la ensalada",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-cake",
+   "concept": "cake",
+   "text": "pastel",
+   "speak": "el pastel",
+   "reading": "",
+   "meaning": "cake",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/cake.mp3",
+    "she": "vocab/audio/es/she/cake.mp3"
+   },
+   "image": "vocab/img/cake.jpg",
+   "emoji": "🍰",
+   "display": "el pastel",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-candy",
+   "concept": "candy",
+   "text": "caramelo",
+   "speak": "el caramelo",
+   "reading": "",
+   "meaning": "candy",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/candy.mp3",
+    "she": "vocab/audio/es/she/candy.mp3"
+   },
+   "image": "vocab/img/candy.jpg",
+   "emoji": "🍬",
+   "display": "el caramelo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-chocolate",
+   "concept": "chocolate",
+   "text": "chocolate",
+   "speak": "el chocolate",
+   "reading": "",
+   "meaning": "chocolate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/chocolate.mp3",
+    "she": "vocab/audio/es/she/chocolate.mp3"
+   },
+   "image": "vocab/img/chocolate.jpg",
+   "emoji": "🍫",
+   "display": "el chocolate",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-ice_cream",
+   "concept": "ice_cream",
+   "text": "helado",
+   "speak": "el helado",
+   "reading": "",
+   "meaning": "ice cream",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/ice_cream.mp3",
+    "she": "vocab/audio/es/she/ice_cream.mp3"
+   },
+   "image": "vocab/img/ice_cream.jpg",
+   "emoji": "🍦",
+   "display": "el helado",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-cheese",
+   "concept": "cheese",
+   "text": "queso",
+   "speak": "el queso",
+   "reading": "",
+   "meaning": "cheese",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/cheese.mp3",
+    "she": "vocab/audio/es/she/cheese.mp3"
+   },
+   "image": "vocab/img/cheese.jpg",
+   "emoji": "🧀",
+   "display": "el queso",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-butter",
+   "concept": "butter",
+   "text": "mantequilla",
+   "speak": "la mantequilla",
+   "reading": "",
+   "meaning": "butter",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/butter.mp3",
+    "she": "vocab/audio/es/she/butter.mp3"
+   },
+   "image": "vocab/img/butter.jpg",
+   "emoji": "🧈",
+   "display": "la mantequilla",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-milk",
+   "concept": "milk",
+   "text": "leche",
+   "speak": "la leche",
+   "reading": "",
+   "meaning": "milk",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/milk.mp3",
+    "she": "vocab/audio/es/she/milk.mp3"
+   },
+   "image": "vocab/img/milk.jpg",
+   "emoji": "🥛",
+   "display": "la leche",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-coffee",
+   "concept": "coffee",
+   "text": "café",
+   "speak": "el café",
+   "reading": "",
+   "meaning": "coffee",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/coffee.mp3",
+    "she": "vocab/audio/es/she/coffee.mp3"
+   },
+   "image": "vocab/img/coffee.jpg",
+   "emoji": "☕",
+   "display": "el café",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-juice",
+   "concept": "juice",
+   "text": "zumo",
+   "speak": "el zumo",
+   "reading": "",
+   "meaning": "juice",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/juice.mp3",
+    "she": "vocab/audio/es/she/juice.mp3"
+   },
+   "image": "vocab/img/juice.jpg",
+   "emoji": "🧃",
+   "display": "el zumo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-beer",
+   "concept": "beer",
+   "text": "cerveza",
+   "speak": "la cerveza",
+   "reading": "",
+   "meaning": "beer",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/beer.mp3",
+    "she": "vocab/audio/es/she/beer.mp3"
+   },
+   "image": "vocab/img/beer.jpg",
+   "emoji": "🍺",
+   "display": "la cerveza",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-wine",
+   "concept": "wine",
+   "text": "vino",
+   "speak": "el vino",
+   "reading": "",
+   "meaning": "wine",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/wine.mp3",
+    "she": "vocab/audio/es/she/wine.mp3"
+   },
+   "image": "vocab/img/wine.jpg",
+   "emoji": "🍷",
+   "display": "el vino",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-breakfast",
+   "concept": "breakfast",
+   "text": "desayuno",
+   "speak": "el desayuno",
+   "reading": "",
+   "meaning": "breakfast",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/breakfast.mp3",
+    "she": "vocab/audio/es/she/breakfast.mp3"
+   },
+   "image": "vocab/img/breakfast.jpg",
+   "emoji": "🍳",
+   "display": "el desayuno",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-lunch",
+   "concept": "lunch",
+   "text": "almuerzo",
+   "speak": "el almuerzo",
+   "reading": "",
+   "meaning": "lunch",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/lunch.mp3",
+    "she": "vocab/audio/es/she/lunch.mp3"
+   },
+   "image": "vocab/img/lunch.jpg",
+   "emoji": "🍱",
+   "display": "el almuerzo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-dinner",
+   "concept": "dinner",
+   "text": "cena",
+   "speak": "la cena",
+   "reading": "",
+   "meaning": "dinner",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/dinner.mp3",
+    "she": "vocab/audio/es/she/dinner.mp3"
+   },
+   "image": "vocab/img/dinner.jpg",
+   "emoji": "🍽️",
+   "display": "la cena",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-food",
+   "concept": "food",
+   "text": "comida",
+   "speak": "la comida",
+   "reading": "",
+   "meaning": "food",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/food.mp3",
+    "she": "vocab/audio/es/she/food.mp3"
+   },
+   "image": "vocab/img/food.jpg",
+   "emoji": "🍲",
+   "display": "la comida",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-dumpling",
+   "concept": "dumpling",
+   "text": "empanadilla",
+   "speak": "la empanadilla",
+   "reading": "",
+   "meaning": "dumpling",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/dumpling.mp3",
+    "she": "vocab/audio/es/she/dumpling.mp3"
+   },
+   "image": "vocab/img/dumpling.jpg",
+   "emoji": "🥟",
+   "display": "la empanadilla",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-tofu",
+   "concept": "tofu",
+   "text": "tofu",
+   "speak": "el tofu",
+   "reading": "",
+   "meaning": "tofu",
+   "topic": "food",
+   "tier": 3,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/tofu.mp3",
+    "she": "vocab/audio/es/she/tofu.mp3"
+   },
+   "image": "vocab/img/tofu.jpg",
+   "emoji": "🍢",
+   "display": "el tofu",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-shrimp",
+   "concept": "shrimp",
+   "text": "gamba",
+   "speak": "la gamba",
+   "reading": "",
+   "meaning": "shrimp",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/shrimp.mp3",
+    "she": "vocab/audio/es/she/shrimp.mp3"
+   },
+   "image": "vocab/img/shrimp.jpg",
+   "emoji": "🦐",
+   "display": "la gamba",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-chopsticks",
+   "concept": "chopsticks",
+   "text": "palillos",
+   "speak": "los palillos",
+   "reading": "",
+   "meaning": "chopsticks",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/chopsticks.mp3",
+    "she": "vocab/audio/es/she/chopsticks.mp3"
+   },
+   "image": "vocab/img/chopsticks.jpg",
+   "emoji": "🥢",
+   "display": "los palillos",
+   "gender": "m",
+   "article": "los",
+   "review": false
+  },
+  {
+   "id": "es-spoon",
+   "concept": "spoon",
+   "text": "cuchara",
+   "speak": "la cuchara",
+   "reading": "",
+   "meaning": "spoon",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/spoon.mp3",
+    "she": "vocab/audio/es/she/spoon.mp3"
+   },
+   "image": "vocab/img/spoon.jpg",
+   "emoji": "🥄",
+   "display": "la cuchara",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-fork",
+   "concept": "fork",
+   "text": "tenedor",
+   "speak": "el tenedor",
+   "reading": "",
+   "meaning": "fork",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/fork.mp3",
+    "she": "vocab/audio/es/she/fork.mp3"
+   },
+   "image": "vocab/img/fork.jpg",
+   "emoji": "🍴",
+   "display": "el tenedor",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-knife",
+   "concept": "knife",
+   "text": "cuchillo",
+   "speak": "el cuchillo",
+   "reading": "",
+   "meaning": "knife",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/knife.mp3",
+    "she": "vocab/audio/es/she/knife.mp3"
+   },
+   "image": "vocab/img/knife.jpg",
+   "emoji": "🔪",
+   "display": "el cuchillo",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-bowl",
+   "concept": "bowl",
+   "text": "cuenco",
+   "speak": "el cuenco",
+   "reading": "",
+   "meaning": "bowl",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/bowl.mp3",
+    "she": "vocab/audio/es/she/bowl.mp3"
+   },
+   "image": "vocab/img/bowl.jpg",
+   "emoji": "🥣",
+   "display": "el cuenco",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-plate",
+   "concept": "plate",
+   "text": "plato",
+   "speak": "el plato",
+   "reading": "",
+   "meaning": "plate",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/plate.mp3",
+    "she": "vocab/audio/es/she/plate.mp3"
+   },
+   "image": "vocab/img/plate.jpg",
+   "emoji": "🍽️",
+   "display": "el plato",
+   "gender": "m",
+   "article": "el",
+   "review": false
+  },
+  {
+   "id": "es-cup",
+   "concept": "cup",
+   "text": "taza",
+   "speak": "la taza",
+   "reading": "",
+   "meaning": "cup",
+   "topic": "food",
+   "tier": 1,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/cup.mp3",
+    "she": "vocab/audio/es/she/cup.mp3"
+   },
+   "image": "vocab/img/cup.jpg",
+   "emoji": "🥤",
+   "display": "la taza",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-bottle",
+   "concept": "bottle",
+   "text": "botella",
+   "speak": "la botella",
+   "reading": "",
+   "meaning": "bottle",
+   "topic": "food",
+   "tier": 2,
+   "pos": "n",
+   "audio": {
+    "he": "vocab/audio/es/he/bottle.mp3",
+    "she": "vocab/audio/es/she/bottle.mp3"
+   },
+   "image": "vocab/img/bottle.jpg",
+   "emoji": "🍾",
+   "display": "la botella",
+   "gender": "f",
+   "article": "la",
+   "review": false
+  },
+  {
+   "id": "es-eat",
+   "concept": "eat",
+   "text": "comer",
+   "speak": "comer",
+   "reading": "",
+   "meaning": "to eat",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/eat.mp3",
+    "she": "vocab/audio/es/she/eat.mp3"
+   },
+   "image": "vocab/img/eat.jpg",
+   "emoji": "🍽️",
+   "display": "comer",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-drink",
+   "concept": "drink",
+   "text": "beber",
+   "speak": "beber",
+   "reading": "",
+   "meaning": "to drink",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/drink.mp3",
+    "she": "vocab/audio/es/she/drink.mp3"
+   },
+   "image": "vocab/img/drink.jpg",
+   "emoji": "🥤",
+   "display": "beber",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-go",
+   "concept": "go",
+   "text": "ir",
+   "speak": "ir",
+   "reading": "",
+   "meaning": "to go",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/go.mp3",
+    "she": "vocab/audio/es/she/go.mp3"
+   },
+   "image": "vocab/img/go.jpg",
+   "emoji": "🚶",
+   "display": "ir",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-want",
+   "concept": "want",
+   "text": "querer",
+   "speak": "querer",
+   "reading": "",
+   "meaning": "to want",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/want.mp3",
+    "she": "vocab/audio/es/she/want.mp3"
+   },
+   "image": "vocab/img/want.jpg",
+   "emoji": "🤲",
+   "display": "querer",
+   "legacy": true,
+   "review": false
+  },
+  {
+   "id": "es-come",
+   "concept": "come",
+   "text": "venir",
+   "speak": "venir",
+   "reading": "",
+   "meaning": "to come",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/come.mp3",
+    "she": "vocab/audio/es/she/come.mp3"
+   },
+   "image": "vocab/img/come.jpg",
+   "emoji": "🫴",
+   "display": "venir",
+   "review": false
+  },
+  {
+   "id": "es-see",
+   "concept": "see",
+   "text": "ver",
+   "speak": "ver",
+   "reading": "",
+   "meaning": "to see",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/see.mp3",
+    "she": "vocab/audio/es/she/see.mp3"
+   },
+   "image": "vocab/img/see.jpg",
+   "emoji": "👀",
+   "display": "ver",
+   "review": false
+  },
+  {
+   "id": "es-listen",
+   "concept": "listen",
+   "text": "escuchar",
+   "speak": "escuchar",
+   "reading": "",
+   "meaning": "to listen",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/listen.mp3",
+    "she": "vocab/audio/es/she/listen.mp3"
+   },
+   "image": "vocab/img/listen.jpg",
+   "emoji": "👂",
+   "display": "escuchar",
+   "review": false
+  },
+  {
+   "id": "es-speak",
+   "concept": "speak",
+   "text": "hablar",
+   "speak": "hablar",
+   "reading": "",
+   "meaning": "to speak",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/speak.mp3",
+    "she": "vocab/audio/es/she/speak.mp3"
+   },
+   "image": "vocab/img/speak.jpg",
+   "emoji": "🗣️",
+   "display": "hablar",
+   "review": false
+  },
+  {
+   "id": "es-read",
+   "concept": "read",
+   "text": "leer",
+   "speak": "leer",
+   "reading": "",
+   "meaning": "to read",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/read.mp3",
+    "she": "vocab/audio/es/she/read.mp3"
+   },
+   "image": "vocab/img/read.jpg",
+   "emoji": "📖",
+   "display": "leer",
+   "review": false
+  },
+  {
+   "id": "es-write",
+   "concept": "write",
+   "text": "escribir",
+   "speak": "escribir",
+   "reading": "",
+   "meaning": "to write",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/write.mp3",
+    "she": "vocab/audio/es/she/write.mp3"
+   },
+   "image": "vocab/img/write.jpg",
+   "emoji": "✍️",
+   "display": "escribir",
+   "review": false
+  },
+  {
+   "id": "es-sleep",
+   "concept": "sleep",
+   "text": "dormir",
+   "speak": "dormir",
+   "reading": "",
+   "meaning": "to sleep",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/sleep.mp3",
+    "she": "vocab/audio/es/she/sleep.mp3"
+   },
+   "image": "vocab/img/sleep.jpg",
+   "emoji": "😴",
+   "display": "dormir",
+   "review": false
+  },
+  {
+   "id": "es-wake_up",
+   "concept": "wake_up",
+   "text": "despertarse",
+   "speak": "despertarse",
+   "reading": "",
+   "meaning": "to wake up",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/wake_up.mp3",
+    "she": "vocab/audio/es/she/wake_up.mp3"
+   },
+   "image": "vocab/img/wake_up.jpg",
+   "emoji": "⏰",
+   "display": "despertarse",
+   "review": false
+  },
+  {
+   "id": "es-walk",
+   "concept": "walk",
+   "text": "caminar",
+   "speak": "caminar",
+   "reading": "",
+   "meaning": "to walk",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/walk.mp3",
+    "she": "vocab/audio/es/she/walk.mp3"
+   },
+   "image": "vocab/img/walk.jpg",
+   "emoji": "🚶",
+   "display": "caminar",
+   "review": false
+  },
+  {
+   "id": "es-run",
+   "concept": "run",
+   "text": "correr",
+   "speak": "correr",
+   "reading": "",
+   "meaning": "to run",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/run.mp3",
+    "she": "vocab/audio/es/she/run.mp3"
+   },
+   "image": "vocab/img/run.jpg",
+   "emoji": "🏃",
+   "display": "correr",
+   "review": false
+  },
+  {
+   "id": "es-sit",
+   "concept": "sit",
+   "text": "sentarse",
+   "speak": "sentarse",
+   "reading": "",
+   "meaning": "to sit",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/sit.mp3",
+    "she": "vocab/audio/es/she/sit.mp3"
+   },
+   "image": "vocab/img/sit.jpg",
+   "emoji": "🪑",
+   "display": "sentarse",
+   "review": false
+  },
+  {
+   "id": "es-stand",
+   "concept": "stand",
+   "text": "estar de pie",
+   "speak": "estar de pie",
+   "reading": "",
+   "meaning": "to stand",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/stand.mp3",
+    "she": "vocab/audio/es/she/stand.mp3"
+   },
+   "image": "vocab/img/stand.jpg",
+   "emoji": "🧍",
+   "display": "estar de pie",
+   "review": false
+  },
+  {
+   "id": "es-buy",
+   "concept": "buy",
+   "text": "comprar",
+   "speak": "comprar",
+   "reading": "",
+   "meaning": "to buy",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/buy.mp3",
+    "she": "vocab/audio/es/she/buy.mp3"
+   },
+   "image": "vocab/img/buy.jpg",
+   "emoji": "🛍️",
+   "display": "comprar",
+   "review": false
+  },
+  {
+   "id": "es-sell",
+   "concept": "sell",
+   "text": "vender",
+   "speak": "vender",
+   "reading": "",
+   "meaning": "to sell",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/sell.mp3",
+    "she": "vocab/audio/es/she/sell.mp3"
+   },
+   "image": "vocab/img/sell.jpg",
+   "emoji": "🏪",
+   "display": "vender",
+   "review": false
+  },
+  {
+   "id": "es-give",
+   "concept": "give",
+   "text": "dar",
+   "speak": "dar",
+   "reading": "",
+   "meaning": "to give",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/give.mp3",
+    "she": "vocab/audio/es/she/give.mp3"
+   },
+   "image": "vocab/img/give.jpg",
+   "emoji": "🎁",
+   "display": "dar",
+   "review": false
+  },
+  {
+   "id": "es-take",
+   "concept": "take",
+   "text": "tomar",
+   "speak": "tomar",
+   "reading": "",
+   "meaning": "to take",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/take.mp3",
+    "she": "vocab/audio/es/she/take.mp3"
+   },
+   "image": "vocab/img/take.jpg",
+   "emoji": "✊",
+   "display": "tomar",
+   "review": false
+  },
+  {
+   "id": "es-make",
+   "concept": "make",
+   "text": "hacer",
+   "speak": "hacer",
+   "reading": "",
+   "meaning": "to make",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/make.mp3",
+    "she": "vocab/audio/es/she/make.mp3"
+   },
+   "image": "vocab/img/make.jpg",
+   "emoji": "🔨",
+   "display": "hacer",
+   "review": false
+  },
+  {
+   "id": "es-work",
+   "concept": "work",
+   "text": "trabajar",
+   "speak": "trabajar",
+   "reading": "",
+   "meaning": "to work",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/work.mp3",
+    "she": "vocab/audio/es/she/work.mp3"
+   },
+   "image": "vocab/img/work.jpg",
+   "emoji": "💼",
+   "display": "trabajar",
+   "review": false
+  },
+  {
+   "id": "es-study",
+   "concept": "study",
+   "text": "estudiar",
+   "speak": "estudiar",
+   "reading": "",
+   "meaning": "to study",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/study.mp3",
+    "she": "vocab/audio/es/she/study.mp3"
+   },
+   "image": "vocab/img/study.jpg",
+   "emoji": "📚",
+   "display": "estudiar",
+   "review": false
+  },
+  {
+   "id": "es-play",
+   "concept": "play",
+   "text": "jugar",
+   "speak": "jugar",
+   "reading": "",
+   "meaning": "to play",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/play.mp3",
+    "she": "vocab/audio/es/she/play.mp3"
+   },
+   "image": "vocab/img/play.jpg",
+   "emoji": "⚽",
+   "display": "jugar",
+   "review": false
+  },
+  {
+   "id": "es-love",
+   "concept": "love",
+   "text": "amar",
+   "speak": "amar",
+   "reading": "",
+   "meaning": "to love",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/love.mp3",
+    "she": "vocab/audio/es/she/love.mp3"
+   },
+   "image": "vocab/img/love.jpg",
+   "emoji": "❤️",
+   "display": "amar",
+   "review": false
+  },
+  {
+   "id": "es-like",
+   "concept": "like",
+   "text": "gustar",
+   "speak": "gustar",
+   "reading": "",
+   "meaning": "to like",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/like.mp3",
+    "she": "vocab/audio/es/she/like.mp3"
+   },
+   "image": "vocab/img/like.jpg",
+   "emoji": "👍",
+   "display": "gustar",
+   "review": false
+  },
+  {
+   "id": "es-know",
+   "concept": "know",
+   "text": "saber",
+   "speak": "saber",
+   "reading": "",
+   "meaning": "to know",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/know.mp3",
+    "she": "vocab/audio/es/she/know.mp3"
+   },
+   "image": "vocab/img/know.jpg",
+   "emoji": "💡",
+   "display": "saber",
+   "review": false
+  },
+  {
+   "id": "es-think",
+   "concept": "think",
+   "text": "pensar",
+   "speak": "pensar",
+   "reading": "",
+   "meaning": "to think",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/think.mp3",
+    "she": "vocab/audio/es/she/think.mp3"
+   },
+   "image": "vocab/img/think.jpg",
+   "emoji": "💭",
+   "display": "pensar",
+   "review": false
+  },
+  {
+   "id": "es-understand",
+   "concept": "understand",
+   "text": "entender",
+   "speak": "entender",
+   "reading": "",
+   "meaning": "to understand",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/understand.mp3",
+    "she": "vocab/audio/es/she/understand.mp3"
+   },
+   "image": "vocab/img/understand.jpg",
+   "emoji": "🤓",
+   "display": "entender",
+   "review": false
+  },
+  {
+   "id": "es-open",
+   "concept": "open",
+   "text": "abrir",
+   "speak": "abrir",
+   "reading": "",
+   "meaning": "to open",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/open.mp3",
+    "she": "vocab/audio/es/she/open.mp3"
+   },
+   "image": "vocab/img/open.jpg",
+   "emoji": "📂",
+   "display": "abrir",
+   "review": false
+  },
+  {
+   "id": "es-close",
+   "concept": "close",
+   "text": "cerrar",
+   "speak": "cerrar",
+   "reading": "",
+   "meaning": "to close",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/close.mp3",
+    "she": "vocab/audio/es/she/close.mp3"
+   },
+   "image": "vocab/img/close.jpg",
+   "emoji": "🚪",
+   "display": "cerrar",
+   "review": false
+  },
+  {
+   "id": "es-cook",
+   "concept": "cook",
+   "text": "cocinar",
+   "speak": "cocinar",
+   "reading": "",
+   "meaning": "to cook",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/cook.mp3",
+    "she": "vocab/audio/es/she/cook.mp3"
+   },
+   "image": "vocab/img/cook.jpg",
+   "emoji": "🍳",
+   "display": "cocinar",
+   "review": false
+  },
+  {
+   "id": "es-wash",
+   "concept": "wash",
+   "text": "lavar",
+   "speak": "lavar",
+   "reading": "",
+   "meaning": "to wash",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/wash.mp3",
+    "she": "vocab/audio/es/she/wash.mp3"
+   },
+   "image": "vocab/img/wash.jpg",
+   "emoji": "🧼",
+   "display": "lavar",
+   "review": false
+  },
+  {
+   "id": "es-help",
+   "concept": "help",
+   "text": "ayudar",
+   "speak": "ayudar",
+   "reading": "",
+   "meaning": "to help",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/help.mp3",
+    "she": "vocab/audio/es/she/help.mp3"
+   },
+   "image": "vocab/img/help.jpg",
+   "emoji": "🆘",
+   "display": "ayudar",
+   "review": false
+  },
+  {
+   "id": "es-wait",
+   "concept": "wait",
+   "text": "esperar",
+   "speak": "esperar",
+   "reading": "",
+   "meaning": "to wait",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/wait.mp3",
+    "she": "vocab/audio/es/she/wait.mp3"
+   },
+   "image": "vocab/img/wait.jpg",
+   "emoji": "⌛",
+   "display": "esperar",
+   "review": false
+  },
+  {
+   "id": "es-call_phone",
+   "concept": "call_phone",
+   "text": "llamar",
+   "speak": "llamar",
+   "reading": "",
+   "meaning": "to call (phone)",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/call_phone.mp3",
+    "she": "vocab/audio/es/she/call_phone.mp3"
+   },
+   "image": "vocab/img/call_phone.jpg",
+   "emoji": "📞",
+   "display": "llamar",
+   "review": false
+  },
+  {
+   "id": "es-ask",
+   "concept": "ask",
+   "text": "preguntar",
+   "speak": "preguntar",
+   "reading": "",
+   "meaning": "to ask",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/ask.mp3",
+    "she": "vocab/audio/es/she/ask.mp3"
+   },
+   "image": "vocab/img/ask.jpg",
+   "emoji": "🙋",
+   "display": "preguntar",
+   "review": false
+  },
+  {
+   "id": "es-answer",
+   "concept": "answer",
+   "text": "responder",
+   "speak": "responder",
+   "reading": "",
+   "meaning": "to answer",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/answer.mp3",
+    "she": "vocab/audio/es/she/answer.mp3"
+   },
+   "image": "vocab/img/answer.jpg",
+   "emoji": "💬",
+   "display": "responder",
+   "review": false
+  },
+  {
+   "id": "es-learn",
+   "concept": "learn",
+   "text": "aprender",
+   "speak": "aprender",
+   "reading": "",
+   "meaning": "to learn",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/learn.mp3",
+    "she": "vocab/audio/es/she/learn.mp3"
+   },
+   "image": "vocab/img/learn.jpg",
+   "emoji": "🎓",
+   "display": "aprender",
+   "review": false
+  },
+  {
+   "id": "es-teach",
+   "concept": "teach",
+   "text": "enseñar",
+   "speak": "enseñar",
+   "reading": "",
+   "meaning": "to teach",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/teach.mp3",
+    "she": "vocab/audio/es/she/teach.mp3"
+   },
+   "image": "vocab/img/teach.jpg",
+   "emoji": "🧑‍🏫",
+   "display": "enseñar",
+   "review": false
+  },
+  {
+   "id": "es-swim",
+   "concept": "swim",
+   "text": "nadar",
+   "speak": "nadar",
+   "reading": "",
+   "meaning": "to swim",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/swim.mp3",
+    "she": "vocab/audio/es/she/swim.mp3"
+   },
+   "image": "vocab/img/swim.jpg",
+   "emoji": "🏊",
+   "display": "nadar",
+   "review": false
+  },
+  {
+   "id": "es-sing",
+   "concept": "sing",
+   "text": "cantar",
+   "speak": "cantar",
+   "reading": "",
+   "meaning": "to sing",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/sing.mp3",
+    "she": "vocab/audio/es/she/sing.mp3"
+   },
+   "image": "vocab/img/sing.jpg",
+   "emoji": "🎤",
+   "display": "cantar",
+   "review": false
+  },
+  {
+   "id": "es-dance",
+   "concept": "dance",
+   "text": "bailar",
+   "speak": "bailar",
+   "reading": "",
+   "meaning": "to dance",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/dance.mp3",
+    "she": "vocab/audio/es/she/dance.mp3"
+   },
+   "image": "vocab/img/dance.jpg",
+   "emoji": "💃",
+   "display": "bailar",
+   "review": false
+  },
+  {
+   "id": "es-laugh",
+   "concept": "laugh",
+   "text": "reír",
+   "speak": "reír",
+   "reading": "",
+   "meaning": "to laugh",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/laugh.mp3",
+    "she": "vocab/audio/es/she/laugh.mp3"
+   },
+   "image": "vocab/img/laugh.jpg",
+   "emoji": "😂",
+   "display": "reír",
+   "review": false
+  },
+  {
+   "id": "es-cry",
+   "concept": "cry",
+   "text": "llorar",
+   "speak": "llorar",
+   "reading": "",
+   "meaning": "to cry",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/cry.mp3",
+    "she": "vocab/audio/es/she/cry.mp3"
+   },
+   "image": "vocab/img/cry.jpg",
+   "emoji": "😢",
+   "display": "llorar",
+   "review": false
+  },
+  {
+   "id": "es-have",
+   "concept": "have",
+   "text": "tener",
+   "speak": "tener",
+   "reading": "",
+   "meaning": "to have",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/have.mp3",
+    "she": "vocab/audio/es/she/have.mp3"
+   },
+   "image": "vocab/img/have.jpg",
+   "emoji": "🤲",
+   "display": "tener",
+   "review": false
+  },
+  {
+   "id": "es-need",
+   "concept": "need",
+   "text": "necesitar",
+   "speak": "necesitar",
+   "reading": "",
+   "meaning": "to need",
+   "topic": "verbs",
+   "tier": 1,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/need.mp3",
+    "she": "vocab/audio/es/she/need.mp3"
+   },
+   "image": "vocab/img/need.jpg",
+   "emoji": "🙏",
+   "display": "necesitar",
+   "review": false
+  },
+  {
+   "id": "es-use",
+   "concept": "use",
+   "text": "usar",
+   "speak": "usar",
+   "reading": "",
+   "meaning": "to use",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/use.mp3",
+    "she": "vocab/audio/es/she/use.mp3"
+   },
+   "image": "vocab/img/use.jpg",
+   "emoji": "🔧",
+   "display": "usar",
+   "review": false
+  },
+  {
+   "id": "es-find",
+   "concept": "find",
+   "text": "encontrar",
+   "speak": "encontrar",
+   "reading": "",
+   "meaning": "to find",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/find.mp3",
+    "she": "vocab/audio/es/she/find.mp3"
+   },
+   "image": "vocab/img/find.jpg",
+   "emoji": "🔍",
+   "display": "encontrar",
+   "review": false
+  },
+  {
+   "id": "es-look_for",
+   "concept": "look_for",
+   "text": "buscar",
+   "speak": "buscar",
+   "reading": "",
+   "meaning": "to look for",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/look_for.mp3",
+    "she": "vocab/audio/es/she/look_for.mp3"
+   },
+   "image": "vocab/img/look_for.jpg",
+   "emoji": "🔦",
+   "display": "buscar",
+   "review": false
+  },
+  {
+   "id": "es-live",
+   "concept": "live",
+   "text": "vivir",
+   "speak": "vivir",
+   "reading": "",
+   "meaning": "to live",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/live.mp3",
+    "she": "vocab/audio/es/she/live.mp3"
+   },
+   "image": "vocab/img/live.jpg",
+   "emoji": "🏡",
+   "display": "vivir",
+   "review": false
+  },
+  {
+   "id": "es-drive",
+   "concept": "drive",
+   "text": "conducir",
+   "speak": "conducir",
+   "reading": "",
+   "meaning": "to drive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/drive.mp3",
+    "she": "vocab/audio/es/she/drive.mp3"
+   },
+   "image": "vocab/img/drive.jpg",
+   "emoji": "🚗",
+   "display": "conducir",
+   "review": false
+  },
+  {
+   "id": "es-fly",
+   "concept": "fly",
+   "text": "volar",
+   "speak": "volar",
+   "reading": "",
+   "meaning": "to fly",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/fly.mp3",
+    "she": "vocab/audio/es/she/fly.mp3"
+   },
+   "image": "vocab/img/fly.jpg",
+   "emoji": "🕊️",
+   "display": "volar",
+   "review": false
+  },
+  {
+   "id": "es-come_back",
+   "concept": "come_back",
+   "text": "volver",
+   "speak": "volver",
+   "reading": "",
+   "meaning": "to come back",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/come_back.mp3",
+    "she": "vocab/audio/es/she/come_back.mp3"
+   },
+   "image": "vocab/img/come_back.jpg",
+   "emoji": "🔙",
+   "display": "volver",
+   "review": false
+  },
+  {
+   "id": "es-arrive",
+   "concept": "arrive",
+   "text": "llegar",
+   "speak": "llegar",
+   "reading": "",
+   "meaning": "to arrive",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/arrive.mp3",
+    "she": "vocab/audio/es/she/arrive.mp3"
+   },
+   "image": "vocab/img/arrive.jpg",
+   "emoji": "🛬",
+   "display": "llegar",
+   "review": false
+  },
+  {
+   "id": "es-leave",
+   "concept": "leave",
+   "text": "salir",
+   "speak": "salir",
+   "reading": "",
+   "meaning": "to leave",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/leave.mp3",
+    "she": "vocab/audio/es/she/leave.mp3"
+   },
+   "image": "vocab/img/leave.jpg",
+   "emoji": "🚪",
+   "display": "salir",
+   "review": false
+  },
+  {
+   "id": "es-start",
+   "concept": "start",
+   "text": "empezar",
+   "speak": "empezar",
+   "reading": "",
+   "meaning": "to start",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/start.mp3",
+    "she": "vocab/audio/es/she/start.mp3"
+   },
+   "image": "vocab/img/start.jpg",
+   "emoji": "🏁",
+   "display": "empezar",
+   "review": false
+  },
+  {
+   "id": "es-finish",
+   "concept": "finish",
+   "text": "terminar",
+   "speak": "terminar",
+   "reading": "",
+   "meaning": "to finish",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/finish.mp3",
+    "she": "vocab/audio/es/she/finish.mp3"
+   },
+   "image": "vocab/img/finish.jpg",
+   "emoji": "🏆",
+   "display": "terminar",
+   "review": false
+  },
+  {
+   "id": "es-pay",
+   "concept": "pay",
+   "text": "pagar",
+   "speak": "pagar",
+   "reading": "",
+   "meaning": "to pay",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/pay.mp3",
+    "she": "vocab/audio/es/she/pay.mp3"
+   },
+   "image": "vocab/img/pay.jpg",
+   "emoji": "💳",
+   "display": "pagar",
+   "review": false
+  },
+  {
+   "id": "es-send",
+   "concept": "send",
+   "text": "enviar",
+   "speak": "enviar",
+   "reading": "",
+   "meaning": "to send",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/send.mp3",
+    "she": "vocab/audio/es/she/send.mp3"
+   },
+   "image": "vocab/img/send.jpg",
+   "emoji": "📨",
+   "display": "enviar",
+   "review": false
+  },
+  {
+   "id": "es-meet",
+   "concept": "meet",
+   "text": "reunirse",
+   "speak": "reunirse",
+   "reading": "",
+   "meaning": "to meet",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/meet.mp3",
+    "she": "vocab/audio/es/she/meet.mp3"
+   },
+   "image": "vocab/img/meet.jpg",
+   "emoji": "🤝",
+   "display": "reunirse",
+   "review": false
+  },
+  {
+   "id": "es-remember",
+   "concept": "remember",
+   "text": "recordar",
+   "speak": "recordar",
+   "reading": "",
+   "meaning": "to remember",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/remember.mp3",
+    "she": "vocab/audio/es/she/remember.mp3"
+   },
+   "image": "vocab/img/remember.jpg",
+   "emoji": "🧠",
+   "display": "recordar",
+   "review": false
+  },
+  {
+   "id": "es-forget",
+   "concept": "forget",
+   "text": "olvidar",
+   "speak": "olvidar",
+   "reading": "",
+   "meaning": "to forget",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/forget.mp3",
+    "she": "vocab/audio/es/she/forget.mp3"
+   },
+   "image": "vocab/img/forget.jpg",
+   "emoji": "❓",
+   "display": "olvidar",
+   "review": false
+  },
+  {
+   "id": "es-clean",
+   "concept": "clean",
+   "text": "limpiar",
+   "speak": "limpiar",
+   "reading": "",
+   "meaning": "to clean",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/clean.mp3",
+    "she": "vocab/audio/es/she/clean.mp3"
+   },
+   "image": "vocab/img/clean.jpg",
+   "emoji": "🧹",
+   "display": "limpiar",
+   "review": false
+  },
+  {
+   "id": "es-draw",
+   "concept": "draw",
+   "text": "dibujar",
+   "speak": "dibujar",
+   "reading": "",
+   "meaning": "to draw",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/draw.mp3",
+    "she": "vocab/audio/es/she/draw.mp3"
+   },
+   "image": "vocab/img/draw.jpg",
+   "emoji": "🖍️",
+   "display": "dibujar",
+   "review": false
+  },
+  {
+   "id": "es-jump",
+   "concept": "jump",
+   "text": "saltar",
+   "speak": "saltar",
+   "reading": "",
+   "meaning": "to jump",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/jump.mp3",
+    "she": "vocab/audio/es/she/jump.mp3"
+   },
+   "image": "vocab/img/jump.jpg",
+   "emoji": "🦘",
+   "display": "saltar",
+   "review": false
+  },
+  {
+   "id": "es-throw",
+   "concept": "throw",
+   "text": "lanzar",
+   "speak": "lanzar",
+   "reading": "",
+   "meaning": "to throw",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/throw.mp3",
+    "she": "vocab/audio/es/she/throw.mp3"
+   },
+   "image": "vocab/img/throw.jpg",
+   "emoji": "🥏",
+   "display": "lanzar",
+   "review": false
+  },
+  {
+   "id": "es-push",
+   "concept": "push",
+   "text": "empujar",
+   "speak": "empujar",
+   "reading": "",
+   "meaning": "to push",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/push.mp3",
+    "she": "vocab/audio/es/she/push.mp3"
+   },
+   "image": "vocab/img/push.jpg",
+   "emoji": "🫸",
+   "display": "empujar",
+   "review": false
+  },
+  {
+   "id": "es-pull",
+   "concept": "pull",
+   "text": "tirar",
+   "speak": "tirar",
+   "reading": "",
+   "meaning": "to pull",
+   "topic": "verbs",
+   "tier": 3,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/pull.mp3",
+    "she": "vocab/audio/es/she/pull.mp3"
+   },
+   "image": "vocab/img/pull.jpg",
+   "emoji": "🪢",
+   "display": "tirar",
+   "review": false
+  },
+  {
+   "id": "es-cut",
+   "concept": "cut",
+   "text": "cortar",
+   "speak": "cortar",
+   "reading": "",
+   "meaning": "to cut",
+   "topic": "verbs",
+   "tier": 2,
+   "pos": "v",
+   "audio": {
+    "he": "vocab/audio/es/he/cut.mp3",
+    "she": "vocab/audio/es/she/cut.mp3"
+   },
+   "image": "vocab/img/cut.jpg",
+   "emoji": "✂️",
+   "display": "cortar",
+   "review": false
+  },
+  {
+   "id": "es-big",
+   "concept": "big",
+   "text": "grande",
+   "speak": "grande",
+   "reading": "",
+   "meaning": "big",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/big.mp3",
+    "she": "vocab/audio/es/she/big.mp3"
+   },
+   "image": "vocab/img/big.jpg",
+   "emoji": "🐘",
+   "display": "grande",
+   "review": false
+  },
+  {
+   "id": "es-small",
+   "concept": "small",
+   "text": "pequeño",
+   "speak": "pequeño",
+   "reading": "",
+   "meaning": "small",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/small.mp3",
+    "she": "vocab/audio/es/she/small.mp3"
+   },
+   "image": "vocab/img/small.jpg",
+   "emoji": "🐭",
+   "display": "pequeño",
+   "review": false
+  },
+  {
+   "id": "es-hot",
+   "concept": "hot",
+   "text": "caliente",
+   "speak": "caliente",
+   "reading": "",
+   "meaning": "hot",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/hot.mp3",
+    "she": "vocab/audio/es/she/hot.mp3"
+   },
+   "image": "vocab/img/hot.jpg",
+   "emoji": "🔥",
+   "display": "caliente",
+   "review": false
+  },
+  {
+   "id": "es-cold",
+   "concept": "cold",
+   "text": "frío",
+   "speak": "frío",
+   "reading": "",
+   "meaning": "cold",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/cold.mp3",
+    "she": "vocab/audio/es/she/cold.mp3"
+   },
+   "image": "vocab/img/cold.jpg",
+   "emoji": "🥶",
+   "display": "frío",
+   "review": false
+  },
+  {
+   "id": "es-good",
+   "concept": "good",
+   "text": "bueno",
+   "speak": "bueno",
+   "reading": "",
+   "meaning": "good",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/good.mp3",
+    "she": "vocab/audio/es/she/good.mp3"
+   },
+   "image": "vocab/img/good.jpg",
+   "emoji": "👍",
+   "display": "bueno",
+   "review": false
+  },
+  {
+   "id": "es-bad",
+   "concept": "bad",
+   "text": "malo",
+   "speak": "malo",
+   "reading": "",
+   "meaning": "bad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/bad.mp3",
+    "she": "vocab/audio/es/she/bad.mp3"
+   },
+   "image": "vocab/img/bad.jpg",
+   "emoji": "👎",
+   "display": "malo",
+   "review": false
+  },
+  {
+   "id": "es-new",
+   "concept": "new",
+   "text": "nuevo",
+   "speak": "nuevo",
+   "reading": "",
+   "meaning": "new",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/new.mp3",
+    "she": "vocab/audio/es/she/new.mp3"
+   },
+   "image": "vocab/img/new.jpg",
+   "emoji": "✨",
+   "display": "nuevo",
+   "review": false
+  },
+  {
+   "id": "es-old_thing",
+   "concept": "old_thing",
+   "text": "viejo",
+   "speak": "viejo",
+   "reading": "",
+   "meaning": "old (thing)",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/old_thing.mp3",
+    "she": "vocab/audio/es/she/old_thing.mp3"
+   },
+   "image": "vocab/img/old_thing.jpg",
+   "emoji": "🏚️",
+   "display": "viejo",
+   "review": false
+  },
+  {
+   "id": "es-young",
+   "concept": "young",
+   "text": "joven",
+   "speak": "joven",
+   "reading": "",
+   "meaning": "young",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/young.mp3",
+    "she": "vocab/audio/es/she/young.mp3"
+   },
+   "image": "vocab/img/young.jpg",
+   "emoji": "🧒",
+   "display": "joven",
+   "review": false
+  },
+  {
+   "id": "es-old_age",
+   "concept": "old_age",
+   "text": "mayor",
+   "speak": "mayor",
+   "reading": "",
+   "meaning": "old (age)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/old_age.mp3",
+    "she": "vocab/audio/es/she/old_age.mp3"
+   },
+   "image": "vocab/img/old_age.jpg",
+   "emoji": "👴",
+   "display": "mayor",
+   "review": false
+  },
+  {
+   "id": "es-beautiful",
+   "concept": "beautiful",
+   "text": "bonito",
+   "speak": "bonito",
+   "reading": "",
+   "meaning": "beautiful",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/beautiful.mp3",
+    "she": "vocab/audio/es/she/beautiful.mp3"
+   },
+   "image": "vocab/img/beautiful.jpg",
+   "emoji": "🌺",
+   "display": "bonito",
+   "review": false
+  },
+  {
+   "id": "es-delicious",
+   "concept": "delicious",
+   "text": "delicioso",
+   "speak": "delicioso",
+   "reading": "",
+   "meaning": "delicious",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/delicious.mp3",
+    "she": "vocab/audio/es/she/delicious.mp3"
+   },
+   "image": "vocab/img/delicious.jpg",
+   "emoji": "😋",
+   "display": "delicioso",
+   "review": false
+  },
+  {
+   "id": "es-happy",
+   "concept": "happy",
+   "text": "feliz",
+   "speak": "feliz",
+   "reading": "",
+   "meaning": "happy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/happy.mp3",
+    "she": "vocab/audio/es/she/happy.mp3"
+   },
+   "image": "vocab/img/happy.jpg",
+   "emoji": "😄",
+   "display": "feliz",
+   "review": false
+  },
+  {
+   "id": "es-sad",
+   "concept": "sad",
+   "text": "triste",
+   "speak": "triste",
+   "reading": "",
+   "meaning": "sad",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/sad.mp3",
+    "she": "vocab/audio/es/she/sad.mp3"
+   },
+   "image": "vocab/img/sad.jpg",
+   "emoji": "😢",
+   "display": "triste",
+   "review": false
+  },
+  {
+   "id": "es-tired",
+   "concept": "tired",
+   "text": "cansado",
+   "speak": "cansado",
+   "reading": "",
+   "meaning": "tired",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/tired.mp3",
+    "she": "vocab/audio/es/she/tired.mp3"
+   },
+   "image": "vocab/img/tired.jpg",
+   "emoji": "😩",
+   "display": "cansado",
+   "review": false
+  },
+  {
+   "id": "es-hungry",
+   "concept": "hungry",
+   "text": "hambriento",
+   "speak": "hambriento",
+   "reading": "",
+   "meaning": "hungry",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/hungry.mp3",
+    "she": "vocab/audio/es/she/hungry.mp3"
+   },
+   "image": "vocab/img/hungry.jpg",
+   "emoji": "🤤",
+   "display": "hambriento",
+   "review": false
+  },
+  {
+   "id": "es-thirsty",
+   "concept": "thirsty",
+   "text": "sediento",
+   "speak": "sediento",
+   "reading": "",
+   "meaning": "thirsty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/thirsty.mp3",
+    "she": "vocab/audio/es/she/thirsty.mp3"
+   },
+   "image": "vocab/img/thirsty.jpg",
+   "emoji": "🥵",
+   "display": "sediento",
+   "review": false
+  },
+  {
+   "id": "es-fast",
+   "concept": "fast",
+   "text": "rápido",
+   "speak": "rápido",
+   "reading": "",
+   "meaning": "fast",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/fast.mp3",
+    "she": "vocab/audio/es/she/fast.mp3"
+   },
+   "image": "vocab/img/fast.jpg",
+   "emoji": "🐇",
+   "display": "rápido",
+   "review": false
+  },
+  {
+   "id": "es-slow",
+   "concept": "slow",
+   "text": "lento",
+   "speak": "lento",
+   "reading": "",
+   "meaning": "slow",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/slow.mp3",
+    "she": "vocab/audio/es/she/slow.mp3"
+   },
+   "image": "vocab/img/slow.jpg",
+   "emoji": "🐢",
+   "display": "lento",
+   "review": false
+  },
+  {
+   "id": "es-long",
+   "concept": "long",
+   "text": "largo",
+   "speak": "largo",
+   "reading": "",
+   "meaning": "long",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/long.mp3",
+    "she": "vocab/audio/es/she/long.mp3"
+   },
+   "image": "vocab/img/long.jpg",
+   "emoji": "🐍",
+   "display": "largo",
+   "review": false
+  },
+  {
+   "id": "es-short",
+   "concept": "short",
+   "text": "corto",
+   "speak": "corto",
+   "reading": "",
+   "meaning": "short",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/short.mp3",
+    "she": "vocab/audio/es/she/short.mp3"
+   },
+   "image": "vocab/img/short.jpg",
+   "emoji": "✏️",
+   "display": "corto",
+   "review": false
+  },
+  {
+   "id": "es-tall",
+   "concept": "tall",
+   "text": "alto",
+   "speak": "alto",
+   "reading": "",
+   "meaning": "tall",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/tall.mp3",
+    "she": "vocab/audio/es/she/tall.mp3"
+   },
+   "image": "vocab/img/tall.jpg",
+   "emoji": "🦒",
+   "display": "alto",
+   "review": false
+  },
+  {
+   "id": "es-expensive",
+   "concept": "expensive",
+   "text": "caro",
+   "speak": "caro",
+   "reading": "",
+   "meaning": "expensive",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/expensive.mp3",
+    "she": "vocab/audio/es/she/expensive.mp3"
+   },
+   "image": "vocab/img/expensive.jpg",
+   "emoji": "💎",
+   "display": "caro",
+   "review": false
+  },
+  {
+   "id": "es-cheap",
+   "concept": "cheap",
+   "text": "barato",
+   "speak": "barato",
+   "reading": "",
+   "meaning": "cheap",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/cheap.mp3",
+    "she": "vocab/audio/es/she/cheap.mp3"
+   },
+   "image": "vocab/img/cheap.jpg",
+   "emoji": "🪙",
+   "display": "barato",
+   "review": false
+  },
+  {
+   "id": "es-many",
+   "concept": "many",
+   "text": "mucho",
+   "speak": "mucho",
+   "reading": "",
+   "meaning": "many",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/many.mp3",
+    "she": "vocab/audio/es/she/many.mp3"
+   },
+   "image": "vocab/img/many.jpg",
+   "emoji": "🎈",
+   "display": "mucho",
+   "review": false
+  },
+  {
+   "id": "es-few",
+   "concept": "few",
+   "text": "poco",
+   "speak": "poco",
+   "reading": "",
+   "meaning": "few",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/few.mp3",
+    "she": "vocab/audio/es/she/few.mp3"
+   },
+   "image": "vocab/img/few.jpg",
+   "emoji": "🎈",
+   "display": "poco",
+   "review": false
+  },
+  {
+   "id": "es-easy",
+   "concept": "easy",
+   "text": "fácil",
+   "speak": "fácil",
+   "reading": "",
+   "meaning": "easy",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/easy.mp3",
+    "she": "vocab/audio/es/she/easy.mp3"
+   },
+   "image": "vocab/img/easy.jpg",
+   "emoji": "😌",
+   "display": "fácil",
+   "review": false
+  },
+  {
+   "id": "es-difficult",
+   "concept": "difficult",
+   "text": "difícil",
+   "speak": "difícil",
+   "reading": "",
+   "meaning": "difficult",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/difficult.mp3",
+    "she": "vocab/audio/es/she/difficult.mp3"
+   },
+   "image": "vocab/img/difficult.jpg",
+   "emoji": "😣",
+   "display": "difícil",
+   "review": false
+  },
+  {
+   "id": "es-heavy",
+   "concept": "heavy",
+   "text": "pesado",
+   "speak": "pesado",
+   "reading": "",
+   "meaning": "heavy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/heavy.mp3",
+    "she": "vocab/audio/es/she/heavy.mp3"
+   },
+   "image": "vocab/img/heavy.jpg",
+   "emoji": "🏋️",
+   "display": "pesado",
+   "review": false
+  },
+  {
+   "id": "es-light_weight",
+   "concept": "light_weight",
+   "text": "ligero",
+   "speak": "ligero",
+   "reading": "",
+   "meaning": "light (weight)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/light_weight.mp3",
+    "she": "vocab/audio/es/she/light_weight.mp3"
+   },
+   "image": "vocab/img/light_weight.jpg",
+   "emoji": "🪶",
+   "display": "ligero",
+   "review": false
+  },
+  {
+   "id": "es-clean_adj",
+   "concept": "clean_adj",
+   "text": "limpio",
+   "speak": "limpio",
+   "reading": "",
+   "meaning": "clean (adj)",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/clean_adj.mp3",
+    "she": "vocab/audio/es/she/clean_adj.mp3"
+   },
+   "image": "vocab/img/clean_adj.jpg",
+   "emoji": "✨",
+   "display": "limpio",
+   "review": false
+  },
+  {
+   "id": "es-dirty",
+   "concept": "dirty",
+   "text": "sucio",
+   "speak": "sucio",
+   "reading": "",
+   "meaning": "dirty",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/dirty.mp3",
+    "she": "vocab/audio/es/she/dirty.mp3"
+   },
+   "image": "vocab/img/dirty.jpg",
+   "emoji": "💩",
+   "display": "sucio",
+   "review": false
+  },
+  {
+   "id": "es-busy",
+   "concept": "busy",
+   "text": "ocupado",
+   "speak": "ocupado",
+   "reading": "",
+   "meaning": "busy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/busy.mp3",
+    "she": "vocab/audio/es/she/busy.mp3"
+   },
+   "image": "vocab/img/busy.jpg",
+   "emoji": "🤹",
+   "display": "ocupado",
+   "review": false
+  },
+  {
+   "id": "es-correct",
+   "concept": "correct",
+   "text": "correcto",
+   "speak": "correcto",
+   "reading": "",
+   "meaning": "correct",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/correct.mp3",
+    "she": "vocab/audio/es/she/correct.mp3"
+   },
+   "image": "vocab/img/correct.jpg",
+   "emoji": "✅",
+   "display": "correcto",
+   "review": false
+  },
+  {
+   "id": "es-wrong",
+   "concept": "wrong",
+   "text": "incorrecto",
+   "speak": "incorrecto",
+   "reading": "",
+   "meaning": "wrong",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/wrong.mp3",
+    "she": "vocab/audio/es/she/wrong.mp3"
+   },
+   "image": "vocab/img/wrong.jpg",
+   "emoji": "❌",
+   "display": "incorrecto",
+   "review": false
+  },
+  {
+   "id": "es-same",
+   "concept": "same",
+   "text": "igual",
+   "speak": "igual",
+   "reading": "",
+   "meaning": "same",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/same.mp3",
+    "she": "vocab/audio/es/she/same.mp3"
+   },
+   "image": "vocab/img/same.jpg",
+   "emoji": "🟰",
+   "display": "igual",
+   "review": false
+  },
+  {
+   "id": "es-different",
+   "concept": "different",
+   "text": "diferente",
+   "speak": "diferente",
+   "reading": "",
+   "meaning": "different",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/different.mp3",
+    "she": "vocab/audio/es/she/different.mp3"
+   },
+   "image": "vocab/img/different.jpg",
+   "emoji": "🔀",
+   "display": "diferente",
+   "review": false
+  },
+  {
+   "id": "es-strong",
+   "concept": "strong",
+   "text": "fuerte",
+   "speak": "fuerte",
+   "reading": "",
+   "meaning": "strong",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/strong.mp3",
+    "she": "vocab/audio/es/she/strong.mp3"
+   },
+   "image": "vocab/img/strong.jpg",
+   "emoji": "💪",
+   "display": "fuerte",
+   "review": false
+  },
+  {
+   "id": "es-weak",
+   "concept": "weak",
+   "text": "débil",
+   "speak": "débil",
+   "reading": "",
+   "meaning": "weak",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/weak.mp3",
+    "she": "vocab/audio/es/she/weak.mp3"
+   },
+   "image": "vocab/img/weak.jpg",
+   "emoji": "🥀",
+   "display": "débil",
+   "review": false
+  },
+  {
+   "id": "es-fun",
+   "concept": "fun",
+   "text": "divertido",
+   "speak": "divertido",
+   "reading": "",
+   "meaning": "fun",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/fun.mp3",
+    "she": "vocab/audio/es/she/fun.mp3"
+   },
+   "image": "vocab/img/fun.jpg",
+   "emoji": "🎢",
+   "display": "divertido",
+   "review": false
+  },
+  {
+   "id": "es-interesting",
+   "concept": "interesting",
+   "text": "interesante",
+   "speak": "interesante",
+   "reading": "",
+   "meaning": "interesting",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/interesting.mp3",
+    "she": "vocab/audio/es/she/interesting.mp3"
+   },
+   "image": "vocab/img/interesting.jpg",
+   "emoji": "🧐",
+   "display": "interesante",
+   "review": false
+  },
+  {
+   "id": "es-cute",
+   "concept": "cute",
+   "text": "adorable",
+   "speak": "adorable",
+   "reading": "",
+   "meaning": "cute",
+   "topic": "adjectives",
+   "tier": 1,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/cute.mp3",
+    "she": "vocab/audio/es/she/cute.mp3"
+   },
+   "image": "vocab/img/cute.jpg",
+   "emoji": "🐱",
+   "display": "adorable",
+   "review": false
+  },
+  {
+   "id": "es-quiet",
+   "concept": "quiet",
+   "text": "tranquilo",
+   "speak": "tranquilo",
+   "reading": "",
+   "meaning": "quiet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/quiet.mp3",
+    "she": "vocab/audio/es/she/quiet.mp3"
+   },
+   "image": "vocab/img/quiet.jpg",
+   "emoji": "🤫",
+   "display": "tranquilo",
+   "review": false
+  },
+  {
+   "id": "es-noisy",
+   "concept": "noisy",
+   "text": "ruidoso",
+   "speak": "ruidoso",
+   "reading": "",
+   "meaning": "noisy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/noisy.mp3",
+    "she": "vocab/audio/es/she/noisy.mp3"
+   },
+   "image": "vocab/img/noisy.jpg",
+   "emoji": "📢",
+   "display": "ruidoso",
+   "review": false
+  },
+  {
+   "id": "es-near",
+   "concept": "near",
+   "text": "cerca",
+   "speak": "cerca",
+   "reading": "",
+   "meaning": "near",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/near.mp3",
+    "she": "vocab/audio/es/she/near.mp3"
+   },
+   "image": "vocab/img/near.jpg",
+   "emoji": "📍",
+   "display": "cerca",
+   "review": false
+  },
+  {
+   "id": "es-far",
+   "concept": "far",
+   "text": "lejos",
+   "speak": "lejos",
+   "reading": "",
+   "meaning": "far",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/far.mp3",
+    "she": "vocab/audio/es/she/far.mp3"
+   },
+   "image": "vocab/img/far.jpg",
+   "emoji": "🏔️",
+   "display": "lejos",
+   "review": false
+  },
+  {
+   "id": "es-sweet",
+   "concept": "sweet",
+   "text": "dulce",
+   "speak": "dulce",
+   "reading": "",
+   "meaning": "sweet",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/sweet.mp3",
+    "she": "vocab/audio/es/she/sweet.mp3"
+   },
+   "image": "vocab/img/sweet.jpg",
+   "emoji": "🍭",
+   "display": "dulce",
+   "review": false
+  },
+  {
+   "id": "es-spicy",
+   "concept": "spicy",
+   "text": "picante",
+   "speak": "picante",
+   "reading": "",
+   "meaning": "spicy",
+   "topic": "adjectives",
+   "tier": 2,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/spicy.mp3",
+    "she": "vocab/audio/es/she/spicy.mp3"
+   },
+   "image": "vocab/img/spicy.jpg",
+   "emoji": "🌶️",
+   "display": "picante",
+   "review": false
+  },
+  {
+   "id": "es-sour",
+   "concept": "sour",
+   "text": "ácido",
+   "speak": "ácido",
+   "reading": "",
+   "meaning": "sour",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/sour.mp3",
+    "she": "vocab/audio/es/she/sour.mp3"
+   },
+   "image": "vocab/img/sour.jpg",
+   "emoji": "🍋",
+   "display": "ácido",
+   "review": false
+  },
+  {
+   "id": "es-salty",
+   "concept": "salty",
+   "text": "salado",
+   "speak": "salado",
+   "reading": "",
+   "meaning": "salty",
+   "topic": "adjectives",
+   "tier": 3,
+   "pos": "adj",
+   "audio": {
+    "he": "vocab/audio/es/he/salty.mp3",
+    "she": "vocab/audio/es/she/salty.mp3"
+   },
+   "image": "vocab/img/salty.jpg",
+   "emoji": "🧂",
+   "display": "salado",
+   "review": false
+  }
+ ]
+}
