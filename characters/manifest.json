@@ -1,0 +1,700 @@
+{
+  "states": [
+    "neutral-closed",
+    "furious",
+    "weeping-with-pride",
+    "suspiciously-calm",
+    "manic-joy",
+    "scheming",
+    "viseme-a",
+    "viseme-e",
+    "viseme-o",
+    "viseme-m",
+    "viseme-f"
+  ],
+  "state_labels": {
+    "neutral-closed": "Neutral",
+    "furious": "Furious",
+    "weeping-with-pride": "Weeping pride",
+    "suspiciously-calm": "Suspicious calm",
+    "manic-joy": "Manic joy",
+    "scheming": "Scheming",
+    "viseme-a": "Viseme A",
+    "viseme-e": "Viseme E/I",
+    "viseme-o": "Viseme O/U",
+    "viseme-m": "Viseme M/B/P",
+    "viseme-f": "Viseme F/V"
+  },
+  "characters": [
+    {
+      "id": "anime-m-01",
+      "name": "Kenji Spark",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Corrects your tones mid-scream, then immediately asks if you brought snacks.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-02",
+      "name": "Minh Comet",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Rates every answer on a secret 100-point scale he invented two minutes ago.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-03",
+      "name": "Rio Flash",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Starts a drum roll for any word longer than two syllables.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-04",
+      "name": "Hao Bubble",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Whispers the answer, then gasps as if he just overheard himself.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-05",
+      "name": "Theo Noodle",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Compares every vocabulary word to instant ramen for no reason.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-06",
+      "name": "Jae Volt",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Threatens to cancel class, then teaches twice as hard.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-07",
+      "name": "Luca Puff",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Gives standing ovations to pronouns.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-08",
+      "name": "Hiro Pixel",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Keeps a clipboard of your crimes against pronunciation.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-09",
+      "name": "Sam Boba",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Treats every typo like a national emergency and a birthday.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-m-10",
+      "name": "Omar Zest",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Invented a personal catchphrase for each of the five languages.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-01",
+      "name": "Linh Petal",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Calls you her chaotic student even when you are doing great.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-02",
+      "name": "Yuki Frost",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Melts down if you skip the particles, then hugs the air.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-03",
+      "name": "Mei Bun",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Keeps a sparkle tally for every correct tone.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-04",
+      "name": "Sofia Fizz",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Narrates your progress like a telenovela.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-05",
+      "name": "Aya Comet",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Gives overly specific letter grades like A-plus-plus-plus or B-minus-plus-chaos.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-06",
+      "name": "Hana Beam",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Writes invisible gold stars in the air after every phrase.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-07",
+      "name": "Camila Pop",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Breaks into song the second you nail a greeting.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-08",
+      "name": "Trang Moon",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Keeps threatening to assign homework that is just compliments.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-09",
+      "name": "Nora Flick",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Claims she can hear your accent from another room.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "anime-f-10",
+      "name": "Priya Glow",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Rates your effort in chili peppers, then explains the grammar perfectly.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "real-m-01",
+      "name": "Thầy Bao",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Flips an imaginary table, then calmly writes the correct phrase on it.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "real-m-02",
+      "name": "Diego Sol",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Counts your mistakes in Spanish, then cheers in three other languages.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-03",
+      "name": "Ken Nakamura",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Bows to a correctly conjugated verb as if it were royalty.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-04",
+      "name": "Wei Chen",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Keeps a mental spreadsheet of your tones and occasionally yells a cell number.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-05",
+      "name": "Marcus Hale",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Gives halftime speeches after a single vocabulary word.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-06",
+      "name": "Alejandro Ruiz",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Whispers 'legendary' after any decent attempt, even a cough.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-07",
+      "name": "Jin Park",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Announces recess, then teaches through the recess he just announced.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-08",
+      "name": "Eli Santos",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Offers you imaginary snacks as a reward, then eats them himself.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-09",
+      "name": "Noah Kim",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Claims your accent has a plot twist coming.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-m-10",
+      "name": "Rafael Mendes",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Turns every greeting into a tiny festival and then quizzes you on it.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-01",
+      "name": "Cô Bao",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Scolds the air beside you, then compliments you like you just won a prize.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "suspiciously-calm",
+        "manic-joy",
+        "scheming",
+        "viseme-a",
+        "viseme-e",
+        "viseme-o",
+        "viseme-m",
+        "viseme-f"
+      ]
+    },
+    {
+      "id": "real-f-02",
+      "name": "Elena Vasquez",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Gasps at a typo as if the plot just thickened.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-03",
+      "name": "Aiko Mori",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Claps once, extremely loudly, for silent letters.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-04",
+      "name": "Lan Pham",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Keeps a petty little scoreboard, then awards you bonus points for blinking.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-05",
+      "name": "Maya Brooks",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Delivers pep talks so intense she has to sit down afterward.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-06",
+      "name": "Sofia Alvarez",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Narrows her eyes at grammar, then smiles like she planned the error for teaching.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "weeping-with-pride",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-07",
+      "name": "Hana Lee",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Whispers 'iconic' at ordinary nouns.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-08",
+      "name": "Mei Lin",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Counts your correct tones on her fingers and then starts over for drama.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-09",
+      "name": "Priya Shah",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Rates your courage, your vowels, and your vibes, in that order.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "viseme-a"
+      ]
+    },
+    {
+      "id": "real-f-10",
+      "name": "Amara Diallo",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Declares class dismissed, then keeps teaching for ten more minutes.",
+      "states": [
+        "neutral-closed",
+        "furious",
+        "viseme-a"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3606 @@
+{
+ "schema": 1,
+ "count": 200,
+ "topics": [
+  {
+   "topic_id": "st001",
+   "title": "Meeting a classmate",
+   "scenario": "First day of class",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st002",
+   "title": "How are you?",
+   "scenario": "Running into a friend",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st003",
+   "title": "Where are you from?",
+   "scenario": "Chatting at a language meetup",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "New friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st004",
+   "title": "What do you do?",
+   "scenario": "Small talk at a party",
+   "category": "introductions",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Guest",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st005",
+   "title": "Saying goodbye",
+   "scenario": "Leaving a friend's place",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Host",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st006",
+   "title": "Meeting a new neighbor",
+   "scenario": "In the hallway of your building",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Neighbor",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st007",
+   "title": "Nice weather today",
+   "scenario": "Waiting at the bus stop",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Stranger",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st008",
+   "title": "It's going to rain",
+   "scenario": "Leaving the office",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st009",
+   "title": "Cold morning",
+   "scenario": "Arriving at class",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st010",
+   "title": "A hot summer day",
+   "scenario": "At the park",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st011",
+   "title": "Weekend plans",
+   "scenario": "Friday afternoon at work",
+   "category": "weekend",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st012",
+   "title": "How was your weekend?",
+   "scenario": "Monday morning",
+   "category": "weekend",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st013",
+   "title": "What do you do for fun?",
+   "scenario": "Chatting during a break",
+   "category": "hobbies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st014",
+   "title": "Learning guitar",
+   "scenario": "Talking with a friend",
+   "category": "hobbies",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st015",
+   "title": "Favorite food",
+   "scenario": "Lunch with a coworker",
+   "category": "food",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st016",
+   "title": "Cooking dinner",
+   "scenario": "Calling a friend in the evening",
+   "category": "food",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st017",
+   "title": "Ordering at a café",
+   "scenario": "At the counter of a coffee shop",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st018",
+   "title": "Customizing your drink",
+   "scenario": "Ordering from a barista",
+   "category": "cafe",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st019",
+   "title": "Coffee to go",
+   "scenario": "In a hurry at a coffee shop",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st020",
+   "title": "Table for two",
+   "scenario": "Arriving at a restaurant",
+   "category": "restaurant",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Host"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st021",
+   "title": "Asking for the bill",
+   "scenario": "Finishing dinner",
+   "category": "restaurant",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Server"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st022",
+   "title": "Trying on clothes",
+   "scenario": "In a clothing store",
+   "category": "shopping",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Shop assistant"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st023",
+   "title": "How much is this?",
+   "scenario": "At a market stall",
+   "category": "shopping",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Seller"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st024",
+   "title": "Do you have siblings?",
+   "scenario": "Getting to know a classmate",
+   "category": "family",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st025",
+   "title": "A family photo",
+   "scenario": "Showing a photo on your phone",
+   "category": "family",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st026",
+   "title": "First day at a new job",
+   "scenario": "Meeting a coworker",
+   "category": "work",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st027",
+   "title": "A busy day",
+   "scenario": "Passing a coworker in the hallway",
+   "category": "work",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st028",
+   "title": "Homework help",
+   "scenario": "In the library",
+   "category": "school",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st029",
+   "title": "Exam tomorrow",
+   "scenario": "After class",
+   "category": "school",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st030",
+   "title": "Checking into a hotel",
+   "scenario": "At the front desk",
+   "category": "travel",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Receptionist"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st031",
+   "title": "Where did you travel?",
+   "scenario": "Catching up with a friend",
+   "category": "travel",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st032",
+   "title": "Where is the station?",
+   "scenario": "Asking someone on the street",
+   "category": "directions",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Passerby"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st033",
+   "title": "Finding the restroom",
+   "scenario": "In a shopping mall",
+   "category": "directions",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st034",
+   "title": "Taking a taxi",
+   "scenario": "Getting into a taxi",
+   "category": "transport",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Driver"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st035",
+   "title": "Buying a train ticket",
+   "scenario": "At the ticket window",
+   "category": "transport",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Ticket clerk"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st036",
+   "title": "Feeling sick",
+   "scenario": "A friend notices you're unwell",
+   "category": "health",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st037",
+   "title": "At the pharmacy",
+   "scenario": "Buying medicine",
+   "category": "health",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Pharmacist"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st038",
+   "title": "Do you play sports?",
+   "scenario": "Chatting after work",
+   "category": "sports",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st039",
+   "title": "Watching the match",
+   "scenario": "At a friend's place",
+   "category": "sports",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st040",
+   "title": "Favorite music",
+   "scenario": "Listening to music together",
+   "category": "music",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st041",
+   "title": "Going to the movies",
+   "scenario": "Making evening plans",
+   "category": "movies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st042",
+   "title": "What a cute dog!",
+   "scenario": "Meeting someone walking a dog",
+   "category": "pets",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Stranger",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st043",
+   "title": "New Year plans",
+   "scenario": "Before the holiday",
+   "category": "holidays",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st044",
+   "title": "My phone died",
+   "scenario": "Meeting a friend at a café",
+   "category": "tech",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st045",
+   "title": "Asking a neighbor for help",
+   "scenario": "Knocking on a neighbor's door",
+   "category": "home",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Neighbor"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st046",
+   "title": "Nice haircut!",
+   "scenario": "Seeing a friend at school",
+   "category": "compliments",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st047",
+   "title": "Let's get coffee sometime",
+   "scenario": "Ending a conversation",
+   "category": "plans",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Acquaintance",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st048",
+   "title": "Sorry I'm late",
+   "scenario": "Meeting a friend",
+   "category": "apologizing",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Friend"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st049",
+   "title": "Bumping into someone",
+   "scenario": "On a crowded street",
+   "category": "apologizing",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Stranger"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st050",
+   "title": "Can you take our photo?",
+   "scenario": "Sightseeing with a friend",
+   "category": "help",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Tourist"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st051",
+   "title": "Introducing a friend",
+   "scenario": "At a birthday party",
+   "category": "introductions",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st052",
+   "title": "How long have you lived here?",
+   "scenario": "Chatting with a new acquaintance",
+   "category": "introductions",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Acquaintance",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st053",
+   "title": "Rainy season",
+   "scenario": "Looking out the window",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st054",
+   "title": "It's snowing!",
+   "scenario": "Waking up to snow",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Roommate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st055",
+   "title": "A lazy Sunday",
+   "scenario": "Texting a friend",
+   "category": "weekend",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st056",
+   "title": "A trip to the beach",
+   "scenario": "Planning a day out",
+   "category": "weekend",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st057",
+   "title": "Taking photos",
+   "scenario": "On a walk in the park",
+   "category": "hobbies",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st058",
+   "title": "Video games",
+   "scenario": "Talking with a classmate",
+   "category": "hobbies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st059",
+   "title": "Trying street food",
+   "scenario": "At a night market",
+   "category": "food",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st060",
+   "title": "I'm vegetarian",
+   "scenario": "Being invited to dinner",
+   "category": "food",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Host",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st061",
+   "title": "Too sweet!",
+   "scenario": "Fixing a café order",
+   "category": "cafe",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st062",
+   "title": "Ordering bubble tea",
+   "scenario": "At a bubble tea shop",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st063",
+   "title": "Asking for the Wi-Fi",
+   "scenario": "Sitting down at a café",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st064",
+   "title": "Ordering food",
+   "scenario": "The server comes to your table",
+   "category": "restaurant",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Server",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st065",
+   "title": "Not too spicy, please",
+   "scenario": "Ordering at a Thai restaurant",
+   "category": "restaurant",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Server"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st066",
+   "title": "What do you recommend?",
+   "scenario": "Looking at the menu",
+   "category": "restaurant",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Server"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st067",
+   "title": "Looking for a gift",
+   "scenario": "In a gift shop",
+   "category": "shopping",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Shop assistant"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st068",
+   "title": "Returning an item",
+   "scenario": "At the customer service desk",
+   "category": "shopping",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Clerk"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st069",
+   "title": "At the supermarket",
+   "scenario": "Asking a store worker",
+   "category": "shopping",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Store worker"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st070",
+   "title": "My sister's wedding",
+   "scenario": "Talking with a coworker",
+   "category": "family",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st071",
+   "title": "Talking about kids",
+   "scenario": "At the playground",
+   "category": "family",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Parent",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st072",
+   "title": "Before a job interview",
+   "scenario": "In the waiting room",
+   "category": "work",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Receptionist",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st073",
+   "title": "Working from home",
+   "scenario": "On a video call with a coworker",
+   "category": "work",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st074",
+   "title": "What are you studying?",
+   "scenario": "Meeting a student at university",
+   "category": "school",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Student",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st075",
+   "title": "Learning a language",
+   "scenario": "Talking with a language partner",
+   "category": "school",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Language partner",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st076",
+   "title": "Airport check-in",
+   "scenario": "At the airline counter",
+   "category": "travel",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Agent"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st077",
+   "title": "Lost luggage",
+   "scenario": "At the baggage desk",
+   "category": "travel",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st078",
+   "title": "Which bus goes downtown?",
+   "scenario": "At a bus stop",
+   "category": "directions",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Local"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st079",
+   "title": "I'm lost",
+   "scenario": "Asking for help on the street",
+   "category": "directions",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Passerby"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st080",
+   "title": "Missed the bus",
+   "scenario": "Waiting at a bus stop",
+   "category": "transport",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Stranger",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st081",
+   "title": "Renting a bike",
+   "scenario": "At a bike rental shop",
+   "category": "transport",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st082",
+   "title": "At the doctor's",
+   "scenario": "In a clinic",
+   "category": "health",
+   "tier": "elementary",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Doctor",
+    "B": "You"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st083",
+   "title": "Going to the gym",
+   "scenario": "Meeting a friend at the gym",
+   "category": "health",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st084",
+   "title": "Going for a run",
+   "scenario": "Meeting in the park in the morning",
+   "category": "sports",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Neighbor",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st085",
+   "title": "At a concert",
+   "scenario": "Waiting for the band",
+   "category": "music",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Stranger",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st086",
+   "title": "A good TV series",
+   "scenario": "Chatting at lunch",
+   "category": "movies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st087",
+   "title": "Cats or dogs?",
+   "scenario": "Talking with a friend",
+   "category": "pets",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st088",
+   "title": "A birthday party",
+   "scenario": "Arriving at a friend's party",
+   "category": "holidays",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Host"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st089",
+   "title": "Holiday gifts",
+   "scenario": "Shopping before the holidays",
+   "category": "holidays",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st090",
+   "title": "A new phone",
+   "scenario": "Showing off a new phone",
+   "category": "tech",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st091",
+   "title": "Video call trouble",
+   "scenario": "On a video call",
+   "category": "tech",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st092",
+   "title": "Moving to a new apartment",
+   "scenario": "Talking with a friend",
+   "category": "home",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st093",
+   "title": "The air conditioner is broken",
+   "scenario": "Calling the landlord",
+   "category": "home",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Landlord"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st094",
+   "title": "You speak so well!",
+   "scenario": "Chatting with a local",
+   "category": "compliments",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Local",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st095",
+   "title": "Great cooking!",
+   "scenario": "Dinner at a friend's home",
+   "category": "compliments",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Guest",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st096",
+   "title": "A dinner invitation",
+   "scenario": "Inviting a coworker",
+   "category": "plans",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st097",
+   "title": "Changing plans",
+   "scenario": "A friend calls",
+   "category": "plans",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st098",
+   "title": "I forgot your birthday",
+   "scenario": "Seeing a friend",
+   "category": "apologizing",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Friend"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st099",
+   "title": "Wrong number",
+   "scenario": "Answering a phone call",
+   "category": "apologizing",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Caller",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st100",
+   "title": "Can you help me carry this?",
+   "scenario": "Moving a box at work",
+   "category": "help",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Coworker"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st101",
+   "title": "Meeting a friend's parents",
+   "scenario": "Visiting a friend's home",
+   "category": "introductions",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend's mother",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st102",
+   "title": "Long time no see!",
+   "scenario": "Running into an old friend",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Old friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st103",
+   "title": "A windy day",
+   "scenario": "Walking to work",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st104",
+   "title": "Checking the forecast",
+   "scenario": "Planning a trip",
+   "category": "weather",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st105",
+   "title": "At the farmers market",
+   "scenario": "Saturday morning shopping",
+   "category": "weekend",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st106",
+   "title": "Cleaning day",
+   "scenario": "Talking with your roommate",
+   "category": "weekend",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Roommate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st107",
+   "title": "A good book",
+   "scenario": "In a bookstore",
+   "category": "hobbies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st108",
+   "title": "Gardening",
+   "scenario": "Admiring a neighbor's garden",
+   "category": "hobbies",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Neighbor",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st109",
+   "title": "Learning to swim",
+   "scenario": "At the pool",
+   "category": "hobbies",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st110",
+   "title": "What's for breakfast?",
+   "scenario": "Morning at the office",
+   "category": "food",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st111",
+   "title": "Lunch plans",
+   "scenario": "Around noon at work",
+   "category": "food",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st112",
+   "title": "A new café",
+   "scenario": "Meeting a friend at a café",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st113",
+   "title": "A loyalty card",
+   "scenario": "Paying at a café",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st114",
+   "title": "Wrong order",
+   "scenario": "Your drink isn't what you ordered",
+   "category": "cafe",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st115",
+   "title": "Waiting for a table",
+   "scenario": "A busy restaurant",
+   "category": "restaurant",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Host"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st116",
+   "title": "Food allergy",
+   "scenario": "Ordering carefully",
+   "category": "restaurant",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Server"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st117",
+   "title": "Is this on sale?",
+   "scenario": "In a clothing store",
+   "category": "shopping",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Shop assistant"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st118",
+   "title": "Cash or card?",
+   "scenario": "At the checkout",
+   "category": "shopping",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Cashier",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st119",
+   "title": "Buying fruit",
+   "scenario": "At a fruit stand",
+   "category": "shopping",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Seller"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st120",
+   "title": "Grandparents are visiting",
+   "scenario": "Talking with a neighbor",
+   "category": "family",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Neighbor",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st121",
+   "title": "A new baby",
+   "scenario": "Congratulating a coworker",
+   "category": "family",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st122",
+   "title": "Lunch break",
+   "scenario": "In the office kitchen",
+   "category": "work",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st123",
+   "title": "Asking for a day off",
+   "scenario": "Talking with your manager",
+   "category": "work",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Manager"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st124",
+   "title": "Meeting a client",
+   "scenario": "Greeting a visitor at the office",
+   "category": "work",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Client",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st125",
+   "title": "Borrowing a pen",
+   "scenario": "In class",
+   "category": "school",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Classmate"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st126",
+   "title": "Group project",
+   "scenario": "Planning with classmates",
+   "category": "school",
+   "tier": "elementary",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st127",
+   "title": "Booking a tour",
+   "scenario": "At a travel agency",
+   "category": "travel",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Agent"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st128",
+   "title": "Buying souvenirs",
+   "scenario": "In a souvenir shop",
+   "category": "travel",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Seller"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st129",
+   "title": "Exchanging money",
+   "scenario": "At a currency exchange",
+   "category": "travel",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Clerk"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st130",
+   "title": "Finding an ATM",
+   "scenario": "Looking for cash",
+   "category": "directions",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Passerby"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st131",
+   "title": "Is this the right way?",
+   "scenario": "Walking to a hotel",
+   "category": "directions",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Shopkeeper"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st132",
+   "title": "The train is late",
+   "scenario": "On a train platform",
+   "category": "transport",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Passenger",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st133",
+   "title": "Ride-share pickup",
+   "scenario": "Meeting your driver",
+   "category": "transport",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Driver"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st134",
+   "title": "Allergy season",
+   "scenario": "Sneezing at work",
+   "category": "health",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st135",
+   "title": "A twisted ankle",
+   "scenario": "After soccer practice",
+   "category": "health",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Teammate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st136",
+   "title": "Joining a team",
+   "scenario": "Talking with a team captain",
+   "category": "sports",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Captain"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st137",
+   "title": "Trying a yoga class",
+   "scenario": "After the class",
+   "category": "sports",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Instructor",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st138",
+   "title": "Karaoke night",
+   "scenario": "Planning a night out",
+   "category": "music",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st139",
+   "title": "How was the movie?",
+   "scenario": "Leaving the cinema",
+   "category": "movies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st140",
+   "title": "Pet sitting",
+   "scenario": "Asking a friend for a favor",
+   "category": "pets",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Friend"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st141",
+   "title": "Lunar New Year wishes",
+   "scenario": "Visiting a family friend",
+   "category": "holidays",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Family friend"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st142",
+   "title": "Summer vacation",
+   "scenario": "Before the holidays start",
+   "category": "holidays",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st143",
+   "title": "Forgot my password",
+   "scenario": "Asking a coworker for help",
+   "category": "tech",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "IT coworker"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st144",
+   "title": "A useful app",
+   "scenario": "Talking about phones",
+   "category": "tech",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st145",
+   "title": "A package for your neighbor",
+   "scenario": "At your door",
+   "category": "home",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Neighbor"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st146",
+   "title": "Whose turn is it?",
+   "scenario": "Talking with your roommate",
+   "category": "home",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Roommate",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st147",
+   "title": "Nice shoes!",
+   "scenario": "Meeting a coworker in the elevator",
+   "category": "compliments",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st148",
+   "title": "A hike this weekend?",
+   "scenario": "Inviting a friend",
+   "category": "plans",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st149",
+   "title": "Spilled coffee",
+   "scenario": "At a café table",
+   "category": "apologizing",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Stranger"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st150",
+   "title": "Could you speak slowly?",
+   "scenario": "Talking with a local",
+   "category": "help",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Local"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st151",
+   "title": "What was your name again?",
+   "scenario": "Meeting someone a second time",
+   "category": "introductions",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Acquaintance",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st152",
+   "title": "Meeting an online friend",
+   "scenario": "Finally meeting in person",
+   "category": "introductions",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Online friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st153",
+   "title": "So humid!",
+   "scenario": "Walking outside in summer",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st154",
+   "title": "Favorite season",
+   "scenario": "Chatting over tea",
+   "category": "weather",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st155",
+   "title": "Movie night at home",
+   "scenario": "Planning Saturday night",
+   "category": "weekend",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Roommate",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st156",
+   "title": "Sunday brunch",
+   "scenario": "At a brunch place",
+   "category": "weekend",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st157",
+   "title": "Board game night",
+   "scenario": "Inviting a friend",
+   "category": "hobbies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st158",
+   "title": "A painting class",
+   "scenario": "After an art class",
+   "category": "hobbies",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Classmate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st159",
+   "title": "Hot pot night",
+   "scenario": "At a hot pot restaurant",
+   "category": "food",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st160",
+   "title": "Room for dessert?",
+   "scenario": "After dinner",
+   "category": "food",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st161",
+   "title": "Tea or coffee?",
+   "scenario": "Getting drinks with a coworker",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st162",
+   "title": "A smoothie, please",
+   "scenario": "At a juice bar",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st163",
+   "title": "Your usual?",
+   "scenario": "A regular customer at a café",
+   "category": "cafe",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Barista"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st164",
+   "title": "Can I take this to go?",
+   "scenario": "Too much food left",
+   "category": "restaurant",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Server"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st165",
+   "title": "Booking a table by phone",
+   "scenario": "Calling a restaurant",
+   "category": "restaurant",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Restaurant staff"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st166",
+   "title": "Finding the right shoe size",
+   "scenario": "In a shoe store",
+   "category": "shopping",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Shop assistant"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st167",
+   "title": "At the electronics store",
+   "scenario": "Buying headphones",
+   "category": "shopping",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Salesperson"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st168",
+   "title": "Family dinner",
+   "scenario": "Calling your mom",
+   "category": "family",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Mom",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st169",
+   "title": "What do your parents do?",
+   "scenario": "Getting to know a friend",
+   "category": "family",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st170",
+   "title": "Working late",
+   "scenario": "Leaving the office",
+   "category": "work",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st171",
+   "title": "A coworker is leaving",
+   "scenario": "Saying goodbye at work",
+   "category": "work",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st172",
+   "title": "Late for class",
+   "scenario": "Arriving at the classroom",
+   "category": "school",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Teacher"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st173",
+   "title": "Graduation day",
+   "scenario": "After the ceremony",
+   "category": "school",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st174",
+   "title": "Recommending a place",
+   "scenario": "Talking about travel",
+   "category": "travel",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st175",
+   "title": "Hotel breakfast",
+   "scenario": "In the hotel restaurant",
+   "category": "travel",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st176",
+   "title": "Where's the pharmacy?",
+   "scenario": "Looking for a pharmacy",
+   "category": "directions",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Passerby"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st177",
+   "title": "Where can I park?",
+   "scenario": "Driving into a parking lot",
+   "category": "transport",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Attendant"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st178",
+   "title": "Flight delayed",
+   "scenario": "At the airport gate",
+   "category": "transport",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Traveler",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st179",
+   "title": "Can't sleep",
+   "scenario": "Morning at work",
+   "category": "health",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st180",
+   "title": "At the dentist",
+   "scenario": "Checking in",
+   "category": "health",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Receptionist"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st181",
+   "title": "A tennis lesson",
+   "scenario": "Meeting your tennis coach",
+   "category": "sports",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coach",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st182",
+   "title": "Playing in a band",
+   "scenario": "Talking with a coworker",
+   "category": "music",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st183",
+   "title": "Scary movies",
+   "scenario": "Choosing a movie",
+   "category": "movies",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st184",
+   "title": "Have you seen my cat?",
+   "scenario": "Looking for a lost cat",
+   "category": "pets",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Neighbor"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st185",
+   "title": "Christmas plans",
+   "scenario": "Chatting in December",
+   "category": "holidays",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st186",
+   "title": "Mooncakes for Mid-Autumn",
+   "scenario": "At a bakery",
+   "category": "holidays",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st187",
+   "title": "Taking a selfie",
+   "scenario": "At a viewpoint",
+   "category": "tech",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st188",
+   "title": "A little too loud",
+   "scenario": "Talking to a neighbor politely",
+   "category": "home",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Neighbor"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st189",
+   "title": "A garden party invitation",
+   "scenario": "A neighbor invites you",
+   "category": "home",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Neighbor",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st190",
+   "title": "Great presentation!",
+   "scenario": "After a meeting",
+   "category": "compliments",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Coworker",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st191",
+   "title": "You look great!",
+   "scenario": "Meeting a friend",
+   "category": "compliments",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st192",
+   "title": "Running late",
+   "scenario": "Texting a friend",
+   "category": "plans",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Friend"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st193",
+   "title": "Planning a picnic",
+   "scenario": "Talking with friends",
+   "category": "plans",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st194",
+   "title": "I broke your mug",
+   "scenario": "At a friend's apartment",
+   "category": "apologizing",
+   "tier": "beginner",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Friend"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st195",
+   "title": "Sorry I missed your call",
+   "scenario": "Calling a friend back",
+   "category": "apologizing",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Friend"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st196",
+   "title": "Could you watch my bag?",
+   "scenario": "In a café",
+   "category": "help",
+   "tier": "starter",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Stranger"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st197",
+   "title": "I lost my phone",
+   "scenario": "At a station information desk",
+   "category": "help",
+   "tier": "elementary",
+   "learnerRole": "A",
+   "roles": {
+    "A": "You",
+    "B": "Staff"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st198",
+   "title": "Good news!",
+   "scenario": "A friend looks happy",
+   "category": "feelings",
+   "tier": "starter",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 4,
+   "learnerTurns": 2,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  },
+  {
+   "topic_id": "st199",
+   "title": "A bad day",
+   "scenario": "Talking with a roommate",
+   "category": "feelings",
+   "tier": "beginner",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Roommate",
+    "B": "You"
+   },
+   "lines": 6,
+   "learnerTurns": 3,
+   "voices": {
+    "A": "he",
+    "B": "she"
+   }
+  },
+  {
+   "topic_id": "st200",
+   "title": "Moving away",
+   "scenario": "Saying goodbye to a good friend",
+   "category": "goodbyes",
+   "tier": "elementary",
+   "learnerRole": "B",
+   "roles": {
+    "A": "Friend",
+    "B": "You"
+   },
+   "lines": 8,
+   "learnerTurns": 4,
+   "voices": {
+    "A": "she",
+    "B": "he"
+   }
+  }
+ ]
+}

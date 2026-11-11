@@ -1,0 +1,297 @@
+/* Language Booth landing backdrops
+   Link this file from the app root (paths are relative to this stylesheet).
+   Add class "lb-bg lb-bg-<direction>" to the .app element (and optionally to body
+   for a full-viewport desktop mural around the phone column).
+   Directions: glyph-float | chalkboard | sunrise-cities | glassy-pastel
+*/
+.lb-bg {
+  --lb-bg-fallback: #F3EBE0;
+  position: relative;
+  isolation: isolate;
+  background-color: var(--lb-bg-fallback);
+}
+.lb-bg-layers {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+.lb-bg > .screen { position: relative; z-index: 1; }
+
+.lb-bg-photo {
+  position: absolute;
+  inset: -4%;
+  background-image: var(--lb-bg-mobile);
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  transform: translate3d(0, 0, 0);
+  animation: lb-photo-drift 28s ease-in-out infinite alternate;
+}
+@keyframes lb-photo-drift {
+  0% { transform: translate3d(0, 0, 0) scale(1.04); }
+  100% { transform: translate3d(0, -1.6%, 0) scale(1.08); }
+}
+
+.lb-bg-scrim {
+  position: absolute;
+  inset: 0;
+}
+
+/* ---- glyph-float ---- */
+.lb-bg-glyph-float {
+  --lb-bg-mobile: url("glyph-float/mobile.webp");
+  --lb-bg-desktop: url("glyph-float/desktop.webp");
+  --lb-bg-fallback: #F3EBE0;
+}
+.lb-bg-glyph-float .lb-bg-scrim {
+  background: linear-gradient(
+    180deg,
+    rgba(247, 240, 230, 0.42) 0%,
+    rgba(247, 240, 230, 0.16) 26%,
+    rgba(247, 240, 230, 0.04) 48%,
+    rgba(247, 240, 230, 0.2) 100%
+  );
+}
+.lb-bg-overlay {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.lb-glyph {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: lb-float 16s ease-in-out infinite;
+}
+.lb-glyph-b { animation-duration: 20s; animation-delay: -6s; }
+.lb-glyph-c { animation-duration: 24s; animation-delay: -11s; }
+.lb-glyph-d { animation-duration: 18s; animation-delay: -3s; }
+@keyframes lb-float {
+  0%, 100% { transform: translate3d(0, 0, 0) rotate(-2deg); }
+  50% { transform: translate3d(0, -14px, 0) rotate(3deg); }
+}
+
+/* ---- chalkboard ---- */
+.lb-bg-chalkboard {
+  --lb-bg-mobile: url("chalkboard/mobile.webp");
+  --lb-bg-desktop: url("chalkboard/desktop.webp");
+  --lb-bg-fallback: #2A6B62;
+}
+.lb-bg-chalkboard .lb-bg-photo { background-position: center; }
+.lb-bg-chalkboard .lb-bg-scrim {
+  background:
+    radial-gradient(120% 70% at 50% 18%, rgba(20, 28, 26, 0.18) 0%, rgba(20, 28, 26, 0) 60%),
+    linear-gradient(180deg, rgba(16, 22, 20, 0.12) 0%, rgba(16, 22, 20, 0) 28%, rgba(16, 22, 20, 0.08) 100%);
+}
+.lb-bg-chalkboard .title,
+.lb-bg-chalkboard .who,
+.lb-bg-chalkboard .top h1,
+.lb-bg-chalkboard .back,
+.lb-bg-chalkboard .field > label {
+  color: #FFF8F0;
+  text-shadow: 0 1px 2px rgba(16, 24, 22, 0.45);
+}
+.lb-bg-chalkboard .lede {
+  color: rgba(255, 248, 240, 0.9);
+  text-shadow: 0 1px 2px rgba(16, 24, 22, 0.4);
+}
+.lb-bg-chalkboard .kicker {
+  color: #F6D48A;
+  text-shadow: 0 1px 2px rgba(16, 24, 22, 0.45);
+}
+.lb-bg-chalkboard .btn:disabled {
+  opacity: 1;
+  background: #3e534e;
+  border-color: #2f413d;
+  color: rgba(255, 248, 240, 0.82);
+  box-shadow: none;
+}
+
+.lb-bg-chalkboard .stats,
+.lb-bg-chalkboard .tiny,
+.lb-bg-chalkboard .linkish,
+.lb-bg-chalkboard .learn-status,
+.lb-bg-chalkboard .learn-listening,
+.lb-bg-chalkboard .learn-caption {
+  color: rgba(255, 248, 240, 0.9);
+  text-shadow: 0 1px 2px rgba(16, 24, 22, 0.4);
+}
+.lb-dust {
+  position: absolute;
+  inset: 0;
+}
+.lb-dust i {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: rgba(255, 250, 230, 0.42);
+  animation: lb-dust 18s linear infinite;
+  top: 110%;
+}
+@keyframes lb-dust {
+  0% { transform: translate3d(0, 0, 0); opacity: 0; }
+  12% { opacity: 0.7; }
+  100% { transform: translate3d(12px, -130vh, 0); opacity: 0; }
+}
+.lb-shaft {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(115deg, rgba(255, 236, 200, 0.18) 0%, rgba(255, 236, 200, 0.05) 28%, transparent 48%);
+  animation: lb-shaft 8s ease-in-out infinite alternate;
+  mix-blend-mode: screen;
+}
+@keyframes lb-shaft {
+  0% { opacity: 0.55; }
+  100% { opacity: 1; }
+}
+
+/* ---- sunrise-cities ---- */
+.lb-bg-sunrise-cities {
+  --lb-bg-mobile: url("sunrise-cities/mobile.webp");
+  --lb-bg-desktop: url("sunrise-cities/desktop.webp");
+  --lb-bg-fallback: #F3E0C8;
+}
+.lb-bg-sunrise-cities .lb-bg-photo { background-position: center top; }
+.lb-bg-sunrise-cities .lb-bg-scrim {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 244, 230, 0.28) 0%,
+    rgba(255, 244, 230, 0.08) 32%,
+    rgba(255, 244, 230, 0) 55%,
+    rgba(243, 235, 224, 0.18) 100%
+  );
+}
+.lb-bg-sunrise-cities .title,
+.lb-bg-sunrise-cities .who,
+.lb-bg-sunrise-cities .top h1,
+.lb-bg-sunrise-cities .lede,
+.lb-bg-sunrise-cities .kicker,
+.lb-bg-sunrise-cities .field > label,
+.lb-bg-sunrise-cities .back {
+  text-shadow: 0 1px 10px rgba(255, 248, 240, 0.85), 0 0 20px rgba(255, 248, 240, 0.45);
+}
+.lb-cloud {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(28px);
+  background: radial-gradient(circle, rgba(255, 248, 240, 0.55) 0%, rgba(255, 220, 190, 0.15) 60%, transparent 70%);
+  animation: lb-cloud 36s ease-in-out infinite alternate;
+}
+.lb-cloud-a { width: 70%; height: 22%; top: 4%; left: -10%; }
+.lb-cloud-b { width: 55%; height: 18%; top: 14%; right: -16%; left: auto; animation-duration: 44s; animation-delay: -12s; background: radial-gradient(circle, rgba(255, 210, 180, 0.4) 0%, transparent 70%); }
+@keyframes lb-cloud {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(6%, 3%, 0); }
+}
+.lb-sun {
+  position: absolute;
+  width: 28%;
+  aspect-ratio: 1;
+  left: 58%;
+  top: 26%;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 236, 170, 0.45) 0%, rgba(255, 236, 170, 0.12) 40%, transparent 70%);
+  animation: lb-sun 10s ease-in-out infinite alternate;
+}
+@keyframes lb-sun {
+  0% { opacity: 0.7; transform: scale(1); }
+  100% { opacity: 1; transform: scale(1.08); }
+}
+
+/* ---- glassy-pastel ---- */
+.lb-bg-glassy-pastel {
+  --lb-bg-mobile: url("glassy-pastel/mobile.webp");
+  --lb-bg-desktop: url("glassy-pastel/desktop.webp");
+  --lb-bg-fallback: #F4EEE6;
+}
+.lb-bg-glassy-pastel .lb-bg-scrim {
+  background: linear-gradient(180deg, rgba(255, 251, 245, 0.2) 0%, rgba(255, 251, 245, 0.05) 40%, rgba(255, 251, 245, 0.12) 100%);
+}
+.lb-orb {
+  position: absolute;
+  border-radius: 40% 50% 45% 55%;
+  filter: blur(2px);
+  animation: lb-orb 22s ease-in-out infinite;
+  box-shadow: inset 0 0 40px rgba(255, 255, 255, 0.35);
+}
+.lb-orb-a {
+  width: 42%;
+  height: 22%;
+  top: -4%;
+  left: -10%;
+  background: linear-gradient(145deg, rgba(220, 238, 236, 0.45), rgba(248, 228, 221, 0.28));
+}
+.lb-orb-b {
+  width: 36%;
+  height: 20%;
+  right: -8%;
+  bottom: 6%;
+  left: auto;
+  animation-duration: 26s;
+  animation-delay: -8s;
+  background: linear-gradient(145deg, rgba(248, 228, 221, 0.4), rgba(224, 160, 26, 0.08));
+}
+@keyframes lb-orb {
+  0%, 100% { transform: translate3d(0, 0, 0) rotate(0deg); }
+  50% { transform: translate3d(0, -16px, 0) rotate(6deg); }
+}
+
+/* Desktop mural: paint the viewport, keep the 430px column clear enough to read. */
+@media (min-width: 800px) {
+  body.lb-bg {
+    min-height: 100dvh;
+    background-color: var(--lb-bg-fallback, #DDD3C5);
+    background-image: var(--lb-bg-desktop);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  body.lb-bg .app.lb-bg {
+    background-color: transparent;
+  }
+  body.lb-bg .app.lb-bg .lb-bg-photo {
+    background-image: none;
+    animation: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lb-bg-photo,
+  .lb-glyph,
+  .lb-dust i,
+  .lb-shaft,
+  .lb-cloud,
+  .lb-sun,
+  .lb-orb {
+    animation: none !important;
+  }
+  .lb-bg-photo { transform: none; inset: 0; }
+}
+html[data-shot] .lb-bg-photo,
+html[data-shot] .lb-glyph,
+html[data-shot] .lb-dust i,
+html[data-shot] .lb-shaft,
+html[data-shot] .lb-cloud,
+html[data-shot] .lb-sun,
+html[data-shot] .lb-orb {
+  animation: none !important;
+}
+html[data-shot] .lb-bg-photo { transform: none; inset: 0; }
+
+.lb-bg-chalkboard .learn-dock-title,
+.lb-bg-chalkboard .learn-dock .stats,
+.lb-bg-chalkboard .learn-menu-btn,
+.lb-bg-chalkboard .learn-dock .back {
+  color: #FFF8F0;
+  text-shadow: 0 1px 2px rgba(16, 24, 22, 0.45);
+}
+
+.lb-bg-chalkboard .learn-menu .linkish,
+.lb-bg-chalkboard .learn-menu .chip:not(.on) {
+  color: #1a1a1a !important;
+  text-shadow: none !important;
+}

@@ -1,0 +1,337 @@
+{
+  "states": [
+    "neutral-closed",
+    "furious",
+    "weeping-with-pride",
+    "suspiciously-calm",
+    "manic-joy",
+    "scheming",
+    "viseme-a",
+    "viseme-e",
+    "viseme-o",
+    "viseme-m",
+    "viseme-f"
+  ],
+  "characters": [
+    {
+      "id": "anime-m-01",
+      "name": "Kenji Spark",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Corrects your tones mid-scream, then immediately asks if you brought snacks.",
+      "look": "Japanese young man, early 20s, messy black hair with a stubborn cowlick, thin rectangular glasses, charcoal hoodie over a white tee, warm brown eyes"
+    },
+    {
+      "id": "anime-m-02",
+      "name": "Minh Comet",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Rates every answer on a secret 100-point scale he invented two minutes ago.",
+      "look": "Vietnamese young man, early 20s, textured undercut with longer top swept aside, olive green denim jacket over a black tee, warm tan skin, dark brown eyes"
+    },
+    {
+      "id": "anime-m-03",
+      "name": "Rio Flash",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Starts a drum roll for any word longer than two syllables.",
+      "look": "Latino young man, early 20s, tight dark curls, coral crewneck sweater, one small gold stud earring, bright brown eyes, clean-shaven youthful face"
+    },
+    {
+      "id": "anime-m-04",
+      "name": "Hao Bubble",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Whispers the answer, then gasps as if he just overheard himself.",
+      "look": "Chinese young man, early 20s, neat bowl-cut bangs, round wire glasses, pastel blue cardigan over a white collared shirt, soft cheeks, dark eyes"
+    },
+    {
+      "id": "anime-m-05",
+      "name": "Theo Noodle",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Compares every vocabulary word to instant ramen for no reason.",
+      "look": "Mixed-European young man, early 20s, shaggy honey-blond hair, red-and-cream striped tee, light freckles, green-hazel eyes"
+    },
+    {
+      "id": "anime-m-06",
+      "name": "Jae Volt",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Threatens to cancel class, then teaches twice as hard.",
+      "look": "Korean young man, early 20s, short silver-blue dyed hair, black leather jacket over a white tee, sharp eyebrows, dark eyes, fair skin"
+    },
+    {
+      "id": "anime-m-07",
+      "name": "Luca Puff",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Gives standing ovations to pronouns.",
+      "look": "Italian-heritage young man, early 20s, wavy chestnut hair, cream scarf over a rust knit sweater, warm olive skin, brown eyes"
+    },
+    {
+      "id": "anime-m-08",
+      "name": "Hiro Pixel",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Keeps a clipboard of your crimes against pronunciation.",
+      "look": "Japanese young man, early 20s, tidy side-parted black hair, light gray button-up shirt, tiny silver hoop in one ear, calm dark eyes"
+    },
+    {
+      "id": "anime-m-09",
+      "name": "Sam Boba",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Treats every typo like a national emergency and a birthday.",
+      "look": "Filipino young man, early 20s, fluffy dark brown hair, oversized peach hoodie, warm brown skin, round friendly face, dark eyes"
+    },
+    {
+      "id": "anime-m-10",
+      "name": "Omar Zest",
+      "gender": "male",
+      "style": "anime",
+      "quirk": "Invented a personal catchphrase for each of the five languages.",
+      "look": "North African young man, early 20s, tight dark curls, mustard yellow jacket over a cream tee, warm brown skin, thick brows, brown eyes"
+    },
+    {
+      "id": "anime-f-01",
+      "name": "Linh Petal",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Calls you her chaotic student even when you are doing great.",
+      "look": "Vietnamese young woman, early 20s, long straight black hair with two small pastel flower clips, soft lavender blouse, warm tan skin, dark brown eyes"
+    },
+    {
+      "id": "anime-f-02",
+      "name": "Yuki Frost",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Melts down if you skip the particles, then hugs the air.",
+      "look": "Japanese young woman, early 20s, short silver-lavender bob with side bangs, white cardigan over a navy sailor-inspired collar, pale skin, gray-blue eyes"
+    },
+    {
+      "id": "anime-f-03",
+      "name": "Mei Bun",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Keeps a sparkle tally for every correct tone.",
+      "look": "Chinese young woman, early 20s, black hair in two high buns with pink ties, bubblegum pink hoodie, round face, dark eyes, fair-warm skin"
+    },
+    {
+      "id": "anime-f-04",
+      "name": "Sofia Fizz",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Narrates your progress like a telenovela.",
+      "look": "Latina young woman, early 20s, long wavy chestnut hair, medium-wash denim jacket over a white tee, small gold hoop earrings, warm brown skin, brown eyes"
+    },
+    {
+      "id": "anime-f-05",
+      "name": "Aya Comet",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Gives overly specific letter grades like A-plus-plus-plus or B-minus-plus-chaos.",
+      "look": "Korean young woman, early 20s, long straight dark hair with a red ribbon, cream knit vest over a white collared shirt, soft features, fair skin, dark eyes"
+    },
+    {
+      "id": "anime-f-06",
+      "name": "Hana Beam",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Writes invisible gold stars in the air after every phrase.",
+      "look": "Japanese young woman, early 20s, high black ponytail, round glasses, oversized sage green sweater, gentle face, brown eyes"
+    },
+    {
+      "id": "anime-f-07",
+      "name": "Camila Pop",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Breaks into song the second you nail a greeting.",
+      "look": "Brazilian young woman, early 20s, voluminous dark curly hair, bright turquoise scarf over a coral top, warm brown skin, brown eyes"
+    },
+    {
+      "id": "anime-f-08",
+      "name": "Trang Moon",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Keeps threatening to assign homework that is just compliments.",
+      "look": "Vietnamese young woman, early 20s, chin-length black bob with side bangs, navy collared dress with a tiny white bow, warm tan skin, dark eyes"
+    },
+    {
+      "id": "anime-f-09",
+      "name": "Nora Flick",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Claims she can hear your accent from another room.",
+      "look": "Mixed East-Asian and European young woman, early 20s, short wavy dark-auburn hair, soft berry beret, cream blouse, light olive skin, hazel eyes"
+    },
+    {
+      "id": "anime-f-10",
+      "name": "Priya Glow",
+      "gender": "female",
+      "style": "anime",
+      "quirk": "Rates your effort in chili peppers, then explains the grammar perfectly.",
+      "look": "South Asian young woman, early 20s, long dark wavy hair, small gold stud earrings, soft apricot cardigan over a cream top, brown skin, warm brown eyes"
+    },
+    {
+      "id": "real-m-01",
+      "name": "Thầy Bao",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Flips an imaginary table, then calmly writes the correct phrase on it.",
+      "look": "Vietnamese young man, early 20s, fluffy wavy black hair, round metal glasses, dusty pink knit sweater, youthful cute face, soft closed-mouth smile, warm light-tan skin"
+    },
+    {
+      "id": "real-m-02",
+      "name": "Diego Sol",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Counts your mistakes in Spanish, then cheers in three other languages.",
+      "look": "Latino young man, early 20s, wavy dark brown hair, medium-blue denim shirt, warm medium-brown skin, slight friendly smile, brown eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-03",
+      "name": "Ken Nakamura",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Bows to a correctly conjugated verb as if it were royalty.",
+      "look": "Japanese young man, early 20s, tidy short black hair, cream knit sweater, fair-warm skin, dark eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-04",
+      "name": "Wei Chen",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Keeps a mental spreadsheet of your tones and occasionally yells a cell number.",
+      "look": "Chinese young man, early 20s, soft undercut with a tidy top, thin metal glasses, navy polo shirt, light tan skin, dark eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-05",
+      "name": "Marcus Hale",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Gives halftime speeches after a single vocabulary word.",
+      "look": "Black young man, early 20s, short textured black hair, rust-colored sweater, warm dark brown skin, kind brown eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-06",
+      "name": "Alejandro Ruiz",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Whispers 'legendary' after any decent attempt, even a cough.",
+      "look": "Mexican young man, early 20s, curly dark hair, light chambray button-up shirt, medium brown skin, brown eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-07",
+      "name": "Jin Park",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Announces recess, then teaches through the recess he just announced.",
+      "look": "Korean young man, early 20s, slightly longer black hair tucked behind one ear, light blue button-up shirt, fair skin, dark eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-08",
+      "name": "Eli Santos",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Offers you imaginary snacks as a reward, then eats them himself.",
+      "look": "Filipino young man, early 20s, short dark hair, faded sage hoodie, warm brown skin, round friendly face, dark eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-09",
+      "name": "Noah Kim",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Claims your accent has a plot twist coming.",
+      "look": "Mixed Korean and white young man, early 20s, dusty light-brown hair, thin glasses, olive overshirt over a white tee, light skin, brown eyes, clean-shaven"
+    },
+    {
+      "id": "real-m-10",
+      "name": "Rafael Mendes",
+      "gender": "male",
+      "style": "real",
+      "quirk": "Turns every greeting into a tiny festival and then quizzes you on it.",
+      "look": "Brazilian young man, early 20s, tight dark curls, mustard knit sweater, warm brown skin, bright friendly face, brown eyes, clean-shaven"
+    },
+    {
+      "id": "real-f-01",
+      "name": "Cô Bao",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Scolds the air beside you, then compliments you like you just won a prize.",
+      "look": "Vietnamese young woman, early 20s, dark hair in a messy bun with a wooden pencil tucked in, soft flyaways, pink floral blouse with a tie neck, youthful cute face, warm light-tan skin"
+    },
+    {
+      "id": "real-f-02",
+      "name": "Elena Vasquez",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Gasps at a typo as if the plot just thickened.",
+      "look": "Latina young woman, early 20s, long wavy dark brown hair, burgundy top, warm medium-brown skin, brown eyes"
+    },
+    {
+      "id": "real-f-03",
+      "name": "Aiko Mori",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Claps once, extremely loudly, for silent letters.",
+      "look": "Japanese young woman, early 20s, shoulder-length black hair with a slight wave, pastel pink cardigan, fair-warm skin, dark eyes"
+    },
+    {
+      "id": "real-f-04",
+      "name": "Lan Pham",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Keeps a petty little scoreboard, then awards you bonus points for blinking.",
+      "look": "Vietnamese young woman, early 20s, chin-length black bob, white-and-navy striped shirt, warm tan skin, dark eyes"
+    },
+    {
+      "id": "real-f-05",
+      "name": "Maya Brooks",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Delivers pep talks so intense she has to sit down afterward.",
+      "look": "Black young woman, early 20s, natural dark shoulder-length curls, mustard yellow blouse, dark brown skin, warm brown eyes"
+    },
+    {
+      "id": "real-f-06",
+      "name": "Sofia Alvarez",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Narrows her eyes at grammar, then smiles like she planned the error for teaching.",
+      "look": "Latina young woman, early 20s, dark wavy hair, thin tortoise-shell glasses, sage green sweater, medium-brown skin, brown eyes"
+    },
+    {
+      "id": "real-f-07",
+      "name": "Hana Lee",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Whispers 'iconic' at ordinary nouns.",
+      "look": "Korean young woman, early 20s, long straight black hair, white collared blouse, fair skin, dark eyes"
+    },
+    {
+      "id": "real-f-08",
+      "name": "Mei Lin",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Counts your correct tones on her fingers and then starts over for drama.",
+      "look": "Chinese young woman, early 20s, high black ponytail, soft pink knit sweater, light tan skin, dark eyes"
+    },
+    {
+      "id": "real-f-09",
+      "name": "Priya Shah",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Rates your courage, your vowels, and your vibes, in that order.",
+      "look": "South Asian young woman, early 20s, long dark hair, small gold stud earrings, teal blouse, brown skin, brown eyes"
+    },
+    {
+      "id": "real-f-10",
+      "name": "Amara Diallo",
+      "gender": "female",
+      "style": "real",
+      "quirk": "Declares class dismissed, then keeps teaching for ten more minutes.",
+      "look": "West African young woman, early 20s, neat braided bun, coral sweater, deep brown skin, small gold stud earrings, warm brown eyes"
+    }
+  ]
+}
