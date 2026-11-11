@@ -1,0 +1,2530 @@
+{
+  "version": 1,
+  "notes": "Default teacher line pools. Characters may add or override via byCharacter[id]. Pools are used with a no-repeat shuffle bag.",
+  "moods": {
+    "correct": "calm",
+    "reset": "calm",
+    "wrong": {
+      "1": "annoyed",
+      "2": "dramatic",
+      "3": "furious",
+      "4": "manic"
+    },
+    "start": "calm"
+  },
+  "jitter": {
+    "1": false,
+    "2": false,
+    "3": true,
+    "4": true
+  },
+  "animation": {
+    "1": "none",
+    "2": "tilt",
+    "3": "shake",
+    "4": "meltdown"
+  },
+  "pools": {
+    "wrong": {
+      "1": [
+        {
+          "id": "l1-01",
+          "text": "Eh. Not that one. This is the one we wanted.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-02",
+          "text": "Almost, if I squint in a generous way. The actual answer is over here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-03",
+          "text": "A small miss. I am still using my indoor voice. Look.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-04",
+          "text": "No, but I appreciate the confidence. The right one is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-05",
+          "text": "That would be an excellent answer to a completely different question.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-06",
+          "text": "Hmm. Close enough to be interesting, far enough to correct. Here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-07",
+          "text": "I blinked at that. Then I recovered. The answer is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-08",
+          "text": "Not quite. We will call it a warm-up. The real one is here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-09",
+          "text": "Okay, no. I am still civil. Copy this, please.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-10",
+          "text": "A swing, a miss, a lesson. Here is the lesson.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-11",
+          "text": "I will not make a speech. I will just show you the right one.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-12",
+          "text": "That was a respectable attempt at the wrong word. Try this instead.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-13",
+          "text": "Mildly exasperated, still employed as your teacher. The answer:",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-14",
+          "text": "I raised one eyebrow. Only one. Here is why.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-15",
+          "text": "No prize for that one, but no scolding either. The word is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-16",
+          "text": "We missed. It happens. This is the correction.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-17",
+          "text": "I almost said 'close.' Then I decided to be accurate. Look here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-18",
+          "text": "A polite no. The polite yes belongs to this answer.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-19",
+          "text": "I am keeping my voice flat on purpose. The answer is not flat. It is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-20",
+          "text": "Wrong, in a small and fixable way. Fix it with this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-21",
+          "text": "That choice walked in, sat down, and was not invited. This one was.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-22",
+          "text": "I checked my notes. My notes disagree with you, gently.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-23",
+          "text": "Not today, not that one. Today's answer is over here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-24",
+          "text": "A tiny detour. Back to the road. The road is this word.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-25",
+          "text": "I will give that a 'not yet.' The 'yes' looks like this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-26",
+          "text": "Hmm. I waited a second in case it became correct. It did not.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-27",
+          "text": "We can pretend that was a draft. Final version follows.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-28",
+          "text": "I tapped the desk once. That's all the drama you get for now.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-29",
+          "text": "Incorrect, but tidy. The tidy correct version is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-30",
+          "text": "I am only a little tired of that being wrong. Here is the fix.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-31",
+          "text": "Let's not linger. The right answer is short and it's this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-32",
+          "text": "A miss with good posture. Still a miss. Look here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-33",
+          "text": "I held a sigh and then released a normal one. The answer:",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-34",
+          "text": "No lecture. Just the word. Here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-35",
+          "text": "That was the understudy. The lead performance is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-36",
+          "text": "I marked it wrong with a very small stamp. Correction below.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-37",
+          "text": "A soft no from the back of the room, which is me. This is the yes.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-38",
+          "text": "We were in the neighborhood and still on the wrong street.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-39",
+          "text": "I'll allow the effort. I will not allow the answer. This instead.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-40",
+          "text": "Slightly wrong, like a picture hung two degrees off. Straighten to this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-41",
+          "text": "I almost let it pass. I did not. The answer is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-42",
+          "text": "A first miss. That's the easy kind. Here's the easy fix.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-43",
+          "text": "The quiz is not laughing. I am, a little, kindly. Look at this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-44",
+          "text": "Not the one. I said that as gently as I can without lying.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-45",
+          "text": "I closed the wrong door and opened the right one. Come through.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-46",
+          "text": "Okay. We missed. I remain seated. The answer stands up here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-47",
+          "text": "A humble correction, arriving without a parade.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-48",
+          "text": "That guess has been seen and declined. Please accept this one.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-49",
+          "text": "I am still on my first cup of patience. Plenty left. The answer:",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-50",
+          "text": "No fireworks. Just a redirect. Go this way.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-51",
+          "text": "It was a thought. It was not the word. The word is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-52",
+          "text": "I will keep my hands folded. The answer will do the work.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-53",
+          "text": "Wrong by an inch, which is still wrong. The inch back is this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-54",
+          "text": "A quiet miss. A quieter correction. Here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-55",
+          "text": "I wrote 'no' in very small letters. Then I wrote the right thing bigger.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-56",
+          "text": "Let's treat that as a false start. Official start: this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-57",
+          "text": "I am mildly put out, like a delayed train. The train is this answer.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-58",
+          "text": "Not grim. Just incorrect. The correct line is waiting here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-59",
+          "text": "I will not roll my eyes. I will roll the right answer over to you.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-60",
+          "text": "First miss of this little weather system. Still just drizzle. The answer:",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-61",
+          "text": "A civil disagreement between your choice and the facts. Facts win, here.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-62",
+          "text": "I counted to three before speaking. The speech is short: it's this.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-63",
+          "text": "We missed the exit and we are turning around. Destination: this word.",
+          "kind": "fixed",
+          "level": 1
+        },
+        {
+          "id": "l1-64",
+          "text": "I am only as stern as a librarian at noon. The book says this.",
+          "kind": "fixed",
+          "level": 1
+        }
+      ],
+      "2": [
+        {
+          "id": "l2-01",
+          "text": "Two in a row. I have placed a hand on my forehead in a professional way.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-02",
+          "text": "Again? I am being very dramatic about this, and I am still teaching.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-03",
+          "text": "I knocked over an imaginary chair. The chair is fine. The answer is not what you picked.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-04",
+          "text": "A second miss. I will recover, after you look at this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-05",
+          "text": "The plot has thickened, and not in a good way. The correct line is this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-06",
+          "text": "I am pacing now. One lap. Done. Here is the answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-07",
+          "text": "Two misses. I gasped, then I got back to work.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-08",
+          "text": "That was the second time. I noticed. So will you, in a moment.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-09",
+          "text": "I stood up and sat down again, for emphasis. Emphasis looks like this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-10",
+          "text": "A sequel nobody asked for. The rewrite is this answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-11",
+          "text": "Twice. I have now officially raised both eyebrows.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-12",
+          "text": "I clutched an imaginary string of pearls. Then I taught. Look.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-13",
+          "text": "The second miss arrived dressed as a coincidence. It was not.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-14",
+          "text": "I turned to the window and back. The view did not help. This will.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-15",
+          "text": "Two in a row is a pattern, and I do not like this pattern.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-16",
+          "text": "I announced a brief intermission. Intermission is over. The answer:",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-17",
+          "text": "A dramatic inhale. A dramatic exhale. A very practical correction.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-18",
+          "text": "I pointed at the ceiling as if the answer were up there. It is down here.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-19",
+          "text": "Second miss, first monologue, still short. The point is this word.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-20",
+          "text": "I pressed my palms together. This is not yoga. This is a correction.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-21",
+          "text": "The universe did not pause, but I did. Then I brought this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-22",
+          "text": "Two wrongs did not make a right, surprisingly. Here is the right.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-23",
+          "text": "I did a slow turn, theater-style. My closing line is the answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-24",
+          "text": "A second error has entered the chat. I have muted it. Listen to this instead.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-25",
+          "text": "I looked at the floor, then at you, then at the correct word.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-26",
+          "text": "This is my 'two misses' face. It comes with a footnote, here.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-27",
+          "text": "I took off imaginary glasses and put them back on. Still this answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-28",
+          "text": "A pair of misses, walking together. I have separated them from this fact.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-29",
+          "text": "I whispered 'twice' to myself so I would not say it louder.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-30",
+          "text": "The second one hurt the way a soap opera hurts: a lot, then a lesson.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-31",
+          "text": "I held the back of my chair like a steamboat captain. Course correction: this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-32",
+          "text": "Two in a row. I am not panicking. I am narrating. The narration ends here.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-33",
+          "text": "I made a small speech to an empty mug. The mug and I agree on this answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-34",
+          "text": "A second miss deserves a second look. Look at this, not that.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-35",
+          "text": "I spread my arms like I was on a stage. The stage direction is: learn this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-36",
+          "text": "Twice now. I have started a mental drumroll, and it was rude. The answer:",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-37",
+          "text": "I walked three steps away and three steps back. I returned with this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-38",
+          "text": "The sequel is worse. The ending is better, because it is correct.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-39",
+          "text": "I put a hand over my heart, then over the right answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-40",
+          "text": "A dramatic pause that lasted exactly one second. Then this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-41",
+          "text": "Two misses in a trench coat, pretending to be one big coincidence.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-42",
+          "text": "I glanced at the exit, then at my job, then at this word.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-43",
+          "text": "This is the part where the music would swell. Instead, a flashcard.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-44",
+          "text": "I am performing concern, and also teaching. The taught thing is this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-45",
+          "text": "Second miss. I have now used my serious voice. It still says this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-46",
+          "text": "I drew a curtain in the air and opened it onto the correct answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-47",
+          "text": "A pair of misses. I have written them a polite rejection letter.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-48",
+          "text": "I did not faint. I considered it, briefly, as a joke. Then this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-49",
+          "text": "Two in a row has upgraded us from drizzle to a short play.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-50",
+          "text": "I pointed with my whole arm. The arm is pointing at this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-51",
+          "text": "The second miss tried to sneak by. I had a clipboard. The clipboard says this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-52",
+          "text": "I took a bow for no reason, then used the bow to present the answer.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-53",
+          "text": "Twice is a motif. I would like a new motif. Start with this word.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-54",
+          "text": "I stared into the middle distance. The middle distance sent me this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-55",
+          "text": "A second error, arriving with its own lighting. Unflattering. Correction:",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-56",
+          "text": "I cracked my knuckles, academically. Then I showed you this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-57",
+          "text": "Two misses and one very clear slide. The slide reads as follows.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-58",
+          "text": "I announced, 'Act Two.' Act Two is just the right answer, here.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-59",
+          "text": "That was the second wrong door. The third door, luckily, is this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-60",
+          "text": "I have now gasped twice, which is my weekly limit. The answer remains this.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-61",
+          "text": "A duet of misses. I have cut the number and kept the lesson.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-62",
+          "text": "I flung an imaginary scarf over my shoulder and taught you this anyway.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-63",
+          "text": "Second time, bigger font. The font says the correct thing, here.",
+          "kind": "fixed",
+          "level": 2
+        },
+        {
+          "id": "l2-64",
+          "text": "I rapped the table twice, once per miss, and then pointed here.",
+          "kind": "fixed",
+          "level": 2
+        }
+      ],
+      "3": [
+        {
+          "id": "l3-01",
+          "text": "Three. Three! I flipped an imaginary table. The table was imaginary. The lesson is not.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-02",
+          "text": "I have decided the tone marks are in on this. Anyway, the correct one is here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-03",
+          "text": "I am briefly moving to the mountains. Before I pack, look at the answer.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-04",
+          "text": "A pigeon just walked in and shook its head. I agree with the pigeon. Here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-05",
+          "text": "Three misses and I am monologuing. I will keep it short. The answer:",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-06",
+          "text": "I packed a tiny suitcase out of spite, then unpacked it to teach you this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-07",
+          "text": "Chaotic is a strong word, but yes. The right one is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-08",
+          "text": "I announced this to the hallway. The hallway did not help. This will.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-09",
+          "text": "I named the last three seconds 'the episode.' The recap is the correct word.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-10",
+          "text": "Three in a row. I spun once, on purpose, and landed on this answer.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-11",
+          "text": "I tried to start an argument with the alphabet. The alphabet sent this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-12",
+          "text": "A small parade of wrong answers has been canceled. The float we keep is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-13",
+          "text": "I whispered a lecture to a houseplant. The plant voted for this word.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-14",
+          "text": "Three misses, one imaginary drum kit, no actual drums. The cymbal is this answer.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-15",
+          "text": "I opened a window for no reason. The breeze did not correct you. I will.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-16",
+          "text": "This is the chaotic third. I am still holding the chalk. The chalk writes this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-17",
+          "text": "I briefed an empty chair. The chair was unmoved. You should be moved by this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-18",
+          "text": "Three is a crowd, especially when they are all misses. Here is the exit.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-19",
+          "text": "I drew a map to the right answer and then I just pointed at it. Here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-20",
+          "text": "The third miss brought friends. I have asked them to wait outside.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-21",
+          "text": "I did a tiny storm in a teacup, then poured the teacup out, then taught this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-22",
+          "text": "I declared a very local emergency, confined to this flashcard.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-23",
+          "text": "Three in a row has summoned a monologue, but the monologue has a footnote: this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-24",
+          "text": "I saluted a passing cloud and asked it for help. The cloud said to show you this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-25",
+          "text": "A third miss. I reorganized a stack of invisible papers. The top sheet is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-26",
+          "text": "I started counting in a dramatic whisper. I stopped at three. We learn this now.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-27",
+          "text": "The plot is now wearing a cape. I have taken the cape off. The lesson stays.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-28",
+          "text": "I nearly wrote a ballad. I wrote the correct answer instead, which is kinder.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-29",
+          "text": "Three misses walked in like they paid rent. They do not. This does.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-30",
+          "text": "I rattled a tin of imaginary biscuits and found a flashcard. It says this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-31",
+          "text": "A third time. I have begun addressing the furniture. The furniture prefers this word.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-32",
+          "text": "I did jazz hands, regretted them, and used them to present the answer.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-33",
+          "text": "Three is my cue to get slightly absurd and then immediately useful. Useful part:",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-34",
+          "text": "I filed a complaint with the department of guesses. They sent back this correction.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-35",
+          "text": "The third miss tried to become a lifestyle. I have declined the lifestyle.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-36",
+          "text": "I turned my back, turned around, and produced the right word like a magician.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-37",
+          "text": "A chaotic little stack of misses. I have unstacked it. The base is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-38",
+          "text": "I asked a rhetorical question of the ceiling. The ceiling, as usual, offered this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-39",
+          "text": "Three in a row. I put on an imaginary hat and took it off. The answer stayed on.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-40",
+          "text": "I briefly conducted an orchestra of zero instruments. The final note is this word.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-41",
+          "text": "This is the 'three misses' scene. It ends with a clear sentence, here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-42",
+          "text": "I rolled up sleeves I am not even wearing. Then I pointed at this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-43",
+          "text": "A third error has unlocked a side quest. The side quest is: look at this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-44",
+          "text": "I exchanged looks with my own reflection. We both voted for this answer.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-45",
+          "text": "Three times. I have now used up my polite chaos for the hour. The answer:",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-46",
+          "text": "I shook an imaginary map until the correct town fell out. Here it is.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-47",
+          "text": "The third miss arrived with a monologue prepared. I replaced it with this fact.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-48",
+          "text": "I hopped once, not for joy, for punctuation. The punctuation mark is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-49",
+          "text": "A short farce, now concluding, with the correct word as the last line.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-50",
+          "text": "I addressed the miss as if it were a committee. The committee is adjourned. This stays.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-51",
+          "text": "Three in a row made me invent a tiny dance. The dance is over. The word remains.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-52",
+          "text": "I knocked on the table as if a better answer would come out. It did. Here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-53",
+          "text": "This is absurd, and also elementary. Elementary looks like this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-54",
+          "text": "I sent a postcard from the land of three misses. The postcard reads this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-55",
+          "text": "A third swing. The universe handed me a sign. I copied the sign here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-56",
+          "text": "I stacked three imaginary cups and knocked them down. Under them: this answer.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-57",
+          "text": "The chaos is theatrical. The answer is practical. Practical wins, here.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-58",
+          "text": "I announced a plot twist, and the twist is simply the right word.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-59",
+          "text": "Three misses later, I still like teaching, which is why you get this, clearly.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-60",
+          "text": "I consulted a very small imaginary expert. The expert said, 'Show them this.'",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-61",
+          "text": "A trio of misses has left the building. The encore is not them. It is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-62",
+          "text": "I drew a spiral and then a straight line. Take the straight line. It is this.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-63",
+          "text": "Third time, bigger gesture, same job: here is the correct thing.",
+          "kind": "fixed",
+          "level": 3
+        },
+        {
+          "id": "l3-64",
+          "text": "I clapped once, strangely, and used the clap to start the correction.",
+          "kind": "fixed",
+          "level": 3
+        }
+      ],
+      "4": [
+        {
+          "id": "l4-01",
+          "text": "Four. I am lying on this imaginary floor. It is fine. I am fine. The answer, from the floor, is this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-02",
+          "text": "This is my comedic operatic moment, and then we learn. The correct answer is here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-03",
+          "text": "I have named a houseplant After This Question. The plant is judging us. Here is the answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-04",
+          "text": "Fully unhinged, still a teacher, still not mad at you. Look at this, then we go on.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-05",
+          "text": "I may have started a tiny parade of despair. It is very educational. The answer:",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-06",
+          "text": "Meltdown, but make it funny, and then immediately useful. Here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-07",
+          "text": "I whispered 'again' to a teacup. The teacup survived. So will you. The answer:",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-08",
+          "text": "This is the big dramatic weather system, and also a flashcard. The card says this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-09",
+          "text": "Four in a row. I am writing a tiny memoir on the inside of my eyelid. Chapter one is this word.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-10",
+          "text": "I have begun negotiating with the furniture again. The sofa and I agree on this answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-11",
+          "text": "A full comedic meltdown, tasteful, no swearing, lots of pointing. I am pointing here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-12",
+          "text": "I packed for the mountains, unpacked, packed a sandwich, unpacked it, and taught this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-13",
+          "text": "Four misses. I have declared today a local holiday called Look At This.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-14",
+          "text": "I am speaking from inside an imaginary well. The echo says the correct word, here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-15",
+          "text": "The official official official answer, after some unofficial feelings, is this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-16",
+          "text": "I fanned myself with an invisible program from a play that is just this flashcard.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-17",
+          "text": "Four in a row has unlocked the deluxe monologue. The deluxe ending is the right word.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-18",
+          "text": "I laid down, got up, laid down conceptually, and got up practically, with this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-19",
+          "text": "A meltdown in four acts, all of them short, the last one being the answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-20",
+          "text": "I have started a support group for this question. Attendance: me. Topic: this word.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-21",
+          "text": "The floor and I are colleagues now. From our office, we recommend this answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-22",
+          "text": "I waved a little flag of surrender, then used it as a pointer. It points here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-23",
+          "text": "Four times. I am not cursing. I am composing a musical in my head. The hook is this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-24",
+          "text": "I invited a pigeon to consult. The pigeon declined, but I still have this answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-25",
+          "text": "This is the part where I pretend to faint, then grade the faint, then teach this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-26",
+          "text": "I have too many feelings and exactly one correct word. The word is this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-27",
+          "text": "A grand collapse, followed by a tidy flashcard. Please enjoy the tidy part.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-28",
+          "text": "I counted to four with my whole soul and then used a normal voice for this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-29",
+          "text": "The meltdown has been scheduled, completed, and filed. Attachment: the right answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-30",
+          "text": "I put my head in my hands, peeked through my fingers, and showed you this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-31",
+          "text": "Four in a row. I am speaking softly to a house key. The house key prefers this word.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-32",
+          "text": "I orchestrated a tiny storm and then a tiny clearing. In the clearing: this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-33",
+          "text": "This is as unhinged as I get in good company. Then I do my job, which is this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-34",
+          "text": "I wrote a four-star review of my own exasperation. The encore is the correct answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-35",
+          "text": "I spun, stopped, bowed to a lamp, and taught you this, because someone had to.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-36",
+          "text": "Four misses walked in with a brass band. I unplugged the band and posted this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-37",
+          "text": "I am conducting an emergency broadcast. The broadcast is just this word, clearly.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-38",
+          "text": "A comedic abyss, very shallow, with a ladder. The ladder is this answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-39",
+          "text": "I have folded into a teaching pretzel and I can still point. I point here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-40",
+          "text": "Four in a row. I congratulated the misses on their teamwork, then fired them.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-41",
+          "text": "I threw a handful of imaginary confetti, realized it was the wrong party, and taught this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-42",
+          "text": "The official term is 'a lot of misses.' The official remedy is this word.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-43",
+          "text": "I took a dramatic sip of air and used the exhale to blow in the right answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-44",
+          "text": "This is my ceiling-staring era, which will last ten more seconds. Then this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-45",
+          "text": "I assigned the question a theme song and then turned the song off. Listen to this instead.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-46",
+          "text": "Four times is enough feelings. Here is a fact, arriving with a little trumpet.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-47",
+          "text": "I have built a small museum of these misses. The gift shop sells this correction.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-48",
+          "text": "A full moon of a miss-streak, and I am still your teacher, so: here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-49",
+          "text": "I slid down an imaginary wall and slid back up with the right word in hand.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-50",
+          "text": "This is the thunderstorm. It will pass. The flash of lightning is this answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-51",
+          "text": "I addressed a crowd of zero people and one important flashcard. The card wins.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-52",
+          "text": "Four in a row. I have begun using the royal 'we,' and we would like you to see this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-53",
+          "text": "I put on a cape made of patience, tripped on it, and still delivered this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-54",
+          "text": "A deluxe sigh, in surround sound, followed by a very normal correct answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-55",
+          "text": "I have hidden the miss-streak in a drawer. I have put this on the table.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-56",
+          "text": "Four misses later, I remain ridiculous and helpful. Helpful looks like this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-57",
+          "text": "I rang a tiny bell that does not exist. That was intermission. Now the answer.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-58",
+          "text": "This streak of misses has a name, but I forgot it, because I was preparing this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-59",
+          "text": "I made a speech to my shoelaces. They are tied. You should be tied to this word.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-60",
+          "text": "A grand finale of feelings, then a quiet, stubborn, correct line, here.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-61",
+          "text": "I have now used every gesture I know. The last gesture is just showing you this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-62",
+          "text": "Four. I set down an imaginary suitcase, opened it, and found the right answer inside.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-63",
+          "text": "The meltdown is leaving through the side door. The teacher is staying, with this.",
+          "kind": "fixed",
+          "level": 4
+        },
+        {
+          "id": "l4-64",
+          "text": "I applauded the chaos, then canceled the chaos, then underlined this word.",
+          "kind": "fixed",
+          "level": 4
+        }
+      ]
+    },
+    "correct": [
+      {
+        "id": "ok-01",
+        "text": "Eh. Okay. Good. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-02",
+        "text": "Fine. Correct. Moving on.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-03",
+        "text": "Hm. Acceptable. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-04",
+        "text": "Yes. That's it. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-05",
+        "text": "Correct. All right. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-06",
+        "text": "Okay. Good. We continue.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-07",
+        "text": "Right. Unimpressed, but correct. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-08",
+        "text": "Mm. Fine. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-09",
+        "text": "That will do. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-10",
+        "text": "Yes. Next card.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-11",
+        "text": "Correct. We can go on.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-12",
+        "text": "All right. That's the one. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-13",
+        "text": "Good. No parade. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-14",
+        "text": "Okay. Noted. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-15",
+        "text": "Yes. Keep going.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-16",
+        "text": "Fine. That's right. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-17",
+        "text": "Hm. Yes. Moving on.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-18",
+        "text": "Correct. Let's not make a thing of it.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-19",
+        "text": "Acceptable. Next, please.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-20",
+        "text": "Right then. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-21",
+        "text": "Okay. That checks out. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-22",
+        "text": "Yes. Onward.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-23",
+        "text": "Fine by me. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-24",
+        "text": "Correct. Close the topic. Open the next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-25",
+        "text": "Mm-hm. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-26",
+        "text": "That was the one. We continue.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-27",
+        "text": "Good enough for the record. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-28",
+        "text": "Yes. I will allow it. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-29",
+        "text": "Okay. No notes. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-30",
+        "text": "Right. Next word.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-31",
+        "text": "Correct. Thank you. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-32",
+        "text": "Eh. Yes. Next card.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-33",
+        "text": "Fine. We got it. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-34",
+        "text": "That's right. Keep moving.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-35",
+        "text": "Okay. Locked in. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-36",
+        "text": "Yes. Unspectacular, which I like. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-37",
+        "text": "Correct. We'll take it. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-38",
+        "text": "Hm. That's the answer. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-39",
+        "text": "All right. Next, without a speech.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-40",
+        "text": "Yes. Done. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-41",
+        "text": "Fine. Accurate. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "ok-42",
+        "text": "Okay. That's settled. Next.",
+        "kind": "fixed"
+      }
+    ],
+    "reset": [
+      {
+        "id": "rs-01",
+        "text": "See? Was that so hard?",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-02",
+        "text": "There it is. We got there.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-03",
+        "text": "Good. The storm has passed. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-04",
+        "text": "Correct. I will pretend that was always the plan.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-05",
+        "text": "Yes. Thank you. We can all sit down now. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-06",
+        "text": "There. The streak of misses has left the building.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-07",
+        "text": "Good. I will put the imaginary suitcase away.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-08",
+        "text": "Yes. That's more like it. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-09",
+        "text": "Correct. The weather has improved. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-10",
+        "text": "See? The word was waiting for you the whole time.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-11",
+        "text": "All right. Meltdown canceled. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-12",
+        "text": "Good. I have climbed off the imaginary floor.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-13",
+        "text": "Yes. We found the exit. Next card.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-14",
+        "text": "There we go. I knew it lived in there somewhere.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-15",
+        "text": "Correct. Let's not visit that streak again. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-16",
+        "text": "Okay. The pigeon can go home. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-17",
+        "text": "Yes. That's the one I was so loudly not panicking about.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-18",
+        "text": "Good. I have stopped monologuing. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-19",
+        "text": "See? Simple, eventually. Next one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-20",
+        "text": "Correct. The houseplant has stopped judging us. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-21",
+        "text": "There. Drama over. Lesson intact. Next.",
+        "kind": "fixed"
+      },
+      {
+        "id": "rs-22",
+        "text": "Yes. Welcome back to the easy part. Next.",
+        "kind": "fixed"
+      }
+    ],
+    "start": [
+      {
+        "id": "st-01",
+        "text": "All right. Let's begin.",
+        "kind": "fixed"
+      },
+      {
+        "id": "st-02",
+        "text": "Okay. We can start.",
+        "kind": "fixed"
+      },
+      {
+        "id": "st-03",
+        "text": "Here we are. Let's go.",
+        "kind": "fixed"
+      },
+      {
+        "id": "st-04",
+        "text": "Whenever you're ready. First one.",
+        "kind": "fixed"
+      },
+      {
+        "id": "st-05",
+        "text": "All right. First card.",
+        "kind": "fixed"
+      },
+      {
+        "id": "st-06",
+        "text": "Okay. We begin.",
+        "kind": "fixed"
+      }
+    ]
+  },
+  "templates": {
+    "wrong": [
+      {
+        "id": "tw-01",
+        "text": "The answer is {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-02",
+        "text": "Not that. It's {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-03",
+        "text": "Write this down: {word} — {meaning}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-04",
+        "text": "We were looking for {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-05",
+        "text": "It's {word}. That means {meaning}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-06",
+        "text": "Try {word} next time. That's the one.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-07",
+        "text": "In {langName}, you wanted {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-08",
+        "text": "{word}. That's the whole note.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-09",
+        "text": "The card says {word}, not whatever just happened.",
+        "kind": "template",
+        "levels": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-10",
+        "text": "Correction: {word}. Meaning: {meaning}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-11",
+        "text": "Here it is, plainly: {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-12",
+        "text": "I will just say the word. {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-13",
+        "text": "Copy this: {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-14",
+        "text": "The one we needed was {word} — {meaning}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-15",
+        "text": "Please look at {word} and not the last guess.",
+        "kind": "template",
+        "levels": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-16",
+        "text": "{joke} Meanwhile, the answer is {word}.",
+        "kind": "template",
+        "levels": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-17",
+        "text": "{joke} Anyway: {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-18",
+        "text": "A language note, then the answer. {joke} The answer is {word}.",
+        "kind": "template",
+        "levels": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-19",
+        "text": "Not quite. In {langName} that's {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-20",
+        "text": "Put {word} in your pocket and keep walking.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-21",
+        "text": "If you remember only one thing, remember {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-22",
+        "text": "I'll write it in the air: {word}.",
+        "kind": "template",
+        "levels": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-23",
+        "text": "The official spelling, the official word, is {word}.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-24",
+        "text": "Swap your guess for {word}. That's the trade.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-25",
+        "text": "We are collecting {word} today, not the other thing.",
+        "kind": "template",
+        "levels": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-26",
+        "text": "Say it with me later. For now, look: {word}.",
+        "kind": "template",
+        "levels": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-27",
+        "text": "Under the miss, a label: {word}.",
+        "kind": "template",
+        "levels": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-28",
+        "text": "{word} ({meaning}). That was the assignment.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-29",
+        "text": "A small sign appears. It reads {word}.",
+        "kind": "template",
+        "levels": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-30",
+        "text": "I am handing you {word} like a spare key.",
+        "kind": "template",
+        "levels": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": "tw-31",
+        "text": "Stop at {word}. That's the station.",
+        "kind": "template",
+        "levels": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "tw-32",
+        "text": "{joke} And the word itself is {word}.",
+        "kind": "template",
+        "levels": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-33",
+        "text": "After all that, a quiet noun or verb or phrase: {word}.",
+        "kind": "template",
+        "levels": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-34",
+        "text": "The mountain can wait. {word} cannot.",
+        "kind": "template",
+        "levels": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "tw-35",
+        "text": "From the floor, clearly: {word}.",
+        "kind": "template",
+        "levels": [
+          4
+        ]
+      },
+      {
+        "id": "tw-36",
+        "text": "Meltdown over. Product remaining: {word} — {meaning}.",
+        "kind": "template",
+        "levels": [
+          4
+        ]
+      }
+    ],
+    "correct": [
+      {
+        "id": "tc-01",
+        "text": "Fine. {word}. Next.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-02",
+        "text": "Yes. {word}. Next one.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-03",
+        "text": "That's {word}. Good. Next.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-04",
+        "text": "Okay. {word}. We continue.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-05",
+        "text": "Correct. {word}. Moving on.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-06",
+        "text": "Hm. {word}. Next.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-07",
+        "text": "Right. {word} — {meaning}. Next.",
+        "kind": "template"
+      },
+      {
+        "id": "tc-08",
+        "text": "Yes. In {langName}, {word}. Next.",
+        "kind": "template"
+      }
+    ]
+  },
+  "jokes": {
+    "vi": [
+      {
+        "id": "jk-vi-01",
+        "text": "That tone mark is not decoration."
+      },
+      {
+        "id": "jk-vi-02",
+        "text": "The little hook on that letter has a job."
+      },
+      {
+        "id": "jk-vi-03",
+        "text": "Vietnamese spelling without diacritics is a treasure map with the X erased."
+      },
+      {
+        "id": "jk-vi-04",
+        "text": "I once lost a short argument with the letter ư."
+      },
+      {
+        "id": "jk-vi-05",
+        "text": "Skip the marks and you might order a ghost instead of rice."
+      },
+      {
+        "id": "jk-vi-06",
+        "text": "The word phở has a hook, and the hook is employed."
+      },
+      {
+        "id": "jk-vi-07",
+        "text": "A dấu nặng is a small dot with a large personality."
+      },
+      {
+        "id": "jk-vi-08",
+        "text": "Tones here are a roller coaster I bought tickets for."
+      },
+      {
+        "id": "jk-vi-09",
+        "text": "Northern bố, Southern ba — family is a dialect with opinions."
+      },
+      {
+        "id": "jk-vi-10",
+        "text": "If the accent falls off, the meaning often leaves with it."
+      }
+    ],
+    "zh": [
+      {
+        "id": "jk-zh-01",
+        "text": "Tone 3 is a personal hobby of mine, unfortunately."
+      },
+      {
+        "id": "jk-zh-02",
+        "text": "Pinyin without marks is a map with the X erased."
+      },
+      {
+        "id": "jk-zh-03",
+        "text": "That third tone dips, rises, and toys with feelings."
+      },
+      {
+        "id": "jk-zh-04",
+        "text": "The character is not a doodle. It has a job and sometimes a roof."
+      },
+      {
+        "id": "jk-zh-05",
+        "text": "I will not fight the third tone in the parking lot today."
+      },
+      {
+        "id": "jk-zh-06",
+        "text": "A first tone sits flat, like it has already decided."
+      },
+      {
+        "id": "jk-zh-07",
+        "text": "Tone four comes down the stairs a little too fast."
+      },
+      {
+        "id": "jk-zh-08",
+        "text": "The roof on that character is load-bearing."
+      },
+      {
+        "id": "jk-zh-09",
+        "text": "I celebrated a clean third tone once. I still remember it."
+      },
+      {
+        "id": "jk-zh-10",
+        "text": "Measure words are small and they matter anyway."
+      }
+    ],
+    "ja": [
+      {
+        "id": "jk-ja-01",
+        "text": "Long vowels matter. That line over the o is not jewelry."
+      },
+      {
+        "id": "jk-ja-02",
+        "text": "Particles do a lot of work for such small things."
+      },
+      {
+        "id": "jk-ja-03",
+        "text": "Hiragana was dancing and I did not authorize a dance, but fine."
+      },
+      {
+        "id": "jk-ja-04",
+        "text": "I bowed to a particle. The particle did not bow back."
+      },
+      {
+        "id": "jk-ja-05",
+        "text": "Kanji showed up dressed as a drawing and then it meant something specific."
+      },
+      {
+        "id": "jk-ja-06",
+        "text": "A small っ can stop a word like a polite traffic officer."
+      },
+      {
+        "id": "jk-ja-07",
+        "text": "Romaji is a guest. The real house is the kana."
+      },
+      {
+        "id": "jk-ja-08",
+        "text": "I almost moved to the mountains to live among the kanji."
+      },
+      {
+        "id": "jk-ja-09",
+        "text": "Pitch accent is quiet and still picks favorites."
+      },
+      {
+        "id": "jk-ja-10",
+        "text": "The polite ending did not arrive by accident."
+      }
+    ],
+    "es": [
+      {
+        "id": "jk-es-01",
+        "text": "The inverted question mark is a warning shot, and I like it."
+      },
+      {
+        "id": "jk-es-02",
+        "text": "Sí has an accent. Si does not. Tiny marks, large arguments."
+      },
+      {
+        "id": "jk-es-03",
+        "text": "I flipped an imaginary table once over a missing accent on está."
+      },
+      {
+        "id": "jk-es-04",
+        "text": "Spanish vowels are honest. We should be too."
+      },
+      {
+        "id": "jk-es-05",
+        "text": "The rolling r and I have a professional arrangement."
+      },
+      {
+        "id": "jk-es-06",
+        "text": "Gender on a noun is not a decoration either."
+      },
+      {
+        "id": "jk-es-07",
+        "text": "An opening ¿ is not optional punctuation."
+      },
+      {
+        "id": "jk-es-08",
+        "text": "I respect an accent mark that changes a tense."
+      },
+      {
+        "id": "jk-es-09",
+        "text": "One letter, one sound, most of the time, which I find soothing."
+      },
+      {
+        "id": "jk-es-10",
+        "text": "A dropped accent can turn 'is' into a different problem."
+      }
+    ],
+    "en": [
+      {
+        "id": "jk-en-01",
+        "text": "English spelling was invented by a raccoon with a keyboard, and yet here we are."
+      },
+      {
+        "id": "jk-en-02",
+        "text": "I will not fully explain the word 'enough' today."
+      },
+      {
+        "id": "jk-en-03",
+        "text": "English is a hallway of trap doors. This word is a firm floor."
+      },
+      {
+        "id": "jk-en-04",
+        "text": "The word 'the' does a lot of work for three letters."
+      },
+      {
+        "id": "jk-en-05",
+        "text": "We are learning English with Vietnamese nearby, like a friend in the hallway."
+      },
+      {
+        "id": "jk-en-06",
+        "text": "Silent letters are not shy. They are just unhelpful."
+      },
+      {
+        "id": "jk-en-07",
+        "text": "I have made peace with 'enough,' but not a treaty."
+      },
+      {
+        "id": "jk-en-08",
+        "text": "Pronunciation and spelling are cousins who do not always speak."
+      },
+      {
+        "id": "jk-en-09",
+        "text": "A short English word can still hide two surprises."
+      },
+      {
+        "id": "jk-en-10",
+        "text": "I celebrated 'the' once, professionally, and I stand by it."
+      }
+    ]
+  },
+  "byCharacter": {}
+}

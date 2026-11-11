@@ -1,0 +1,1438 @@
+{
+  "vi": {
+    "speech": "vi-VN",
+    "name": "Vietnamese",
+    "words": [
+      {
+        "text": "xin chào",
+        "meaning": "hello",
+        "reading": "",
+        "speak": "xin chào"
+      },
+      {
+        "text": "cảm ơn",
+        "meaning": "thank you",
+        "reading": "",
+        "speak": "cảm ơn"
+      },
+      {
+        "text": "xin lỗi",
+        "meaning": "sorry / excuse me",
+        "reading": "",
+        "speak": "xin lỗi"
+      },
+      {
+        "text": "vâng",
+        "meaning": "yes (polite)",
+        "reading": "",
+        "speak": "vâng"
+      },
+      {
+        "text": "không",
+        "meaning": "no",
+        "reading": "",
+        "speak": "không"
+      },
+      {
+        "text": "một",
+        "meaning": "one",
+        "reading": "",
+        "speak": "một"
+      },
+      {
+        "text": "hai",
+        "meaning": "two",
+        "reading": "",
+        "speak": "hai"
+      },
+      {
+        "text": "ba",
+        "meaning": "three",
+        "reading": "",
+        "speak": "ba"
+      },
+      {
+        "text": "bốn",
+        "meaning": "four",
+        "reading": "",
+        "speak": "bốn"
+      },
+      {
+        "text": "năm",
+        "meaning": "five",
+        "reading": "",
+        "speak": "năm"
+      },
+      {
+        "text": "sáu",
+        "meaning": "six",
+        "reading": "",
+        "speak": "sáu"
+      },
+      {
+        "text": "bảy",
+        "meaning": "seven",
+        "reading": "",
+        "speak": "bảy"
+      },
+      {
+        "text": "tám",
+        "meaning": "eight",
+        "reading": "",
+        "speak": "tám"
+      },
+      {
+        "text": "chín",
+        "meaning": "nine",
+        "reading": "",
+        "speak": "chín"
+      },
+      {
+        "text": "mười",
+        "meaning": "ten",
+        "reading": "",
+        "speak": "mười"
+      },
+      {
+        "text": "mẹ",
+        "meaning": "mother",
+        "reading": "",
+        "speak": "mẹ"
+      },
+      {
+        "text": "bố",
+        "meaning": "father",
+        "reading": "",
+        "speak": "bố"
+      },
+      {
+        "text": "cơm",
+        "meaning": "cooked rice / a meal",
+        "reading": "",
+        "speak": "cơm"
+      },
+      {
+        "text": "nước",
+        "meaning": "water",
+        "reading": "",
+        "speak": "nước"
+      },
+      {
+        "text": "phở",
+        "meaning": "pho (noodle soup)",
+        "reading": "",
+        "speak": "phở"
+      },
+      {
+        "text": "ăn",
+        "meaning": "to eat",
+        "reading": "",
+        "speak": "ăn"
+      },
+      {
+        "text": "uống",
+        "meaning": "to drink",
+        "reading": "",
+        "speak": "uống"
+      },
+      {
+        "text": "đi",
+        "meaning": "to go",
+        "reading": "",
+        "speak": "đi"
+      },
+      {
+        "text": "muốn",
+        "meaning": "to want",
+        "reading": "",
+        "speak": "muốn"
+      }
+    ],
+    "phrases": [
+      {
+        "text": "Xin chào!",
+        "meaning": "Hello!",
+        "reading": "",
+        "speak": "Xin chào!"
+      },
+      {
+        "text": "Cảm ơn bạn.",
+        "meaning": "Thank you.",
+        "reading": "",
+        "speak": "Cảm ơn bạn."
+      },
+      {
+        "text": "Bạn khỏe không?",
+        "meaning": "How are you?",
+        "reading": "",
+        "speak": "Bạn khỏe không?"
+      },
+      {
+        "text": "Tôi khỏe, cảm ơn.",
+        "meaning": "I'm fine, thank you.",
+        "reading": "",
+        "speak": "Tôi khỏe, cảm ơn."
+      },
+      {
+        "text": "Tên tôi là…",
+        "meaning": "My name is…",
+        "reading": "",
+        "speak": "Tên tôi là…"
+      },
+      {
+        "text": "Bạn tên gì?",
+        "meaning": "What's your name?",
+        "reading": "",
+        "speak": "Bạn tên gì?"
+      },
+      {
+        "text": "Nhà vệ sinh ở đâu?",
+        "meaning": "Where is the bathroom?",
+        "reading": "",
+        "speak": "Nhà vệ sinh ở đâu?"
+      },
+      {
+        "text": "Bao nhiêu tiền?",
+        "meaning": "How much is it?",
+        "reading": "",
+        "speak": "Bao nhiêu tiền?"
+      },
+      {
+        "text": "Tôi không hiểu.",
+        "meaning": "I don't understand.",
+        "reading": "",
+        "speak": "Tôi không hiểu."
+      },
+      {
+        "text": "Tạm biệt!",
+        "meaning": "Goodbye!",
+        "reading": "",
+        "speak": "Tạm biệt!"
+      },
+      {
+        "text": "Một ly cà phê, làm ơn.",
+        "meaning": "A coffee, please.",
+        "reading": "",
+        "speak": "Một ly cà phê, làm ơn."
+      }
+    ],
+    "talks": [
+      {
+        "title": "Meeting someone",
+        "setting": "A casual first meeting",
+        "lines": [
+          {
+            "text": "Xin chào! Bạn tên gì?",
+            "meaning": "Hello! What's your name?",
+            "reading": "",
+            "speak": "Xin chào! Bạn tên gì?"
+          },
+          {
+            "text": "Tên tôi là Minh. Còn bạn?",
+            "meaning": "My name is Minh. And you?",
+            "reading": "",
+            "speak": "Tên tôi là Minh. Còn bạn?"
+          },
+          {
+            "text": "Tôi là Lan. Rất vui được gặp bạn.",
+            "meaning": "I'm Lan. Nice to meet you.",
+            "reading": "",
+            "speak": "Tôi là Lan. Rất vui được gặp bạn."
+          },
+          {
+            "text": "Rất vui được gặp bạn.",
+            "meaning": "Nice to meet you too.",
+            "reading": "",
+            "speak": "Rất vui được gặp bạn."
+          }
+        ]
+      },
+      {
+        "title": "Ordering coffee",
+        "setting": "At a café in Vietnam",
+        "lines": [
+          {
+            "text": "Chị ơi, cho tôi một ly cà phê, làm ơn.",
+            "meaning": "Excuse me, a coffee please.",
+            "reading": "",
+            "speak": "Chị ơi, cho tôi một ly cà phê, làm ơn."
+          },
+          {
+            "text": "Bạn muốn cà phê đá hay cà phê sữa?",
+            "meaning": "Do you want iced coffee or milk coffee?",
+            "reading": "",
+            "speak": "Bạn muốn cà phê đá hay cà phê sữa?"
+          },
+          {
+            "text": "Cà phê sữa, làm ơn.",
+            "meaning": "Milk coffee, please.",
+            "reading": "",
+            "speak": "Cà phê sữa, làm ơn."
+          },
+          {
+            "text": "Được. Hai mươi lăm nghìn ạ.",
+            "meaning": "Alright. That's twenty-five thousand dong.",
+            "reading": "",
+            "speak": "Được. Hai mươi lăm nghìn ạ."
+          },
+          {
+            "text": "Cảm ơn chị!",
+            "meaning": "Thank you!",
+            "reading": "",
+            "speak": "Cảm ơn chị!"
+          }
+        ]
+      },
+      {
+        "title": "Making a plan",
+        "setting": "Small talk with a friend",
+        "lines": [
+          {
+            "text": "Chào bạn! Dạo này bạn khỏe không?",
+            "meaning": "Hi! Have you been well lately?",
+            "reading": "",
+            "speak": "Chào bạn! Dạo này bạn khỏe không?"
+          },
+          {
+            "text": "Tôi khỏe, cảm ơn. Còn bạn?",
+            "meaning": "I'm well, thank you. And you?",
+            "reading": "",
+            "speak": "Tôi khỏe, cảm ơn. Còn bạn?"
+          },
+          {
+            "text": "Cũng ổn. Bạn muốn đi ăn phở không?",
+            "meaning": "I'm alright too. Want to go eat pho?",
+            "reading": "",
+            "speak": "Cũng ổn. Bạn muốn đi ăn phở không?"
+          },
+          {
+            "text": "Được thôi! Đi thôi.",
+            "meaning": "Sure! Let's go.",
+            "reading": "",
+            "speak": "Được thôi! Đi thôi."
+          }
+        ]
+      }
+    ]
+  },
+  "zh": {
+    "speech": "zh-CN",
+    "name": "Chinese",
+    "words": [
+      {
+        "text": "你好",
+        "meaning": "hello",
+        "reading": "nǐ hǎo",
+        "speak": "你好"
+      },
+      {
+        "text": "谢谢",
+        "meaning": "thank you",
+        "reading": "xièxie",
+        "speak": "谢谢"
+      },
+      {
+        "text": "对不起",
+        "meaning": "sorry",
+        "reading": "duìbuqǐ",
+        "speak": "对不起"
+      },
+      {
+        "text": "是",
+        "meaning": "yes / to be",
+        "reading": "shì",
+        "speak": "是"
+      },
+      {
+        "text": "不",
+        "meaning": "no / not",
+        "reading": "bù",
+        "speak": "不"
+      },
+      {
+        "text": "一",
+        "meaning": "one",
+        "reading": "yī",
+        "speak": "一"
+      },
+      {
+        "text": "二",
+        "meaning": "two",
+        "reading": "èr",
+        "speak": "二"
+      },
+      {
+        "text": "三",
+        "meaning": "three",
+        "reading": "sān",
+        "speak": "三"
+      },
+      {
+        "text": "四",
+        "meaning": "four",
+        "reading": "sì",
+        "speak": "四"
+      },
+      {
+        "text": "五",
+        "meaning": "five",
+        "reading": "wǔ",
+        "speak": "五"
+      },
+      {
+        "text": "六",
+        "meaning": "six",
+        "reading": "liù",
+        "speak": "六"
+      },
+      {
+        "text": "七",
+        "meaning": "seven",
+        "reading": "qī",
+        "speak": "七"
+      },
+      {
+        "text": "八",
+        "meaning": "eight",
+        "reading": "bā",
+        "speak": "八"
+      },
+      {
+        "text": "九",
+        "meaning": "nine",
+        "reading": "jiǔ",
+        "speak": "九"
+      },
+      {
+        "text": "十",
+        "meaning": "ten",
+        "reading": "shí",
+        "speak": "十"
+      },
+      {
+        "text": "妈妈",
+        "meaning": "mom",
+        "reading": "māma",
+        "speak": "妈妈"
+      },
+      {
+        "text": "爸爸",
+        "meaning": "dad",
+        "reading": "bàba",
+        "speak": "爸爸"
+      },
+      {
+        "text": "米饭",
+        "meaning": "cooked rice",
+        "reading": "mǐfàn",
+        "speak": "米饭"
+      },
+      {
+        "text": "水",
+        "meaning": "water",
+        "reading": "shuǐ",
+        "speak": "水"
+      },
+      {
+        "text": "茶",
+        "meaning": "tea",
+        "reading": "chá",
+        "speak": "茶"
+      },
+      {
+        "text": "吃",
+        "meaning": "to eat",
+        "reading": "chī",
+        "speak": "吃"
+      },
+      {
+        "text": "喝",
+        "meaning": "to drink",
+        "reading": "hē",
+        "speak": "喝"
+      },
+      {
+        "text": "去",
+        "meaning": "to go",
+        "reading": "qù",
+        "speak": "去"
+      },
+      {
+        "text": "要",
+        "meaning": "to want",
+        "reading": "yào",
+        "speak": "要"
+      }
+    ],
+    "phrases": [
+      {
+        "text": "你好！",
+        "meaning": "Hello!",
+        "reading": "nǐ hǎo",
+        "speak": "你好！"
+      },
+      {
+        "text": "谢谢！",
+        "meaning": "Thank you!",
+        "reading": "xièxie",
+        "speak": "谢谢！"
+      },
+      {
+        "text": "你好吗？",
+        "meaning": "How are you?",
+        "reading": "nǐ hǎo ma?",
+        "speak": "你好吗？"
+      },
+      {
+        "text": "我很好。",
+        "meaning": "I'm very well.",
+        "reading": "wǒ hěn hǎo",
+        "speak": "我很好。"
+      },
+      {
+        "text": "我叫…",
+        "meaning": "My name is…",
+        "reading": "wǒ jiào…",
+        "speak": "我叫…"
+      },
+      {
+        "text": "你叫什么名字？",
+        "meaning": "What's your name?",
+        "reading": "nǐ jiào shénme míngzi?",
+        "speak": "你叫什么名字？"
+      },
+      {
+        "text": "洗手间在哪里？",
+        "meaning": "Where is the bathroom?",
+        "reading": "xǐshǒujiān zài nǎlǐ?",
+        "speak": "洗手间在哪里？"
+      },
+      {
+        "text": "多少钱？",
+        "meaning": "How much is it?",
+        "reading": "duōshao qián?",
+        "speak": "多少钱？"
+      },
+      {
+        "text": "我听不懂。",
+        "meaning": "I don't understand.",
+        "reading": "wǒ tīng bu dǒng",
+        "speak": "我听不懂。"
+      },
+      {
+        "text": "再见！",
+        "meaning": "Goodbye!",
+        "reading": "zàijiàn",
+        "speak": "再见！"
+      }
+    ],
+    "talks": [
+      {
+        "title": "Meeting someone",
+        "setting": "A first introduction",
+        "lines": [
+          {
+            "text": "你好！你叫什么名字？",
+            "meaning": "Hello! What's your name?",
+            "reading": "nǐ hǎo! nǐ jiào shénme míngzi?",
+            "speak": "你好！你叫什么名字？"
+          },
+          {
+            "text": "我叫王明。你呢？",
+            "meaning": "My name is Wang Ming. And you?",
+            "reading": "wǒ jiào Wáng Míng. nǐ ne?",
+            "speak": "我叫王明。你呢？"
+          },
+          {
+            "text": "我叫李娜。很高兴认识你。",
+            "meaning": "My name is Li Na. Nice to meet you.",
+            "reading": "wǒ jiào Lǐ Nà. hěn gāoxìng rènshi nǐ.",
+            "speak": "我叫李娜。很高兴认识你。"
+          },
+          {
+            "text": "我也很高兴认识你。",
+            "meaning": "Nice to meet you too.",
+            "reading": "wǒ yě hěn gāoxìng rènshi nǐ.",
+            "speak": "我也很高兴认识你。"
+          }
+        ]
+      },
+      {
+        "title": "Ordering tea",
+        "setting": "At a small tea shop",
+        "lines": [
+          {
+            "text": "你好，我要一杯茶。",
+            "meaning": "Hello, I'd like a cup of tea.",
+            "reading": "nǐ hǎo, wǒ yào yì bēi chá.",
+            "speak": "你好，我要一杯茶。"
+          },
+          {
+            "text": "好的。还要别的吗？",
+            "meaning": "Okay. Anything else?",
+            "reading": "hǎo de. hái yào biéde ma?",
+            "speak": "好的。还要别的吗？"
+          },
+          {
+            "text": "不要了，谢谢。多少钱？",
+            "meaning": "No, thank you. How much is it?",
+            "reading": "bú yào le, xièxie. duōshao qián?",
+            "speak": "不要了，谢谢。多少钱？"
+          },
+          {
+            "text": "十二块。",
+            "meaning": "Twelve yuan.",
+            "reading": "shí'èr kuài",
+            "speak": "十二块。"
+          },
+          {
+            "text": "谢谢！",
+            "meaning": "Thank you!",
+            "reading": "xièxie",
+            "speak": "谢谢！"
+          }
+        ]
+      }
+    ]
+  },
+  "ja": {
+    "speech": "ja-JP",
+    "name": "Japanese",
+    "words": [
+      {
+        "text": "こんにちは",
+        "meaning": "hello",
+        "reading": "konnichiwa",
+        "speak": "こんにちは"
+      },
+      {
+        "text": "ありがとう",
+        "meaning": "thank you",
+        "reading": "arigatō",
+        "speak": "ありがとう"
+      },
+      {
+        "text": "すみません",
+        "meaning": "excuse me / sorry",
+        "reading": "sumimasen",
+        "speak": "すみません"
+      },
+      {
+        "text": "はい",
+        "meaning": "yes",
+        "reading": "hai",
+        "speak": "はい"
+      },
+      {
+        "text": "いいえ",
+        "meaning": "no",
+        "reading": "iie",
+        "speak": "いいえ"
+      },
+      {
+        "text": "一",
+        "meaning": "one",
+        "reading": "ichi",
+        "speak": "いち"
+      },
+      {
+        "text": "二",
+        "meaning": "two",
+        "reading": "ni",
+        "speak": "に"
+      },
+      {
+        "text": "三",
+        "meaning": "three",
+        "reading": "san",
+        "speak": "さん"
+      },
+      {
+        "text": "四",
+        "meaning": "four",
+        "reading": "yon",
+        "speak": "よん"
+      },
+      {
+        "text": "五",
+        "meaning": "five",
+        "reading": "go",
+        "speak": "ご"
+      },
+      {
+        "text": "六",
+        "meaning": "six",
+        "reading": "roku",
+        "speak": "ろく"
+      },
+      {
+        "text": "七",
+        "meaning": "seven",
+        "reading": "nana",
+        "speak": "なな"
+      },
+      {
+        "text": "八",
+        "meaning": "eight",
+        "reading": "hachi",
+        "speak": "はち"
+      },
+      {
+        "text": "九",
+        "meaning": "nine",
+        "reading": "kyū",
+        "speak": "きゅう"
+      },
+      {
+        "text": "十",
+        "meaning": "ten",
+        "reading": "jū",
+        "speak": "じゅう"
+      },
+      {
+        "text": "お母さん",
+        "meaning": "mother",
+        "reading": "okāsan",
+        "speak": "おかあさん"
+      },
+      {
+        "text": "お父さん",
+        "meaning": "father",
+        "reading": "otōsan",
+        "speak": "おとうさん"
+      },
+      {
+        "text": "ごはん",
+        "meaning": "rice / a meal",
+        "reading": "gohan",
+        "speak": "ごはん"
+      },
+      {
+        "text": "水",
+        "meaning": "water",
+        "reading": "mizu",
+        "speak": "みず"
+      },
+      {
+        "text": "すし",
+        "meaning": "sushi",
+        "reading": "sushi",
+        "speak": "すし"
+      },
+      {
+        "text": "食べる",
+        "meaning": "to eat",
+        "reading": "taberu",
+        "speak": "たべる"
+      },
+      {
+        "text": "飲む",
+        "meaning": "to drink",
+        "reading": "nomu",
+        "speak": "のむ"
+      },
+      {
+        "text": "行く",
+        "meaning": "to go",
+        "reading": "iku",
+        "speak": "いく"
+      },
+      {
+        "text": "欲しい",
+        "meaning": "to want (a thing)",
+        "reading": "hoshii",
+        "speak": "ほしい"
+      }
+    ],
+    "phrases": [
+      {
+        "text": "こんにちは。",
+        "meaning": "Hello.",
+        "reading": "konnichiwa",
+        "speak": "こんにちは。"
+      },
+      {
+        "text": "ありがとうございます。",
+        "meaning": "Thank you.",
+        "reading": "arigatō gozaimasu",
+        "speak": "ありがとうございます。"
+      },
+      {
+        "text": "お元気ですか。",
+        "meaning": "How are you?",
+        "reading": "ogenki desu ka",
+        "speak": "お元気ですか。"
+      },
+      {
+        "text": "元気です。",
+        "meaning": "I'm well.",
+        "reading": "genki desu",
+        "speak": "元気です。"
+      },
+      {
+        "text": "私の名前は…です。",
+        "meaning": "My name is…",
+        "reading": "watashi no namae wa … desu",
+        "speak": "私の名前は…です。"
+      },
+      {
+        "text": "トイレはどこですか。",
+        "meaning": "Where is the bathroom?",
+        "reading": "toire wa doko desu ka",
+        "speak": "トイレはどこですか。"
+      },
+      {
+        "text": "いくらですか。",
+        "meaning": "How much is it?",
+        "reading": "ikura desu ka",
+        "speak": "いくらですか。"
+      },
+      {
+        "text": "わかりません。",
+        "meaning": "I don't understand.",
+        "reading": "wakarimasen",
+        "speak": "わかりません。"
+      },
+      {
+        "text": "すみません。",
+        "meaning": "Excuse me.",
+        "reading": "sumimasen",
+        "speak": "すみません。"
+      },
+      {
+        "text": "さようなら。",
+        "meaning": "Goodbye.",
+        "reading": "sayōnara",
+        "speak": "さようなら。"
+      }
+    ],
+    "talks": [
+      {
+        "title": "Meeting someone",
+        "setting": "A polite first meeting",
+        "lines": [
+          {
+            "text": "こんにちは。お名前は？",
+            "meaning": "Hello. What's your name?",
+            "reading": "konnichiwa. onamae wa?",
+            "speak": "こんにちは。お名前は？"
+          },
+          {
+            "text": "たけしです。あなたは？",
+            "meaning": "I'm Takeshi. And you?",
+            "reading": "Takeshi desu. anata wa?",
+            "speak": "たけしです。あなたは？"
+          },
+          {
+            "text": "ゆいです。はじめまして。",
+            "meaning": "I'm Yui. Nice to meet you.",
+            "reading": "Yui desu. hajimemashite.",
+            "speak": "ゆいです。はじめまして。"
+          },
+          {
+            "text": "はじめまして。どうぞよろしく。",
+            "meaning": "Nice to meet you. Pleased to meet you.",
+            "reading": "hajimemashite. dōzo yoroshiku.",
+            "speak": "はじめまして。どうぞよろしく。"
+          }
+        ]
+      },
+      {
+        "title": "Ordering tea",
+        "setting": "At a café",
+        "lines": [
+          {
+            "text": "すみません、お茶をお願いします。",
+            "meaning": "Excuse me, tea please.",
+            "reading": "sumimasen, ocha o onegai shimasu",
+            "speak": "すみません、お茶をお願いします。"
+          },
+          {
+            "text": "はい。ほかには？",
+            "meaning": "Yes. Anything else?",
+            "reading": "hai. hoka ni wa?",
+            "speak": "はい。ほかには？"
+          },
+          {
+            "text": "それで大丈夫です。いくらですか。",
+            "meaning": "That's all. How much is it?",
+            "reading": "sore de daijōbu desu. ikura desu ka",
+            "speak": "それで大丈夫です。いくらですか。"
+          },
+          {
+            "text": "三百円です。",
+            "meaning": "It's 300 yen.",
+            "reading": "sanbyaku en desu",
+            "speak": "三百円です。"
+          },
+          {
+            "text": "ありがとうございます。",
+            "meaning": "Thank you.",
+            "reading": "arigatō gozaimasu",
+            "speak": "ありがとうございます。"
+          }
+        ]
+      }
+    ]
+  },
+  "es": {
+    "speech": "es-ES",
+    "name": "Spanish",
+    "words": [
+      {
+        "text": "hola",
+        "meaning": "hello",
+        "reading": "",
+        "speak": "hola"
+      },
+      {
+        "text": "gracias",
+        "meaning": "thank you",
+        "reading": "",
+        "speak": "gracias"
+      },
+      {
+        "text": "lo siento",
+        "meaning": "sorry",
+        "reading": "",
+        "speak": "lo siento"
+      },
+      {
+        "text": "sí",
+        "meaning": "yes",
+        "reading": "",
+        "speak": "sí"
+      },
+      {
+        "text": "no",
+        "meaning": "no",
+        "reading": "",
+        "speak": "no"
+      },
+      {
+        "text": "uno",
+        "meaning": "one",
+        "reading": "",
+        "speak": "uno"
+      },
+      {
+        "text": "dos",
+        "meaning": "two",
+        "reading": "",
+        "speak": "dos"
+      },
+      {
+        "text": "tres",
+        "meaning": "three",
+        "reading": "",
+        "speak": "tres"
+      },
+      {
+        "text": "cuatro",
+        "meaning": "four",
+        "reading": "",
+        "speak": "cuatro"
+      },
+      {
+        "text": "cinco",
+        "meaning": "five",
+        "reading": "",
+        "speak": "cinco"
+      },
+      {
+        "text": "seis",
+        "meaning": "six",
+        "reading": "",
+        "speak": "seis"
+      },
+      {
+        "text": "siete",
+        "meaning": "seven",
+        "reading": "",
+        "speak": "siete"
+      },
+      {
+        "text": "ocho",
+        "meaning": "eight",
+        "reading": "",
+        "speak": "ocho"
+      },
+      {
+        "text": "nueve",
+        "meaning": "nine",
+        "reading": "",
+        "speak": "nueve"
+      },
+      {
+        "text": "diez",
+        "meaning": "ten",
+        "reading": "",
+        "speak": "diez"
+      },
+      {
+        "text": "madre",
+        "meaning": "mother",
+        "reading": "",
+        "speak": "madre"
+      },
+      {
+        "text": "padre",
+        "meaning": "father",
+        "reading": "",
+        "speak": "padre"
+      },
+      {
+        "text": "arroz",
+        "meaning": "rice",
+        "reading": "",
+        "speak": "arroz"
+      },
+      {
+        "text": "agua",
+        "meaning": "water",
+        "reading": "",
+        "speak": "agua"
+      },
+      {
+        "text": "pan",
+        "meaning": "bread",
+        "reading": "",
+        "speak": "pan"
+      },
+      {
+        "text": "comer",
+        "meaning": "to eat",
+        "reading": "",
+        "speak": "comer"
+      },
+      {
+        "text": "beber",
+        "meaning": "to drink",
+        "reading": "",
+        "speak": "beber"
+      },
+      {
+        "text": "ir",
+        "meaning": "to go",
+        "reading": "",
+        "speak": "ir"
+      },
+      {
+        "text": "querer",
+        "meaning": "to want",
+        "reading": "",
+        "speak": "querer"
+      }
+    ],
+    "phrases": [
+      {
+        "text": "¡Hola!",
+        "meaning": "Hello!",
+        "reading": "",
+        "speak": "¡Hola!"
+      },
+      {
+        "text": "Gracias.",
+        "meaning": "Thank you.",
+        "reading": "",
+        "speak": "Gracias."
+      },
+      {
+        "text": "¿Cómo estás?",
+        "meaning": "How are you?",
+        "reading": "",
+        "speak": "¿Cómo estás?"
+      },
+      {
+        "text": "Estoy bien, gracias.",
+        "meaning": "I'm fine, thank you.",
+        "reading": "",
+        "speak": "Estoy bien, gracias."
+      },
+      {
+        "text": "Me llamo…",
+        "meaning": "My name is…",
+        "reading": "",
+        "speak": "Me llamo…"
+      },
+      {
+        "text": "¿Cómo te llamas?",
+        "meaning": "What's your name?",
+        "reading": "",
+        "speak": "¿Cómo te llamas?"
+      },
+      {
+        "text": "¿Dónde está el baño?",
+        "meaning": "Where is the bathroom?",
+        "reading": "",
+        "speak": "¿Dónde está el baño?"
+      },
+      {
+        "text": "¿Cuánto cuesta?",
+        "meaning": "How much is it?",
+        "reading": "",
+        "speak": "¿Cuánto cuesta?"
+      },
+      {
+        "text": "No entiendo.",
+        "meaning": "I don't understand.",
+        "reading": "",
+        "speak": "No entiendo."
+      },
+      {
+        "text": "Adiós.",
+        "meaning": "Goodbye.",
+        "reading": "",
+        "speak": "Adiós."
+      }
+    ],
+    "talks": [
+      {
+        "title": "Meeting someone",
+        "setting": "A friendly introduction",
+        "lines": [
+          {
+            "text": "¡Hola! ¿Cómo te llamas?",
+            "meaning": "Hi! What's your name?",
+            "reading": "",
+            "speak": "¡Hola! ¿Cómo te llamas?"
+          },
+          {
+            "text": "Me llamo Ana. ¿Y tú?",
+            "meaning": "My name is Ana. And you?",
+            "reading": "",
+            "speak": "Me llamo Ana. ¿Y tú?"
+          },
+          {
+            "text": "Me llamo Luis. Encantado.",
+            "meaning": "My name is Luis. Nice to meet you.",
+            "reading": "",
+            "speak": "Me llamo Luis. Encantado."
+          },
+          {
+            "text": "Encantada.",
+            "meaning": "Nice to meet you too.",
+            "reading": "",
+            "speak": "Encantada."
+          }
+        ]
+      },
+      {
+        "title": "Ordering coffee",
+        "setting": "At a café",
+        "lines": [
+          {
+            "text": "Hola, un café, por favor.",
+            "meaning": "Hello, a coffee please.",
+            "reading": "",
+            "speak": "Hola, un café, por favor."
+          },
+          {
+            "text": "¿Solo o con leche?",
+            "meaning": "Black, or with milk?",
+            "reading": "",
+            "speak": "¿Solo o con leche?"
+          },
+          {
+            "text": "Con leche, por favor. ¿Cuánto cuesta?",
+            "meaning": "With milk, please. How much is it?",
+            "reading": "",
+            "speak": "Con leche, por favor. ¿Cuánto cuesta?"
+          },
+          {
+            "text": "Dos euros.",
+            "meaning": "Two euros.",
+            "reading": "",
+            "speak": "Dos euros."
+          },
+          {
+            "text": "Gracias.",
+            "meaning": "Thank you.",
+            "reading": "",
+            "speak": "Gracias."
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "speech": "en-US",
+    "name": "English",
+    "words": [
+      {
+        "text": "hello",
+        "meaning": "xin chào",
+        "reading": "",
+        "speak": "hello"
+      },
+      {
+        "text": "thank you",
+        "meaning": "cảm ơn",
+        "reading": "",
+        "speak": "thank you"
+      },
+      {
+        "text": "sorry",
+        "meaning": "xin lỗi",
+        "reading": "",
+        "speak": "sorry"
+      },
+      {
+        "text": "yes",
+        "meaning": "vâng",
+        "reading": "",
+        "speak": "yes"
+      },
+      {
+        "text": "no",
+        "meaning": "không",
+        "reading": "",
+        "speak": "no"
+      },
+      {
+        "text": "one",
+        "meaning": "một",
+        "reading": "",
+        "speak": "one"
+      },
+      {
+        "text": "two",
+        "meaning": "hai",
+        "reading": "",
+        "speak": "two"
+      },
+      {
+        "text": "three",
+        "meaning": "ba",
+        "reading": "",
+        "speak": "three"
+      },
+      {
+        "text": "four",
+        "meaning": "bốn",
+        "reading": "",
+        "speak": "four"
+      },
+      {
+        "text": "five",
+        "meaning": "năm",
+        "reading": "",
+        "speak": "five"
+      },
+      {
+        "text": "six",
+        "meaning": "sáu",
+        "reading": "",
+        "speak": "six"
+      },
+      {
+        "text": "seven",
+        "meaning": "bảy",
+        "reading": "",
+        "speak": "seven"
+      },
+      {
+        "text": "eight",
+        "meaning": "tám",
+        "reading": "",
+        "speak": "eight"
+      },
+      {
+        "text": "nine",
+        "meaning": "chín",
+        "reading": "",
+        "speak": "nine"
+      },
+      {
+        "text": "ten",
+        "meaning": "mười",
+        "reading": "",
+        "speak": "ten"
+      },
+      {
+        "text": "mother",
+        "meaning": "mẹ",
+        "reading": "",
+        "speak": "mother"
+      },
+      {
+        "text": "father",
+        "meaning": "bố",
+        "reading": "",
+        "speak": "father"
+      },
+      {
+        "text": "rice",
+        "meaning": "cơm",
+        "reading": "",
+        "speak": "rice"
+      },
+      {
+        "text": "water",
+        "meaning": "nước",
+        "reading": "",
+        "speak": "water"
+      },
+      {
+        "text": "bread",
+        "meaning": "bánh mì",
+        "reading": "",
+        "speak": "bread"
+      },
+      {
+        "text": "eat",
+        "meaning": "ăn",
+        "reading": "",
+        "speak": "eat"
+      },
+      {
+        "text": "drink",
+        "meaning": "uống",
+        "reading": "",
+        "speak": "drink"
+      },
+      {
+        "text": "go",
+        "meaning": "đi",
+        "reading": "",
+        "speak": "go"
+      },
+      {
+        "text": "want",
+        "meaning": "muốn",
+        "reading": "",
+        "speak": "want"
+      }
+    ],
+    "phrases": [
+      {
+        "text": "Hello!",
+        "meaning": "Xin chào!",
+        "reading": "",
+        "speak": "Hello!"
+      },
+      {
+        "text": "Thank you.",
+        "meaning": "Cảm ơn.",
+        "reading": "",
+        "speak": "Thank you."
+      },
+      {
+        "text": "How are you?",
+        "meaning": "Bạn khỏe không?",
+        "reading": "",
+        "speak": "How are you?"
+      },
+      {
+        "text": "I'm fine, thank you.",
+        "meaning": "Tôi khỏe, cảm ơn.",
+        "reading": "",
+        "speak": "I'm fine, thank you."
+      },
+      {
+        "text": "My name is…",
+        "meaning": "Tên tôi là…",
+        "reading": "",
+        "speak": "My name is…"
+      },
+      {
+        "text": "What's your name?",
+        "meaning": "Bạn tên gì?",
+        "reading": "",
+        "speak": "What's your name?"
+      },
+      {
+        "text": "Where is the bathroom?",
+        "meaning": "Nhà vệ sinh ở đâu?",
+        "reading": "",
+        "speak": "Where is the bathroom?"
+      },
+      {
+        "text": "How much is it?",
+        "meaning": "Bao nhiêu tiền?",
+        "reading": "",
+        "speak": "How much is it?"
+      },
+      {
+        "text": "I don't understand.",
+        "meaning": "Tôi không hiểu.",
+        "reading": "",
+        "speak": "I don't understand."
+      },
+      {
+        "text": "Goodbye!",
+        "meaning": "Tạm biệt!",
+        "reading": "",
+        "speak": "Goodbye!"
+      }
+    ],
+    "talks": [
+      {
+        "title": "Meeting someone",
+        "setting": "A first introduction (English, with Vietnamese glosses)",
+        "lines": [
+          {
+            "text": "Hi! What's your name?",
+            "meaning": "Xin chào! Bạn tên gì?",
+            "reading": "",
+            "speak": "Hi! What's your name?"
+          },
+          {
+            "text": "My name is Minh. And you?",
+            "meaning": "Tên tôi là Minh. Còn bạn?",
+            "reading": "",
+            "speak": "My name is Minh. And you?"
+          },
+          {
+            "text": "I'm Lan. Nice to meet you.",
+            "meaning": "Tôi là Lan. Rất vui được gặp bạn.",
+            "reading": "",
+            "speak": "I'm Lan. Nice to meet you."
+          },
+          {
+            "text": "Nice to meet you too.",
+            "meaning": "Rất vui được gặp bạn.",
+            "reading": "",
+            "speak": "Nice to meet you too."
+          }
+        ]
+      },
+      {
+        "title": "Ordering coffee",
+        "setting": "At a café",
+        "lines": [
+          {
+            "text": "Hi, a coffee please.",
+            "meaning": "Xin chào, cho tôi một ly cà phê, làm ơn.",
+            "reading": "",
+            "speak": "Hi, a coffee please."
+          },
+          {
+            "text": "Black, or with milk?",
+            "meaning": "Đen hay có sữa?",
+            "reading": "",
+            "speak": "Black, or with milk?"
+          },
+          {
+            "text": "With milk, please. How much is it?",
+            "meaning": "Có sữa, làm ơn. Bao nhiêu tiền?",
+            "reading": "",
+            "speak": "With milk, please. How much is it?"
+          },
+          {
+            "text": "Three dollars.",
+            "meaning": "Ba đô.",
+            "reading": "",
+            "speak": "Three dollars."
+          },
+          {
+            "text": "Thank you!",
+            "meaning": "Cảm ơn!",
+            "reading": "",
+            "speak": "Thank you!"
+          }
+        ]
+      }
+    ]
+  }
+}

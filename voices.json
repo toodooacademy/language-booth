@@ -1,0 +1,642 @@
+{
+  "lesson": {
+    "he": {
+      "vi": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "zh": {
+        "voice": "zh-CN-YunxiNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "ja": {
+        "voice": "ja-JP-KeitaNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "es": {
+        "voice": "es-ES-AlvaroNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "en": {
+        "voice": "en-US-AndrewNeural",
+        "rate": "+0%",
+        "pitch": "+2Hz"
+      }
+    },
+    "she": {
+      "vi": {
+        "voice": "vi-VN-HoaiMyNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "zh": {
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "ja": {
+        "voice": "ja-JP-NanamiNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "es": {
+        "voice": "es-ES-ElviraNeural",
+        "rate": "+0%",
+        "pitch": "+0Hz"
+      },
+      "en": {
+        "voice": "en-US-AvaNeural",
+        "rate": "+0%",
+        "pitch": "+2Hz"
+      }
+    }
+  },
+  "levelProsody": {
+    "correct": {
+      "rate": "-5%",
+      "pitch": "+0Hz"
+    },
+    "reset": {
+      "rate": "+0%",
+      "pitch": "+0Hz"
+    },
+    "start": {
+      "rate": "+0%",
+      "pitch": "+0Hz"
+    },
+    "1": {
+      "rate": "+0%",
+      "pitch": "+2Hz"
+    },
+    "2": {
+      "rate": "+8%",
+      "pitch": "+8Hz"
+    },
+    "3": {
+      "rate": "+15%",
+      "pitch": "+16Hz"
+    },
+    "4": {
+      "rate": "+22%",
+      "pitch": "+25Hz"
+    }
+  },
+  "characters": {
+    "real-m-01": {
+      "id": "real-m-01",
+      "name": "Thầy Bao",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-US-AndrewNeural",
+        "rate": "+8%",
+        "pitch": "+8Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he",
+      "appId": "thay_bao"
+    },
+    "real-f-01": {
+      "id": "real-f-01",
+      "name": "Cô Bao",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-US-AvaNeural",
+        "rate": "+10%",
+        "pitch": "+10Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she",
+      "appId": "co_bao"
+    },
+    "anime-m-01": {
+      "id": "anime-m-01",
+      "name": "Kenji Spark",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-BrianNeural",
+        "rate": "-4%",
+        "pitch": "+8Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-02": {
+      "id": "anime-m-02",
+      "name": "Minh Comet",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-ChristopherNeural",
+        "rate": "+0%",
+        "pitch": "+6Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-03": {
+      "id": "anime-m-03",
+      "name": "Rio Flash",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-EricNeural",
+        "rate": "+4%",
+        "pitch": "+2Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-04": {
+      "id": "anime-m-04",
+      "name": "Hao Bubble",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-GuyNeural",
+        "rate": "+8%",
+        "pitch": "+4Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-05": {
+      "id": "anime-m-05",
+      "name": "Theo Noodle",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-RogerNeural",
+        "rate": "+12%",
+        "pitch": "-2Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-06": {
+      "id": "anime-m-06",
+      "name": "Jae Volt",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-SteffanNeural",
+        "rate": "-6%",
+        "pitch": "+14Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-07": {
+      "id": "anime-m-07",
+      "name": "Luca Puff",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-AndrewMultilingualNeural",
+        "rate": "+6%",
+        "pitch": "+0Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-08": {
+      "id": "anime-m-08",
+      "name": "Hiro Pixel",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-BrianMultilingualNeural",
+        "rate": "+10%",
+        "pitch": "+12Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-09": {
+      "id": "anime-m-09",
+      "name": "Sam Boba",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-GB-RyanNeural",
+        "rate": "-2%",
+        "pitch": "+10Hz",
+        "lang": "en-GB"
+      },
+      "lessonGender": "he"
+    },
+    "anime-m-10": {
+      "id": "anime-m-10",
+      "name": "Omar Zest",
+      "gender": "he",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-GB-ThomasNeural",
+        "rate": "-8%",
+        "pitch": "-4Hz",
+        "lang": "en-GB"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-02": {
+      "id": "real-m-02",
+      "name": "Diego Sol",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "rate": "-4%",
+        "pitch": "+8Hz",
+        "lang": "en-AU"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-03": {
+      "id": "real-m-03",
+      "name": "Ken Nakamura",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-CA-LiamNeural",
+        "rate": "+0%",
+        "pitch": "+6Hz",
+        "lang": "en-CA"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-04": {
+      "id": "real-m-04",
+      "name": "Wei Chen",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-IE-ConnorNeural",
+        "rate": "+4%",
+        "pitch": "+2Hz",
+        "lang": "en-IE"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-05": {
+      "id": "real-m-05",
+      "name": "Marcus Hale",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-IN-PrabhatNeural",
+        "rate": "+8%",
+        "pitch": "+4Hz",
+        "lang": "en-IN"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-06": {
+      "id": "real-m-06",
+      "name": "Alejandro Ruiz",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-SG-WayneNeural",
+        "rate": "+12%",
+        "pitch": "-2Hz",
+        "lang": "en-SG"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-07": {
+      "id": "real-m-07",
+      "name": "Jin Park",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-NZ-MitchellNeural",
+        "rate": "-6%",
+        "pitch": "+14Hz",
+        "lang": "en-NZ"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-08": {
+      "id": "real-m-08",
+      "name": "Eli Santos",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-PH-JamesNeural",
+        "rate": "+6%",
+        "pitch": "+0Hz",
+        "lang": "en-PH"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-09": {
+      "id": "real-m-09",
+      "name": "Noah Kim",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-ZA-LukeNeural",
+        "rate": "+10%",
+        "pitch": "+12Hz",
+        "lang": "en-ZA"
+      },
+      "lessonGender": "he"
+    },
+    "real-m-10": {
+      "id": "real-m-10",
+      "name": "Rafael Mendes",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-HK-SamNeural",
+        "rate": "-2%",
+        "pitch": "+10Hz",
+        "lang": "en-HK"
+      },
+      "lessonGender": "he"
+    },
+    "anime-f-01": {
+      "id": "anime-f-01",
+      "name": "Linh Petal",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-EmmaNeural",
+        "rate": "+8%",
+        "pitch": "+8Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-02": {
+      "id": "anime-f-02",
+      "name": "Yuki Frost",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-AriaNeural",
+        "rate": "+12%",
+        "pitch": "-2Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-03": {
+      "id": "anime-f-03",
+      "name": "Mei Bun",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-JennyNeural",
+        "rate": "-6%",
+        "pitch": "+10Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-04": {
+      "id": "anime-f-04",
+      "name": "Sofia Fizz",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-MichelleNeural",
+        "rate": "+6%",
+        "pitch": "+2Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-05": {
+      "id": "anime-f-05",
+      "name": "Aya Comet",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-AvaMultilingualNeural",
+        "rate": "+10%",
+        "pitch": "+0Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-06": {
+      "id": "anime-f-06",
+      "name": "Hana Beam",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-US-EmmaMultilingualNeural",
+        "rate": "-2%",
+        "pitch": "+8Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-07": {
+      "id": "anime-f-07",
+      "name": "Camila Pop",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-GB-LibbyNeural",
+        "rate": "-8%",
+        "pitch": "-2Hz",
+        "lang": "en-GB"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-08": {
+      "id": "anime-f-08",
+      "name": "Trang Moon",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-GB-SoniaNeural",
+        "rate": "-4%",
+        "pitch": "+10Hz",
+        "lang": "en-GB"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-09": {
+      "id": "anime-f-09",
+      "name": "Nora Flick",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-AU-NatashaNeural",
+        "rate": "+0%",
+        "pitch": "+2Hz",
+        "lang": "en-AU"
+      },
+      "lessonGender": "she"
+    },
+    "anime-f-10": {
+      "id": "anime-f-10",
+      "name": "Priya Glow",
+      "gender": "she",
+      "style": "anime",
+      "teacher": {
+        "voice": "en-CA-ClaraNeural",
+        "rate": "+4%",
+        "pitch": "+0Hz",
+        "lang": "en-CA"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-02": {
+      "id": "real-f-02",
+      "name": "Elena Vasquez",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-IE-EmilyNeural",
+        "rate": "+8%",
+        "pitch": "+8Hz",
+        "lang": "en-IE"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-03": {
+      "id": "real-f-03",
+      "name": "Aiko Mori",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-IN-NeerjaNeural",
+        "rate": "+12%",
+        "pitch": "-2Hz",
+        "lang": "en-IN"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-04": {
+      "id": "real-f-04",
+      "name": "Lan Pham",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-SG-LunaNeural",
+        "rate": "-6%",
+        "pitch": "+10Hz",
+        "lang": "en-SG"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-05": {
+      "id": "real-f-05",
+      "name": "Maya Brooks",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-NZ-MollyNeural",
+        "rate": "+6%",
+        "pitch": "+2Hz",
+        "lang": "en-NZ"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-06": {
+      "id": "real-f-06",
+      "name": "Sofia Alvarez",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-PH-RosaNeural",
+        "rate": "+10%",
+        "pitch": "+0Hz",
+        "lang": "en-PH"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-07": {
+      "id": "real-f-07",
+      "name": "Hana Lee",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-ZA-LeahNeural",
+        "rate": "-2%",
+        "pitch": "+8Hz",
+        "lang": "en-ZA"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-08": {
+      "id": "real-f-08",
+      "name": "Mei Lin",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-HK-YanNeural",
+        "rate": "-8%",
+        "pitch": "-2Hz",
+        "lang": "en-HK"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-09": {
+      "id": "real-f-09",
+      "name": "Priya Shah",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-NG-EzinneNeural",
+        "rate": "-4%",
+        "pitch": "+10Hz",
+        "lang": "en-NG"
+      },
+      "lessonGender": "she"
+    },
+    "real-f-10": {
+      "id": "real-f-10",
+      "name": "Amara Diallo",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-KE-AsiliaNeural",
+        "rate": "+0%",
+        "pitch": "+2Hz",
+        "lang": "en-KE"
+      },
+      "lessonGender": "she"
+    },
+    "thay_bao": {
+      "id": "thay_bao",
+      "name": "Thầy Bao",
+      "gender": "he",
+      "style": "real",
+      "teacher": {
+        "voice": "en-US-AndrewNeural",
+        "rate": "+8%",
+        "pitch": "+8Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "he",
+      "rosterId": "real-m-01",
+      "aliasOf": "real-m-01"
+    },
+    "co_bao": {
+      "id": "co_bao",
+      "name": "Cô Bao",
+      "gender": "she",
+      "style": "real",
+      "teacher": {
+        "voice": "en-US-AvaNeural",
+        "rate": "+10%",
+        "pitch": "+10Hz",
+        "lang": "en-US"
+      },
+      "lessonGender": "she",
+      "rosterId": "real-f-01",
+      "aliasOf": "real-f-01"
+    }
+  }
+}
